@@ -1,0 +1,49 @@
+FROM base/archlinux as python-archlinux
+WORKDIR /home/user/
+
+# INSTALL SOME LIBS FOR WOSEDON
+RUN pacman -Syu && \
+pacman -S --needed --noconfirm python2 python2-setuptools python2-pip sudo cmake make gcc patch fakeroot pkgconfig git && \
+sed -i -E "s/#MAKEFLAGS=\"-j2\"/MAKEFLAGS=\"-j7\"/g" /etc/makepkg.conf 
+
+FROM python-archlinux as loki-build
+
+RUN useradd builduser -m && \
+passwd -d builduser && \
+printf 'builduser ALL=(ALL) ALL\n' | tee -a /etc/sudoers && \
+sudo -u builduser bash -c 'cd ~ && git clone https://aur.archlinux.org/loki-lib.git loki-lib && cd loki-lib && makepkg -si --noconfirm'
+
+FROM loki-build as wosedon-build
+
+RUN pacman -S  --needed --noconfirm boost libsigc++ glibmm libxml++2.6 swig && \ 
+git clone http://nlp.pwr.wroc.pl/corpus2.git
+
+ADD ./wosedon /home/user/wosedon
+
+ADD ./build-wosedon.sh /home/user/build-wosedon.sh
+RUN chmod 766 ./build-wosedon.sh && ./build-wosedon.sh
+
+RUN cd ./corpus2 &&\
+mkdir build &&\
+cd build &&\
+cmake .. -DCMAKE_CXX_STANDARD=11 &&\
+sed -i -E "s/ifstream/std::ifstream/g" /home/user/corpus2/learn_to_guess/main.cpp &&\
+make -j7 &&\ 
+sudo make install &&\
+sudo ldconfig 
+RUN export LD_LIBRARY_PATH=/usr/local/lib:$LD_LIBRARY_PATH
+
+FROM wosedon-build as graph-tool-build
+
+RUN sudo -u builduser bash -c 'cd ~ && git clone https://aur.archlinux.org/python2-graph-tool.git graph-tool && cd graph-tool && makepkg -si --noconfirm'
+
+FROM graph-tool-build as wosedon-run
+
+RUN pip2 install matplotlib
+RUN pacman -Syu --needed --noconfirm && \
+pacman -S --needed --noconfirm tk gtk3 python2-gobject
+
+ENV LD_LIBRARY_PATH="/usr/local/lib:${LD_LIBRARY_PATH}"
+ENV PYTHONPATH="${PYTHONPATH}:/usr/local/lib/python2.7/site-packages/"
+
+
