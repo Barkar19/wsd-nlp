@@ -35,7 +35,7 @@ RUN export LD_LIBRARY_PATH=/usr/local/lib:$LD_LIBRARY_PATH
 
 FROM wosedon-build as graph-tool-build
 
-RUN sudo -u builduser bash -c 'cd ~ && git clone https://aur.archlinux.org/python2-graph-tool.git graph-tool && cd graph-tool && makepkg -si --noconfirm'
+RUN yaourt -S python2-graph-tool
 
 FROM graph-tool-build as wosedon-run
 
