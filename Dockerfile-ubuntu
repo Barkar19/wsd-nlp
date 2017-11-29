@@ -30,3 +30,10 @@ RUN chmod 766 ./build-wosedon.sh && ./build-wosedon.sh
 
 ENV LD_LIBRARY_PATH="/usr/local/lib:${LD_LIBRARY_PATH}"
 ENV PYTHONPATH="${PYTHONPATH}:/usr/local/lib/python2.7/site-packages/"
+
+FROM matplotlib-ubuntu as wosedon-config-update
+
+# RUN rm /home/user/wosedon/wosedon/cfg/wosedon.ini
+
+ADD ./wosedon.ini /home/user/wosedon/wosedon/cfg/wosedon.ini
+ADD ./resources /home/user/wosedon/wosedon/resources
