@@ -35,6 +35,4 @@ FROM matplotlib-ubuntu as wosedon-config-update
 
 # RUN rm /home/user/wosedon/wosedon/cfg/wosedon.ini
 
-ADD ./wosedon.ini /home/user/wosedon/wosedon/cfg/wosedon.ini
-ADD ./resources /home/user/wosedon/wosedon/resources
 ADD ./wcrft2.py /home/user/wcrft2.py
