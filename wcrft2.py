@@ -1,5 +1,4 @@
 #!/usr/bin/python2
-
 user="mojadresemail"
 lpmn="any2txt|wcrft2"
 import json
