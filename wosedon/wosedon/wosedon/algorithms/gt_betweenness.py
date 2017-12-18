@@ -102,17 +102,15 @@ class GTBetweenness(WSDAlgorithmInterface):
     
     array = ranking.get_array()
     max_array = np.amax(array) * 0.8
-    for x in np.nditer(array, op_flags=['readwrite']):
-      if x < max_array:
-        x[...] = False
-      else:
-        x[...] = True
+    bool_array = array > max_array
 
-    ranking.a = array
-
-    print "Number vertices: " + graph.use_graph_tool().num_vertices + "/n"
-    filtered_graph = graph.use_graph_tool().set_vertex_filter(ranking)
-    print "Number vertices: " + filtered_graph.num_vertices + "/n"
+    #array.astype(bool)
+    ranking.a = bool_array
+    print type(bool_array[0])
+    print bool_array
+    print "Number vertices: " + str(graph.use_graph_tool().num_vertices()) + "\n"
+    filtered_graph = graph.use_graph_tool().set_vertex_filter(graph.use_graph_tool().new_vertex_property("bool", bool_array))
+    print "Number vertices: " + str(filtered_graph.num_vertices()) + "\n"
     (vertex_betweenness, edge_betweenness) = betweenness(filtered_graph, 
                                    #pers = pers_v,                       
                                    #max_iter = 2 * options.max_iter(),

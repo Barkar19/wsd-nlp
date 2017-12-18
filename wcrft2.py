@@ -1,3 +1,5 @@
+#!/usr/bin/python2
+
 user="mojadresemail"
 lpmn="any2txt|wcrft2"
 import json
@@ -33,7 +35,7 @@ def main():
         print("Usage: wcrft2.py input_dir output_dir")
         return
     
-    ini_path=sys.argv[1]
+    in_path=sys.argv[1]
     out_path=sys.argv[2]
 
     global_time = time.time()
