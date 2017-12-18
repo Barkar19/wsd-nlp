@@ -17,6 +17,8 @@
 # 
 #
 
+import numpy as np
+from graph_tool.centrality import pagerank
 from graph_tool.centrality import betweenness
 from wosedon.algorithms.wsdalgorithminterface import WSDAlgorithmInterface
 from wosedon.ranking.wsd_ranking import WSDRanking
@@ -89,8 +91,30 @@ class GTBetweenness(WSDAlgorithmInterface):
     @param norm=True   Whether or not the betweenness values should be normalized.
 
     """
-    (vertex_betweenness, edge_betweenness) = betweenness(graph.use_graph_tool(), 
-                                   #pers = pers_v, 
+    print("************************************************************************************")
+    pers_v = self.prepare_v(wsd_context, graph)
+    (ranking, ret_iter) = pagerank(graph.use_graph_tool(), 
+                                   pers = pers_v, 
+                                   max_iter = 2 * options.max_iter(),
+                                   damping = options.damping_factor(),
+                                   ret_iter = True,
+                                   weight = graph.use_graph_tool().ep["weight"])
+    
+    array = ranking.get_array()
+    max_array = np.amax(array) * 0.8
+    for x in np.nditer(array, op_flags=['readwrite']):
+      if x < max_array:
+        x[...] = False
+      else:
+        x[...] = True
+
+    ranking.a = array
+
+    print "Number vertices: " + graph.use_graph_tool().num_vertices + "/n"
+    filtered_graph = graph.use_graph_tool().set_vertex_filter(ranking)
+    print "Number vertices: " + filtered_graph.num_vertices + "/n"
+    (vertex_betweenness, edge_betweenness) = betweenness(filtered_graph, 
+                                   #pers = pers_v,                       
                                    #max_iter = 2 * options.max_iter(),
                                    #damping = options.damping_factor(),
                                    #ret_iter = True,
