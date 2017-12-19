@@ -40,3 +40,5 @@ ADD ./resources /home/user/wosedon/wosedon/resources
 ADD ./wcrft2.py /home/user/wcrft2.py
 RUN chmod +x /home/user/wcrft2.py
 ADD ./zdanie.ccl /home/user/zdanie.ccl
+ADD ./runWosedon.sh /home/user/runWosedon.sh
+RUN chmod +x /home/user/runWosedon.sh
