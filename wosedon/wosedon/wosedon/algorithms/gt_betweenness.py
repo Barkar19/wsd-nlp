@@ -92,7 +92,10 @@ class GTBetweenness(WSDAlgorithmInterface):
 
     """
     print("************************************************************************************")
+    
+
     gtGraph = graph.use_graph_tool()
+    print("Graph size: " + str(gtGraph.num_vertices))
     pers_v = self.prepare_v(wsd_context, graph)
     (ranking, ret_iter) = pagerank(gtGraph, 
                                    pers = pers_v, 
