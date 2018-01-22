@@ -83,6 +83,8 @@ class SynsetsWNDMerger(MergerInterface):
     @return dictionary, where key is a WND concept and value is a set of synsets 
             identifiers
     """
+    print("Mapping wnd file")
+    print(self.resources().mapping_wnd_file())
     if not os.path.exists(self.resources().mapping_wnd_file()):
       raise IOError(
         "%s file not found!" % \
