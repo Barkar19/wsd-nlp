@@ -92,37 +92,49 @@ class GTBetweenness(WSDAlgorithmInterface):
 
     """
     print("************************************************************************************")
+    
+
+    gtGraph = graph.use_graph_tool()
+    print("Graph size: " + str(gtGraph.num_vertices))
     pers_v = self.prepare_v(wsd_context, graph)
-    (ranking, ret_iter) = pagerank(graph.use_graph_tool(), 
+    (ranking, ret_iter) = pagerank(gtGraph, 
                                    pers = pers_v, 
                                    max_iter = 2 * options.max_iter(),
                                    damping = options.damping_factor(),
                                    ret_iter = True,
-                                   weight = graph.use_graph_tool().ep["weight"])
+                                   weight = gtGraph.ep["weight"])
     
     array = ranking.get_array()
-    max_array = np.amax(array) * 0.8
-    for x in np.nditer(array, op_flags=['readwrite']):
-      if x < max_array:
-        x[...] = False
-      else:
-        x[...] = True
+    max_array = np.percentile(array, 90)
+    bool_array = array >= max_array
 
-    ranking.a = array
-
-    print "Number vertices: " + graph.use_graph_tool().num_vertices + "/n"
-    filtered_graph = graph.use_graph_tool().set_vertex_filter(ranking)
-    print "Number vertices: " + filtered_graph.num_vertices + "/n"
-    (vertex_betweenness, edge_betweenness) = betweenness(filtered_graph, 
+    #array.astype(bool)
+    ranking.a = bool_array
+    print type(bool_array[0])
+    print bool_array
+    print "Number vertices: " + str(gtGraph.num_vertices()) + "\n"
+    propMap = gtGraph.new_vertex_property("bool", bool_array)
+    print str(propMap)
+    gtGraph.set_vertex_filter(propMap)
+    print "type of gtGraph: " + str(type(gtGraph))
+    print "Number vertices: " + str(gtGraph.num_vertices()) + "\n"
+    (vertex_betweenness, edge_betweenness) = betweenness(gtGraph, 
                                    #pers = pers_v,                       
                                    #max_iter = 2 * options.max_iter(),
                                    #damping = options.damping_factor(),
                                    #ret_iter = True,
-                                   weight = graph.use_graph_tool().ep["weight"])
-    
+                                   weight = gtGraph.ep["weight"])
+    print "vertex_betweenness size: " + str(vertex_betweenness.get_array().size)
+    for d in vertex_betweenness.get_array():
+      if d != 0.0 :
+        print d
+
     vertex_betweenness = graph.ungraph_tool(vertex_betweenness)
-    edge_betweenness = graph.ungraph_tool(edge_betweenness)
-    
+    #edge_betweenness = graph.ungraph_tool(edge_betweenness)
+    print "vertex_betweenness after ungraph: " + str(type(vertex_betweenness)) + " " + str(len(vertex_betweenness)) 
+
+
+
     for (lemma, pos_str) in lemma_on_only_synset_node_dict.iterkeys():
       wsd_rank.set_ranking_for_lemma(lemma, pos_str, vertex_betweenness)
 
