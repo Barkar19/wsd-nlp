@@ -1,0 +1,175 @@
+import("./resources/dict-noun-domain.lex", "noun_domain")
+import("./resources/dict-syn-mpar.lex", "noun_synmpar_domain")
+import("./resources/dict-gerundium.lex", "ger_base")
+import("./resources/dict-agens.lex", "agens")
+import("./resources/dict-rola_adj_v.lex", "rola_Adj_V")
+import("./resources/dict-habitualnosc.lex", "habit")
+import("./resources/dict-potencjalnosc.lex", "pot")
+import("./resources/dict-syn_mpar_przym.lex", "Adj_relacyjne")
+import("./resources/dict-przymiotniki.lex", "Adj_w_plWN_jest")
+import("./resources/dict-kolejny.lex", "kolejny")
+import("./resources/dict-charakteryzowanie.lex", "char")
+import("./resources/dict-derywacyjnosc.lex", "deriv")
+import("./resources/dict-przym_dziedzina_rel.lex", "dziedzina_rel")
+import("./resources/dict-frame_acc.lex", "ramy_acc")
+import("./resources/val-dic/dict-acc-sie.lex", "acc-sie")
+// słownik haseł wziętych z Dębowskiego = lematów czasowników:
+import("./resources/dict-rammy.lex", "ramy_debowski")
+
+// ***************************************************************
+// *********************** ppas_thus_ob ***************************
+// ***************** mod1: ustalenie kierunku relacji ******************
+// ***************************************************************
+// ********************** zasłychany profesor *********************
+// ********************* Quality = high **********************
+@b:"OBIEKT-PPAS" (
+and(
+			inter(class[0], ppas),
+			// sprawdza, czy lemat jest w slowniku najczestszych ram z acc lub czy jest spoza Debowskiego		
+			or(
+				equal(lex(base[0], "ramy_acc"), ["1"]),
+				not(equal(lex(base[0], "ramy_debowski"), ["1"]))
+			),
+		
+			inter(class[1], {subst,depr,ger}),
+			inter(cas[0], cas[1]),
+			inter(nmb[0], nmb[1]),
+			inter(gnd[0], gnd[1])
+)
+)
+
+
+// ***************************************************************
+// *********************** pact_thus_sub ************************
+// *********************** mod1: zmiana pozycji -1 **************
+// ***************************************************************
+// ************************** Quality = high
+@b:"SUBIEKT-PACT" (
+and(
+			inter(class[0], pact),
+			inter(class[1], {subst,depr,ger}),
+			inter(cas[0], cas[1]),
+			inter(nmb[0], nmb[1]),
+			inter(gnd[0], gnd[1]),
+			or (
+				not (equal(lex(base[2], "agens"), [])),
+				in (lex(base[2], "noun_domain"), ["umy", "cel", "zwz"])
+				)
+)
+)
+
+
+// ***************************************************************
+// *********************** N/V/ <-- Adj_sub/V/ *******************
+// ****************** rola Adj-V: habitualność *******************
+// ***************************************************************
+// ************************** Quality = ? ************************
+@b:"SUBIEKT-HAB" (
+and(
+			inter(class[0], {adj, adja}),
+			inter(class[1], {subst,depr,ger}),
+			inter(cas[0], cas[1]),
+			inter(nmb[0], nmb[1]),
+			inter(gnd[0], gnd[1]),			
+			or(
+				not(equal(lex(if(inter(class[1], {ger}), lex(base[1], "ger_base"), base[1]), "noun_synmpar_domain"), [])),
+				in( 
+				lex(if(inter(class[1], {ger}), lex(base[1], "ger_base"), base[1]), "noun_domain"),
+				["zdarz", "czy", "prc"]
+				)
+			),
+			equal( 
+				lex(base[0],"habit"),
+				["1"]
+				),
+			equal( 
+			lex(if(inter(class[1], {ger}), lex(base[1], "ger_base"), base[1]),"agens"),
+			["1"]
+			)
+)
+)
+
+// ***************************************************************
+// *********************** N/V/ <-- Adj_ob/V/ *******************
+// ****************** rola Adj-V: potencjalność *******************
+// ***************************************************************
+// ************************** Quality = ? ************************
+@b:"OBIEKT-POT" (
+and(
+			inter(class[0], {adj, adja}),
+			inter(class[1], {subst,depr,ger}),
+			inter(cas[0], cas[1]),
+			inter(nmb[0], nmb[1]),
+			inter(gnd[0], gnd[1]),			
+			or(
+				not(equal(lex(if(inter(class[1], {ger}), lex(base[1], "ger_base"), base[1]), "noun_synmpar_domain"), [])),
+				in( 
+				lex(if(inter(class[1], {ger}), lex(base[1], "ger_base"), base[1]), "noun_domain"),
+				["zdarz", "czy", "prc"]
+				)
+			),
+			equal( 
+				lex(base[0],"pot"),
+				["1"]
+				),
+			not(
+				equal( 
+				lex(if(inter(class[1], {ger}), lex(base[1], "ger_base"), base[1]),"agens"),
+				["1"]
+				))
+)
+)
+
+
+// ***************************************************************
+// *********************** WŁAŚCIWOŚĆ ****************************
+// ***************************************************************
+// ************************** Quality = ? ************************
+@b:"WLASCIWOSC" (
+and(
+			inter(class[0], {adj, adja}),
+			inter(class[1], {subst,depr,ger}),
+			inter(cas[0], cas[1]),
+			inter(nmb[0], nmb[1]),
+			inter(gnd[0], gnd[1]),			
+			and(
+				not(equal( 
+					lex(base[0],"rola_Adj_V"),
+					["1"]
+					)),
+				not(equal( 
+					lex(base[0],"habit"),
+					["1"]
+					)),
+				not(equal( 
+					lex(base[0],"pot"),
+					["1"]
+					)),
+				not(equal( 
+					lex(base[0],"kolejny"),
+					["1"]
+					)),
+				not(equal( 
+					lex(base[0],"char"),
+					["1"]
+					)),
+				not(equal( 
+					lex(base[0],"deriv"),
+					["1"]
+					)),
+				not(equal( 
+					lex(base[0],"dziedzina_rel"),
+					["1"]
+					)),
+				not(equal( 
+					lex(base[0],"Adj_relacyjne"),
+					["1"]
+					))
+			),
+			equal( 
+				lex(base[0],"Adj_w_plWN_jest"),
+				["1"]
+				),
+			not(in(base[0], ["mój", "twój", "nasz", "wasz", "swój", "ten", "wszystek", "każdy", "który", "jaki", "inny", "jakiś", "którykolwiek", "kolejny"]))
+)
+)

@@ -1,0 +1,14 @@
+wzorować	1
+oprzeć	1
+uplasować	1
+koncentrować	1
+skupić	1
+poślizgnąć	1
+skoncentrować	1
+wyczerpać	1
+skupiać	1
+zameldować	1
+zemścić	1
+odbijać	1
+opierać	1
+plasować	1

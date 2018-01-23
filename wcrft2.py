@@ -48,7 +48,12 @@ def main():
             continue;
         data=data[0]["fileID"];
         content = urllib2.urlopen(urllib2.Request(url+'/download'+data)).read();
-        with open (out_path+os.path.basename(file)+'.ccl', "w") as outfile:
+        out_filepath=out_path+os.path.basename(file)+'.ccl'
+        print("out_path: "+out_path)
+        print("file: "+file)
+        print("os.path.basename(file): "+os.path.basename(file))
+        print("Writing retult to: "+out_filepath)
+        with open (out_filepath, "w") as outfile:
                 outfile.write(content)
     print("GLOBAL %s seconds ---" % (time.time() - global_time))
 

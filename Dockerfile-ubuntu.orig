@@ -1,0 +1,54 @@
+FROM ubuntu as python-ubuntu
+WORKDIR /home/user/
+
+RUN apt-get update && apt-get -y install python python-setuptools python-pip
+
+FROM python-ubuntu as corpus2-ubuntu
+
+RUN apt-get -y install libboost-all-dev libicu-dev libxml++2.6-dev bison flex libloki-dev git swig cmake && \
+git clone http://nlp.pwr.wroc.pl/corpus2.git && \
+mkdir corpus2/build && \
+cd corpus2/build && \
+cmake .. && \
+make -j7 && \
+make install && \
+ldconfig
+
+FROM corpus2-ubuntu as graph-tool-ubuntu
+
+RUN echo deb http://downloads.skewed.de/apt/xenial xenial universe >>/etc/apt/sources.list && \
+echo deb-src http://downloads.skewed.de/apt/xenial xenial universe >>/etc/apt/sources.list && \
+apt-key adv --keyserver pgp.skewed.de --recv-key 612DEFB798507F25 && \
+apt-get update && apt-get -y install python-graph-tool
+
+FROM graph-tool-ubuntu as matplotlib-ubuntu
+
+ADD ./wosedon /home/user/wosedon
+
+ADD ./build-wosedon.sh /home/user/build-wosedon.sh
+RUN chmod 766 ./build-wosedon.sh && ./build-wosedon.sh
+
+ENV LD_LIBRARY_PATH="/usr/local/lib:${LD_LIBRARY_PATH}"
+ENV PYTHONPATH="${PYTHONPATH}:/usr/local/lib/python2.7/site-packages/"
+
+FROM matplotlib-ubuntu as wosedon-config-update
+
+# RUN rm /home/user/wosedon/wosedon/cfg/wosedon.ini
+
+ADD ./wcrft2.py /home/user/wcrft2.py
+RUN chmod +x /home/user/wcrft2.py
+<<<<<<< HEAD
+ADD ./zdanie.ccl /home/user/zdanie.ccl
+ADD ./runWosedon.sh /home/user/runWosedon.sh
+RUN chmod +x /home/user/runWosedon.sh
+ADD ./output /home/user/output
+=======
+
+RUN apt-get -y install python-mysqldb vim
+ADD ./npsemrel /home/user/npsemrel
+WORKDIR /home/user/npsemrel
+RUN ./setup.py install
+WORKDIR /home/user
+RUN pip install networkx
+
+>>>>>>> Files for proper testing

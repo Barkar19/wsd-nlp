@@ -1,0 +1,230 @@
+import("./resources/dictionaries/dict-noun-domain.lex", "noun_domain")
+import("./resources/dictionaries/dict-syn-mpar.lex", "noun_synmpar_domain")
+import("./resources/dictionaries/dict-gerundium.lex", "ger_base")
+import("./resources/dictionaries/dict-agens.lex", "agens")
+import("./resources/dictionaries/dict-rola_adj_v.lex", "rola_Adj_V")
+import("./resources/dictionaries/dict-habitualnosc.lex", "habit")
+import("./resources/dictionaries/dict-potencjalnosc.lex", "pot")
+import("./resources/dictionaries/dict-syn_mpar_przym.lex", "Adj_relacyjne")
+import("./resources/dictionaries/dict-przymiotniki.lex", "Adj_w_plWN_jest")
+import("./resources/dictionaries/dict-kolejny.lex", "kolejny")
+import("./resources/dictionaries/dict-charakteryzowanie.lex", "char")
+import("./resources/dictionaries/dict-derywacyjnosc.lex", "deriv")
+import("./resources/dictionaries/dict-przym_dziedzina_rel.lex", "dziedzina_rel")
+import("./resources/dictionaries/dict-frame_acc.lex", "ramy_acc")
+import("./resources/dictionaries/val-dic/dict-acc.lex", "acc")
+import("./resources/dictionaries/val-dic/dict-gen.lex", "gen")
+import("./resources/dictionaries/val-dic/dict-acc-sie.lex", "acc-sie")
+// słownik haseł wziętych z Dębowskiego = lematów czasowników:
+import("./resources/dictionaries/dict-rammy.lex", "ramy_debowski")
+import("./resources/dictionaries/dict-adj_deriv_country.lex", "adj_deriv_country")
+import("./resources/dictionaries/dict-kinship.lex", "kinship")
+import("./resources/dictionaries/dict-NE_loc2.lex", "NE_loc")
+import("./resources/dictionaries/dict-ger_verb.lex", "ger_verb")
+import("./resources/dictionaries/dict-causation.lex", "verb_caus")
+import("./resources/dictionaries/dict-verbs3more-plWN.lex", "verb3more")
+import("./resources/dictionaries/dict-cczuj1.lex", "cczuj1")
+import("./resources/dictionaries/dict-czasownik_stan.lex", "stany")
+import("./resources/dictionaries/dict-intencjonalne.lex", "intencjonalne")
+import("./resources/dictionaries/dict-nieintencjonalne.lex", "nieintencjonalne")
+import("./resources/dictionaries/dict-pst1.lex", "pst1")
+
+// ***************************************************************
+// *********************** ppas_thus_ob ***************************
+// ***************** mod1: ustalenie kierunku relacji ******************
+// ***************************************************************
+// ********************** zasłychany profesor *********************
+// ********************* Quality = high **********************
+@b:"OBIEKT-PPAS" (
+and(
+			equal(class[0], ppas),
+			// sprawdza, czy lemat jest w slowniku najczestszych ram z acc lub czy jest spoza Debowskiego		
+			or(
+				equal(lex(base[0], "ramy_acc"), ["1"]),
+				equal(lex(base[0], "gen"), ["1"]),
+				not(equal(lex(base[0], "ramy_debowski"), ["1"]))
+			),
+		
+//			in(class[1], {subst,depr,ger}),
+			equal(cas[0], cas[1]),
+			equal(nmb[0], nmb[1]),
+			equal(gnd[0], gnd[1])
+)
+)
+
+
+// ***************************************************************
+// *********************** pact_thus_sub ************************
+// *********************** mod1: zmiana pozycji -1 **************
+// ***************************************************************
+// ************************** Quality = high
+@b:"SUBIEKT-PACT" (
+and(
+			equal(class[0], pact),
+//			in(class[1], {subst,depr,ger}),
+			equal(cas[0], cas[1]),
+			equal(nmb[0], nmb[1]),
+			equal(gnd[0], gnd[1])
+)
+)
+
+// ***************************************************************
+// *********************** WŁAŚCIWOŚĆ ****************************
+// ***************************************************************
+// ************************** Quality = ? ************************
+@b:"WLASCIWOSC" (
+and(
+			inter(class[0], {adj, adja}),
+			inter(class[1], {subst,depr,ger}),
+			inter(cas[0], cas[1]),
+			inter(nmb[0], nmb[1]),
+			inter(gnd[0], gnd[1]),			
+			and(
+				not(equal( 
+					lex(base[0],"rola_Adj_V"),
+					["1"]
+					)),
+				not(equal( 
+					lex(base[0],"habit"),
+					["1"]
+					)),
+				not(equal( 
+					lex(base[0],"pot"),
+					["1"]
+					)),
+				not(equal( 
+					lex(base[0],"kolejny"),
+					["1"]
+					)),
+				not(equal( 
+					lex(base[0],"char"),
+					["1"]
+					)),
+				not(equal( 
+					lex(base[0],"deriv"),
+					["1"]
+					)),
+				not(equal( 
+					lex(base[0],"dziedzina_rel"),
+					["1"]
+					)),
+				not(equal( 
+					lex(base[0],"Adj_relacyjne"),
+					["1"]
+					)),
+				not(equal(
+					lex(base[0], "adj_deriv_country"), 
+					["1"]
+					))
+			),
+			equal( 
+				lex(base[0],"Adj_w_plWN_jest"),
+				["1"]
+				),
+			not(in(base[0], ["mój", "twój", "nasz", "wasz", "swój", "ten", "wszystek", "każdy", "który", "jaki", "inny", "jakiś", "którykolwiek", "kolejny", "żaden", "niektóry", "dany", "jeden"]))
+)
+)
+
+// ***************************************************************
+// *********************** KOLEJNOŚĆ ****************************
+// ***************************************************************
+// ************************** Quality = ? ************************
+@b:"KOLEJNOSC" (
+and(
+			inter(class[0], {adj, adja}),
+			inter(class[1], {subst,depr,ger}),
+			inter(cas[0], cas[1]),
+			inter(nmb[0], nmb[1]),
+			inter(gnd[0], gnd[1]),			
+			equal( 
+				lex(base[0],"kolejny"),
+				["1"]
+			)
+)
+)
+
+
+
+
+// ***************************************************************
+// ********************* POKREWIEŃSTWO ****************
+// ***************************************************************
+@b:"RODZINA-agpp" (
+and(	
+	equal(cas[0], cas[1]),
+	equal(nmb[0], nmb[1]),
+	equal(gnd[0], gnd[1]),
+	equal(lex(base[1], "kinship"), ["1"]),
+	equal(lex(base[1], "noun_domain"), ["os"]),
+	in(class[1], {ger, subst, depr}),
+	in(base[0], ["mój", "twój", "swój", "nasz", "wasz"])
+)
+)
+
+
+// ***************************************************************
+// *********************** ten, ta, to *************************
+// ***************************************************************
+// ************************** Quality = ? ************************
+@b:"DETERMINATOR" (
+and(
+			equal(class[0], {adj}),
+			in(class[1], {subst,depr,ger}),
+			equal(cas[0], cas[1]),
+			equal(nmb[0], nmb[1]),
+			equal(gnd[0], gnd[1]),			
+			in(base[0], ["ten", "ów"])
+)
+)
+
+
+// ***************************************************************
+// *********************** KWANTYFIKATOR-A ****************************
+// ***************************************************************
+// ************************** Quality = ? ************************
+@b:"KWANTYFIKATOR-A" (
+and(
+			equal(class[0], {adj}),
+			in(class[1], {subst,depr,ger}),
+			equal(cas[0], cas[1]),
+			equal(nmb[0], nmb[1]),
+			equal(gnd[0], gnd[1]),			
+			or(
+				and(
+					in(base[0], ["wszystek"]),
+					equal(nmb[0], {pl})
+				),
+				in(base[0], ["każdy"])
+			)
+)
+)
+
+// ***************************************************************
+// *********************** KWANTYFIKATOR-E ****************************
+// ***************************************************************
+// ************************** Quality = ? ************************
+@b:"KWANTYFIKATOR-E" (
+and(
+			equal(class[0], {adj}),
+			in(class[1], {subst,depr,ger}),
+			equal(cas[0], cas[1]),
+			equal(nmb[0], nmb[1]),
+			equal(gnd[0], gnd[1]),			
+			in(base[0], ["któryś", "jakiś", "jeden", "niektóry", "którykolwiek", "jakikolwiek"])
+)
+)
+
+// ***************************************************************
+// *********************** KWANTYFIKATOR-neg-A ****************************
+// ***************************************************************
+// ************************** Quality = ? ************************
+@b:"KWANTYFIKATOR-neg-A" (
+and(
+			in(base[0], ["żaden"]),
+			equal(cas[0], cas[1]),
+			equal(nmb[0], nmb[1]),
+			equal(gnd[0], gnd[1]),	
+			in(class[1], {subst,depr,ger})			
+)
+)
+

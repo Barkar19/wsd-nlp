@@ -1,0 +1,186 @@
+import("./resources/dict-noun-domain.lex", "noun_domain")
+import("./resources/dict-syn-mpar.lex", "noun_synmpar_domain")
+import("./resources/dict-gerundium.lex", "ger_base")
+import("./resources/dict-agens.lex", "agens")
+import("./resources/dict-frame_acc.lex", "ramy_acc")
+import("./resources/val-dic/dict-dat.lex", "dict_dat")
+import("./resources/val-dic/dict-gen.lex", "dict_gen")
+import("./resources/val-dic/dict-inst.lex", "dict_inst")
+import("./resources/val-dic/dict-loc.lex", "dict_loc")
+
+
+// ****************************************************************
+// ***************** not_agent_thus_ob **************************
+// ****************************************************************
+// ***************** Quality = high ******************************
+@b:"OBIEKT-1" ( 
+and(
+		
+		not(equal(lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_synmpar_domain"), [])),
+		not(equal(lex(base[0], "ramy_acc"), [])),
+		inter(class[1],{subst,depr,ger}),
+		inter(cas[1], gen),
+		not(in( 
+				lex(if(inter(class[1], {ger}), lex(base[1], "ger_base"), base[1]),"agens"),
+				["1"]
+			)
+		)
+)
+)
+
+// ***************************************************************
+// *********************** pact_and_acc_thus_ob ******************
+// ***************************************************************
+// ******************** Quality = rzadki? ********************************
+@b:"OBIEKT-2" (
+and(
+			inter(class[0], pact),
+			equal(lex(base[0], "ramy_acc"), ["1"]),
+			inter(class[1], {subst,depr,ger}),
+			inter(cas[1],acc)
+)
+)
+
+// ***************************************************************
+// ************** agent_and_not_ruch_and_acc_thus_ob **************
+// ****************************************************************
+// ************** Quality = low, większość to subiekty, powód błędów = brak w słowniku agensów *****************
+// *************** Można spróbować to odłączyć albo nawet zamienić na SUBIEKT :) *******************************
+@b:"OBIEKT-3" (
+and(
+		inter(class[1],{subst,depr,ger}),
+		inter(cas[1], gen),
+		equal( 
+			lex(if(inter(class[1], {ger}), lex(base[1], "ger_base"), base[1]),"agens"),
+			["1"]
+		),
+		inter(class[0],{subst,depr,ger}),
+		not(equal(lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_synmpar_domain"), ["ruch"])),
+		equal(lex(base[0], "ramy_acc"), ["1"]),
+		in( 
+				lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_domain"),
+				["zdarz", "czy"]
+		)
+)
+)
+
+// ***************************************************************
+// *********************** pact/ppas_ramy_thus_ob ******************
+// ***************************************************************
+// ******************** Quality = ? ********************************
+@b:"OBIEKT-5" (
+and(
+			inter(class[0], {pact,ppas}),
+			inter(class[1], {subst,depr,ger}),
+			or(
+				and(
+					equal(lex(base[0], "dict_dat"), ["1"]),
+					inter(cas[1],dat)
+				),
+				and(
+					equal(lex(base[0], "dict_gen"), ["1"]),
+					inter(cas[1],gen)
+				),
+				and(
+					equal(lex(base[0], "dict_inst"), ["1"]),
+					inter(cas[1],inst)
+				),
+				and(
+					equal(lex(base[0], "dict_loc"), ["1"]),
+					inter(cas[1],loc)
+				)
+			)
+)
+)
+
+// ***************************************************************
+// **************** agent_and_not_ruch_and_not_acc_thus_sub ******
+// ***************************************************************
+// **************************** Quality = high *******************
+@b:"SUBIEKT-1" (
+and(
+		inter(class[0],{subst,depr,ger}),
+		not(equal(lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_synmpar_domain"), ["ruch"])),
+		not(equal(lex(base[0], "ramy_acc"), ["1"])),
+		in(
+				lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_domain"),
+				["zdarz", "czy"]
+		),
+		
+		inter(class[1],{subst,depr,ger}),
+		inter(cas[1], gen),
+		equal( 
+			lex(if(inter(class[1], {ger}), lex(base[1], "ger_base"), base[1]),"agens"),
+			["1"]
+		)	
+)
+)
+
+// ***************************************************************
+// ********************* agent_and_ruch_thus_sub" ****************
+// ***************************************************************
+@b:"SUBIEKT-2" (
+and(
+		inter(class[0],{subst,depr,ger}),
+		equal(lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_synmpar_domain"), ["ruch"]),
+		in( 
+				lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_domain"),
+				["zdarz", "czy"]
+		),	
+		inter(class[1],{subst,depr,ger}),
+		inter(cas[1], gen),
+		equal( 
+			lex(if(inter(class[1], {ger}), lex(base[1], "ger_base"), base[1]),"agens"),
+			["1"]
+		)
+		
+)
+)
+
+// **************************************************************
+// ****************** przez_acc_sub *****************************
+// **************************************************************
+@b:"SUBIEKT-3" (
+and(
+		inter(class[0],{subst,depr,ger}),
+		equal(lex(base[0], "ramy_acc"), ["1"]),
+		
+		in( 
+				lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_domain"),
+				["zdarz", "czy"]
+		),
+		in(orth[1],"przez"),
+		inter(cas[2], acc),
+		or (
+			not(equal(lex(base[2], "agens"), [])),
+			in( 
+				lex(base[2], "noun_domain"),
+				["umy", "cel"]
+			)
+		)
+)
+)
+
+// ***************************************************************
+// ****************** ppas_przez_acc_sub *****************************
+// ***************************************************************
+// ********* modyfikacja - dodałem klasę brev+interj
+// ******** dodałem także klasę "zwz"
+
+@b:"SUBIEKT-6" (
+	and (
+		inter (class[0], {ppas}),
+		equal (lex(base[0], "ramy_acc"), ["1"]),
+		in (orth[1], "przez"),
+			or (
+				and(
+					inter(cas[2], {acc}),
+					or (
+						not (equal(lex(base[2], "agens"), [])),
+						in (lex(base[2], "noun_domain"), ["umy", "cel", "zwz"])
+					)
+				),
+				in(class[2], {brev, interj})
+			)
+		)
+)

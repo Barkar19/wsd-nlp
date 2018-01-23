@@ -1,0 +1,1 @@
+zaprotestować	1

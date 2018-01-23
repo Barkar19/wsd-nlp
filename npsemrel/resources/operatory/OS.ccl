@@ -1,0 +1,251 @@
+import("./resources/dict-noun-domain.lex", "noun_domain")
+import("./resources/dict-syn-mpar.lex", "noun_synmpar_domain")
+import("./resources/dict-gerundium.lex", "ger_base")
+import("./resources/dict-agens.lex", "agens")
+import("./resources/dict-frame_acc.lex", "ramy_acc")
+
+@b:"OBIEKT" ( 
+
+or(
+// ***************************************************************
+// ***************** not_agent_thus_ob **************************
+// ***************************************************************
+and(
+		not(equal(lex(if(inter(class[-1], {ger}), lex(base[-1], "ger_base"), base[-1]), "noun_synmpar_domain"), [])),
+		not(equal(lex(base[-1], "ramy_acc"), [])),
+		/*
+		in( 
+				lex(if(inter(class[-1], {ger}), lex(base[-1], "ger_base"), base[-1]), "noun_domain"),
+				["zdarz", "czy"]
+		)
+		*/
+		inter(class[0],{subst,depr,ger}),
+		inter(cas[0], gen),
+		not(in( 
+				lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]),"agens"),
+				["1"]
+			)
+		)
+),
+
+// ***************************************************************
+// ***************** 2_predicates_not_agent_thus_ob **************************
+// ***************************************************************
+
+and(
+		not(equal(lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_synmpar_domain"), [])),
+		not(equal(lex(base[0], "ramy_acc"), [])),
+
+		inter(orth[1], ["i","lub","albo","czy","oraz"]),
+		inter(class[1], conj),
+
+		not(equal(lex(if(inter(class[2], {ger}), lex(base[-1], "ger_base"), base[2]), "noun_synmpar_domain"), [])),
+		not(equal(lex(base[2], "ramy_acc"), [])),
+		/*
+		in( 
+				lex(if(inter(class[2], {ger}), lex(base[-1], "ger_base"), base[2]), "noun_domain"),
+				["zdarz", "czy"]
+		)
+		*/
+		inter(class[3],{subst,depr,ger}),
+		inter(cas[3], gen),
+		not(in( 
+				lex(if(inter(class[3], {ger}), lex(base[0], "ger_base"), base[0]),"agens"),
+				["1"]
+			)
+		)
+),
+
+// ***************************************************************
+// *********************** pact_and_acc_thus_ob ************************
+// ***************************************************************
+and(
+			inter(class[0], pact),
+			equal(lex(base[0], "ramy_acc"), ["1"]),
+			inter(class[1], {subst,depr,ger}),
+			inter(cas[1],acc)
+),
+
+// ***************************************************************
+// ************** agent_and_not_ruch_and_acc_thus_ob *****************
+// ***************************************************************
+
+and(
+		inter(class[0],{subst,depr,ger}),
+		inter(cas[0], gen),
+		
+		equal( 
+			lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]),"agens"),
+			["1"]
+		),
+	
+		inter(class[-1],{subst,depr,ger}),
+		not(equal(lex(if(inter(class[-1], {ger}), lex(base[-1], "ger_base"), base[-1]), "noun_synmpar_domain"), ["ruch"])),
+		equal(lex(base[-1], "ramy_acc"), ["1"]),
+		
+		in( 
+				lex(if(inter(class[-1], {ger}), lex(base[-1], "ger_base"), base[-1]), "noun_domain"),
+				["zdarz", "czy"]
+		)
+),
+
+// ***************************************************************
+// *********************** ppas_thus_ob ***************************
+// ***************************************************************
+
+and(
+			inter(class[0], ppas),
+			inter(class[1], {subst,depr,ger}),
+			inter(cas[0], cas[1]),
+			inter(nmb[0], nmb[1]),
+			inter(gnd[0], gnd[1])
+),
+	
+and(
+			inter(class[0], ppas),
+			inter(class[-1], {subst,depr,ger}),
+			inter(cas[0], cas[-1]),
+			inter(nmb[0], nmb[-1]),
+			inter(gnd[0], gnd[-1])
+)
+// **********************************************************************
+)
+)
+
+
+@b:"SUBIEKT" (
+or(
+// ***************************************************************
+// ***************** not_agent_and_not_acc_thus_sub *****************
+// ***************************************************************
+
+/* and(
+		inter(class[0],{subst,depr,ger}),
+		inter(cas[0], gen),
+		not(in( 
+				lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]),"agens"),
+				["1"]
+			)
+		),
+
+
+		-zzzz- in( 
+				lex(if(inter(class[-1], {ger}), lex(base[-1], "ger_base"), base[-1]), "noun_domain"),
+				["zdarz", "czy"]
+		) -zzzz-
+		
+		not(equal(lex(if(inter(class[-1], {ger}), lex(base[-1], "ger_base"), base[-1]), "noun_synmpar_domain"), [])),
+		equal(lex(base[-1], "ramy_acc"), [])
+), */
+
+// ***************************************************************
+// **************** agent_and_not_ruch_and_not_acc_thus_sub ***********
+// ***************************************************************
+
+and(
+		inter(class[0],{subst,depr,ger}),
+		inter(cas[0], gen),
+		equal( 
+			lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]),"agens"),
+			["1"]
+		),
+
+		inter(class[-1],{subst,depr,ger}),
+		not(equal(lex(if(inter(class[-1], {ger}), lex(base[-1], "ger_base"), base[-1]), "noun_synmpar_domain"), ["ruch"])),
+		not(equal(lex(base[-1], "ramy_acc"), ["1"])),
+		
+		in( 
+				lex(if(inter(class[-1], {ger}), lex(base[-1], "ger_base"), base[-1]), "noun_domain"),
+				["zdarz", "czy"]
+		)
+
+
+),
+
+// ***************************************************************
+// ********************* agent_and_ruch_thus_sub" *****************
+// ***************************************************************
+
+and(
+		inter(class[0],{subst,depr,ger}),
+		inter(cas[0], gen),
+		equal( 
+			lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]),"agens"),
+			["1"]
+		),
+
+		inter(class[-1],{subst,depr,ger}),
+		equal(lex(if(inter(class[-1], {ger}), lex(base[-1], "ger_base"), base[-1]), "noun_synmpar_domain"), ["ruch"]),
+
+		in( 
+				lex(if(inter(class[-1], {ger}), lex(base[-1], "ger_base"), base[-1]), "noun_domain"),
+				["zdarz", "czy"]
+		)
+),
+
+// ***************************************************************
+// ****************** przez_acc_sub *****************************
+// ***************************************************************
+
+and(
+		inter(class[-2],{subst,depr,ger}),
+		equal(lex(base[-2], "ramy_acc"), ["1"]),
+		
+		in( 
+				lex(if(inter(class[-2], {ger}), lex(base[-2], "ger_base"), base[-2]), "noun_domain"),
+				["zdarz", "czy"]
+		),
+
+		in(orth[-1],"przez"),
+
+		inter(cas[0], acc),
+		or (
+			not(equal(lex(base[0], "agens"), [])),
+			in( 
+				lex(base[0], "noun_domain"),
+				["umy", "cel"]
+			)
+		)
+),
+
+// ***************************************************************
+// *********************** pact_thus_sub ************************
+// ***************************************************************
+and(
+			inter(class[0], pact),
+			inter(class[1], {subst,depr,ger}),
+			inter(cas[0], cas[1]),
+			inter(nmb[0], nmb[1]),
+			inter(gnd[0], gnd[1])
+),
+		
+and(
+			inter(class[0], pact),
+			inter(class[-1], {subst,depr,ger}),
+			inter(cas[0], cas[-1]),
+			inter(nmb[0], nmb[-1]),
+			inter(gnd[0], gnd[-1])
+),
+
+// ***************************************************************
+// ****************** ppas_przez_acc_sub *****************************
+// ***************************************************************
+
+and(
+		inter(class[-2], {ppas}),
+		equal(lex(base[-2], "ramy_acc"), ["1"]),
+		in(orth[-1], "przez"),
+
+		inter(cas[0], {acc}),
+
+		or (
+			not(equal(lex(base[0], "agens"), [])),
+			in( 
+				lex(base[0], "noun_domain"),
+				["umy", "cel"]
+			)
+		)
+)
+// *****************************************************************
+)
+)

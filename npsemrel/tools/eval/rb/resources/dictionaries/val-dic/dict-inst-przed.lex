@@ -1,0 +1,13 @@
+przestrzegać	1
+ostrzegać	1
+uchronić	1
+stanąć	1
+zaparkować	1
+zeznać	1
+strach	1
+skapitulować	1
+zabezpieczać	1
+odróżniać	1
+chronić	1
+uciekać	1
+uczulać	1

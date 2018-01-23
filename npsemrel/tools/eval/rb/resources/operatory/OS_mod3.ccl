@@ -1,0 +1,204 @@
+import("./resources/dict-noun-domain.lex", "noun_domain")
+import("./resources/dict-syn-mpar.lex", "noun_synmpar_domain")
+import("./resources/dict-gerundium.lex", "ger_base")
+import("./resources/dict-agens.lex", "agens")
+import("./resources/dict-frame_acc.lex", "ramy_acc")
+
+
+// ****************************************************************
+// ***************** not_agent_thus_ob **************************
+// ***************** mod1: brak ***************************
+// ****************************************************************
+@b:"OBIEKT-1" ( 
+and(
+		
+		not(equal(lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_synmpar_domain"), [])),
+		not(equal(lex(base[0], "ramy_acc"), [])),
+		inter(class[1],{subst,depr,ger}),
+		inter(cas[1], gen),
+		not(in( 
+				lex(if(inter(class[1], {ger}), lex(base[1], "ger_base"), base[1]),"agens"),
+				["1"]
+			)
+		)
+)
+)
+
+// ***************************************************************
+// *********************** pact_and_acc_thus_ob ******************
+// ********************** mod1: 0 ==> -1, 1 ==> 0 ****************
+// ***************************************************************
+@b:"OBIEKT-2" (
+and(
+			inter(class[0], pact),
+			equal(lex(base[0], "ramy_acc"), ["1"]),
+			inter(class[1], {subst,depr,ger}),
+			inter(cas[1],acc)
+)
+)
+
+
+// ***************************************************************
+// ************** agent_and_not_ruch_and_acc_thus_ob **************
+// ***************** mod1: brak ******************************
+// ****************************************************************
+@b:"OBIEKT-3" (
+and(
+		inter(class[1],{subst,depr,ger}),
+		inter(cas[1], gen),
+		equal( 
+			lex(if(inter(class[1], {ger}), lex(base[1], "ger_base"), base[1]),"agens"),
+			["1"]
+		),
+		inter(class[0],{subst,depr,ger}),
+		not(equal(lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_synmpar_domain"), ["ruch"])),
+		equal(lex(base[0], "ramy_acc"), ["1"]),
+		in( 
+				lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_domain"),
+				["zdarz", "czy"]
+		)
+)
+)
+
+// ***************************************************************
+// *********************** ppas_thus_ob ***************************
+// ***************** mod1: ustalenie kierunku relacji ******************
+// ***************************************************************
+// ********************** zasłychany profesor *********************
+// ********************* profesor zasłuchany **********************
+@b:"OBIEKT-4" (
+and(
+			inter(class[0], ppas),
+			inter(class[1], {subst,depr,ger}),
+			inter(cas[0], cas[1]),
+			inter(nmb[0], nmb[1]),
+			inter(gnd[0], gnd[1])
+)
+)
+
+@b:"OBIEKT-5" (
+and(
+			inter(class[1], ppas),
+			inter(class[0], {subst,depr,ger}),
+			inter(cas[1], cas[0]),
+			inter(nmb[1], nmb[0]),
+			inter(gnd[1], gnd[0])
+)
+)
+
+// ***************************************************************
+// **************** agent_and_not_ruch_and_not_acc_thus_sub ***********
+// ****************** mod1: brak ********************************
+// ***************************************************************
+@b:"SUBIEKT-1" (
+and(
+		inter(class[1],{subst,depr,ger}),
+		inter(cas[1], gen),
+		equal( 
+			lex(if(inter(class[1], {ger}), lex(base[1], "ger_base"), base[1]),"agens"),
+			["1"]
+		),
+		inter(class[0],{subst,depr,ger}),
+		not(equal(lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_synmpar_domain"), ["ruch"])),
+		not(equal(lex(base[0], "ramy_acc"), ["1"])),
+		in( 
+				lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_domain"),
+				["zdarz", "czy"]
+		)
+)
+)
+
+// ***************************************************************
+// ********************* agent_and_ruch_thus_sub" *****************
+// ****************** mod1: brak ******************************
+// ***************************************************************
+@b:"SUBIEKT-2" (
+and(
+		inter(class[1],{subst,depr,ger}),
+		inter(cas[1], gen),
+		equal( 
+			lex(if(inter(class[1], {ger}), lex(base[1], "ger_base"), base[1]),"agens"),
+			["1"]
+		),
+		inter(class[-1],{subst,depr,ger}),
+		equal(lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_synmpar_domain"), ["ruch"]),
+		in( 
+				lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_domain"),
+				["zdarz", "czy"]
+		)
+)
+)
+
+// ***************************************************************
+// ****************** przez_acc_sub *****************************
+// ****************** mod1: brak **********************************
+// ***************************************************************
+// UWAGA! Nie jest poptawiona kolejnosc wzgledem poczatku generowanego zdania
+// Bedzie sie odpalalo dla PP!!
+@b:"SUBIEKT-3" (
+and(
+		inter(class[0],{subst,depr,ger}),
+		equal(lex(base[0], "ramy_acc"), ["1"]),
+		
+		in( 
+				lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_domain"),
+				["zdarz", "czy"]
+		),
+		in(orth[1],"przez"),
+		inter(cas[2], acc),
+		or (
+			not(equal(lex(base[2], "agens"), [])),
+			in( 
+				lex(base[2], "noun_domain"),
+				["umy", "cel"]
+			)
+		)
+)
+)
+
+// ***************************************************************
+// *********************** pact_thus_sub ************************
+// *********************** mod1: zmiana pozycji -1 **************
+// ***************************************************************
+@b:"SUBIEKT-4" (
+and(
+			inter(class[0], pact),
+			inter(class[1], {subst,depr,ger}),
+			inter(cas[0], cas[1]),
+			inter(nmb[0], nmb[1]),
+			inter(gnd[0], gnd[1])
+)
+)
+
+// ******************** +1 **************************
+@b:"SUBIEKT-5" (
+and(
+			inter(class[1], pact),
+			inter(class[0], {subst,depr,ger}),
+			inter(cas[1], cas[0]),
+			inter(nmb[1], nmb[0]),
+			inter(gnd[1], gnd[0])
+)
+)
+
+// ***************************************************************
+// ****************** ppas_przez_acc_sub *****************************
+// ****************************** mod1: brak ***********************
+// ***************************************************************
+// UWAGA! Nie jest poptawiona kolejnosc wzgledem poczatku generowanego zdania
+// Bedzie sie odpalalo dla PP!!
+@b:"SUBIEKT-6" (
+and(
+		inter(class[0], {ppas}),
+		equal(lex(base[0], "ramy_acc"), ["1"]),
+		in(orth[1], "przez"),
+		inter(cas[2], {acc}),
+		or (
+			not(equal(lex(base[2], "agens"), [])),
+			in( 
+				lex(base[2], "noun_domain"),
+				["umy", "cel"]
+			)
+		)
+)
+)

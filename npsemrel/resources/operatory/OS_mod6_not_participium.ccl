@@ -1,0 +1,266 @@
+import("./resources/dictionaries/dict-noun-domain.lex", "noun_domain")
+import("./resources/dictionaries/dict-syn-mpar.lex", "noun_synmpar_domain")
+import("./resources/dictionaries/dict-gerundium.lex", "ger_base")
+import("./resources/dictionaries/dict-agens.lex", "agens")
+import("./resources/dictionaries/dict-frame_acc.lex", "ramy_acc")
+import("./resources/dictionaries/val-dic/dict-acc.lex", "acc")
+import("./resources/dictionaries/val-dic/dict-inst.lex", "inst")
+import("./resources/dictionaries/val-dic/dict-acc-sie.lex", "acc-sie")
+import("./resources/dictionaries/val-dic/dict-inst.lex", "inst-sie")
+import("./resources/dictionaries/dict-budowla.lex", "budowle")
+import("./resources/dictionaries/dict-city.lex", "miasto")
+import("./resources/dictionaries/dict-country.lex", "panstwo")
+// słownik haseł wziętych z Dębowskiego = lematów czasowników:
+import("./resources/dictionaries/dict-rammy.lex", "ramy_debowski")
+
+// ****************************************************************
+// ***************** not_agent_thus_ob **************************
+// ****************************************************************
+// ***************** Quality = high ******************************
+@b:"OBIEKT-nAG" ( 
+and(
+		
+		not(equal(lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_synmpar_domain"), [])),
+		not(equal(lex(base[0], "ramy_acc"), [])),
+		inter(class[1],{subst,depr,ger}),
+		inter(cas[1], gen),
+		not(in( 
+				lex(if(inter(class[1], {ger}), lex(base[1], "ger_base"), base[1]),"agens"),
+				["1"]
+			)
+		)
+)
+)
+
+// ***************************************************************
+// *********************** pact_and_acc_thus_ob ******************
+// ***************************************************************
+// ******************** Quality = rzadki? ********************************
+@b:"OBIEKT-PACT-acc" (
+and(
+			inter(class[0], pact),
+			equal(lex(base[0], "ramy_acc"), ["1"]),
+			inter(class[1], {subst,depr,ger}),
+			inter(cas[1],acc)
+)
+)
+
+// ****************************************************************
+// ************** agent_and_not_ruch_and_acc_thus_ob **************
+// ****************************************************************
+// ************** nie pojawia się *********************************
+// ****************************************************************
+@b:"OBIEKT-AG-nruch-acc" (
+and(
+		
+		inter(class[0],{subst,depr,ger}),
+		not(equal(lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_synmpar_domain"), ["ruch"])),
+		equal(lex(base[0], "ramy_acc"), ["1"]),
+		in( 
+				lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_domain"),
+				["zdarz", "czy"]
+		),
+		inter(class[1],{subst,depr,ger}),
+		inter(cas[1], gen),
+		equal( 
+			lex(if(inter(class[1], {ger}), lex(base[1], "ger_base"), base[1]),"agens"),
+			["1"]
+		)
+)
+)
+
+// ***************************************************************
+// **************** agent_and_not_ruch_and_not_acc_thus_sub ******
+// ***************************************************************
+// **************************** Quality = high *******************
+@b:"SUBIEKT-AG-nruch_nacc" (
+and(
+		inter(class[0],{subst,depr,ger}),
+		not(equal(lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_synmpar_domain"), ["ruch"])),
+		not(equal(lex(base[0], "ramy_acc"), ["1"])),
+		in(
+				lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_domain"),
+				["zdarz", "czy"]
+		),
+		
+		inter(class[1],{subst,depr,ger}),
+		inter(cas[1], gen),
+		equal( 
+			lex(if(inter(class[1], {ger}), lex(base[1], "ger_base"), base[1]),"agens"),
+			["1"]
+		)	
+)
+)
+
+// ***************************************************************
+// ********************* agent_and_ruch_thus_sub" ****************
+// ***************************************************************
+@b:"SUBIEKT-AG-ruch" (
+and(
+		inter(class[0],{subst,depr,ger}),
+		equal(lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_synmpar_domain"), ["ruch"]),
+		in( 
+				lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_domain"),
+				["zdarz", "czy"]
+		),	
+		inter(class[1],{subst,depr,ger}),
+		inter(cas[1], gen),
+		equal( 
+			lex(if(inter(class[1], {ger}), lex(base[1], "ger_base"), base[1]),"agens"),
+			["1"]
+		)
+		
+)
+)
+
+// **************************************************************
+// ****************** przez_acc_sub *****************************
+// **************************************************************
+@b:"SUBIEKT-N-przez-acc" (
+and(
+		inter(class[0],{subst,depr,ger}),
+		// ******** ten warunek sprawdza, czy rama jest przechodnia:		
+		or(
+			equal(lex(base[0], "ramy_acc"), ["1"]),
+			equal(lex(base[0], "acc-sie"), ["1"]),
+			not(equal(lex(base[0], "ramy_debowski"), ["1"]))
+			),
+		in( 
+				lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_domain"),
+				["zdarz", "czy"]
+		),
+		in(orth[1],"przez"),
+		inter(cas[2], acc),
+		or (
+			not(equal(lex(base[2], "agens"), [])),
+			in( 
+				lex(base[2], "noun_domain"),
+				["umy", "cel"]
+			)
+		)
+)
+)
+
+// ***************************************************************
+// ****************** ppas_przez_acc_sub *************************
+// ***************************************************************
+// ********* modyfikacja - dodałem klasę brev+interj *************
+// ******** dodałem także klasę "zwz", "grp" *********************
+// ******** Quality: High? ***************************************
+
+@b:"SUBIEKT-PPAS-przez-acc" (
+	and (
+		inter (class[0], {ppas}),
+		// sprawdza, czy lemat jest w slowniku najczestszych ram z acc lub ram z sie z acc (niekoniecznie najczestszych), lub czy jest spoza Debowskiego		
+		or(
+			equal(lex(base[0], "ramy_acc"), ["1"]),
+			equal(lex(base[0], "acc-sie"), ["1"]),
+			not(equal(lex(base[0], "ramy_debowski"), ["1"]))
+			),
+		in (orth[1], "przez"),
+			or (
+				and(
+					inter(cas[2], {acc}),
+					or (
+						not (equal(lex(base[2], "agens"), [])),
+						in (lex(base[2], "noun_domain"), ["umy", "cel", "zwz", "grp"])
+					)
+				),
+				in(class[2], {brev, interj})
+			)
+	)
+)
+
+// ****************************************************************
+// ***************** MIEJSCE **************************
+// ****************************************************************
+// ***************** Quality = ???? ******************************
+@b:"MIEJSCE-PP" ( 
+and(
+	or(
+		in( 
+			lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_domain"), 
+			["zdarz", "czy", "st"]
+		),	
+		in(class[0], {ppas, pact})
+	),
+	in(class[1], {prep}),
+	in(base[1], ["do", "dokoła", "koło", "ku", "między", "na", "nad", "naprzeciw", "niedaleko", "opodal", "pod", "ponad", "poprzez", "pomiędzy", "przed", "przez", "przy", "spod", "spomiędzy", "sponad", "spośród", "sprzed", "w", "z", "za", "zza",  "wokół"]),
+	or(
+		and(
+			in(lex(base[2], "noun_domain"), ["msc", "rz"]),
+			not(in(lex(base[2], "miasto"), [])),
+			not(in(lex(base[2], "panstwo"), []))
+		),
+		and(
+			equal(lex(base[2], "noun_domain"), ["wytw"]),
+			not(in(lex(base[2], "budowle"), []))
+		)
+	),
+	not(equal(base[2], "cel"))
+)
+)
+
+// ****************************************************************
+// ***************** POJEMNIK (CONTAINER) **************************
+// ****************************************************************
+// ***************** Quality = ???? ******************************
+@b:"POJEMNIK-PP" ( 
+and(
+	or (
+		in( 
+			lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_domain"), 
+			["zdarz", "czy", "st"]
+		),	
+		in(class[0], {ppas, pact})
+	),
+	in(class[1], {prep}),
+	in(base[1], ["do", "dokoła", "koło", "ku", "między", "na", "nad", "naprzeciw", "niedaleko", "opodal", "pod", "ponad", "poprzez", "pomiędzy", "przed", "przez", "przy", "spod", "spomiędzy", "sponad", "spośród", "sprzed", "w", "z", "za", "zza",  "wokół"]),
+	equal(lex(base[2], "noun_domain"), ["wytw"]),
+	not(in(lex(base[2], "budowle"), ["1"]))
+)
+)
+
+// ****************************************************************
+// ***************** CZAS **************************
+// ****************************************************************
+// ***************** Quality = ???? ******************************
+@b:"CZAS-PP" ( 
+and(
+	or (
+		in( 
+			lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_domain"), 
+			["zdarz", "czy", "st"]
+		),	
+		in(class[0], {ppas, pact})
+	),
+	in(class[1], {prep}),
+	in(base[1], ["blisko", "do", "koło", "na", "o", "od", "około", "po", "podczas", "przez", "przy", "sprzed", "w", "z", "za"]),
+	in(lex(base[2], "noun_domain"), ["czas"])
+)
+)
+
+// ***************************************************************
+// *********************** INSTRUMENT ****************************
+// ***************************************************************
+// ************************** Quality = ? ************************
+@b:"INSTRUMENT" (
+and(
+		or (
+			in( 
+				lex(if(inter(class[0], {ger}), lex(base[0], "ger_base"), base[0]), "noun_domain"), 
+				["zdarz", "czy"]
+				),	
+			in(class[0], {ppas, pact})
+		),
+		not(equal(base[0], "być")),
+		or(
+			not(equal(lex(base[0], "inst"), ["1"])),
+			not(equal(lex(base[0], "inst-sie"), ["1"]))
+		),
+		in(class[1], {subst, ger, depr}),
+		equal(cas[1], inst),
+		equal(lex(base[1], "noun_domain"), ["wytw"]),
+		not(in(lex(base[1], "noun_domain"), ["czas"]))
+)
+)

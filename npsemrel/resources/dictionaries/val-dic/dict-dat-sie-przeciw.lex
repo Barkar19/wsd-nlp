@@ -1,0 +1,1 @@
+buntować	1
