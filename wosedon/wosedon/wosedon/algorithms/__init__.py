@@ -42,3 +42,11 @@ from wosedon.algorithms.gt_sudoku_run2 import GTSUDOKURun2
 from wosedon.algorithms.paintball_wsd import PaintballWSD
 
 from wosedon.algorithms.gt_betweenness import GTBetweenness
+
+from wosedon.algorithms.gt_katz import GTKatz
+from wosedon.algorithms.gt_closeness import GTCloseness
+from wosedon.algorithms.gt_hub import GTHub
+from wosedon.algorithms.gt_authority import GTAuthority
+from wosedon.algorithms.gt_eigenvector import GTEigenvector
+from wosedon.algorithms.gt_eigentrust import GTEigentrust
+from wosedon.algorithms.gt_trust_transitivity import GTTransitivity
