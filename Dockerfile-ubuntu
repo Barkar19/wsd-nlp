@@ -39,12 +39,17 @@ ADD ./wcrft2.py /home/user/wcrft2.py
 RUN chmod +x /home/user/wcrft2.py
 
 ADD ./zdanie.ccl /home/user/zdanie.ccl
+ADD ./t1.ccl /home/user/t1.ccl
+ADD ./t2.ccl /home/user/t2.ccl
 ADD ./runWosedon.sh /home/user/runWosedon.sh
 RUN chmod +x /home/user/runWosedon.sh
+ADD ./runTests.sh /home/user/runTests.sh
+RUN chmod +x /home/user/runTests.sh
 ADD ./output /home/user/output
 
 RUN apt-get -y install python-mysqldb vim
 ADD ./npsemrel /home/user/npsemrel
+RUN chmod +x /home/user/npsemrel/setup.py
 WORKDIR /home/user/npsemrel
 RUN ./setup.py install
 WORKDIR /home/user
