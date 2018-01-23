@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>TOWARZYSTWO</orth>
+    <lex disamb="1"><base>towarzystwo</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_cultural">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_org_organization:lemma">TOWARZYSTWO PRZYJACIÓŁ OZORKOWA</prop>
+   </tok>
+   <tok>
+    <orth>PRZYJACIÓŁ</orth>
+    <lex disamb="1"><base>przyjaciel</base><ctag>subst:pl:gen:m1</ctag></lex>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_cultural">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>OZORKOWA</orth>
+    <lex disamb="1"><base>Ozorków</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="nam_eve_human_cultural">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">OZORKÓW</prop>
+   </tok>
+   <tok>
+    <orth>zaprasza</orth>
+    <lex disamb="1"><base>zapraszać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_cultural">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_cultural">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>VI</orth>
+    <lex disamb="1"><base>vi</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_cultural">1</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_eve_human_cultural:lemma">VI HISTORYCZNY SPACER PO OZORKOWIE</prop>
+   </tok>
+   <tok>
+    <orth>HISTORYCZNY</orth>
+    <lex disamb="1"><base>historyczny</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_cultural">1</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <tok>
+    <orth>SPACER</orth>
+    <lex disamb="1"><base>spacer</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_cultural">1</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <tok>
+    <orth>PO</orth>
+    <lex disamb="1"><base>po</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_cultural">1</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <tok>
+    <orth>OZORKOWIE</orth>
+    <lex disamb="1"><base>Ozorków</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_loc_gpe_city">2</ann>
+    <ann chan="nam_eve_human_cultural">1</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_loc_gpe_city:lemma">OZORKÓW</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_cultural">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>Celem</orth>
+    <lex disamb="1"><base>cel</base><ctag>subst:sg:inst:m3</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>spaceru</orth>
+    <lex disamb="1"><base>spacer</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>jest</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>zwiedzanie</orth>
+    <lex disamb="1"><base>zwiedzać</base><ctag>ger:sg:nom:n:imperf:aff</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>terenu</orth>
+    <lex disamb="1"><base>teren</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>byłych</orth>
+    <lex disamb="1"><base>były</base><ctag>adj:pl:gen:m3:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Zakładów</orth>
+    <lex disamb="1"><base>zakład</base><ctag>subst:pl:gen:m3</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_fac_goe:lemma">Zakłady Przemysłu Bawełnianego „MORFEO</prop>
+   </tok>
+   <tok>
+    <orth>Przemysłu</orth>
+    <lex disamb="1"><base>przemysł</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>Bawełnianego</orth>
+    <lex disamb="1"><base>bawełniany</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>„</orth>
+    <lex disamb="1"><base>„</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>MORFEO</orth>
+    <lex disamb="1"><base>morfeo</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>”</orth>
+    <lex disamb="1"><base>”</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent3">
+   <tok>
+    <orth>Zbiórka</orth>
+    <lex disamb="1"><base>zbiórka</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_num_house">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>przed</orth>
+    <lex disamb="1"><base>przed</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_num_house">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Miejską</orth>
+    <lex disamb="1"><base>miejski</base><ctag>adj:sg:inst:f:pos</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_num_house">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_fac_goe:lemma">Miejska Biblioteka Publiczna</prop>
+   </tok>
+   <tok>
+    <orth>Biblioteką</orth>
+    <lex disamb="1"><base>biblioteka</base><ctag>subst:sg:inst:f</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_num_house">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>Publiczną</orth>
+    <lex disamb="1"><base>publiczny</base><ctag>adj:sg:inst:f:pos</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_num_house">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>przy</orth>
+    <lex disamb="1"><base>przy</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_num_house">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>ul</orth>
+    <lex disamb="1"><base>ulica</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_num_house">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_num_house">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Listopadowej</orth>
+    <lex disamb="1"><base>listopadowy</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">1</ann>
+    <ann chan="nam_num_house">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_fac_road:lemma">listopadowy</prop>
+   </tok>
+   <tok>
+    <orth>6</orth>
+    <lex disamb="1"><base>6</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_num_house">1</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_num_house:lemma">6</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_num_house">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

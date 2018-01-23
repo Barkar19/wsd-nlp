@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>2006-12-02</orth>
+    <lex disamb="1"><base>2006-12-02</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <prop key="t3_date:lemma">2006-12-02</prop>
+    <prop key="t3_date:lemma2">2006-12-02</prop>
+    <prop key="plimex_date:lemma">2006-12-02</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>Siatkówka</orth>
+    <lex disamb="1"><base>siatkówka</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>Polska</orth>
+    <lex disamb="1"><base>Polska</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">1</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <prop key="nam_loc_gpe_country:lemma">Polska</prop>
+   </tok>
+   <tok>
+    <orth>pokonała</orth>
+    <lex disamb="1"><base>pokonać</base><ctag>praet:sg:f:perf</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>zespół</orth>
+    <lex disamb="1"><base>zespół</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>Bułgarii</orth>
+    <lex disamb="1"><base>Bułgaria</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">2</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <prop key="nam_loc_gpe_country:lemma">Bułgaria</prop>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>awansowała</orth>
+    <lex disamb="1"><base>awansować</base><ctag>praet:sg:f:perf</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>finału</orth>
+    <lex disamb="1"><base>finał</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>MŚ</orth>
+    <lex disamb="1"><base>MŚ</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">1</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <prop key="nam_eve_human_sport:lemma">MŚ</prop>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>Japonii</orth>
+    <lex disamb="1"><base>Japonia</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">3</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <prop key="nam_loc_gpe_country:lemma">Japonia</prop>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent2">
+   <tok>
+    <orth>Po</orth>
+    <lex disamb="1"><base>po</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>bardzo</orth>
+    <lex disamb="1"><base>bardzo</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>zaciętym</orth>
+    <lex disamb="1"><base>zacięty</base><ctag>adj:sg:loc:m3:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wyrównanym</orth>
+    <lex disamb="1"><base>wyrównany</base><ctag>adj:sg:loc:n:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>spotkaniu</orth>
+    <lex disamb="1"><base>spotkanie</base><ctag>subst:sg:loc:n</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Polska</orth>
+    <lex disamb="1"><base>Polska</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">1</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_loc_gpe_country:lemma">Polska</prop>
+   </tok>
+   <tok>
+    <orth>pokonała</orth>
+    <lex disamb="1"><base>pokonać</base><ctag>praet:sg:f:perf</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>zespół</orth>
+    <lex disamb="1"><base>zespół</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Bułgarii</orth>
+    <lex disamb="1"><base>Bułgaria</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">2</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_loc_gpe_country:lemma">Bułgaria</prop>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>awansowała</orth>
+    <lex disamb="1"><base>awansować</base><ctag>praet:sg:f:perf</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>finałów</orth>
+    <lex disamb="1"><base>finał</base><ctag>subst:pl:gen:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Mistrzostw</orth>
+    <lex disamb="1"><base>mistrzostwa</base><ctag>subst:pl:gen:n</ctag></lex>
+    <lex disamb="1"><base>mistrzostwo</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">1</ann>
+    <ann chan="keyword">3</ann>
+    <prop key="nam_eve_human_sport:lemma">Mistrzostwa Świata piłki siatkowej</prop>
+   </tok>
+   <tok>
+    <orth>Świata</orth>
+    <lex disamb="1"><base>świat</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">1</ann>
+    <ann chan="keyword">3</ann>
+   </tok>
+   <tok>
+    <orth>piłki</orth>
+    <lex disamb="1"><base>piłka</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">1</ann>
+    <ann chan="keyword">3</ann>
+   </tok>
+   <tok>
+    <orth>siatkowej</orth>
+    <lex disamb="1"><base>siatkowy</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">1</ann>
+    <ann chan="keyword">3</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>które</orth>
+    <lex disamb="1"><base>który</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>odbywają</orth>
+    <lex disamb="1"><base>odbywać</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Japonii</orth>
+    <lex disamb="1"><base>Japonia</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">3</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">4</ann>
+    <prop key="nam_loc_gpe_country:lemma">Japonia</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent3">
+   <tok>
+    <orth>Pomimo</orth>
+    <lex disamb="1"><base>pomimo</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>tego</orth>
+    <lex disamb="1"><base>to</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>że</orth>
+    <lex disamb="1"><base>że</base><ctag>comp</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>początek</orth>
+    <lex disamb="1"><base>początek</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>spotkania</orth>
+    <lex disamb="1"><base>spotkanie</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>kontrolowała</orth>
+    <lex disamb="1"><base>kontrolować</base><ctag>praet:sg:f:imperf</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>kadra</orth>
+    <lex disamb="1"><base>kadra</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Polski</orth>
+    <lex disamb="1"><base>Polska</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">1</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_loc_gpe_country:lemma">Polska</prop>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>drugim</orth>
+    <lex disamb="1"><base>drugi</base><ctag>adj:sg:loc:m3:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>secie</orth>
+    <lex disamb="1"><base>set</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>drużyna</orth>
+    <lex disamb="1"><base>drużyna</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Raula</orth>
+    <lex disamb="1"><base>raula</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_first">1</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_liv_person:lemma">Raul Lozano</prop>
+    <prop key="nam_liv_person_first:lemma">Raul</prop>
+   </tok>
+   <tok>
+    <orth>Lozano</orth>
+    <lex disamb="1"><base>lozano</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">1</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_liv_person_last:lemma">Lozano</prop>
+   </tok>
+   <tok>
+    <orth>prowadziła</orth>
+    <lex disamb="1"><base>prowadzić</base><ctag>praet:sg:f:imperf</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>nawet</orth>
+    <lex disamb="1"><base>nawet</base><ctag>qub</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>15</orth>
+    <lex disamb="1"><base>15</base><ctag>num:pl:nom:f:rec</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>10</orth>
+    <lex disamb="1"><base>10</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>całość</orth>
+    <lex disamb="1"><base>całość</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>meczu</orth>
+    <lex disamb="1"><base>mecz</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>była</orth>
+    <lex disamb="1"><base>być</base><ctag>praet:sg:f:imperf</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>bardzo</orth>
+    <lex disamb="1"><base>bardzo</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wyrównana</orth>
+    <lex disamb="1"><base>wyrównany</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>a</orth>
+    <lex disamb="1"><base>a</base><ctag>conj</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>emocje</orth>
+    <lex disamb="1"><base>emocja</base><ctag>subst:pl:nom:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>towarzyszyły</orth>
+    <lex disamb="1"><base>towarzyszyć</base><ctag>praet:pl:f:imperf</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>kibicom</orth>
+    <lex disamb="1"><base>kibic</base><ctag>subst:pl:dat:m1</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>ostatniej</orth>
+    <lex disamb="1"><base>ostatni</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>zagrywki</orth>
+    <lex disamb="1"><base>zagrywka</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent4">
+   <tok>
+    <orth>Polska</orth>
+    <lex disamb="1"><base>Polska</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">1</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_loc_gpe_country:lemma">Polska</prop>
+   </tok>
+   <tok>
+    <orth>jutro</orth>
+    <lex disamb="1"><base>jutro</base><ctag>adv</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="t3_date:lemma">+0000-00-01</prop>
+    <prop key="t3_date:lemma2">2006-12-03</prop>
+    <prop key="plimex_date:lemma">+0000-00-01</prop>
+   </tok>
+   <tok>
+    <orth>zagra</orth>
+    <lex disamb="1"><base>zagrać</base><ctag>fin:sg:ter:perf</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>o</orth>
+    <lex disamb="1"><base>o</base><ctag>prep:acc</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>złoty</orth>
+    <lex disamb="1"><base>złoty</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>medal</orth>
+    <lex disamb="1"><base>medal</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Mistrzostw</orth>
+    <lex disamb="1"><base>mistrzostwa</base><ctag>subst:pl:gen:n</ctag></lex>
+    <lex disamb="1"><base>mistrzostwo</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">1</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_eve_human_sport:lemma">Mistrzostwa Świata</prop>
+   </tok>
+   <tok>
+    <orth>Świata</orth>
+    <lex disamb="1"><base>świat</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">1</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>zespołem</orth>
+    <lex disamb="1"><base>zespół</base><ctag>subst:sg:inst:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Brazylii</orth>
+    <lex disamb="1"><base>Brazylia</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">2</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_loc_gpe_country:lemma">Brazylia</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>który</orth>
+    <lex disamb="1"><base>który</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dziś</orth>
+    <lex disamb="1"><base>dziś</base><ctag>adv</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">2</ann>
+    <ann chan="plimex_date">2</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="t3_date:lemma">+0000-00-00</prop>
+    <prop key="t3_date:lemma2">2006-12-02</prop>
+    <prop key="plimex_date:lemma">+0000-00-00</prop>
+   </tok>
+   <tok>
+    <orth>pokonał</orth>
+    <lex disamb="1"><base>pokonać</base><ctag>praet:sg:m1:perf</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>reprezentację</orth>
+    <lex disamb="1"><base>reprezentacja</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Serbii</orth>
+    <lex disamb="1"><base>Serbia</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">3</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_loc_gpe_country:lemma">Serbia i Czarnogóra</prop>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_loc_gpe_country">3</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <tok>
+    <orth>Czarnogóry</orth>
+    <lex disamb="1"><base>Czarnogóra</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">3</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <tok>
+    <orth>3</orth>
+    <lex disamb="1"><base>3</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent4" chan="nam_liv_person">2</from>
+   <to sent="sent4" chan="nam_org_institution">2</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent4" chan="nam_liv_person">1</from>
+   <to sent="sent4" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent7" chan="nam_loc_gpe_country">2</from>
+   <to sent="sent7" chan="nam_loc_land_continent">1</to>
+  </rel>
+</relations>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent5" chan="nam_org_organization">1</from>
+   <to sent="sent5" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent6" chan="nam_org_organization">1</from>
+   <to sent="sent6" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent8" chan="nam_org_organization">1</from>
+   <to sent="sent8" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent9" chan="nam_org_organization">1</from>
+   <to sent="sent9" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent11" chan="nam_org_organization">1</from>
+   <to sent="sent11" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent1" chan="chunk_vp">1</from>
+   <to sent="sent1" chan="chunk_np">1</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent1" chan="chunk_vp">1</from>
+   <to sent="sent1" chan="chunk_np">2</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent2" chan="chunk_np">4</from>
+   <to sent="sent2" chan="chunk_np">5</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent2" chan="chunk_np">5</from>
+   <to sent="sent2" chan="chunk_np">6</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent2" chan="chunk_np">8</from>
+   <to sent="sent2" chan="chunk_np">9</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent3" chan="chunk_vp">1</from>
+   <to sent="sent3" chan="chunk_np">1</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent9" chan="chunk_vp">1</from>
+   <to sent="sent9" chan="chunk_np">1</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent12" chan="chunk_vp">1</from>
+   <to sent="sent12" chan="chunk_np">1</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent14" chan="chunk_np">1</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent3" chan="chunk_vp">1</from>
+   <to sent="sent3" chan="chunk_np">3</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent9" chan="chunk_vp">1</from>
+   <to sent="sent9" chan="chunk_np">3</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent3" chan="chunk_vp">1</from>
+   <to sent="sent3" chan="chunk_np">2</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent9" chan="chunk_vp">1</from>
+   <to sent="sent9" chan="chunk_np">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_pro_media_periodic">1</from>
+   <to sent="sent2" chan="nam_pro_media_periodic">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent8" chan="nam_pro_media_periodic">1</from>
+   <to sent="sent2" chan="nam_pro_media_periodic">3</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent9" chan="nam_pro_media_periodic">1</from>
+   <to sent="sent2" chan="nam_pro_media_periodic">4</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent11" chan="nam_pro_media_periodic">1</from>
+   <to sent="sent2" chan="nam_pro_media_periodic">5</to>
+  </rel>
+</relations>

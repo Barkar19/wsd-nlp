@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent8" chan="anafora_wyznacznik">1</from>
+   <to sent="sent8" chan="nam_liv_person_first">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent8" chan="anafora_wyznacznik">2</from>
+   <to sent="sent8" chan="nam_liv_person_first">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent10" chan="anafora_wyznacznik">1</from>
+   <to sent="sent8" chan="nam_liv_person_first">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent10" chan="anafora_wyznacznik">2</from>
+   <to sent="sent8" chan="nam_liv_person_first">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent10" chan="anafora_wyznacznik">3</from>
+   <to sent="sent8" chan="nam_liv_person_first">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent10" chan="anafora_wyznacznik">4</from>
+   <to sent="sent8" chan="nam_liv_person_first">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent11" chan="anafora_wyznacznik">1</from>
+   <to sent="sent8" chan="nam_liv_person_first">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent12" chan="nam_liv_person_first">1</from>
+   <to sent="sent8" chan="nam_liv_person_first">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent13" chan="anafora_wyznacznik">1</from>
+   <to sent="sent8" chan="nam_liv_person_first">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent14" chan="anafora_wyznacznik">1</from>
+   <to sent="sent8" chan="nam_liv_person_first">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent16" chan="anafora_wyznacznik">1</from>
+   <to sent="sent8" chan="nam_liv_person_first">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent16" chan="anafora_wyznacznik">2</from>
+   <to sent="sent8" chan="nam_liv_person_first">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent18" chan="anafora_wyznacznik">1</from>
+   <to sent="sent8" chan="nam_liv_person_first">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent19" chan="nam_liv_person_first">1</from>
+   <to sent="sent8" chan="nam_liv_person_first">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent19" chan="anafora_wyznacznik">1</from>
+   <to sent="sent8" chan="nam_liv_person_first">1</to>
+  </rel>
+</relations>

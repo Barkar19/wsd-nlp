@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="attribute" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent2" chan="argument">1</from>
+   <to sent="sent2" chan="predykat">1</to>
+  </rel>
+ <rel name="attribute" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent2" chan="argument">2</from>
+   <to sent="sent2" chan="predykat">2</to>
+  </rel>
+ <rel name="actor" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent2" chan="predykat">3</from>
+   <to sent="sent2" chan="argument">3</to>
+  </rel>
+ <rel name="undergoer" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent2" chan="predykat">3</from>
+   <to sent="sent2" chan="argument">4</to>
+  </rel>
+ <rel name="attribute" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent2" chan="argument">5</from>
+   <to sent="sent2" chan="predykat">4</to>
+  </rel>
+ <rel name="attribute" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent3" chan="argument">1</from>
+   <to sent="sent3" chan="predykat">1</to>
+  </rel>
+ <rel name="attribute" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent4" chan="argument">1</from>
+   <to sent="sent4" chan="predykat">1</to>
+  </rel>
+ <rel name="actor" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent4" chan="predykat">2</from>
+   <to sent="sent4" chan="argument">2</to>
+  </rel>
+ <rel name="actor" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent4" chan="predykat">3</from>
+   <to sent="sent4" chan="argument">3</to>
+  </rel>
+ <rel name="agent" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent4" chan="predykat">3</from>
+   <to sent="sent4" chan="argument">3</to>
+  </rel>
+ <rel name="attribute" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent4" chan="argument">4</from>
+   <to sent="sent4" chan="predykat">4</to>
+  </rel>
+ <rel name="undergoer" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent5" chan="predykat">1</from>
+   <to sent="sent5" chan="argument">2</to>
+  </rel>
+ <rel name="undergoer" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent5" chan="predykat">1</from>
+   <to sent="sent5" chan="argument">1</to>
+  </rel>
+ <rel name="attribute" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent5" chan="argument">3</from>
+   <to sent="sent5" chan="predykat">2</to>
+  </rel>
+ <rel name="actor" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent8" chan="predykat">1</from>
+   <to sent="sent8" chan="argument">1</to>
+  </rel>
+ <rel name="undergoer" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent8" chan="predykat">1</from>
+   <to sent="sent8" chan="argument">2</to>
+  </rel>
+ <rel name="attribute" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent11" chan="argument">1</from>
+   <to sent="sent11" chan="predykat">1</to>
+  </rel>
+ <rel name="amount" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent12" chan="argument">2</from>
+   <to sent="sent12" chan="argument">1</to>
+  </rel>
+ <rel name="attribute" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent13" chan="argument">1</from>
+   <to sent="sent13" chan="predykat">1</to>
+  </rel>
+ <rel name="undergoer" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent14" chan="predykat">1</from>
+   <to sent="sent14" chan="argument">1</to>
+  </rel>
+ <rel name="actor" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent14" chan="predykat">2</from>
+   <to sent="sent14" chan="argument">2</to>
+  </rel>
+ <rel name="undergoer" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent14" chan="predykat">2</from>
+   <to sent="sent14" chan="argument">3</to>
+  </rel>
+ <rel name="patient" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent5" chan="predykat">1</from>
+   <to sent="sent5" chan="argument">1</to>
+  </rel>
+ <rel name="patient" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent5" chan="predykat">1</from>
+   <to sent="sent5" chan="argument">2</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent2" chan="spatial_indicator_3">1</from>
+   <to sent="sent2" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent2" chan="spatial_indicator_3">1</from>
+   <to sent="sent2" chan="spatial_object">2</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent4" chan="spatial_indicator_3">1</from>
+   <to sent="sent4" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent4" chan="spatial_indicator_3">1</from>
+   <to sent="sent4" chan="spatial_object">2</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent5" chan="spatial_indicator_3">1</from>
+   <to sent="sent5" chan="spatial_object">1</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent5" chan="spatial_indicator_3">1</from>
+   <to sent="sent5" chan="spatial_object">2</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent5" chan="spatial_indicator_3">1</from>
+   <to sent="sent5" chan="spatial_object">3</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent12" chan="spatial_indicator_3">1</from>
+   <to sent="sent12" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent12" chan="spatial_indicator_3">1</from>
+   <to sent="sent12" chan="spatial_object">2</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent12" chan="spatial_indicator_3">2</from>
+   <to sent="sent12" chan="spatial_object">3</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent12" chan="spatial_indicator_3">2</from>
+   <to sent="sent12" chan="spatial_object">4</to>
+  </rel>
+</relations>

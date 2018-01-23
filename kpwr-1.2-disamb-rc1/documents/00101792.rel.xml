@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent4" chan="nam_org_organization">1</from>
+   <to sent="sent4" chan="nam_org_organization">2</to>
+  </rel>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent4" chan="nam_org_political_party">1</from>
+   <to sent="sent4" chan="nam_org_political_party">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent9" chan="nam_liv_person">1</from>
+   <to sent="sent5" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent9" chan="nam_org_political_party">1</from>
+   <to sent="sent4" chan="nam_org_political_party">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_org_political_party">1</from>
+   <to sent="sent4" chan="nam_org_political_party">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent9" chan="nam_org_organization">1</from>
+   <to sent="sent4" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent5" chan="anafora_wyznacznik">2</from>
+   <to sent="sent5" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent6" chan="anafora_wyznacznik">1</from>
+   <to sent="sent4" chan="nam_org_political_party">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent5" chan="anafora_wyznacznik">1</from>
+   <to sent="sent4" chan="nam_org_political_party">1</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent9" chan="spatial_indicator_3">1</from>
+   <to sent="sent9" chan="spatial_object">2</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent9" chan="spatial_indicator_3">1</from>
+   <to sent="sent9" chan="spatial_object">1</to>
+  </rel>
+</relations>

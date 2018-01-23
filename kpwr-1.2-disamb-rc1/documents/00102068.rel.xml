@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent1" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent2" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent3" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_org_institution">1</to>
+  </rel>
+</relations>

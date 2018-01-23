@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent1" chan="anafora_wyznacznik">1</from>
+   <to sent="sent3" chan="nam_pro_media_tv">1</to>
+  </rel>
+</relations>

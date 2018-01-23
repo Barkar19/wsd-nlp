@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Uogólnienie</orth>
+    <lex disamb="1"><base>uogólnić</base><ctag>ger:sg:nom:n:perf:aff</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="action">1</ann>
+    <ann chan="state">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>klas</orth>
+    <lex disamb="1"><base>klasa</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="wsd_klasa">1</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="sense:wsd_klasa">klasa-14</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>uogólnienie</orth>
+    <lex disamb="1"><base>uogólnić</base><ctag>ger:sg:nom:n:perf:aff</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="action">2</ann>
+    <ann chan="state">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>klas</orth>
+    <lex disamb="1"><base>klasa</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="wsd_klasa">2</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_klasa">klasa-14</prop>
+   </tok>
+   <tok>
+    <orth>opiewa</orth>
+    <lex disamb="1"><base>opiewać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="action">3</ann>
+    <ann chan="state">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>definicję</orth>
+    <lex disamb="1"><base>definicja</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>klasy</orth>
+    <lex disamb="1"><base>klasa</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="wsd_klasa">3</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_klasa">klasa-14</prop>
+   </tok>
+   <tok>
+    <orth>abstrakcyjnej</orth>
+    <lex disamb="1"><base>abstrakcyjny</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>które</orth>
+    <lex disamb="1"><base>który</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>reprezentują</orth>
+    <lex disamb="1"><base>reprezentować</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>obiekty</orth>
+    <lex disamb="1"><base>obiekt</base><ctag>subst:pl:acc:m3</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>Dziedzicząc</orth>
+    <lex disamb="1"><base>dziedziczyć</base><ctag>pcon:imperf</ctag></lex>
+    <ann chan="action">1</ann>
+    <ann chan="i_state">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="action">0</ann>
+    <ann chan="i_state">0</ann>
+   </tok>
+   <tok>
+    <orth>niej</orth>
+    <lex disamb="1"><base>on</base><ctag>ppron3:sg:gen:f:ter:akc:praep</ctag></lex>
+    <ann chan="action">0</ann>
+    <ann chan="i_state">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="action">0</ann>
+    <ann chan="i_state">0</ann>
+   </tok>
+   <tok>
+    <orth>możesz</orth>
+    <lex disamb="1"><base>móc</base><ctag>fin:sg:sec:imperf</ctag></lex>
+    <ann chan="action">0</ann>
+    <ann chan="i_state">1</ann>
+   </tok>
+   <tok>
+    <orth>skonkretyzować</orth>
+    <lex disamb="1"><base>skonkretyzować</base><ctag>inf:perf</ctag></lex>
+    <ann chan="action">2</ann>
+    <ann chan="i_state">0</ann>
+   </tok>
+   <tok>
+    <orth>niektóre</orth>
+    <lex disamb="1"><base>niektóry</base><ctag>adj:pl:acc:f:pos</ctag></lex>
+    <ann chan="action">0</ann>
+    <ann chan="i_state">0</ann>
+   </tok>
+   <tok>
+    <orth>jej</orth>
+    <lex disamb="1"><base>on</base><ctag>ppron3:sg:gen:f:ter:akc:npraep</ctag></lex>
+    <ann chan="action">0</ann>
+    <ann chan="i_state">0</ann>
+   </tok>
+   <tok>
+    <orth>cechy</orth>
+    <lex disamb="1"><base>cecha</base><ctag>subst:pl:acc:f</ctag></lex>
+    <ann chan="action">0</ann>
+    <ann chan="i_state">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="action">0</ann>
+    <ann chan="i_state">0</ann>
+   </tok>
+   <tok>
+    <orth>zachowania</orth>
+    <lex disamb="1"><base>zachowanie</base><ctag>subst:pl:acc:n</ctag></lex>
+    <ann chan="action">3</ann>
+    <ann chan="i_state">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="action">0</ann>
+    <ann chan="i_state">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent3">
+   <tok>
+    <orth>Metoda</orth>
+    <lex disamb="1"><base>metoda</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>abstrakcyjna</orth>
+    <lex disamb="1"><base>abstrakcyjny</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>służy</orth>
+    <lex disamb="1"><base>służyć</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="action">1</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>określenia</orth>
+    <lex disamb="1"><base>określić</base><ctag>ger:sg:gen:n:perf:aff</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="action">2</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>interfejsu</orth>
+    <lex disamb="1"><base>interfejs</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>lecz</orth>
+    <lex disamb="1"><base>lecz</base><ctag>conj</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>posiada</orth>
+    <lex disamb="1"><base>posiadać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="wsd_posiadać">1</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">1</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_posiadać">posiadać-2</prop>
+   </tok>
+   <tok>
+    <orth>ciała</orth>
+    <lex disamb="1"><base>ciało</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>metody</orth>
+    <lex disamb="1"><base>metoda</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>więc</orth>
+    <lex disamb="1"><base>więc</base><ctag>conj</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>można</orth>
+    <lex disamb="1"><base>można</base><ctag>pred</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>jej</orth>
+    <lex disamb="1"><base>on</base><ctag>ppron3:sg:gen:f:ter:akc:npraep</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wywołać</orth>
+    <lex disamb="1"><base>wywołać</base><ctag>inf:perf</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="action">3</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent4">
+   <tok>
+    <orth>Klasa</orth>
+    <lex disamb="1"><base>klasa</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="wsd_klasa">1</ann>
+    <prop key="sense:wsd_klasa">klasa-14</prop>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+   </tok>
+   <tok>
+    <orth>metodą</orth>
+    <lex disamb="1"><base>metoda</base><ctag>subst:sg:inst:f</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+   </tok>
+   <tok>
+    <orth>abstrakcyjną</orth>
+    <lex disamb="1"><base>abstrakcyjny</base><ctag>adj:sg:inst:f:pos</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+   </tok>
+   <tok>
+    <orth>jest</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+   </tok>
+   <tok>
+    <orth>również</orth>
+    <lex disamb="1"><base>również</base><ctag>qub</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+   </tok>
+   <tok>
+    <orth>abstrakcyjna</orth>
+    <lex disamb="1"><base>abstrakcyjny</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent5">
+   <tok>
+    <orth>Przykład</orth>
+    <lex disamb="1"><base>przykład</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>Nie</orth>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>stworzymy</orth>
+    <lex disamb="1"><base>stworzyć</base><ctag>fin:pl:pri:perf</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="action">1</ann>
+   </tok>
+   <tok>
+    <orth>obiektu</orth>
+    <lex disamb="1"><base>obiekt</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>klasy</orth>
+    <lex disamb="1"><base>klasa</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="wsd_klasa">1</ann>
+    <ann chan="action">0</ann>
+    <prop key="sense:wsd_klasa">klasa-14</prop>
+   </tok>
+   <tok>
+    <orth>Zwierze</orth>
+    <lex disamb="1"><base>zwierzy</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>bo</orth>
+    <lex disamb="1"><base>bo</base><ctag>comp</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>zwierzę</orth>
+    <lex disamb="1"><base>zwierzę</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>jest</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>bytem</orth>
+    <lex disamb="1"><base>byt</base><ctag>subst:sg:inst:m3</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>dosyć</orth>
+    <lex disamb="1"><base>dosyć</base><ctag>qub</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>abstrakcyjnym</orth>
+    <lex disamb="1"><base>abstrakcyjny</base><ctag>adj:sg:inst:m3:pos</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent6">
+   <tok>
+    <orth>Możemy</orth>
+    <lex disamb="1"><base>móc</base><ctag>fin:pl:pri:imperf</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="i_state">1</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>wszystkie</orth>
+    <lex disamb="1"><base>wszystek</base><ctag>adj:pl:acc:m3:pos</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>obiekty</orth>
+    <lex disamb="1"><base>obiekt</base><ctag>subst:pl:acc:m3</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>traktować</orth>
+    <lex disamb="1"><base>traktować</base><ctag>inf:imperf</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">1</ann>
+   </tok>
+   <tok>
+    <orth>jako</orth>
+    <lex disamb="1"><base>jako</base><ctag>conj</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>zwierzęta</orth>
+    <lex disamb="1"><base>zwierzę</base><ctag>subst:pl:acc:n</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>ale</orth>
+    <lex disamb="1"><base>ale</base><ctag>conj</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>tak</orth>
+    <lex disamb="1"><base>tak</base><ctag>adv:pos</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>naprawdę</orth>
+    <lex disamb="1"><base>naprawdę</base><ctag>qub</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>są</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>one</orth>
+    <lex disamb="1"><base>on</base><ctag>ppron3:pl:nom:f:ter:akc:npraep</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>instancjami</orth>
+    <lex disamb="1"><base>instancja</base><ctag>subst:pl:inst:f</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>innych</orth>
+    <lex disamb="1"><base>inny</base><ctag>adj:pl:gen:f:pos</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>klas</orth>
+    <lex disamb="1"><base>klasa</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="wsd_klasa">1</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+    <prop key="sense:wsd_klasa">klasa-14</prop>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>np</orth>
+    <lex disamb="1"><base>na przykład</base><ctag>brev:pun</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>Pies</orth>
+    <lex disamb="1"><base>pies</base><ctag>subst:sg:nom:m2</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_klasa">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

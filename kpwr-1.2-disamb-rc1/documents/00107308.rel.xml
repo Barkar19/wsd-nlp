@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent11" chan="nam_eve_human_sport">1</from>
+   <to sent="sent11" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent15" chan="nam_liv_person">1</from>
+   <to sent="sent15" chan="nam_org_group_team">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent21" chan="nam_liv_person">1</from>
+   <to sent="sent21" chan="nam_org_group_team">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent32" chan="nam_liv_person">1</from>
+   <to sent="sent32" chan="nam_org_group_team">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent33" chan="nam_liv_person">1</from>
+   <to sent="sent33" chan="nam_org_group_team">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent35" chan="nam_liv_person">1</from>
+   <to sent="sent35" chan="nam_org_group_team">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent47" chan="nam_liv_person">1</from>
+   <to sent="sent47" chan="nam_org_group_team">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent49" chan="nam_liv_person">1</from>
+   <to sent="sent49" chan="nam_org_group_team">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent52" chan="nam_liv_person">1</from>
+   <to sent="sent52" chan="nam_org_group_team">2</to>
+  </rel>
+</relations>

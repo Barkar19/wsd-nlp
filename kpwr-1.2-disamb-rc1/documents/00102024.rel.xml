@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent2" chan="nam_org_organization">3</from>
+   <to sent="sent2" chan="nam_org_organization">2</to>
+  </rel>
+</relations>

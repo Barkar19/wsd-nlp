@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="origin" set="Semantic relations">
+   <from sent="sent5" chan="nam_liv_person">1</from>
+   <to sent="sent5" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="origin" set="Semantic relations">
+   <from sent="sent5" chan="nam_liv_person">1</from>
+   <to sent="sent5" chan="nam_loc_gpe_city">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent4" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_liv_person">1</from>
+   <to sent="sent4" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_loc_gpe_city">2</from>
+   <to sent="sent4" chan="nam_loc_gpe_city">2</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent5" chan="spatial_indicator_3">1</from>
+   <to sent="sent5" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent5" chan="spatial_indicator_3">1</from>
+   <to sent="sent5" chan="spatial_object">2</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent5" chan="spatial_indicator_3">2</from>
+   <to sent="sent5" chan="spatial_object">3</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent5" chan="spatial_indicator_3">2</from>
+   <to sent="sent5" chan="spatial_object">4</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent8" chan="spatial_indicator_3">1</from>
+   <to sent="sent8" chan="spatial_object">2</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent8" chan="spatial_indicator_3">1</from>
+   <to sent="sent8" chan="spatial_object">1</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent10" chan="spatial_indicator_3">1</from>
+   <to sent="sent10" chan="spatial_object">2</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent10" chan="spatial_indicator_3">1</from>
+   <to sent="sent10" chan="spatial_object">1</to>
+  </rel>
+</relations>

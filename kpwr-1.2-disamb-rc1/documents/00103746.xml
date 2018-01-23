@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>GROTNIKI</orth>
+    <lex disamb="1"><base>grotniki</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">GROTNIKI</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>X</orth>
+    <lex disamb="1"><base>ksiądz</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>książę</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human">1</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_eve_human:lemma">X Festyn Parafialny</prop>
+   </tok>
+   <tok>
+    <orth>Festyn</orth>
+    <lex disamb="1"><base>festyn</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human">1</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <tok>
+    <orth>Parafialny</orth>
+    <lex disamb="1"><base>parafialny</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human">1</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent2">
+   <tok>
+    <orth>Wystąpią</orth>
+    <lex disamb="1"><base>wystąpić</base><ctag>fin:pl:ter:perf</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>m.in</orth>
+    <lex disamb="1"><base>m.in</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Krzysztof</orth>
+    <lex disamb="1"><base>Krzysztof</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_first">1</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_liv_person:lemma">Krzysztof Krawczyk</prop>
+    <prop key="nam_liv_person_first:lemma">Krzysztof</prop>
+   </tok>
+   <tok>
+    <orth>Krawczyk</orth>
+    <lex disamb="1"><base>Krawczyk</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <lex disamb="1"><base>krawczyk</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_liv_person_last:lemma">Krawczyk</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Andrzej</orth>
+    <lex disamb="1"><base>Andrzej</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person">2</ann>
+    <ann chan="nam_liv_person_first">2</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_liv_person:lemma">Andrzej Grabowski</prop>
+    <prop key="nam_liv_person_first:lemma">Andrzej</prop>
+   </tok>
+   <tok>
+    <orth>Grabowski</orth>
+    <lex disamb="1"><base>Grabowski</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person">2</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">2</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_liv_person_last:lemma">Grabowski</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Krzysztof</orth>
+    <lex disamb="1"><base>Krzysztof</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person">3</ann>
+    <ann chan="nam_liv_person_first">3</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_liv_person:lemma">Krzysztof J Krawczyk</prop>
+    <prop key="nam_liv_person_first:lemma">Krzysztof</prop>
+   </tok>
+   <tok>
+    <orth>J</orth>
+    <lex disamb="1"><base>j</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person">3</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Krawczyk</orth>
+    <lex disamb="1"><base>Krawczyk</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <lex disamb="1"><base>krawczyk</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person">3</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">3</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_liv_person_last:lemma">Krawczyk</prop>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Aleksandrowa</orth>
+    <lex disamb="1"><base>Aleksandrów</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_loc_gpe_city:lemma">Aleksandrów</prop>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>inni</orth>
+    <lex disamb="1"><base>inny</base><ctag>adj:pl:nom:m1:pos</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

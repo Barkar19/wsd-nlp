@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Warstwami</orth>
+    <lex disamb="1"><base>warstwa</base><ctag>subst:pl:inst:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>infrastruktury</orth>
+    <lex disamb="1"><base>infrastruktura</base><ctag>subst:sg:gen:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>informatycznej</orth>
+    <lex disamb="1"><base>informatyczny</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>organizacji</orth>
+    <lex disamb="1"><base>organizacja</base><ctag>subst:sg:gen:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>są</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:pl:ter:imperf</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent2">
+   <tok>
+    <orth>infrastruktury</orth>
+    <lex disamb="1"><base>infrastruktura</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>sprzętowej</orth>
+    <lex disamb="1"><base>sprzętowy</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>sieć</orth>
+    <lex disamb="1"><base>sieć</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>komputerowa</orth>
+    <lex disamb="1"><base>komputerowy</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>drukarki</orth>
+    <lex disamb="1"><base>drukarka</base><ctag>subst:pl:nom:f</ctag></lex>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <tok>
+    <orth>itp</orth>
+    <lex disamb="1"><base>itp</base><ctag>brev:pun</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>;</orth>
+    <lex disamb="1"><base>;</base><ctag>interp</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>oprogramowania</orth>
+    <lex disamb="1"><base>oprogramowanie</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>podstawowego</orth>
+    <lex disamb="1"><base>podstawowy</base><ctag>adj:sg:gen:n:pos</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>systemy</orth>
+    <lex disamb="1"><base>system</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <ann chan="keyword">3</ann>
+   </tok>
+   <tok>
+    <orth>operacyjne</orth>
+    <lex disamb="1"><base>operacyjny</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+    <ann chan="keyword">3</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>systemy</orth>
+    <lex disamb="1"><base>system</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <ann chan="keyword">4</ann>
+   </tok>
+   <tok>
+    <orth>bazodanowe</orth>
+    <lex disamb="1"><base>bazodanowe</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <ann chan="keyword">4</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>kompilatory</orth>
+    <lex disamb="1"><base>kompilator</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <ann chan="keyword">5</ann>
+   </tok>
+   <tok>
+    <orth>języków</orth>
+    <lex disamb="1"><base>język</base><ctag>subst:pl:gen:m3</ctag></lex>
+    <ann chan="keyword">5</ann>
+   </tok>
+   <tok>
+    <orth>itp</orth>
+    <lex disamb="1"><base>itp</base><ctag>brev:pun</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>;</orth>
+    <lex disamb="1"><base>;</base><ctag>interp</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>oprogramowania</orth>
+    <lex disamb="1"><base>oprogramowanie</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="keyword">6</ann>
+   </tok>
+   <tok>
+    <orth>aplikacyjnego</orth>
+    <lex disamb="1"><base>aplikacyjny</base><ctag>adj:sg:gen:n:pos</ctag></lex>
+    <ann chan="keyword">6</ann>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>systemy</orth>
+    <lex disamb="1"><base>systema</base><ctag>subst:pl:nom:f</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>pracy</orth>
+    <lex disamb="1"><base>praca</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>biurowej</orth>
+    <lex disamb="1"><base>biurowy</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>systemy</orth>
+    <lex disamb="1"><base>system</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wspomagania</orth>
+    <lex disamb="1"><base>wspomagać</base><ctag>ger:sg:gen:n:imperf:aff</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>zarządzaniem</orth>
+    <lex disamb="1"><base>zarządzać</base><ctag>ger:sg:inst:n:imperf:aff</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>klasy</orth>
+    <lex disamb="1"><base>klasa</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="keyword">7</ann>
+   </tok>
+   <tok>
+    <orth>ERP</orth>
+    <lex disamb="1"><base>erp</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="keyword">7</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>np</orth>
+    <lex disamb="1"><base>na przykład</base><ctag>brev:pun</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>SAP</orth>
+    <lex disamb="1"><base>sap</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="keyword">8</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Oracle</orth>
+    <lex disamb="1"><base>oracle</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="keyword">9</ann>
+   </tok>
+   <tok>
+    <orth>Applications</orth>
+    <lex disamb="1"><base>applications</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="keyword">9</ann>
+   </tok>
+   <tok>
+    <orth>itp</orth>
+    <lex disamb="1"><base>itp</base><ctag>brev:pun</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>itp</orth>
+    <lex disamb="1"><base>itp</base><ctag>brev:pun</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="composition" set="Semantic relations">
+   <from sent="sent2" chan="nam_loc_gpe_subdivision">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent2" chan="nam_loc_gpe_subdivision">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_subdivision">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent2" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent3" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_subdivision">1</to>
+  </rel>
+</relations>

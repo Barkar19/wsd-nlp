@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent3" chan="chunk_vp">1</from>
+   <to sent="sent3" chan="chunk_np">1</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent3" chan="chunk_vp">1</from>
+   <to sent="sent3" chan="chunk_np">2</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent3" chan="chunk_vp">2</from>
+   <to sent="sent3" chan="chunk_np">3</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent3" chan="chunk_vp">3</from>
+   <to sent="sent3" chan="chunk_np">4</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent3" chan="chunk_vp">3</from>
+   <to sent="sent3" chan="chunk_np">5</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent2" chan="nam_eve_human_sport">1</from>
+   <to sent="sent1" chan="nam_eve_human_sport">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent2" chan="nam_loc_land_continent">1</from>
+   <to sent="sent1" chan="nam_loc_land_continent">1</to>
+  </rel>
+</relations>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent3" chan="nam_liv_person">1</from>
+   <to sent="sent3" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent3" chan="nam_liv_person">2</from>
+   <to sent="sent3" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent3" chan="nam_liv_person">3</from>
+   <to sent="sent3" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent3" chan="nam_liv_person">4</from>
+   <to sent="sent3" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent3" chan="nam_liv_person">5</from>
+   <to sent="sent3" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent3" chan="nam_liv_person">6</from>
+   <to sent="sent3" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="creator" set="Semantic relations">
+   <from sent="sent6" chan="nam_org_institution">1</from>
+   <to sent="sent6" chan="nam_pro_title_document">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent5" chan="nam_pro_title_document">1</from>
+   <to sent="sent5" chan="nam_pro_media_periodic">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent6" chan="nam_pro_title_document">1</from>
+   <to sent="sent6" chan="nam_pro_media_periodic">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent8" chan="nam_pro_title_document">1</from>
+   <to sent="sent8" chan="nam_pro_media_periodic">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent8" chan="nam_pro_media_periodic">1</from>
+   <to sent="sent5" chan="nam_pro_media_periodic">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent6" chan="nam_pro_media_periodic">1</from>
+   <to sent="sent5" chan="nam_pro_media_periodic">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent3" chan="nam_org_institution">1</from>
+   <to sent="sent2" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent6" chan="nam_org_institution">1</from>
+   <to sent="sent4" chan="nam_org_institution">2</to>
+  </rel>
+</relations>

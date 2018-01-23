@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Bowridge</orth>
+    <lex disamb="1"><base>bowridge</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Bowridge Hill</prop>
+   </tok>
+   <tok>
+    <orth>Hill</orth>
+    <lex disamb="1"><base>Hill</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_loc_gpe_city">1</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent2">
+   <tok>
+    <orth>Bowridge</orth>
+    <lex disamb="1"><base>bowridge</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Bowridge Hill</prop>
+   </tok>
+   <tok>
+    <orth>Hill</orth>
+    <lex disamb="1"><base>Hill</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>–</orth>
+    <lex disamb="1"><base>–</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wieś</orth>
+    <lex disamb="1"><base>wieś</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="spatial_object">1</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Anglii</orth>
+    <lex disamb="1"><base>Anglia</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">1</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="spatial_object">2</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_loc_gpe_admin1:lemma">Anglia</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>hrabstwie</orth>
+    <lex disamb="1"><base>hrabstwo</base><ctag>subst:sg:loc:n</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">3</ann>
+   </tok>
+   <tok>
+    <orth>Dorset</orth>
+    <lex disamb="1"><base>dorset</base><ctag>subst:sg:loc:n</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">1</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">3</ann>
+    <prop key="nam_loc_gpe_admin2:lemma">Dorset</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent3">
+   <tok>
+    <orth>Leży</orth>
+    <lex disamb="1"><base>leż</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex disamb="1"><base>leża</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zachód">0</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+    <ann chan="spatial_object">1</ann>
+    <ann chan="distance">0</ann>
+    <ann chan="direction">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="anafora_verb_null">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>41</orth>
+    <lex disamb="1"><base>41</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zachód">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="distance">1</ann>
+    <ann chan="direction">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>km</orth>
+    <lex disamb="1"><base>kilometr</base><ctag>brev:npun</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zachód">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="distance">1</ann>
+    <ann chan="direction">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zachód">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="distance">0</ann>
+    <ann chan="direction">1</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>północ</orth>
+    <lex disamb="1"><base>północ</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zachód">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="distance">0</ann>
+    <ann chan="direction">1</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>od</orth>
+    <lex disamb="1"><base>od</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zachód">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="distance">0</ann>
+    <ann chan="direction">0</ann>
+    <ann chan="spatial_indicator_3">1</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>miasta</orth>
+    <lex disamb="1"><base>miasto</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zachód">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="spatial_object">2</ann>
+    <ann chan="distance">0</ann>
+    <ann chan="direction">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Dorchester</orth>
+    <lex disamb="1"><base>dorchester</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="wsd_zachód">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="distance">0</ann>
+    <ann chan="direction">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Dorchester</prop>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zachód">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="distance">0</ann>
+    <ann chan="direction">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>158</orth>
+    <lex disamb="1"><base>158</base><ctag>num:pl:acc:m3:rec</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zachód">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="distance">2</ann>
+    <ann chan="direction">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>km</orth>
+    <lex disamb="1"><base>kilometr</base><ctag>brev:npun</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zachód">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="distance">2</ann>
+    <ann chan="direction">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zachód">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="distance">0</ann>
+    <ann chan="direction">2</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>zachód</orth>
+    <lex disamb="1"><base>zachód</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zachód">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="distance">0</ann>
+    <ann chan="direction">2</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_zachód">zachód-3</prop>
+   </tok>
+   <tok>
+    <orth>od</orth>
+    <lex disamb="1"><base>od</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zachód">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="distance">0</ann>
+    <ann chan="direction">0</ann>
+    <ann chan="spatial_indicator_3">2</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Londynu</orth>
+    <lex disamb="1"><base>Londyn</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">2</ann>
+    <ann chan="wsd_zachód">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="spatial_object">3</ann>
+    <ann chan="distance">0</ann>
+    <ann chan="direction">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_loc_gpe_city:lemma">Londyn</prop>
+   </tok>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zachód">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="distance">0</ann>
+    <ann chan="direction">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

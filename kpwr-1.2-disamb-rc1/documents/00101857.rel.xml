@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="creator" set="Semantic relations">
+   <from sent="sent6" chan="nam_liv_person">1</from>
+   <to sent="sent6" chan="nam_pro_media_web">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent4" chan="nam_liv_person">1</from>
+   <to sent="sent3" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_liv_person">1</from>
+   <to sent="sent3" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_pro_media_web">1</from>
+   <to sent="sent4" chan="nam_pro_media_web">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent6" chan="nam_pro_media_web">1</from>
+   <to sent="sent4" chan="nam_pro_media_web">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent6" chan="nam_pro_media_web">2</from>
+   <to sent="sent4" chan="nam_pro_media_web">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent7" chan="nam_pro_media_web">1</from>
+   <to sent="sent4" chan="nam_pro_media_web">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent8" chan="nam_pro_media_web">1</from>
+   <to sent="sent4" chan="nam_pro_media_web">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent11" chan="nam_pro_media_web">1</from>
+   <to sent="sent4" chan="nam_pro_media_web">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent11" chan="nam_pro_media_web">2</from>
+   <to sent="sent4" chan="nam_pro_media_web">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent10" chan="nam_pro_media_web">1</from>
+   <to sent="sent9" chan="nam_pro_media_web">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent10" chan="anafora_wyznacznik">1</from>
+   <to sent="sent9" chan="nam_pro_media_web">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent4" chan="anafora_wyznacznik">1</from>
+   <to sent="sent4" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent6" chan="anafora_wyznacznik">1</from>
+   <to sent="sent6" chan="nam_liv_person">1</to>
+  </rel>
+</relations>

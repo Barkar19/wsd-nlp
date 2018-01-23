@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Firma</orth>
+    <lex disamb="1"><base>firma</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>Software</orth>
+    <lex disamb="1"><base>software</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_org_company:lemma">Software Wydawnictwo</prop>
+   </tok>
+   <tok>
+    <orth>Wydawnictwo</orth>
+    <lex disamb="1"><base>wydawnictwo</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>już</orth>
+    <lex disamb="1"><base>już</base><ctag>qub</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>raz</orth>
+    <lex disamb="1"><base>raz</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>zaskakiwała</orth>
+    <lex disamb="1"><base>zaskakiwać</base><ctag>praet:sg:f:imperf</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="action">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>nas</orth>
+    <lex disamb="1"><base>my</base><ctag>ppron12:pl:acc:m1:pri</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>swoimi</orth>
+    <lex disamb="1"><base>swój</base><ctag>adj:pl:inst:n:pos</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>poczynaniami</orth>
+    <lex disamb="1"><base>poczynania</base><ctag>subst:pl:inst:n</ctag></lex>
+    <lex disamb="1"><base>poczynanie</base><ctag>subst:pl:inst:n</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="action">2</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>Od</orth>
+    <lex disamb="1"><base>od</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>kiedy</orth>
+    <lex disamb="1"><base>kiedy</base><ctag>adv</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>sieci</orth>
+    <lex disamb="1"><base>sieć</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>pojawił</orth>
+    <lex disamb="1"><base>pojawić</base><ctag>praet:sg:m3:perf</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">1</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>pierwszy</orth>
+    <lex disamb="1"><base>pierwszy</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>darmowy</orth>
+    <lex disamb="1"><base>darmowy</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>numer</orth>
+    <lex disamb="1"><base>numer</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>magazyny</orth>
+    <lex disamb="1"><base>magazyn</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Linux</orth>
+    <lex disamb="1"><base>linux</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_pro_media_periodic">1</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_pro_media_periodic:lemma">Linux+</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>+</orth>
+    <lex disamb="1"><base>+</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">1</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>firma</orth>
+    <lex disamb="1"><base>firma</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>ogłosiła</orth>
+    <lex disamb="1"><base>ogłosić</base><ctag>praet:sg:f:perf</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">1</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>że</orth>
+    <lex disamb="1"><base>że</base><ctag>comp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>każdy</orth>
+    <lex disamb="1"><base>każdy</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>kolejny</orth>
+    <lex disamb="1"><base>kolejny</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>będzie</orth>
+    <lex disamb="1"><base>być</base><ctag>bedzie:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>taki</orth>
+    <lex disamb="1"><base>taki</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>rezygnując</orth>
+    <lex disamb="1"><base>rezygnować</base><ctag>pcon:imperf</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">1</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wydań</orth>
+    <lex disamb="1"><base>wydanie</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">2</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>drukowanych</orth>
+    <lex disamb="1"><base>drukować</base><ctag>ppas:pl:gen:n:imperf:aff</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">3</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wielu</orth>
+    <lex disamb="1"><base>wiele</base><ctag>num:pl:gen:n:congr</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>ogarnęło</orth>
+    <lex disamb="1"><base>ogarnąć</base><ctag>praet:sg:n:perf</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">4</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>zadowolenie</orth>
+    <lex disamb="1"><base>zadowolenie</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">1</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>szczególnie</orth>
+    <lex disamb="1"><base>szczególnie</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>że</orth>
+    <lex disamb="1"><base>że</base><ctag>comp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">1</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>kieszeni</orth>
+    <lex disamb="1"><base>kieszenia</base><ctag>subst:sg:loc:f</ctag></lex>
+    <lex disamb="1"><base>kieszeń</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>zostaje</orth>
+    <lex disamb="1"><base>zostawać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">2</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>25</orth>
+    <lex disamb="1"><base>25</base><ctag>num:pl:acc:m2:rec</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>złotych</orth>
+    <lex disamb="1"><base>złoty</base><ctag>subst:pl:gen:m2</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">1</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">2</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_oth_currency:lemma">złoty</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent3">
+   <tok>
+    <orth>Ale</orth>
+    <lex disamb="1"><base>ale</base><ctag>conj</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>tym</orth>
+    <lex disamb="1"><base>to</base><ctag>subst:sg:loc:n</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>skończyło</orth>
+    <lex disamb="1"><base>skończyć</base><ctag>praet:sg:n:perf</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">1</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>bo</orth>
+    <lex disamb="1"><base>bo</base><ctag>comp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>oto</orth>
+    <lex disamb="1"><base>oto</base><ctag>qub</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>pojawiały</orth>
+    <lex disamb="1"><base>pojawiać</base><ctag>praet:pl:m3:imperf</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>kolejne</orth>
+    <lex disamb="1"><base>kolejny</base><ctag>adj:pl:nom:n:pos</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>darmowe</orth>
+    <lex disamb="1"><base>darmowy</base><ctag>adj:pl:nom:n:pos</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wydania</orth>
+    <lex disamb="1"><base>wydanie</base><ctag>subst:pl:nom:n</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">2</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>innych</orth>
+    <lex disamb="1"><base>inny</base><ctag>adj:pl:gen:n:pos</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>czasopism</orth>
+    <lex disamb="1"><base>czasopismo</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>jak</orth>
+    <lex disamb="1"><base>jak</base><ctag>prep:nom</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Software</orth>
+    <lex disamb="1"><base>software</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_pro_media_periodic">1</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_pro_media_periodic:lemma">Software Developer's Journal</prop>
+   </tok>
+   <tok>
+    <orth>Developer's</orth>
+    <lex disamb="1"><base>developer's</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_pro_media_periodic">1</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>Journal</orth>
+    <lex disamb="1"><base>journal</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_pro_media_periodic">1</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>czy</orth>
+    <lex disamb="1"><base>czy</base><ctag>conj</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>archiwalne</orth>
+    <lex disamb="1"><base>archiwalny</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>numery</orth>
+    <lex disamb="1"><base>numer</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Linux</orth>
+    <lex disamb="1"><base>linux</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_pro_media_periodic">2</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_pro_media_periodic:lemma">Linux+</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>+</orth>
+    <lex disamb="1"><base>+</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">2</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Software</orth>
+    <lex disamb="1"><base>software</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_pro_media_periodic">3</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_pro_media_periodic:lemma">Software Developer's Journal</prop>
+   </tok>
+   <tok>
+    <orth>Developer's</orth>
+    <lex disamb="1"><base>developer's</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_pro_media_periodic">3</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Journal</orth>
+    <lex disamb="1"><base>journal</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_pro_media_periodic">3</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>czy</orth>
+    <lex disamb="1"><base>czy</base><ctag>conj</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Hakin9</orth>
+    <lex disamb="1"><base>hakin9</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_pro_media_periodic">4</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_pro_media_periodic:lemma">Hakin9</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="aspectual">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

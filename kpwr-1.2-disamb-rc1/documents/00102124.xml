@@ -1,0 +1,1434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Dzień</orth>
+    <lex disamb="1"><base>dzień</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_eve_human_holiday">1</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="wsd_dzień">1</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="sense:wsd_dzień">dzień-3</prop>
+    <prop key="nam_eve_human_holiday:lemma">Dzień Niepodległości Stanów Zjednoczonych</prop>
+   </tok>
+   <tok>
+    <orth>Niepodległości</orth>
+    <lex disamb="1"><base>niepodległość</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_eve_human_holiday">1</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>Stanów</orth>
+    <lex disamb="1"><base>Stany</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="nam_eve_human_holiday">1</ann>
+    <ann chan="nam_loc_gpe_country">1</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_loc_gpe_country:lemma">Stany Zjednoczone</prop>
+   </tok>
+   <tok>
+    <orth>Zjednoczonych</orth>
+    <lex disamb="1"><base>zjednoczyć</base><ctag>ppas:pl:gen:n:perf:aff</ctag></lex>
+    <ann chan="nam_eve_human_holiday">1</ann>
+    <ann chan="nam_loc_gpe_country">1</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>uczcili</orth>
+    <lex disamb="1"><base>uczcić</base><ctag>praet:pl:m1:perf</ctag></lex>
+    <ann chan="nam_eve_human_holiday">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>śmy</orth>
+    <lex disamb="1"><base>być</base><ctag>aglt:pl:pri:imperf:nwok</ctag></lex>
+    <ann chan="nam_eve_human_holiday">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>całodzienną</orth>
+    <lex disamb="1"><base>całodzienny</base><ctag>adj:sg:inst:f:pos</ctag></lex>
+    <ann chan="nam_eve_human_holiday">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="t3_duration">1</ann>
+    <ann chan="plimex_duration">1</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="t3_duration:lemma">P1D</prop>
+    <prop key="t3_duration:lemma2">P1D</prop>
+    <prop key="plimex_duration:lemma">P1D</prop>
+   </tok>
+   <tok>
+    <orth>zabawą</orth>
+    <lex disamb="1"><base>zabawa</base><ctag>subst:sg:inst:f</ctag></lex>
+    <ann chan="nam_eve_human_holiday">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>modelami</orth>
+    <lex disamb="1"><base>model</base><ctag>subst:pl:inst:m1</ctag></lex>
+    <ann chan="nam_eve_human_holiday">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_eve_human_holiday">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>Większa</orth>
+    <lex disamb="1"><base>duży</base><ctag>adj:sg:nom:f:com</ctag></lex>
+    <lex disamb="1"><base>wielki</base><ctag>adj:sg:nom:f:com</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_duży">1</ann>
+    <ann chan="wsd_wielki">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>część</orth>
+    <lex disamb="1"><base>część</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>spotkania</orth>
+    <lex disamb="1"><base>spotkanie</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>upłynęła</orth>
+    <lex disamb="1"><base>upłynąć</base><ctag>praet:sg:f:perf</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>zmaganiach</orth>
+    <lex disamb="1"><base>zmagania</base><ctag>subst:pl:loc:n</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Huberta</orth>
+    <lex disamb="1"><base>Hubert</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="nam_liv_person_first">1</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_liv_person_first:lemma">Hubert</prop>
+    <prop key="nam_liv_person:lemma">Hubert</prop>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Jarka</orth>
+    <lex disamb="1"><base>Jarek</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="nam_liv_person_first">2</ann>
+    <ann chan="nam_liv_person">2</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_liv_person_first:lemma">Jarek</prop>
+    <prop key="nam_liv_person:lemma">Jarek</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>jeżdzących</orth>
+    <lex disamb="1"><base>jeżdzących</base><ctag>subst:sg:inst:m1</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dwoma</orth>
+    <lex disamb="1"><base>dwa</base><ctag>num:pl:inst:m1:congr</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Jamminami</orth>
+    <lex disamb="1"><base>jamminami</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="nam_pro_model_car">1</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_org_company:lemma">Jammin</prop>
+    <prop key="nam_pro_model_car:lemma">Jammin CRT.5</prop>
+   </tok>
+   <tok>
+    <orth>CRT</orth>
+    <lex disamb="1"><base>crt</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">1</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">1</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>5</orth>
+    <lex disamb="1"><base>5</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">1</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent3">
+   <tok>
+    <orth>Dorota</orth>
+    <lex disamb="1"><base>Dorota</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_first">1</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_liv_person:lemma">Dorota</prop>
+    <prop key="nam_liv_person_first:lemma">Dorota</prop>
+   </tok>
+   <tok>
+    <orth>jeździła</orth>
+    <lex disamb="1"><base>jeździć</base><ctag>praet:sg:f:imperf</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Ofną</orth>
+    <lex disamb="1"><base>ofną</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_pro_brand">1</ann>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_pro_brand:lemma">Ofna Hyper 7</prop>
+    <prop key="nam_org_company:lemma">Ofna</prop>
+   </tok>
+   <tok>
+    <orth>Hyper</orth>
+    <lex disamb="1"><base>hyper</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_pro_brand">1</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>7</orth>
+    <lex disamb="1"><base>7</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_pro_brand">1</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>która</orth>
+    <lex disamb="1"><base>który</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>po</orth>
+    <lex disamb="1"><base>po</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>przeprowadzonej</orth>
+    <lex disamb="1"><base>przeprowadzić</base><ctag>ppas:sg:loc:f:perf:aff</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>niedawno</orth>
+    <lex disamb="1"><base>niedawno</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>operacji</orth>
+    <lex disamb="1"><base>operacja</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>uszczelniania</orth>
+    <lex disamb="1"><base>uszczelniać</base><ctag>ger:sg:gen:n:imperf:aff</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>silnika</orth>
+    <lex disamb="1"><base>silnik</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>sprawowała</orth>
+    <lex disamb="1"><base>sprawować</base><ctag>praet:sg:f:imperf</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+    <ann chan="anafora_verb_null_in">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>doskonale</orth>
+    <lex disamb="1"><base>doskonale</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent4">
+   <tok>
+    <orth>Poza</orth>
+    <lex disamb="1"><base>poza</base><ctag>prep:inst</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="wsd_krótki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+   </tok>
+   <tok>
+    <orth>tym</orth>
+    <lex disamb="1"><base>to</base><ctag>subst:sg:inst:n</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="wsd_krótki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+   </tok>
+   <tok>
+    <orth>Hubert</orth>
+    <lex disamb="1"><base>Hubert</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person_first">1</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="wsd_krótki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <prop key="nam_liv_person_first:lemma">Hubert</prop>
+    <prop key="nam_liv_person:lemma">Hubert</prop>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="wsd_krótki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+   </tok>
+   <tok>
+    <orth>Jarek</orth>
+    <lex disamb="1"><base>Jarek</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person_first">2</ann>
+    <ann chan="nam_liv_person">2</ann>
+    <ann chan="wsd_krótki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <prop key="nam_liv_person_first:lemma">Jarek</prop>
+    <prop key="nam_liv_person:lemma">Jarek</prop>
+   </tok>
+   <tok>
+    <orth>przez</orth>
+    <lex disamb="1"><base>przez</base><ctag>prep:acc:nwok</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="wsd_krótki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+   </tok>
+   <tok>
+    <orth>krótki</orth>
+    <lex disamb="1"><base>krótki</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="wsd_krótki">1</ann>
+    <ann chan="wsd_czas">0</ann>
+   </tok>
+   <tok>
+    <orth>czas</orth>
+    <lex disamb="1"><base>czas</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="wsd_krótki">0</ann>
+    <ann chan="wsd_czas">1</ann>
+    <prop key="sense:wsd_czas">czas-3</prop>
+   </tok>
+   <tok>
+    <orth>scigali</orth>
+    <lex disamb="1"><base>scigali</base><ctag>praet:sg:m3:imperf</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="wsd_krótki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="wsd_krótki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+   </tok>
+   <tok>
+    <orth>elektrykami</orth>
+    <lex disamb="1"><base>elektryk</base><ctag>subst:pl:inst:m1</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="wsd_krótki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="wsd_krótki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent5">
+   <tok>
+    <orth>Zabawę</orth>
+    <lex disamb="1"><base>zabawa</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>tę</orth>
+    <lex disamb="1"><base>ten</base><ctag>adj:sg:acc:f:pos</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>zakończyło</orth>
+    <lex disamb="1"><base>zakończyć</base><ctag>praet:sg:n:perf</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dość</orth>
+    <lex disamb="1"><base>dość</base><ctag>qub</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>szybko</orth>
+    <lex disamb="1"><base>szybko</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>zderzenie</orth>
+    <lex disamb="1"><base>zderzenie</base><ctag>subst:sg:acc:n</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>czołowe</orth>
+    <lex disamb="1"><base>czołowy</base><ctag>adj:sg:acc:n:pos</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>kierowanego</orth>
+    <lex disamb="1"><base>kierować</base><ctag>ppas:sg:gen:n:imperf:aff</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>przez</orth>
+    <lex disamb="1"><base>przez</base><ctag>prep:acc:nwok</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Huberta</orth>
+    <lex disamb="1"><base>Hubert</base><ctag>subst:sg:acc:m1</ctag></lex>
+    <ann chan="nam_liv_person_first">1</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_liv_person_first:lemma">Hubert</prop>
+    <prop key="nam_liv_person:lemma">Hubert</prop>
+   </tok>
+   <tok>
+    <orth>Rustlera</orth>
+    <lex disamb="1"><base>rustlera</base><ctag>subst:sg:acc:m1</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">1</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_pro_brand:lemma">Rustler</prop>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>delikatnym</orth>
+    <lex disamb="1"><base>delikatny</base><ctag>adj:sg:inst:m3:pos</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Losi</orth>
+    <lex disamb="1"><base>losi</base><ctag>subst:sg:inst:m3</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">2</ann>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_org_company:lemma">Losi</prop>
+    <prop key="nam_pro_brand:lemma">Losi XXX</prop>
+   </tok>
+   <tok>
+    <orth>XXX</orth>
+    <lex disamb="1"><base>xxx</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">2</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <tok>
+    <orth>Jarka</orth>
+    <lex disamb="1"><base>jarek</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_liv_person_first">2</ann>
+    <ann chan="nam_liv_person">2</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_liv_person_first:lemma">Jarek</prop>
+    <prop key="nam_liv_person:lemma">Jarek</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wyniku</orth>
+    <lex disamb="1"><base>wynik</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>którego</orth>
+    <lex disamb="1"><base>który</base><ctag>adj:sg:gen:n:pos</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>prawe</orth>
+    <lex disamb="1"><base>prawy</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>przednie</orth>
+    <lex disamb="1"><base>przedni</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>koło</orth>
+    <lex disamb="1"><base>koło</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>bagusa</orth>
+    <lex disamb="1"><base>bagusa</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Losi</orth>
+    <lex disamb="1"><base>losi</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">3</ann>
+    <ann chan="nam_org_company">2</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_org_company:lemma">Losi</prop>
+    <prop key="nam_pro_brand:lemma">Losi</prop>
+   </tok>
+   <tok>
+    <orth>wraz</orth>
+    <lex disamb="1"><base>wraz</base><ctag>burk</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>ułamaną</orth>
+    <lex disamb="1"><base>ułamać</base><ctag>ppas:sg:inst:f:perf:aff</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>zwrotnicą</orth>
+    <lex disamb="1"><base>zwrotnica</base><ctag>subst:sg:inst:f</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>poszybowało</orth>
+    <lex disamb="1"><base>poszybować</base><ctag>praet:sg:n:perf</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>widowiskowo</orth>
+    <lex disamb="1"><base>widowiskowo</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>powietrze</orth>
+    <lex disamb="1"><base>powietrze</base><ctag>subst:sg:acc:n</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent6">
+   <tok>
+    <orth>Dalszą</orth>
+    <lex disamb="1"><base>daleki</base><ctag>adj:sg:acc:f:com</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">1</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>jazdę</orth>
+    <lex disamb="1"><base>jazda</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Rustler</orth>
+    <lex disamb="1"><base>rustler</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="nam_pro_brand">1</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_pro_brand:lemma">Rustler</prop>
+   </tok>
+   <tok>
+    <orth>kontynuował</orth>
+    <lex disamb="1"><base>kontynuować</base><ctag>praet:sg:m1:imperf</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>samotnie</orth>
+    <lex disamb="1"><base>samotnie</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>czasu</orth>
+    <lex disamb="1"><base>czas</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_czas">czas-2</prop>
+   </tok>
+   <tok>
+    <orth>aż</orth>
+    <lex disamb="1"><base>aż</base><ctag>qub</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>zasilający</orth>
+    <lex disamb="1"><base>zasilać</base><ctag>pact:sg:acc:m3:imperf:aff</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>go</orth>
+    <lex disamb="1"><base>on</base><ctag>ppron3:sg:acc:m3:ter:nakc:npraep</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>pakiet</orth>
+    <lex disamb="1"><base>pakiet</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>Li</orth>
+    <lex disamb="1"><base>li</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_pro_brand">2</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_pro_brand:lemma">Li-poly</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_brand">2</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>poly</orth>
+    <lex disamb="1"><base>poly</base><ctag>praet:pl:f:perf</ctag></lex>
+    <ann chan="nam_pro_brand">2</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>firmy</orth>
+    <lex disamb="1"><base>firma</base><ctag>subst:pl:nom:f</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <tok>
+    <orth>MaxAmps</orth>
+    <lex disamb="1"><base>maxamps</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_org_company:lemma">MaxAmps</prop>
+   </tok>
+   <tok>
+    <orth>spuchł</orth>
+    <lex disamb="1"><base>spuchnąć</base><ctag>praet:sg:m3:perf</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>stopniu</orth>
+    <lex disamb="1"><base>stopień</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>pozostawiającym</orth>
+    <lex disamb="1"><base>pozostawiać</base><ctag>pact:sg:loc:n:imperf:aff</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>złudzeń</orth>
+    <lex disamb="1"><base>złudzenie</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>co</orth>
+    <lex disamb="1"><base>CO</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex disamb="1"><base>co</base><ctag>subst:sg:acc:n</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>jego</orth>
+    <lex disamb="1"><base>on</base><ctag>ppron3:sg:gen:m1:ter:akc:npraep</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dalszej</orth>
+    <lex disamb="1"><base>daleki</base><ctag>adj:sg:gen:f:com</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">2</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>użyteczności</orth>
+    <lex disamb="1"><base>użyteczność</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent7">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_pole">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+   </tok>
+   <tok>
+    <orth>tej</orth>
+    <lex disamb="1"><base>ten</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_pole">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+   </tok>
+   <tok>
+    <orth>sytuacji</orth>
+    <lex disamb="1"><base>sytuacja</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_pole">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_pole">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+   </tok>
+   <tok>
+    <orth>tor</orth>
+    <lex disamb="1"><base>Tora</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_pole">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+   </tok>
+   <tok>
+    <orth>powróciły</orth>
+    <lex disamb="1"><base>powrócić</base><ctag>praet:pl:f:perf</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_pole">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+   </tok>
+   <tok>
+    <orth>Jamminy</orth>
+    <lex disamb="1"><base>jamminy</base><ctag>subst:pl:nom:f</ctag></lex>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="nam_pro_model_car">1</ann>
+    <ann chan="wsd_pole">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <prop key="nam_org_company:lemma">Jammin</prop>
+    <prop key="nam_pro_model_car:lemma">Jammin</prop>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_pole">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_pole">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+   </tok>
+   <tok>
+    <orth>późnego</orth>
+    <lex disamb="1"><base>późny</base><ctag>adj:sg:gen:n:pos</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_pole">0</ann>
+    <ann chan="t3_time">1</ann>
+    <ann chan="plimex_time">1</ann>
+    <prop key="t3_time:lemma">xxxx-xx-xxTAF</prop>
+    <prop key="t3_time:lemma2">2009-07-04TAF</prop>
+    <prop key="plimex_time:lemma">xxxx-xx-xxTAF</prop>
+   </tok>
+   <tok>
+    <orth>popołudnia</orth>
+    <lex disamb="1"><base>popołudnie</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_pole">0</ann>
+    <ann chan="t3_time">1</ann>
+    <ann chan="plimex_time">1</ann>
+   </tok>
+   <tok>
+    <orth>po</orth>
+    <lex disamb="1"><base>po</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_pole">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+   </tok>
+   <tok>
+    <orth>okolicznych</orth>
+    <lex disamb="1"><base>okoliczny</base><ctag>adj:pl:loc:n:pos</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_pole">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+   </tok>
+   <tok>
+    <orth>polach</orth>
+    <lex disamb="1"><base>pole</base><ctag>subst:pl:loc:n</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_pole">1</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <prop key="sense:wsd_pole">pole-1</prop>
+   </tok>
+   <tok>
+    <orth>niósł</orth>
+    <lex disamb="1"><base>nieść</base><ctag>praet:sg:m3:imperf:nagl</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_pole">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_pole">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+   </tok>
+   <tok>
+    <orth>zapach</orth>
+    <lex disamb="1"><base>zapach</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_pole">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+   </tok>
+   <tok>
+    <orth>palonego</orth>
+    <lex disamb="1"><base>palić</base><ctag>ppas:sg:gen:m3:imperf:aff</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_pole">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+   </tok>
+   <tok>
+    <orth>nitro</orth>
+    <lex disamb="1"><base>nitro</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_pole">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="wsd_pole">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

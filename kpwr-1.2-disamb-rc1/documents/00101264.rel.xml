@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent13" chan="nam_oth_currency">2</from>
+   <to sent="sent13" chan="nam_oth_currency">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent14" chan="nam_oth_currency">1</from>
+   <to sent="sent13" chan="nam_oth_currency">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent15" chan="nam_oth_currency">1</from>
+   <to sent="sent13" chan="nam_oth_currency">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent17" chan="nam_oth_currency">1</from>
+   <to sent="sent13" chan="nam_oth_currency">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent18" chan="nam_oth_currency">1</from>
+   <to sent="sent13" chan="nam_oth_currency">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent20" chan="nam_oth_currency">1</from>
+   <to sent="sent13" chan="nam_oth_currency">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent21" chan="nam_oth_currency">1</from>
+   <to sent="sent13" chan="nam_oth_currency">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent21" chan="nam_oth_currency">2</from>
+   <to sent="sent13" chan="nam_oth_currency">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent22" chan="nam_oth_currency">1</from>
+   <to sent="sent13" chan="nam_oth_currency">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent22" chan="nam_oth_currency">2</from>
+   <to sent="sent13" chan="nam_oth_currency">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent23" chan="nam_oth_currency">1</from>
+   <to sent="sent13" chan="nam_oth_currency">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent26" chan="nam_oth_currency">1</from>
+   <to sent="sent13" chan="nam_oth_currency">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent26" chan="nam_oth_currency">2</from>
+   <to sent="sent13" chan="nam_oth_currency">1</to>
+  </rel>
+</relations>

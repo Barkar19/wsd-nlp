@@ -1,0 +1,3460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>2008-08-28</orth>
+    <lex disamb="1"><base>2008-08-28</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <prop key="t3_date:lemma">2008-08-28</prop>
+    <prop key="t3_date:lemma2">2008-08-28</prop>
+    <prop key="plimex_date:lemma">2008-08-28</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>BATE</orth>
+    <lex disamb="1"><base>bate</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <prop key="nam_org_company:lemma">BATE</prop>
+    <prop key="nam_org_group_team:lemma">BATE Borysów</prop>
+   </tok>
+   <tok>
+    <orth>Borysów</orth>
+    <lex disamb="1"><base>Borys</base><ctag>subst:pl:gen:m1</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <prop key="nam_loc_gpe_city:lemma">Borysów</prop>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>Lidze</orth>
+    <lex disamb="1"><base>liga</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">1</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <prop key="nam_eve_human_sport:lemma">Liga Mistrzów</prop>
+   </tok>
+   <tok>
+    <orth>Mistrzów</orth>
+    <lex disamb="1"><base>mistrz</base><ctag>subst:pl:gen:m1</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">1</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent2">
+   <tok>
+    <orth>BATE</orth>
+    <lex disamb="1"><base>bate</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_org_group_team:lemma">BATE Borysów</prop>
+    <prop key="nam_org_company:lemma">BATE</prop>
+   </tok>
+   <tok>
+    <orth>Borysów</orth>
+    <lex disamb="1"><base>Borys</base><ctag>subst:pl:gen:m1</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Borysów</prop>
+   </tok>
+   <tok>
+    <orth>zagra</orth>
+    <lex disamb="1"><base>zagrać</base><ctag>fin:sg:ter:perf</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>fazie</orth>
+    <lex disamb="1"><base>faza</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>grupowej</orth>
+    <lex disamb="1"><base>grupowy</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>piłkarskiej</orth>
+    <lex disamb="1"><base>piłkarski</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <tok>
+    <orth>Ligi</orth>
+    <lex disamb="1"><base>liga</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">1</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_eve_human_sport:lemma">Liga Mistrzów</prop>
+   </tok>
+   <tok>
+    <orth>Mistrzów</orth>
+    <lex disamb="1"><base>mistrz</base><ctag>subst:pl:gen:m1</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">1</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent3">
+   <tok>
+    <orth>Po</orth>
+    <lex disamb="1"><base>po</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_nation">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>sensacyjnym</orth>
+    <lex disamb="1"><base>sensacyjny</base><ctag>adj:sg:loc:n:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_nation">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wyeliminowaniu</orth>
+    <lex disamb="1"><base>wyeliminowanie</base><ctag>subst:sg:loc:n</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_nation">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Anderlechtu</orth>
+    <lex disamb="1"><base>anderlechtu</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="nam_org_nation">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_org_group_team:lemma">Anderlecht Bruksela</prop>
+    <prop key="nam_loc_gpe_city:lemma">Anderlecht</prop>
+   </tok>
+   <tok>
+    <orth>Bruksela</orth>
+    <lex disamb="1"><base>Bruksela</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">2</ann>
+    <ann chan="nam_org_nation">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Bruksela</prop>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_nation">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>drugiej</orth>
+    <lex disamb="1"><base>drugi</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_nation">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>rundzie</orth>
+    <lex disamb="1"><base>runda</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_nation">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>eliminacyjnej</orth>
+    <lex disamb="1"><base>eliminacyjny</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_nation">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_nation">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_nation">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>trzeciej</orth>
+    <lex disamb="1"><base>trzeci</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_nation">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Białorusini</orth>
+    <lex disamb="1"><base>Białorusin</base><ctag>subst:pl:nom:m1</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_nation">1</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_org_nation:lemma">Białorusin</prop>
+   </tok>
+   <tok>
+    <orth>sprawili</orth>
+    <lex disamb="1"><base>sprawić</base><ctag>praet:pl:m1:perf</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_nation">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>kolejną</orth>
+    <lex disamb="1"><base>kolejny</base><ctag>adj:sg:acc:f:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_nation">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>niespodziankę</orth>
+    <lex disamb="1"><base>niespodzianka</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_nation">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_nation">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>odprawiając</orth>
+    <lex disamb="1"><base>odprawiać</base><ctag>pcon:imperf</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_nation">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_nation">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>kwitkiem</orth>
+    <lex disamb="1"><base>kwitek</base><ctag>subst:sg:inst:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_nation">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Levskiego</orth>
+    <lex disamb="1"><base>levskiego</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_nation">0</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_last">1</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_org_group_team:lemma">Levski Sofia</prop>
+    <prop key="nam_liv_person:lemma">Levski</prop>
+    <prop key="nam_liv_person_last:lemma">Levski</prop>
+   </tok>
+   <tok>
+    <orth>Sofia</orth>
+    <lex disamb="1"><base>Sofia</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">3</ann>
+    <ann chan="nam_org_nation">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_loc_gpe_city:lemma">Sofia</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_nation">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent4">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="spatial_indicator_3">1</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Bułgarii</orth>
+    <lex disamb="1"><base>Bułgaria</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">1</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">1</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_loc_gpe_country:lemma">Bułgaria</prop>
+   </tok>
+   <tok>
+    <orth>BATE</orth>
+    <lex disamb="1"><base>bate</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">2</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_org_group_team:lemma">BATE</prop>
+   </tok>
+   <tok>
+    <orth>wygrało</orth>
+    <lex disamb="1"><base>wygrać</base><ctag>praet:sg:n:perf</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>a</orth>
+    <lex disamb="1"><base>a</base><ctag>conj</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>rewanżu</orth>
+    <lex disamb="1"><base>rewanż</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="spatial_indicator_3">2</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>własnym</orth>
+    <lex disamb="1"><base>własny</base><ctag>adj:sg:loc:m3:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>stadionie</orth>
+    <lex disamb="1"><base>stadion</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">3</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>prowadziło</orth>
+    <lex disamb="1"><base>prowadzić</base><ctag>praet:sg:n:imperf</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">4</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>od</orth>
+    <lex disamb="1"><base>od</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>14</orth>
+    <lex disamb="1"><base>14</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">1</ann>
+    <ann chan="plimex_time">1</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="t3_time:lemma">+0000-00-00T+00:14</prop>
+    <prop key="t3_time:lemma2">2008-08-28txx:xx</prop>
+    <prop key="plimex_time:lemma">+0000-00-00T+00:14</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">1</ann>
+    <ann chan="plimex_time">1</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>minuty</orth>
+    <lex disamb="1"><base>minuta</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">1</ann>
+    <ann chan="plimex_time">1</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>po</orth>
+    <lex disamb="1"><base>po</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>golu</orth>
+    <lex disamb="1"><base>gol</base><ctag>subst:sg:loc:m2</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Sosnovskiego</orth>
+    <lex disamb="1"><base>sosnovskiego</base><ctag>subst:sg:nom:m2</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_last">1</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_liv_person:lemma">Sosnovski</prop>
+    <prop key="nam_liv_person_last:lemma">Sosnovski</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent5">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>39</orth>
+    <lex disamb="1"><base>39</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">1</ann>
+    <ann chan="plimex_time">1</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="t3_time:lemma">+0000-00-00T+00:39</prop>
+    <prop key="t3_time:lemma2">2008-08-28txx:xx</prop>
+    <prop key="plimex_time:lemma">+0000-00-00T+00:39</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">1</ann>
+    <ann chan="plimex_time">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>minucie</orth>
+    <lex disamb="1"><base>minuta</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">1</ann>
+    <ann chan="plimex_time">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wyrównał</orth>
+    <lex disamb="1"><base>wyrównać</base><ctag>praet:sg:m1:perf</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Gadzhev</orth>
+    <lex disamb="1"><base>gadzhev</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_last">1</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_liv_person:lemma">Gadzhev</prop>
+    <prop key="nam_liv_person_last:lemma">Gadzhev</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>a</orth>
+    <lex disamb="1"><base>a</base><ctag>conj</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>po</orth>
+    <lex disamb="1"><base>po</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>chwili</orth>
+    <lex disamb="1"><base>chwila</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>drugą</orth>
+    <lex disamb="1"><base>drugi</base><ctag>adj:sg:acc:f:pos</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>żółtą</orth>
+    <lex disamb="1"><base>żółty</base><ctag>adj:sg:acc:f:pos</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>a</orth>
+    <lex disamb="1"><base>a</base><ctag>conj</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>konsekwencji</orth>
+    <lex disamb="1"><base>konsekwencja</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>czerwoną</orth>
+    <lex disamb="1"><base>czerwony</base><ctag>adj:sg:acc:f:pos</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>kartkę</orth>
+    <lex disamb="1"><base>kartka</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>otrzymał</orth>
+    <lex disamb="1"><base>otrzymać</base><ctag>praet:sg:m1:perf</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>zawodnik</orth>
+    <lex disamb="1"><base>zawodnik</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>gospodarzy</orth>
+    <lex disamb="1"><base>gospodarz</base><ctag>subst:pl:gen:m1</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Bliznyuk</orth>
+    <lex disamb="1"><base>bliznyuk</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person">2</ann>
+    <ann chan="nam_liv_person_last">2</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_liv_person:lemma">Bliznyuk</prop>
+    <prop key="nam_liv_person_last:lemma">Bliznyuk</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent6">
+   <tok>
+    <orth>Białorusini</orth>
+    <lex disamb="1"><base>Białorusin</base><ctag>subst:pl:nom:m1</ctag></lex>
+    <ann chan="nam_org_nation">1</ann>
+    <prop key="nam_org_nation:lemma">Białorusin</prop>
+   </tok>
+   <tok>
+    <orth>zdołali</orth>
+    <lex disamb="1"><base>zdołać</base><ctag>praet:pl:m1:perf</ctag></lex>
+    <ann chan="nam_org_nation">0</ann>
+   </tok>
+   <tok>
+    <orth>jednak</orth>
+    <lex disamb="1"><base>jednak</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_nation">0</ann>
+   </tok>
+   <tok>
+    <orth>dowieźć</orth>
+    <lex disamb="1"><base>dowieźć</base><ctag>inf:perf</ctag></lex>
+    <ann chan="nam_org_nation">0</ann>
+   </tok>
+   <tok>
+    <orth>korzystny</orth>
+    <lex disamb="1"><base>korzystny</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <ann chan="nam_org_nation">0</ann>
+   </tok>
+   <tok>
+    <orth>rezultat</orth>
+    <lex disamb="1"><base>rezultat</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_org_nation">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_org_nation">0</ann>
+   </tok>
+   <tok>
+    <orth>końca</orth>
+    <lex disamb="1"><base>koniec</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_org_nation">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_nation">0</ann>
+   </tok>
+   <tok>
+    <orth>przebojem</orth>
+    <lex disamb="1"><base>przebój</base><ctag>subst:sg:inst:m3</ctag></lex>
+    <ann chan="nam_org_nation">0</ann>
+   </tok>
+   <tok>
+    <orth>wdarli</orth>
+    <lex disamb="1"><base>wedrzeć</base><ctag>praet:pl:m1:perf</ctag></lex>
+    <ann chan="nam_org_nation">0</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_org_nation">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_org_nation">0</ann>
+   </tok>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_nation">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>piłkarskiego</orth>
+    <lex disamb="1"><base>piłkarski</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_org_nation">0</ann>
+   </tok>
+   <tok>
+    <orth>raju</orth>
+    <lex disamb="1"><base>raj</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_org_nation">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_nation">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_nation">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent7">
+   <tok>
+    <orth>Pozostałe</orth>
+    <lex disamb="1"><base>pozostały</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>mecze</orth>
+    <lex disamb="1"><base>mecz</base><ctag>subst:pl:nom:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent8">
+   <tok>
+    <orth>BATE</orth>
+    <lex disamb="1"><base>bate</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_org_group_team:lemma">BATE Borisow</prop>
+    <prop key="nam_org_company:lemma">BATE</prop>
+   </tok>
+   <tok>
+    <orth>Borisow</orth>
+    <lex disamb="1"><base>borisow</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_loc_gpe_city:lemma">Borisow</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Levski</orth>
+    <lex disamb="1"><base>levski</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_last">1</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_org_group_team:lemma">Levski Sofia</prop>
+    <prop key="nam_liv_person:lemma">Levski</prop>
+    <prop key="nam_liv_person_last:lemma">Levski</prop>
+   </tok>
+   <tok>
+    <orth>Sofia</orth>
+    <lex disamb="1"><base>Sofia</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">2</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Sofia</prop>
+   </tok>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent9">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>I</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>meczu</orth>
+    <lex disamb="1"><base>mecz</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>awans</orth>
+    <lex disamb="1"><base>awans</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>BATE</orth>
+    <lex disamb="1"><base>bate</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <prop key="nam_org_group_team:lemma">BATE</prop>
+   </tok>
+  </sentence>
+  <sentence id="sent10">
+   <tok>
+    <orth>FK</orth>
+    <lex disamb="1"><base>FK</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_org_group_team:lemma">FK Kowno</prop>
+   </tok>
+   <tok>
+    <orth>Kowno</orth>
+    <lex disamb="1"><base>Kowno</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_loc_gpe_city:lemma">Kowno</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Aab</orth>
+    <lex disamb="1"><base>aab</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_org_group_team:lemma">Aab Aalborg</prop>
+   </tok>
+   <tok>
+    <orth>Aalborg</orth>
+    <lex disamb="1"><base>aalborg</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">2</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Aalborg</prop>
+   </tok>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>2</orth>
+    <lex disamb="1"><base>2</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent11">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>I</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>meczu</orth>
+    <lex disamb="1"><base>mecz</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>2</orth>
+    <lex disamb="1"><base>2</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>awans</orth>
+    <lex disamb="1"><base>awans</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>Aalborga</orth>
+    <lex disamb="1"><base>aalborga</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <prop key="nam_org_group_team:lemma">Aalborg</prop>
+    <prop key="nam_loc_gpe_city:lemma">Aalborg</prop>
+   </tok>
+  </sentence>
+  <sentence id="sent12">
+   <tok>
+    <orth>Dynamo</orth>
+    <lex disamb="1"><base>dynamo</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <prop key="nam_org_group_team:lemma">Dynamo Kijów</prop>
+   </tok>
+   <tok>
+    <orth>Kijów</orth>
+    <lex disamb="1"><base>Kijów</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Kijów</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>Spartak</orth>
+    <lex disamb="1"><base>Spartak</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <prop key="nam_org_group_team:lemma">Spartak Moskwa</prop>
+   </tok>
+   <tok>
+    <orth>Moskwa</orth>
+    <lex disamb="1"><base>Moskwa</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">2</ann>
+    <prop key="nam_loc_gpe_city:lemma">Moskwa</prop>
+   </tok>
+   <tok>
+    <orth>4</orth>
+    <lex disamb="1"><base>4</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>2</orth>
+    <lex disamb="1"><base>2</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent13">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>I</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>meczu</orth>
+    <lex disamb="1"><base>mecz</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>4</orth>
+    <lex disamb="1"><base>4</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>awans</orth>
+    <lex disamb="1"><base>awans</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>Dynama</orth>
+    <lex disamb="1"><base>dynamo</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <prop key="nam_org_group_team:lemma">Dynama Kijów</prop>
+   </tok>
+   <tok>
+    <orth>Kijów</orth>
+    <lex disamb="1"><base>Kijów</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Kijów</prop>
+   </tok>
+  </sentence>
+  <sentence id="sent14">
+   <tok>
+    <orth>Steaua</orth>
+    <lex disamb="1"><base>steaua</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <prop key="nam_org_group_team:lemma">Steaua Bukareszt</prop>
+   </tok>
+   <tok>
+    <orth>Bukareszt</orth>
+    <lex disamb="1"><base>Bukareszt</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Bukareszt</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>Galatasaray</orth>
+    <lex disamb="1"><base>Galatasaray</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <prop key="nam_org_group_team:lemma">Galatasaray Stambuł</prop>
+   </tok>
+   <tok>
+    <orth>Stambuł</orth>
+    <lex disamb="1"><base>Stambuł</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">2</ann>
+    <prop key="nam_loc_gpe_city:lemma">Stambuł</prop>
+   </tok>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent15">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>I</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>meczu</orth>
+    <lex disamb="1"><base>mecz</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>2</orth>
+    <lex disamb="1"><base>2</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>2</orth>
+    <lex disamb="1"><base>2</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>awans</orth>
+    <lex disamb="1"><base>awans</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>Steauy</orth>
+    <lex disamb="1"><base>steauy</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <prop key="nam_org_group_team:lemma">Steauy</prop>
+   </tok>
+  </sentence>
+  <sentence id="sent16">
+   <tok>
+    <orth>Fenerbahce</orth>
+    <lex disamb="1"><base>fenerbahce</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_subdivision">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <prop key="nam_org_group_team:lemma">Fenerbahce Istambuł</prop>
+    <prop key="nam_loc_gpe_subdivision:lemma">Fenerbahce</prop>
+   </tok>
+   <tok>
+    <orth>Istambuł</orth>
+    <lex disamb="1"><base>Istambuł</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Istambuł</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>Partizan</orth>
+    <lex disamb="1"><base>partizan</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <prop key="nam_org_group_team:lemma">Partizan Belgrad</prop>
+   </tok>
+   <tok>
+    <orth>Belgrad</orth>
+    <lex disamb="1"><base>Belgrad</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="nam_loc_gpe_city">2</ann>
+    <prop key="nam_loc_gpe_city:lemma">Belgrad</prop>
+   </tok>
+   <tok>
+    <orth>2</orth>
+    <lex disamb="1"><base>2</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent17">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+   </tok>
+   <tok>
+    <orth>I</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+   </tok>
+   <tok>
+    <orth>meczu</orth>
+    <lex disamb="1"><base>mecz</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+   </tok>
+   <tok>
+    <orth>2</orth>
+    <lex disamb="1"><base>2</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>2</orth>
+    <lex disamb="1"><base>2</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+   </tok>
+   <tok>
+    <orth>awans</orth>
+    <lex disamb="1"><base>awans</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+   </tok>
+   <tok>
+    <orth>Fenerbahce</orth>
+    <lex disamb="1"><base>fenerbahce</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_subdivision">1</ann>
+    <prop key="nam_org_group_team:lemma">Fenerbahce</prop>
+    <prop key="nam_loc_gpe_subdivision:lemma">Fenerbahce</prop>
+   </tok>
+  </sentence>
+  <sentence id="sent18">
+   <tok>
+    <orth>FC</orth>
+    <lex disamb="1"><base>FC</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <prop key="nam_org_group_team:lemma">FC Basel</prop>
+   </tok>
+   <tok>
+    <orth>Basel</orth>
+    <lex disamb="1"><base>basel</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Basel</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>Vitoria</orth>
+    <lex disamb="1"><base>vitoria</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <prop key="nam_org_group_team:lemma">Vitoria Guimaraes</prop>
+   </tok>
+   <tok>
+    <orth>Guimaraes</orth>
+    <lex disamb="1"><base>guimaraes</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">2</ann>
+    <prop key="nam_loc_gpe_city:lemma">Guimaraes</prop>
+   </tok>
+   <tok>
+    <orth>2</orth>
+    <lex disamb="1"><base>2</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent19">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>I</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>meczu</orth>
+    <lex disamb="1"><base>mecz</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>awans</orth>
+    <lex disamb="1"><base>awans</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>FC</orth>
+    <lex disamb="1"><base>FC</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <prop key="nam_org_group_team:lemma">FC Basel</prop>
+   </tok>
+   <tok>
+    <orth>Basel</orth>
+    <lex disamb="1"><base>basel</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Basel</prop>
+   </tok>
+  </sentence>
+  <sentence id="sent20">
+   <tok>
+    <orth>Atletico</orth>
+    <lex disamb="1"><base>atletico</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <prop key="nam_org_group_team:lemma">Atletico Madryt</prop>
+   </tok>
+   <tok>
+    <orth>Madryt</orth>
+    <lex disamb="1"><base>Madryt</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <prop key="nam_loc_gpe_city:lemma">Madryt</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+   </tok>
+   <tok>
+    <orth>Schalke</orth>
+    <lex disamb="1"><base>schalke</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_district">1</ann>
+    <prop key="nam_org_group_team:lemma">Schalke Gelsenkirchen</prop>
+    <prop key="nam_loc_gpe_district:lemma">Schalke</prop>
+   </tok>
+   <tok>
+    <orth>Gelsenkirchen</orth>
+    <lex disamb="1"><base>Gelsenkirchen</base><ctag>xxx</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">2</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <prop key="nam_loc_gpe_city:lemma">Gelsenkirchen</prop>
+   </tok>
+   <tok>
+    <orth>4</orth>
+    <lex disamb="1"><base>4</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent21">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>I</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>meczu</orth>
+    <lex disamb="1"><base>mecz</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>awans</orth>
+    <lex disamb="1"><base>awans</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>Atletico</orth>
+    <lex disamb="1"><base>atletico</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <prop key="nam_org_group_team:lemma">Atletico</prop>
+   </tok>
+  </sentence>
+  <sentence id="sent22">
+   <tok>
+    <orth>Dynamo</orth>
+    <lex disamb="1"><base>dynamo</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <prop key="nam_org_group_team:lemma">Dynamo Zagrzeb</prop>
+   </tok>
+   <tok>
+    <orth>Zagrzeb</orth>
+    <lex disamb="1"><base>Zagrzeb</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Zagrzeb</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>Szachtar</orth>
+    <lex disamb="1"><base>szachtar</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <prop key="nam_org_group_team:lemma">Szachtar Donieck</prop>
+   </tok>
+   <tok>
+    <orth>Donieck</orth>
+    <lex disamb="1"><base>Donieck</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">2</ann>
+    <prop key="nam_loc_gpe_city:lemma">Donieck</prop>
+   </tok>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>3</orth>
+    <lex disamb="1"><base>3</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent23">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>I</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>meczu</orth>
+    <lex disamb="1"><base>mecz</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>2</orth>
+    <lex disamb="1"><base>2</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>awans</orth>
+    <lex disamb="1"><base>awans</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>Szachtar</orth>
+    <lex disamb="1"><base>szachtar</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <prop key="nam_org_group_team:lemma">Szachtar</prop>
+   </tok>
+  </sentence>
+  <sentence id="sent24">
+   <tok>
+    <orth>Olympique</orth>
+    <lex disamb="1"><base>olympique</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <prop key="nam_org_group_team:lemma">Olympique Marsylia</prop>
+   </tok>
+   <tok>
+    <orth>Marsylia</orth>
+    <lex disamb="1"><base>Marsylia</base><ctag>subst:sg:nom:f</ctag></lex>
+    <lex disamb="1"><base>marsylia</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Marsylia</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>Brann</orth>
+    <lex disamb="1"><base>brann</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <prop key="nam_org_group_team:lemma">Brann Bergen</prop>
+   </tok>
+   <tok>
+    <orth>Bergen</orth>
+    <lex disamb="1"><base>bergen</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">2</ann>
+    <prop key="nam_loc_gpe_city:lemma">Bergen</prop>
+   </tok>
+   <tok>
+    <orth>2</orth>
+    <lex disamb="1"><base>2</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent25">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>I</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>meczu</orth>
+    <lex disamb="1"><base>mecz</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>awans</orth>
+    <lex disamb="1"><base>awans</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>Marsylia</orth>
+    <lex disamb="1"><base>Marsylia</base><ctag>subst:sg:nom:f</ctag></lex>
+    <lex disamb="1"><base>marsylia</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <prop key="nam_org_group_team:lemma">Marsylia</prop>
+    <prop key="nam_loc_gpe_city:lemma">Marsylia</prop>
+   </tok>
+  </sentence>
+  <sentence id="sent26">
+   <tok>
+    <orth>Olympiakos</orth>
+    <lex disamb="1"><base>Olympiakos</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <prop key="nam_org_group_team:lemma">Olympiakos Pireus</prop>
+   </tok>
+   <tok>
+    <orth>Pireus</orth>
+    <lex disamb="1"><base>Pireus</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Pireus</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>Anorthosis</orth>
+    <lex disamb="1"><base>anorthosis</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <prop key="nam_org_group_team:lemma">Anorthosis Famagusta</prop>
+   </tok>
+   <tok>
+    <orth>Famagusta</orth>
+    <lex disamb="1"><base>famagusta</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">2</ann>
+    <prop key="nam_loc_gpe_city:lemma">Famagusta</prop>
+   </tok>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent27">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>I</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>meczu</orth>
+    <lex disamb="1"><base>mecz</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>3</orth>
+    <lex disamb="1"><base>3</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>awans</orth>
+    <lex disamb="1"><base>awans</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>Anorthosis</orth>
+    <lex disamb="1"><base>anorthosis</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <prop key="nam_org_group_team:lemma">Anorthosis</prop>
+   </tok>
+  </sentence>
+  <sentence id="sent28">
+   <tok>
+    <orth>Slavia</orth>
+    <lex disamb="1"><base>slavia</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <prop key="nam_org_group_team:lemma">Slavia Praga</prop>
+   </tok>
+   <tok>
+    <orth>Praga</orth>
+    <lex disamb="1"><base>Praga</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Praga</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>Fiorentina</orth>
+    <lex disamb="1"><base>fiorentina</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">2</ann>
+    <prop key="nam_org_group_team:lemma">Fiorentina</prop>
+    <prop key="nam_loc_gpe_city:lemma">Fiorentina</prop>
+   </tok>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent29">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>I</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>meczu</orth>
+    <lex disamb="1"><base>mecz</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>2</orth>
+    <lex disamb="1"><base>2</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>awans</orth>
+    <lex disamb="1"><base>awans</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>Fiorentina</orth>
+    <lex disamb="1"><base>fiorentina</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <prop key="nam_org_group_team:lemma">Fiorentina</prop>
+    <prop key="nam_loc_gpe_city:lemma">Fiorentina</prop>
+   </tok>
+  </sentence>
+  <sentence id="sent30">
+   <tok>
+    <orth>Arsenal</orth>
+    <lex disamb="1"><base>arsenal</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <prop key="nam_org_group_team:lemma">Arsenal Londyn</prop>
+   </tok>
+   <tok>
+    <orth>Londyn</orth>
+    <lex disamb="1"><base>Londyn</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <prop key="nam_loc_gpe_city:lemma">Londyn</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+   </tok>
+   <tok>
+    <orth>FC</orth>
+    <lex disamb="1"><base>FC</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <prop key="nam_org_group_team:lemma">FC Twente</prop>
+   </tok>
+   <tok>
+    <orth>Twente</orth>
+    <lex disamb="1"><base>twente</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_country_region">1</ann>
+    <prop key="nam_loc_country_region:lemma">Twente</prop>
+   </tok>
+   <tok>
+    <orth>4</orth>
+    <lex disamb="1"><base>4</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent31">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>I</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>meczu</orth>
+    <lex disamb="1"><base>mecz</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>2</orth>
+    <lex disamb="1"><base>2</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>awans</orth>
+    <lex disamb="1"><base>awans</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>Arsenal</orth>
+    <lex disamb="1"><base>arsenal</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <prop key="nam_org_group_team:lemma">Arsenal</prop>
+   </tok>
+  </sentence>
+  <sentence id="sent32">
+   <tok>
+    <orth>Liverpool</orth>
+    <lex disamb="1"><base>Liverpool</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="nam_org_group_team">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Liverpool</prop>
+    <prop key="nam_org_group_team:lemma">Liverpool</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>Standard</orth>
+    <lex disamb="1"><base>standard</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_group_team">2</ann>
+    <prop key="nam_org_group_team:lemma">Standard Liege</prop>
+   </tok>
+   <tok>
+    <orth>Liege</orth>
+    <lex disamb="1"><base>liege</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">2</ann>
+    <ann chan="nam_org_group_team">2</ann>
+    <prop key="nam_loc_gpe_city:lemma">Liege</prop>
+   </tok>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>pd</orth>
+    <lex disamb="1"><base>południowy</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent33">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>I</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>meczu</orth>
+    <lex disamb="1"><base>mecz</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>awans</orth>
+    <lex disamb="1"><base>awans</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>Liverpool</orth>
+    <lex disamb="1"><base>Liverpool</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <prop key="nam_org_group_team:lemma">Liverpool</prop>
+    <prop key="nam_loc_gpe_city:lemma">Liverpool</prop>
+   </tok>
+  </sentence>
+  <sentence id="sent34">
+   <tok>
+    <orth>Artmedia</orth>
+    <lex disamb="1"><base>artmedia</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <prop key="nam_org_group_team:lemma">Artmedia</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>Juventus</orth>
+    <lex disamb="1"><base>juventus</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <prop key="nam_org_group_team:lemma">Juventus</prop>
+   </tok>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent35">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>I</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>meczu</orth>
+    <lex disamb="1"><base>mecz</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>4</orth>
+    <lex disamb="1"><base>4</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>awans</orth>
+    <lex disamb="1"><base>awans</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+   </tok>
+   <tok>
+    <orth>Juventus</orth>
+    <lex disamb="1"><base>juventus</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <prop key="nam_org_group_team:lemma">Juventus</prop>
+   </tok>
+  </sentence>
+  <sentence id="sent36">
+   <tok>
+    <orth>Wisła</orth>
+    <lex disamb="1"><base>Wisła</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_hydronym_river">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <prop key="nam_org_group_team:lemma">Wisła</prop>
+    <prop key="nam_loc_hydronym_river:lemma">Wisła</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>Barcelona</orth>
+    <lex disamb="1"><base>Barcelona</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <prop key="nam_org_group_team:lemma">Barcelona</prop>
+    <prop key="nam_loc_gpe_city:lemma">Barcelona</prop>
+   </tok>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent37">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>I</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>meczu</orth>
+    <lex disamb="1"><base>mecz</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>4</orth>
+    <lex disamb="1"><base>4</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>awans</orth>
+    <lex disamb="1"><base>awans</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>Barcelona</orth>
+    <lex disamb="1"><base>Barcelona</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <prop key="nam_org_group_team:lemma">Barcelona</prop>
+    <prop key="nam_loc_gpe_city:lemma">Barcelona</prop>
+   </tok>
+  </sentence>
+  <sentence id="sent38">
+   <tok>
+    <orth>Sparta</orth>
+    <lex disamb="1"><base>Sparta</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <prop key="nam_org_group_team:lemma">Sparta Praga</prop>
+    <prop key="nam_loc_gpe_city:lemma">Sparta</prop>
+   </tok>
+   <tok>
+    <orth>Praga</orth>
+    <lex disamb="1"><base>Praga</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">2</ann>
+    <prop key="nam_loc_gpe_city:lemma">Praga</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>Panathinaikos</orth>
+    <lex disamb="1"><base>panathinaikos</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <prop key="nam_org_group_team:lemma">Panathinaikos</prop>
+   </tok>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent39">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>I</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>meczu</orth>
+    <lex disamb="1"><base>mecz</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>Panathinaikos</orth>
+    <lex disamb="1"><base>panathinaikos</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <prop key="nam_org_group_team:lemma">Panathinaikos</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>Sparta</orth>
+    <lex disamb="1"><base>Sparta</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <prop key="nam_org_group_team:lemma">Sparta Praga</prop>
+    <prop key="nam_loc_gpe_city:lemma">Sparta</prop>
+   </tok>
+   <tok>
+    <orth>Praga</orth>
+    <lex disamb="1"><base>Praga</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">2</ann>
+    <prop key="nam_loc_gpe_city:lemma">Praga</prop>
+   </tok>
+   <tok>
+    <orth>2</orth>
+    <lex disamb="1"><base>2</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch3">
+  <sentence id="sent40">
+   <tok>
+    <orth>Źródła</orth>
+    <lex disamb="1"><base>źródło</base><ctag>subst:pl:nom:n</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch4">
+  <sentence id="sent41">
+   <tok>
+    <orth>BATE</orth>
+    <lex disamb="1"><base>bate</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <prop key="nam_org_group_team:lemma">BATE Borisow</prop>
+    <prop key="nam_org_company:lemma">BATE</prop>
+   </tok>
+   <tok>
+    <orth>Borisow</orth>
+    <lex disamb="1"><base>borisow</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <prop key="nam_loc_gpe_city:lemma">Borisow</prop>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+   </tok>
+   <tok>
+    <orth>LM</orth>
+    <lex disamb="1"><base>lm</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">1</ann>
+    <prop key="nam_eve_human_sport:lemma">LM</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>!</orth>
+    <lex disamb="1"><base>!</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

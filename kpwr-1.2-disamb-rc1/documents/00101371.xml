@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Heddal</orth>
+    <lex disamb="1"><base>heddal</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Heddal</prop>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent2">
+   <tok>
+    <orth>Heddal</orth>
+    <lex disamb="1"><base>heddal</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="region">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Heddal</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="region">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>miejscowość</orth>
+    <lex disamb="1"><base>miejscowość</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="spatial_object">1</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="region">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">1</ann>
+    <ann chan="region">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>południowej</orth>
+    <lex disamb="1"><base>południowy</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="region">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Norwegii</orth>
+    <lex disamb="1"><base>Norwegia</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">1</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="spatial_object">2</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="region">0</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_loc_gpe_country:lemma">Norwegia</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="region">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">2</ann>
+    <ann chan="region">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>gminie</orth>
+    <lex disamb="1"><base>gmina</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="spatial_object">3</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="region">0</ann>
+    <ann chan="keyword">3</ann>
+   </tok>
+   <tok>
+    <orth>Notodden</orth>
+    <lex disamb="1"><base>notodden</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin3">1</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="region">0</ann>
+    <ann chan="keyword">3</ann>
+    <prop key="nam_loc_gpe_admin3:lemma">Notodden</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="region">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">3</ann>
+    <ann chan="region">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>regionie</orth>
+    <lex disamb="1"><base>region</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="spatial_object">4</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="region">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>administracyjnym</orth>
+    <lex disamb="1"><base>administracyjny</base><ctag>adj:sg:loc:m3:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="region">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Telemark</orth>
+    <lex disamb="1"><base>telemark</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_gpe_admin1">1</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="region">0</ann>
+    <ann chan="keyword">4</ann>
+    <prop key="nam_loc_gpe_admin1:lemma">Telemark</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="region">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch3">
+  <sentence id="sent3">
+   <tok>
+    <orth>Zabytki</orth>
+    <lex disamb="1"><base>zabytek</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>drewniany</orth>
+    <lex disamb="1"><base>drewniany</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>kościół</orth>
+    <lex disamb="1"><base>kościół</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>Heddal</orth>
+    <lex disamb="1"><base>heddal</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Heddal</prop>
+   </tok>
+   <tok>
+    <orth>stavkirke</orth>
+    <lex disamb="1"><base>stavkirke</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>XII</orth>
+    <lex disamb="1"><base>xii</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="t3_date:lemma">11</prop>
+    <prop key="t3_date:lemma2">11</prop>
+    <prop key="plimex_date:lemma">11</prop>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>wyspa</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_wielki">1</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch4">
+  <sentence id="sent4">
+   <tok>
+    <orth>Znajduje</orth>
+    <lex disamb="1"><base>znajdować</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <lex disamb="1"><base>znajdywać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="wsd_znajdować">1</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <prop key="sense:wsd_znajdować">znajdować-32</prop>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="wsd_znajdować">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>tam</orth>
+    <lex disamb="1"><base>tam</base><ctag>adv</ctag></lex>
+    <ann chan="wsd_znajdować">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+   </tok>
+   <tok>
+    <orth>90</orth>
+    <lex disamb="1"><base>90</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="wsd_znajdować">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_znajdować">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>metrowa</orth>
+    <lex disamb="1"><base>metrowy</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="wsd_znajdować">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>skocznia</orth>
+    <lex disamb="1"><base>skocznia</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="wsd_znajdować">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>narciarska</orth>
+    <lex disamb="1"><base>narciarski</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="wsd_znajdować">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>o</orth>
+    <lex disamb="1"><base>o</base><ctag>prep:loc</ctag></lex>
+    <ann chan="wsd_znajdować">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>rozmiarze</orth>
+    <lex disamb="1"><base>rozmiar</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="wsd_znajdować">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_znajdować">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>Hill</orth>
+    <lex disamb="1"><base>Hill</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="wsd_znajdować">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>Size</orth>
+    <lex disamb="1"><base>size</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="wsd_znajdować">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_znajdować">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>100</orth>
+    <lex disamb="1"><base>100</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="wsd_znajdować">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>m</orth>
+    <lex disamb="1"><base>metr</base><ctag>brev:npun</ctag></lex>
+    <ann chan="wsd_znajdować">0</ann>
+    <ann chan="wsd_metr">1</ann>
+    <ann chan="wsd_m">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <prop key="sense:wsd_metr">metr-1</prop>
+    <prop key="sense:wsd_m">m-6</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_znajdować">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent5">
+   <tok>
+    <orth>Rozgrywane</orth>
+    <lex disamb="1"><base>rozgrywać</base><ctag>ppas:pl:nom:m3:imperf:aff</ctag></lex>
+    <ann chan="wsd_zawód">0</ann>
+    <ann chan="wsd_kobieta">0</ann>
+   </tok>
+   <tok>
+    <orth>są</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <ann chan="wsd_zawód">0</ann>
+    <ann chan="wsd_kobieta">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:loc</ctag></lex>
+    <ann chan="wsd_zawód">0</ann>
+    <ann chan="wsd_kobieta">0</ann>
+   </tok>
+   <tok>
+    <orth>niej</orth>
+    <lex disamb="1"><base>on</base><ctag>ppron3:sg:loc:f:ter:akc:praep</ctag></lex>
+    <ann chan="wsd_zawód">0</ann>
+    <ann chan="wsd_kobieta">0</ann>
+   </tok>
+   <tok>
+    <orth>zawody</orth>
+    <lex disamb="1"><base>zawody</base><ctag>subst:pl:acc:n</ctag></lex>
+    <ann chan="wsd_zawód">1</ann>
+    <ann chan="wsd_kobieta">0</ann>
+    <prop key="sense:wsd_zawód">zawód-3</prop>
+   </tok>
+   <tok>
+    <orth>kobiet</orth>
+    <lex disamb="1"><base>kobieta</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="wsd_zawód">0</ann>
+    <ann chan="wsd_kobieta">1</ann>
+    <prop key="sense:wsd_kobieta">kobieta-1</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_zawód">0</ann>
+    <ann chan="wsd_kobieta">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

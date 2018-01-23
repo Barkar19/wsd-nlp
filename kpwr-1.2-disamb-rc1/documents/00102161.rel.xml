@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent1" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent1" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent1" chan="nam_loc_country_region">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent1" chan="nam_loc_country_region">2</from>
+   <to sent="sent1" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent1" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent1" chan="nam_loc_country_region">2</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent1" chan="nam_loc_country_region">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="neighbourhood" set="Semantic relations">
+   <from sent="sent4" chan="nam_fac_road">1</from>
+   <to sent="sent4" chan="nam_oth">1</to>
+  </rel>
+ <rel name="neighbourhood" set="Semantic relations">
+   <from sent="sent4" chan="nam_fac_road">1</from>
+   <to sent="sent4" chan="nam_oth">2</to>
+  </rel>
+ <rel name="neighbourhood" set="Semantic relations">
+   <from sent="sent4" chan="nam_fac_road">1</from>
+   <to sent="sent4" chan="nam_oth">3</to>
+  </rel>
+ <rel name="neighbourhood" set="Semantic relations">
+   <from sent="sent4" chan="nam_oth">1</from>
+   <to sent="sent4" chan="nam_oth">2</to>
+  </rel>
+ <rel name="neighbourhood" set="Semantic relations">
+   <from sent="sent4" chan="nam_oth">1</from>
+   <to sent="sent4" chan="nam_oth">3</to>
+  </rel>
+ <rel name="neighbourhood" set="Semantic relations">
+   <from sent="sent4" chan="nam_oth">2</from>
+   <to sent="sent4" chan="nam_oth">3</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent12" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent12" chan="nam_loc_country_region">1</to>
+  </rel>
+ <rel name="composition" set="Semantic relations">
+   <from sent="sent1" chan="nam_loc_gpe_admin1">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="composition" set="Semantic relations">
+   <from sent="sent1" chan="nam_loc_country_region">1</from>
+   <to sent="sent1" chan="nam_loc_country_region">2</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent3" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent4" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_loc_gpe_city">3</from>
+   <to sent="sent1" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_loc_gpe_city">5</from>
+   <to sent="sent1" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_loc_gpe_city">7</from>
+   <to sent="sent1" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent6" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent7" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent8" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent9" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent10" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent12" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent13" chan="anafora_wyznacznik">1</from>
+   <to sent="sent12" chan="nam_loc_country_region">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent15" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_loc_gpe_city">4</from>
+   <to sent="sent4" chan="nam_loc_gpe_city">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent4" chan="nam_loc_gpe_city">5</from>
+   <to sent="sent1" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_loc_gpe_city">9</from>
+   <to sent="sent4" chan="nam_loc_gpe_city">7</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent16" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_admin1">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent3" chan="anafora_wyznacznik">2</from>
+   <to sent="sent1" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent16" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent2" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent1" chan="spatial_indicator_3">1</from>
+   <to sent="sent1" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent1" chan="spatial_indicator_3">1</from>
+   <to sent="sent1" chan="spatial_object">2</to>
+  </rel>
+ <rel name="other" set="Spatial relations (final)">
+   <from sent="sent1" chan="spatial_indicator_3">1</from>
+   <to sent="sent1" chan="region">1</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent1" chan="spatial_indicator_3">2</from>
+   <to sent="sent1" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent1" chan="spatial_indicator_3">2</from>
+   <to sent="sent1" chan="spatial_object">3</to>
+  </rel>
+ <rel name="other" set="Spatial relations (final)">
+   <from sent="sent1" chan="spatial_indicator_3">2</from>
+   <to sent="sent1" chan="region">2</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent1" chan="spatial_indicator_3">3</from>
+   <to sent="sent1" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent1" chan="spatial_indicator_3">3</from>
+   <to sent="sent1" chan="spatial_object">4</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent3" chan="spatial_indicator_3">1</from>
+   <to sent="sent3" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent3" chan="spatial_indicator_3">1</from>
+   <to sent="sent3" chan="spatial_object">2</to>
+  </rel>
+ <rel name="other" set="Spatial relations (final)">
+   <from sent="sent3" chan="spatial_indicator_3">1</from>
+   <to sent="sent3" chan="region">1</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent4" chan="spatial_indicator_3">1</from>
+   <to sent="sent4" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent4" chan="spatial_indicator_3">1</from>
+   <to sent="sent4" chan="spatial_object">2</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent4" chan="spatial_indicator_3">2</from>
+   <to sent="sent4" chan="spatial_object">3</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent4" chan="spatial_indicator_3">2</from>
+   <to sent="sent4" chan="spatial_object">4</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent5" chan="spatial_indicator_3">1</from>
+   <to sent="sent5" chan="spatial_object">2</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent5" chan="spatial_indicator_3">1</from>
+   <to sent="sent5" chan="spatial_object">1</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent9" chan="spatial_indicator_3">1</from>
+   <to sent="sent9" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent9" chan="spatial_indicator_3">1</from>
+   <to sent="sent9" chan="spatial_object">2</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent9" chan="spatial_indicator_3">2</from>
+   <to sent="sent9" chan="spatial_object">3</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent9" chan="spatial_indicator_3">2</from>
+   <to sent="sent9" chan="spatial_object">4</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent10" chan="spatial_indicator_3">1</from>
+   <to sent="sent10" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent10" chan="spatial_indicator_3">1</from>
+   <to sent="sent10" chan="spatial_object">2</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent14" chan="spatial_indicator_3">1</from>
+   <to sent="sent14" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent14" chan="spatial_indicator_3">1</from>
+   <to sent="sent14" chan="spatial_object">2</to>
+  </rel>
+</relations>

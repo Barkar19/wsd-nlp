@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Jeszcze</orth>
+    <lex disamb="1"><base>jeszcze</base><ctag>qub</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>tym</orth>
+    <lex disamb="1"><base>ten</base><ctag>adj:sg:loc:m3:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="t3_date:lemma">+0000-00</prop>
+    <prop key="t3_date:lemma2">2006-10</prop>
+    <prop key="plimex_date:lemma">+0000-00</prop>
+   </tok>
+   <tok>
+    <orth>miesiącu</orth>
+    <lex disamb="1"><base>miesiąc</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Ozorków</orth>
+    <lex disamb="1"><base>Ozorków</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Ozorków</prop>
+   </tok>
+   <tok>
+    <orth>podpisze</orth>
+    <lex disamb="1"><base>podpisać</base><ctag>fin:sg:ter:perf</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>umowę</orth>
+    <lex disamb="1"><base>umowa</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Politechniką</orth>
+    <lex disamb="1"><base>politechnika</base><ctag>subst:sg:inst:f</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_org_organization:lemma">Politechnika Łódzka</prop>
+   </tok>
+   <tok>
+    <orth>Łódzką</orth>
+    <lex disamb="1"><base>łódzki</base><ctag>adj:sg:inst:f:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_adj_city">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_adj_city:lemma">łódzki</prop>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>przygotowanie</orth>
+    <lex disamb="1"><base>przygotować</base><ctag>ger:sg:acc:n:perf:aff</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dokumentacji</orth>
+    <lex disamb="1"><base>dokumentacja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wykorzystania</orth>
+    <lex disamb="1"><base>wykorzystać</base><ctag>ger:sg:gen:n:perf:aff</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>energii</orth>
+    <lex disamb="1"><base>energia</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">3</ann>
+   </tok>
+   <tok>
+    <orth>geotermalnej</orth>
+    <lex disamb="1"><base>geotermalny</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">3</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>ogrzewania</orth>
+    <lex disamb="1"><base>ogrzewać</base><ctag>ger:sg:gen:n:imperf:aff</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">4</ann>
+   </tok>
+   <tok>
+    <orth>mieszkań</orth>
+    <lex disamb="1"><base>mieszkanie</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">4</ann>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>zapowiadają</orth>
+    <lex disamb="1"><base>zapowiadać</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>władze</orth>
+    <lex disamb="1"><base>władza</base><ctag>subst:pl:nom:f</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>miasta</orth>
+    <lex disamb="1"><base>miasto</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>We</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:wok</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+   </tok>
+   <tok>
+    <orth>wstępnych</orth>
+    <lex disamb="1"><base>wstępny</base><ctag>adj:pl:loc:f:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+   </tok>
+   <tok>
+    <orth>rozmowach</orth>
+    <lex disamb="1"><base>rozmowa</base><ctag>subst:pl:loc:f</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+   </tok>
+   <tok>
+    <orth>PŁ</orth>
+    <lex disamb="1"><base>PŁ</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <prop key="nam_org_organization:lemma">PŁ</prop>
+   </tok>
+   <tok>
+    <orth>zgodziła</orth>
+    <lex disamb="1"><base>zgodzić</base><ctag>praet:sg:f:perf</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+   </tok>
+   <tok>
+    <orth>współfinansować</orth>
+    <lex disamb="1"><base>współfinansować</base><ctag>inf:imperf</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+   </tok>
+   <tok>
+    <orth>projekt</orth>
+    <lex disamb="1"><base>projekt</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+   </tok>
+   <tok>
+    <orth>przeznaczając</orth>
+    <lex disamb="1"><base>przeznaczać</base><ctag>pcon:imperf</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+   </tok>
+   <tok>
+    <orth>ten</orth>
+    <lex disamb="1"><base>ten</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+   </tok>
+   <tok>
+    <orth>cel</orth>
+    <lex disamb="1"><base>cel</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+   </tok>
+   <tok>
+    <orth>60</orth>
+    <lex disamb="1"><base>60</base><ctag>num:pl:acc:m3:rec</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+   </tok>
+   <tok>
+    <orth>tys</orth>
+    <lex disamb="1"><base>tys</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+   </tok>
+   <tok>
+    <orth>zł</orth>
+    <lex disamb="1"><base>złoty</base><ctag>brev:npun</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_oth_currency">1</ann>
+    <prop key="nam_oth_currency:lemma">zł</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent3">
+   <tok>
+    <orth>Drugie</orth>
+    <lex disamb="1"><base>drugi</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="wsd_własny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>tyle</orth>
+    <lex disamb="1"><base>tyle</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="wsd_własny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>pieniędzy</orth>
+    <lex disamb="1"><base>pieniądz</base><ctag>subst:pl:gen:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="wsd_własny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Ozorków</orth>
+    <lex disamb="1"><base>Ozorków</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="wsd_własny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_loc_gpe_city:lemma">Ozorków</prop>
+   </tok>
+   <tok>
+    <orth>chce</orth>
+    <lex disamb="1"><base>chcieć</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="wsd_własny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>pozyskać</orth>
+    <lex disamb="1"><base>pozyskać</base><ctag>inf:perf</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="wsd_własny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="wsd_własny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Wojewódzkiego</orth>
+    <lex disamb="1"><base>wojewódzki</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_institution">1</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="wsd_własny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_org_institution:lemma">Wojewódzki Fundusz Ochrony Środowiska</prop>
+   </tok>
+   <tok>
+    <orth>Funduszu</orth>
+    <lex disamb="1"><base>fundusz</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_institution">1</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="wsd_własny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>Ochrony</orth>
+    <lex disamb="1"><base>ochrona</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_institution">1</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="wsd_własny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>Środowiska</orth>
+    <lex disamb="1"><base>środowisko</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_institution">1</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="wsd_własny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="wsd_własny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>natomiast</orth>
+    <lex disamb="1"><base>natomiast</base><ctag>conj</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="wsd_własny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>brakujące</orth>
+    <lex disamb="1"><base>brakować</base><ctag>pact:pl:acc:f:imperf:aff</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="wsd_własny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>30</orth>
+    <lex disamb="1"><base>30</base><ctag>num:pl:acc:m3:rec</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="wsd_własny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>tys</orth>
+    <lex disamb="1"><base>tys</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="wsd_własny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="wsd_własny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>zł</orth>
+    <lex disamb="1"><base>złoty</base><ctag>brev:npun</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_oth_currency">1</ann>
+    <ann chan="wsd_własny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_oth_currency:lemma">zł</prop>
+   </tok>
+   <tok>
+    <orth>miasto</orth>
+    <lex disamb="1"><base>miasto</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="wsd_własny">0</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wyłoży</orth>
+    <lex disamb="1"><base>wyłożyć</base><ctag>fin:sg:ter:perf</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="wsd_własny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="wsd_własny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>własnego</orth>
+    <lex disamb="1"><base>własny</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="wsd_własny">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>budżetu</orth>
+    <lex disamb="1"><base>budżet</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="wsd_własny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="wsd_własny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

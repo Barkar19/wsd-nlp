@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent24" chan="nam_pro_title">1</from>
+   <to sent="sent20" chan="nam_pro_title">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent9" chan="nam_liv_god">1</from>
+   <to sent="sent7" chan="nam_liv_god">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent9" chan="nam_liv_god">2</from>
+   <to sent="sent7" chan="nam_liv_god">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent11" chan="nam_liv_god">1</from>
+   <to sent="sent7" chan="nam_liv_god">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent15" chan="nam_liv_god">2</from>
+   <to sent="sent7" chan="nam_liv_god">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent13" chan="nam_liv_god">1</from>
+   <to sent="sent7" chan="nam_liv_god">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent15" chan="nam_liv_god">1</from>
+   <to sent="sent7" chan="nam_liv_god">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent18" chan="nam_liv_god">1</from>
+   <to sent="sent7" chan="nam_liv_god">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent24" chan="nam_liv_god">1</from>
+   <to sent="sent7" chan="nam_liv_god">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent28" chan="nam_liv_god">1</from>
+   <to sent="sent7" chan="nam_liv_god">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent30" chan="nam_liv_god">1</from>
+   <to sent="sent7" chan="nam_liv_god">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent9" chan="anafora_wyznacznik">1</from>
+   <to sent="sent7" chan="nam_liv_god">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent9" chan="anafora_wyznacznik">2</from>
+   <to sent="sent7" chan="nam_liv_god">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent18" chan="anafora_wyznacznik">3</from>
+   <to sent="sent7" chan="nam_liv_god">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent18" chan="anafora_wyznacznik">2</from>
+   <to sent="sent7" chan="nam_liv_god">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent18" chan="anafora_wyznacznik">1</from>
+   <to sent="sent7" chan="nam_liv_god">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent20" chan="anafora_wyznacznik">1</from>
+   <to sent="sent20" chan="nam_liv_person">2</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent24" chan="anafora_wyznacznik">1</from>
+   <to sent="sent24" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent28" chan="anafora_wyznacznik">1</from>
+   <to sent="sent7" chan="nam_liv_god">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent28" chan="anafora_wyznacznik">2</from>
+   <to sent="sent7" chan="nam_liv_god">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent28" chan="anafora_wyznacznik">4</from>
+   <to sent="sent7" chan="nam_liv_god">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent28" chan="anafora_wyznacznik">3</from>
+   <to sent="sent7" chan="nam_liv_god">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent30" chan="anafora_wyznacznik">1</from>
+   <to sent="sent7" chan="nam_liv_god">1</to>
+  </rel>
+</relations>

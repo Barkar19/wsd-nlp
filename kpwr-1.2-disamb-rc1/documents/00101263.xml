@@ -1,0 +1,4157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Arłamów</orth>
+    <lex disamb="1"><base>Arłamów</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Arłamów</prop>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent2">
+   <tok>
+    <orth>Arłamów</orth>
+    <lex disamb="1"><base>Arłamów</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Arłamów</prop>
+   </tok>
+   <tok>
+    <orth>–</orth>
+    <lex disamb="1"><base>–</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>nieistniejąca</orth>
+    <lex disamb="1"><base>istnieć</base><ctag>pact:sg:nom:f:imperf:neg</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wieś</orth>
+    <lex disamb="1"><base>wieś</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>województwie</orth>
+    <lex disamb="1"><base>województwo</base><ctag>subst:sg:loc:n</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <tok>
+    <orth>podkarpackim</orth>
+    <lex disamb="1"><base>podkarpacki</base><ctag>adj:sg:loc:n:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">1</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_loc_gpe_admin1:lemma">podkarpacki</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>powiecie</orth>
+    <lex disamb="1"><base>powiat</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="keyword">3</ann>
+   </tok>
+   <tok>
+    <orth>bieszczadzkim</orth>
+    <lex disamb="1"><base>bieszczadzki</base><ctag>adj:sg:loc:m3:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">1</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="keyword">3</ann>
+    <prop key="nam_loc_gpe_admin2:lemma">bieszczadzki</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>gminie</orth>
+    <lex disamb="1"><base>gmina</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="keyword">4</ann>
+   </tok>
+   <tok>
+    <orth>Ustrzyki</orth>
+    <lex disamb="1"><base>Ustrzyki</base><ctag>subst:pl:nom:n</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_admin3">1</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="keyword">4</ann>
+    <prop key="nam_loc_gpe_admin3:lemma">Ustrzyki Dolne</prop>
+   </tok>
+   <tok>
+    <orth>Dolne</orth>
+    <lex disamb="1"><base>dolny</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_admin3">1</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="keyword">4</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>terenie</orth>
+    <lex disamb="1"><base>teren</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Pogórza</orth>
+    <lex disamb="1"><base>pogórze</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_country_region">1</ann>
+    <ann chan="keyword">5</ann>
+    <prop key="nam_loc_country_region:lemma">Pogórze Przemyskie</prop>
+   </tok>
+   <tok>
+    <orth>Przemyskiego</orth>
+    <lex disamb="1"><base>przemyski</base><ctag>adj:sg:gen:n:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_country_region">1</ann>
+    <ann chan="keyword">5</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_admin3">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch3">
+  <sentence id="sent3">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="wsd_położyć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>latach</orth>
+    <lex disamb="1"><base>rok</base><ctag>subst:pl:loc:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="wsd_położyć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_range">1</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_range">1</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>1975</orth>
+    <lex disamb="1"><base>1975</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="wsd_położyć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_range">1</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_range">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="t3_date:lemma">1975</prop>
+    <prop key="t3_date:lemma2">1975</prop>
+    <prop key="plimex_date:lemma">1975</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>–</orth>
+    <lex disamb="1"><base>–</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="wsd_położyć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_range">1</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_range">1</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1998</orth>
+    <lex disamb="1"><base>1998</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="wsd_położyć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_range">1</ann>
+    <ann chan="t3_date">2</ann>
+    <ann chan="plimex_range">1</ann>
+    <ann chan="plimex_date">2</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="t3_date:lemma">1998</prop>
+    <prop key="t3_date:lemma2">1998</prop>
+    <prop key="plimex_date:lemma">1998 </prop>
+   </tok>
+   <tok>
+    <orth>miejscowość</orth>
+    <lex disamb="1"><base>miejscowość</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="wsd_położyć">0</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>położona</orth>
+    <lex disamb="1"><base>położyć</base><ctag>ppas:sg:nom:f:perf:aff</ctag></lex>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="wsd_położyć">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_położyć">położyć-91</prop>
+   </tok>
+   <tok>
+    <orth>była</orth>
+    <lex disamb="1"><base>być</base><ctag>praet:sg:f:imperf</ctag></lex>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="wsd_położyć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="wsd_położyć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>województwie</orth>
+    <lex disamb="1"><base>województwo</base><ctag>subst:sg:loc:n</ctag></lex>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="wsd_położyć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>krośnieńskim</orth>
+    <lex disamb="1"><base>krośnieński</base><ctag>adj:sg:loc:n:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_admin1">1</ann>
+    <ann chan="wsd_położyć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_loc_gpe_admin1:lemma">krośnieński</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="wsd_położyć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch4">
+  <sentence id="sent4">
+   <tok>
+    <orth>Według</orth>
+    <lex disamb="1"><base>według</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="wsd_pochodzić">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>tradycji</orth>
+    <lex disamb="1"><base>tradycja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="wsd_pochodzić">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>nazwa</orth>
+    <lex disamb="1"><base>nazwa</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="wsd_pochodzić">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>miejscowości</orth>
+    <lex disamb="1"><base>miejscowość</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="wsd_pochodzić">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+   </tok>
+   <tok>
+    <orth>pochodzi</orth>
+    <lex disamb="1"><base>pochodzić</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="wsd_pochodzić">1</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <prop key="sense:wsd_pochodzić">pochodzić-1</prop>
+   </tok>
+   <tok>
+    <orth>od</orth>
+    <lex disamb="1"><base>od</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="wsd_pochodzić">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>osiedlonych</orth>
+    <lex disamb="1"><base>osiedlić</base><ctag>ppas:pl:gen:m1:perf:aff</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="wsd_pochodzić">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>tu</orth>
+    <lex disamb="1"><base>tu</base><ctag>adv</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="wsd_pochodzić">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="wsd_pochodzić">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>czasach</orth>
+    <lex disamb="1"><base>czas</base><ctag>subst:pl:loc:m3</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="wsd_pochodzić">0</ann>
+    <ann chan="wsd_czas">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <prop key="sense:wsd_czas">czas-4</prop>
+   </tok>
+   <tok>
+    <orth>książąt</orth>
+    <lex disamb="1"><base>książę</base><ctag>subst:pl:gen:m1</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="wsd_pochodzić">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>ruskich</orth>
+    <lex disamb="1"><base>ruski</base><ctag>adj:pl:gen:m1:pos</ctag></lex>
+    <ann chan="nam_adj">1</ann>
+    <ann chan="wsd_pochodzić">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <prop key="nam_adj:lemma">ruski</prop>
+   </tok>
+   <tok>
+    <orth>tatarskich</orth>
+    <lex disamb="1"><base>tatarski</base><ctag>adj:pl:gen:m1:pos</ctag></lex>
+    <ann chan="nam_adj">2</ann>
+    <ann chan="wsd_pochodzić">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <prop key="nam_adj:lemma">tatarski</prop>
+   </tok>
+   <tok>
+    <orth>jeńców</orth>
+    <lex disamb="1"><base>jeniec</base><ctag>subst:pl:gen:m1</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="wsd_pochodzić">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="wsd_pochodzić">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>tzw</orth>
+    <lex disamb="1"><base>tzw</base><ctag>ign</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="wsd_pochodzić">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="wsd_pochodzić">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>arłamanów</orth>
+    <lex disamb="1"><base>arłamanów</base><ctag>ign</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="wsd_pochodzić">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="wsd_pochodzić">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>włóczęgów</orth>
+    <lex disamb="1"><base>włóczęga</base><ctag>subst:pl:gen:m1</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="wsd_pochodzić">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="wsd_pochodzić">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="wsd_pochodzić">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch5">
+  <sentence id="sent5">
+   <tok>
+    <orth>Ponowna</orth>
+    <lex disamb="1"><base>ponowny</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>lokacja</orth>
+    <lex disamb="1"><base>lokacja</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>prawie</orth>
+    <lex disamb="1"><base>prawo</base><ctag>subst:sg:loc:n</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wołoskim</orth>
+    <lex disamb="1"><base>wołoski</base><ctag>adj:sg:loc:n:pos</ctag></lex>
+    <ann chan="nam_adj">1</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_adj:lemma">wołoski</prop>
+   </tok>
+   <tok>
+    <orth>miała</orth>
+    <lex disamb="1"><base>mieć</base><ctag>praet:sg:f:imperf</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>miejsce</orth>
+    <lex disamb="1"><base>miejsce</base><ctag>subst:sg:acc:n</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>pod</orth>
+    <lex disamb="1"><base>pod</base><ctag>prep:acc:nwok</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>koniec</orth>
+    <lex disamb="1"><base>koniec</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">1</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="t3_date:lemma">14</prop>
+    <prop key="t3_date:lemma2">14</prop>
+    <prop key="plimex_date:lemma">14</prop>
+   </tok>
+   <tok>
+    <orth>XV</orth>
+    <lex disamb="1"><base>XV</base><ctag>ign</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">1</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>wyspa</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">1</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">1</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">1</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dokonał</orth>
+    <lex disamb="1"><base>dokonać</base><ctag>praet:sg:m1:perf</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>jej</orth>
+    <lex disamb="1"><base>on</base><ctag>ppron3:sg:gen:f:ter:akc:npraep</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Jan</orth>
+    <lex disamb="1"><base>Jan</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">1</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_liv_person_first:lemma">Jan</prop>
+    <prop key="nam_liv_person:lemma">Jan Herburt (Arłamowski)</prop>
+   </tok>
+   <tok>
+    <orth>Herburt</orth>
+    <lex disamb="1"><base>Herburt</base><ctag>ign</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_last">1</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_liv_person_last:lemma">Herburt</prop>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>Arłamowski</orth>
+    <lex disamb="1"><base>Arłamowski</base><ctag>ign</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_last">2</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_liv_person_last:lemma">Arłamowski</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1470</orth>
+    <lex disamb="1"><base>1470</base><ctag>ign</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">2</ann>
+    <ann chan="t3_range">1</ann>
+    <ann chan="plimex_date">2</ann>
+    <ann chan="plimex_range">1</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="t3_date:lemma">1470</prop>
+    <prop key="t3_date:lemma2">1470</prop>
+    <prop key="plimex_date:lemma">1470</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>–</orth>
+    <lex disamb="1"><base>–</base><ctag>interp</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">1</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1508</orth>
+    <lex disamb="1"><base>1508</base><ctag>ign</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">3</ann>
+    <ann chan="t3_range">1</ann>
+    <ann chan="plimex_date">3</ann>
+    <ann chan="plimex_range">1</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="t3_date:lemma">1508</prop>
+    <prop key="t3_date:lemma2">1508</prop>
+    <prop key="plimex_date:lemma">1508</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>–</orth>
+    <lex disamb="1"><base>–</base><ctag>interp</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>poseł</orth>
+    <lex disamb="1"><base>poseł</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>województwa</orth>
+    <lex disamb="1"><base>województwo</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>ruskiego</orth>
+    <lex disamb="1"><base>ruski</base><ctag>adj:sg:gen:n:pos</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">1</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_loc_gpe_admin1:lemma">ruski</prop>
+   </tok>
+   <tok>
+    <orth>–</orth>
+    <lex disamb="1"><base>–</base><ctag>interp</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>pierwszy</orth>
+    <lex disamb="1"><base>pierwszy</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>właściciel</orth>
+    <lex disamb="1"><base>właściciel</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>–</orth>
+    <lex disamb="1"><base>–</base><ctag>interp</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wójt</orth>
+    <lex disamb="1"><base>wójt</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>samborski</orth>
+    <lex disamb="1"><base>samborski</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">1</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_adj_city:lemma">samborski</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_adj_city">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent6">
+   <tok>
+    <orth>Potem</orth>
+    <lex disamb="1"><base>potem</base><ctag>adv</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="wsd_przyjąć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>właścicielami</orth>
+    <lex disamb="1"><base>właściciel</base><ctag>subst:pl:inst:m1</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="wsd_przyjąć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>byli</orth>
+    <lex disamb="1"><base>być</base><ctag>praet:pl:m1:imperf</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="wsd_przyjąć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>jego</orth>
+    <lex disamb="1"><base>on</base><ctag>ppron3:sg:gen:m1:ter:akc:npraep</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="wsd_przyjąć">0</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>spadkobiercy</orth>
+    <lex disamb="1"><base>spadkobierca</base><ctag>subst:pl:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="wsd_przyjąć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="wsd_przyjąć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>którzy</orth>
+    <lex disamb="1"><base>który</base><ctag>adj:pl:nom:m1:pos</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="wsd_przyjąć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>przyjęli</orth>
+    <lex disamb="1"><base>przyjąć</base><ctag>praet:pl:m1:perf</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="wsd_przyjąć">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">1</ann>
+    <prop key="sense:wsd_przyjąć">przyjąć-7</prop>
+   </tok>
+   <tok>
+    <orth>nazwisko</orth>
+    <lex disamb="1"><base>nazwisko</base><ctag>subst:sg:acc:n</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="wsd_przyjąć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>Arłamowscy</orth>
+    <lex disamb="1"><base>Arłamowscy</base><ctag>ign</ctag></lex>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_last">1</ann>
+    <ann chan="wsd_przyjąć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <prop key="nam_liv_person:lemma">Arłamowscy</prop>
+    <prop key="nam_liv_person_last:lemma">Arłamowscy</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="wsd_przyjąć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch6">
+  <sentence id="sent7">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_country">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>1776</orth>
+    <lex disamb="1"><base>1776</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_country">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <prop key="t3_date:lemma">1776</prop>
+    <prop key="t3_date:lemma2">1776</prop>
+    <prop key="plimex_date:lemma">1776</prop>
+   </tok>
+   <tok>
+    <orth>r</orth>
+    <lex disamb="1"><base>rocznik</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>rodzaj</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>rok</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_country">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_country">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+   </tok>
+   <tok>
+    <orth>Arłamów</orth>
+    <lex disamb="1"><base>Arłamów</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="nam_adj_country">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <prop key="nam_loc_gpe_city:lemma">Arłamów</prop>
+   </tok>
+   <tok>
+    <orth>wraz</orth>
+    <lex disamb="1"><base>wraz</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_country">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_country">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>posiadłościami</orth>
+    <lex disamb="1"><base>posiadłość</base><ctag>subst:pl:inst:f</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_country">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>dobromilskimi</orth>
+    <lex disamb="1"><base>dobromilskimi</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_country">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>kupił</orth>
+    <lex disamb="1"><base>kupić</base><ctag>praet:sg:m1:perf</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_country">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>rząd</orth>
+    <lex disamb="1"><base>rząd</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_country">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>austriacki</orth>
+    <lex disamb="1"><base>austriacki</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_country">1</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <prop key="nam_adj_country:lemma">austriacki</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_country">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>włączając</orth>
+    <lex disamb="1"><base>włączać</base><ctag>pcon:imperf</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_country">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>je</orth>
+    <lex disamb="1"><base>on</base><ctag>ppron3:pl:acc:f:ter:akc:npraep</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_country">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_country">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>skład</orth>
+    <lex disamb="1"><base>skład</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_country">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>dóbr</orth>
+    <lex disamb="1"><base>dobra</base><ctag>subst:pl:gen:n</ctag></lex>
+    <lex disamb="1"><base>dobro</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_country">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>państwowych</orth>
+    <lex disamb="1"><base>państwowy</base><ctag>adj:pl:gen:n:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_country">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_country">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>tzw</orth>
+    <lex disamb="1"><base>tzw</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_country">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_country">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>kameralnych</orth>
+    <lex disamb="1"><base>kameralny</base><ctag>adj:pl:gen:f:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_country">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_country">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch7">
+  <sentence id="sent8">
+   <tok>
+    <orth>Od</orth>
+    <lex disamb="1"><base>od</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>1644</orth>
+    <lex disamb="1"><base>1644</base><ctag>ign</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <prop key="t3_date:lemma">1644</prop>
+    <prop key="t3_date:lemma2">1644</prop>
+    <prop key="plimex_date:lemma">1644</prop>
+   </tok>
+   <tok>
+    <orth>r</orth>
+    <lex disamb="1"><base>rocznik</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>rodzaj</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>rok</base><ctag>brev:pun</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+   </tok>
+   <tok>
+    <orth>istniała</orth>
+    <lex disamb="1"><base>istnieć</base><ctag>praet:sg:f:imperf</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>we</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:wok</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>wsi</orth>
+    <lex disamb="1"><base>wieś</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="anafora_wyznacznik">1</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>parafia</orth>
+    <lex disamb="1"><base>parafia</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>prawosławna</orth>
+    <lex disamb="1"><base>prawosławny</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>później</orth>
+    <lex disamb="1"><base>późno</base><ctag>adv:com</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>greckokatolicka</orth>
+    <lex disamb="1"><base>greckokatolicki</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent9">
+   <tok>
+    <orth>Z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>kilku</orth>
+    <lex disamb="1"><base>kilka</base><ctag>num:pl:gen:f:congr</ctag></lex>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>cerkwi</orth>
+    <lex disamb="1"><base>cerkiew</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>ostatnia</orth>
+    <lex disamb="1"><base>ostatni</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="wsd_ostatni">1</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>wybudowana</orth>
+    <lex disamb="1"><base>wybudować</base><ctag>ppas:sg:nom:f:perf:aff</ctag></lex>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>była</orth>
+    <lex disamb="1"><base>być</base><ctag>praet:sg:f:imperf</ctag></lex>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>1914</orth>
+    <lex disamb="1"><base>1914</base><ctag>ign</ctag></lex>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <prop key="t3_date:lemma">1914</prop>
+    <prop key="t3_date:lemma2">1914</prop>
+    <prop key="plimex_date:lemma">1914</prop>
+   </tok>
+   <tok>
+    <orth>r</orth>
+    <lex disamb="1"><base>rocznik</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>rodzaj</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>rok</base><ctag>brev:pun</ctag></lex>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent10">
+   <tok>
+    <orth>Uległa</orth>
+    <lex disamb="1"><base>ulec</base><ctag>praet:sg:f:perf</ctag></lex>
+    <ann chan="wsd_cały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">1</ann>
+   </tok>
+   <tok>
+    <orth>zniszczeniu</orth>
+    <lex disamb="1"><base>zniszczeć</base><ctag>ger:sg:dat:n:perf:aff</ctag></lex>
+    <lex disamb="1"><base>zniszczyć</base><ctag>ger:sg:dat:n:perf:aff</ctag></lex>
+    <ann chan="wsd_cały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>wraz</orth>
+    <lex disamb="1"><base>wraz</base><ctag>burk</ctag></lex>
+    <ann chan="wsd_cały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="wsd_cały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>całą</orth>
+    <lex disamb="1"><base>cały</base><ctag>adj:sg:inst:f:pos</ctag></lex>
+    <ann chan="wsd_cały">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>wsią</orth>
+    <lex disamb="1"><base>wieś</base><ctag>subst:sg:inst:f</ctag></lex>
+    <ann chan="wsd_cały">0</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="wsd_cały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>roku</orth>
+    <lex disamb="1"><base>rok</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="wsd_cały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <prop key="t3_date:lemma">1945</prop>
+    <prop key="t3_date:lemma2">1945</prop>
+    <prop key="plimex_date:lemma">1945</prop>
+   </tok>
+   <tok>
+    <orth>1945</orth>
+    <lex disamb="1"><base>1945</base><ctag>ign</ctag></lex>
+    <ann chan="wsd_cały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_cały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent11">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_person">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>1921</orth>
+    <lex disamb="1"><base>1921</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_person">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <prop key="t3_date:lemma">1921</prop>
+    <prop key="t3_date:lemma2">1921</prop>
+    <prop key="plimex_date:lemma">1921</prop>
+   </tok>
+   <tok>
+    <orth>r</orth>
+    <lex disamb="1"><base>rocznik</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>rodzaj</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>rok</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_person">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_person">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+   </tok>
+   <tok>
+    <orth>Arłamów</orth>
+    <lex disamb="1"><base>Arłamów</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="nam_adj_person">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <prop key="nam_loc_gpe_city:lemma">Arłamów</prop>
+   </tok>
+   <tok>
+    <orth>liczył</orth>
+    <lex disamb="1"><base>liczyć</base><ctag>praet:sg:m3:imperf</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_person">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>144</orth>
+    <lex disamb="1"><base>144</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_person">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>domy</orth>
+    <lex disamb="1"><base>dom</base><ctag>subst:pl:acc:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_person">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_person">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>879</orth>
+    <lex disamb="1"><base>879</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_person">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>mieszkańców</orth>
+    <lex disamb="1"><base>mieszkaniec</base><ctag>subst:pl:acc:m1</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_person">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_person">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>873</orth>
+    <lex disamb="1"><base>873</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_person">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>wyznania</orth>
+    <lex disamb="1"><base>wyznanie</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_person">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>greckokatolickiego</orth>
+    <lex disamb="1"><base>greckokatolicki</base><ctag>adj:sg:gen:n:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_person">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_person">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>9</orth>
+    <lex disamb="1"><base>9</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_person">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>rzymskokatolickiego</orth>
+    <lex disamb="1"><base>rzymskokatolicki</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_person">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_person">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>15</orth>
+    <lex disamb="1"><base>15</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_person">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>mojżeszowego</orth>
+    <lex disamb="1"><base>mojżeszowy</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_person">1</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <prop key="nam_adj_person:lemma">mojżeszowy</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_person">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_adj_person">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent12">
+   <tok>
+    <orth>Większość</orth>
+    <lex disamb="1"><base>większość</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>mieszkańców</orth>
+    <lex disamb="1"><base>mieszkaniec</base><ctag>subst:pl:gen:m1</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>wysiedlono</orth>
+    <lex disamb="1"><base>wysiedlić</base><ctag>imps:perf</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>Ukrainę</orth>
+    <lex disamb="1"><base>Ukraina</base><ctag>subst:sg:acc:f</ctag></lex>
+    <lex disamb="1"><base>ukraina</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">1</ann>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <prop key="nam_loc_gpe_country:lemma">Ukraina</prop>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>1946</orth>
+    <lex disamb="1"><base>1946</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <prop key="t3_date:lemma">1946</prop>
+    <prop key="t3_date:lemma2">1946</prop>
+    <prop key="plimex_date:lemma">1946</prop>
+   </tok>
+   <tok>
+    <orth>r</orth>
+    <lex disamb="1"><base>rocznik</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>rodzaj</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>rok</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+   </tok>
+   <tok>
+    <orth>a</orth>
+    <lex disamb="1"><base>a</base><ctag>conj</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>ostatnie</orth>
+    <lex disamb="1"><base>ostatni</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="wsd_ostatni">1</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>200</orth>
+    <lex disamb="1"><base>200</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>osób</orth>
+    <lex disamb="1"><base>osoba</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_osoba">1</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <prop key="sense:wsd_osoba">osoba-1</prop>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>ramach</orth>
+    <lex disamb="1"><base>ramy</base><ctag>subst:pl:loc:n</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>Akcji</orth>
+    <lex disamb="1"><base>akcja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human">1</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <prop key="nam_eve_human:lemma">Akcji &quot;Wisła</prop>
+   </tok>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human">1</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>Wisła</orth>
+    <lex disamb="1"><base>Wisła</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human">1</ann>
+    <ann chan="nam_loc_hydronym_river">1</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <prop key="nam_loc_hydronym_river:lemma">Wisła</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch8">
+  <sentence id="sent13">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_powstać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>latach</orth>
+    <lex disamb="1"><base>rok</base><ctag>subst:pl:loc:m3</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_powstać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <prop key="t3_date:lemma">197</prop>
+    <prop key="t3_date:lemma2">197</prop>
+    <prop key="plimex_date:lemma">197</prop>
+   </tok>
+   <tok>
+    <orth>70</orth>
+    <lex disamb="1"><base>70</base><ctag>ign</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_powstać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_powstać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+   </tok>
+   <tok>
+    <orth>XX</orth>
+    <lex disamb="1"><base>XX</base><ctag>ign</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_powstać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>wyspa</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="wsd_wielki">1</ann>
+    <ann chan="wsd_powstać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_powstać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_powstać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>terenach</orth>
+    <lex disamb="1"><base>teren</base><ctag>subst:pl:loc:m3</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_powstać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>zniszczonej</orth>
+    <lex disamb="1"><base>zniszczony</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_powstać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>wsi</orth>
+    <lex disamb="1"><base>wieś</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_powstać">0</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>powstał</orth>
+    <lex disamb="1"><base>powstać</base><ctag>praet:sg:m3:perf</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_powstać">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <prop key="sense:wsd_powstać">powstać-1</prop>
+   </tok>
+   <tok>
+    <orth>Ośrodek</orth>
+    <lex disamb="1"><base>ośrodek</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_powstać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <prop key="nam_fac_goe:lemma">Ośrodek Wypoczynkowy</prop>
+   </tok>
+   <tok>
+    <orth>Wypoczynkowy</orth>
+    <lex disamb="1"><base>wypoczynkowy</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_powstać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>Urzędu</orth>
+    <lex disamb="1"><base>urząd</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_org_institution">1</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_powstać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <prop key="nam_org_institution:lemma">Urząd Rady Ministrów</prop>
+   </tok>
+   <tok>
+    <orth>Rady</orth>
+    <lex disamb="1"><base>rada</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_org_institution">1</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_powstać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>Ministrów</orth>
+    <lex disamb="1"><base>minister</base><ctag>subst:pl:gen:m1</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_org_institution">1</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_powstać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_powstać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent14">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>oficjalnych</orth>
+    <lex disamb="1"><base>oficjalny</base><ctag>adj:pl:loc:m3:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>dokumentach</orth>
+    <lex disamb="1"><base>dokument</base><ctag>subst:pl:loc:m3</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>rządowych</orth>
+    <lex disamb="1"><base>rządowy</base><ctag>adj:pl:gen:m3:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>oznaczany</orth>
+    <lex disamb="1"><base>oznaczać</base><ctag>ppas:sg:nom:m3:imperf:aff</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_oznaczać">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <prop key="sense:wsd_oznaczać">oznaczać-4</prop>
+   </tok>
+   <tok>
+    <orth>był</orth>
+    <lex disamb="1"><base>być</base><ctag>praet:sg:m3:imperf</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+    <ann chan="anafora_verb_null">1</ann>
+   </tok>
+   <tok>
+    <orth>kryptonimem</orth>
+    <lex disamb="1"><base>kryptonim</base><ctag>subst:sg:inst:m3</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <prop key="nam_fac_goe:lemma">W-2</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>2</orth>
+    <lex disamb="1"><base>2</base><ctag>ign</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_fac_goe">2</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <prop key="nam_fac_goe:lemma">W-1</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">2</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>ign</ctag></lex>
+    <ann chan="nam_fac_goe">2</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>pred</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>Łańsk</orth>
+    <lex disamb="1"><base>Łańsk</base><ctag>ign</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <prop key="nam_loc_gpe_city:lemma">Łańsk</prop>
+   </tok>
+   <tok>
+    <orth>koło</orth>
+    <lex disamb="1"><base>koło</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>Olsztyna</orth>
+    <lex disamb="1"><base>Olsztyn</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_city">2</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <prop key="nam_loc_gpe_city:lemma">Olsztyn</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent15">
+   <tok>
+    <orth>Oprócz</orth>
+    <lex disamb="1"><base>oprócz</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Arłamowa</orth>
+    <lex disamb="1"><base>Arłamowa</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_loc_gpe_city:lemma">Arłamów</prop>
+   </tok>
+   <tok>
+    <orth>ośrodek</orth>
+    <lex disamb="1"><base>ośrodek</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>obejmował</orth>
+    <lex disamb="1"><base>obejmować</base><ctag>praet:sg:m3:imperf</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>tereny</orth>
+    <lex disamb="1"><base>teren</base><ctag>subst:pl:acc:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wsi</orth>
+    <lex disamb="1"><base>wieś</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Borysławka</orth>
+    <lex disamb="1"><base>Borysławka</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_city">2</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Borysławka</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Grąziowa</orth>
+    <lex disamb="1"><base>Grąziowa</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_city">3</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_loc_gpe_city:lemma">Grąziowa</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Jamna</orth>
+    <lex disamb="1"><base>Jamno</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_loc_gpe_city">4</ann>
+    <ann chan="keyword">3</ann>
+    <prop key="nam_loc_gpe_city:lemma">Jamna Górna</prop>
+   </tok>
+   <tok>
+    <orth>Górna</orth>
+    <lex disamb="1"><base>górny</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">4</ann>
+    <ann chan="keyword">3</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Jamna</orth>
+    <lex disamb="1"><base>Jamno</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_loc_gpe_city">5</ann>
+    <ann chan="keyword">4</ann>
+    <prop key="nam_loc_gpe_city:lemma">Jamna Dolna</prop>
+   </tok>
+   <tok>
+    <orth>Dolna</orth>
+    <lex disamb="1"><base>dolny</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">5</ann>
+    <ann chan="keyword">4</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Krajna</orth>
+    <lex disamb="1"><base>krajny</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">6</ann>
+    <ann chan="keyword">5</ann>
+    <prop key="nam_loc_gpe_city:lemma">Krajna</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Kwaszenina</orth>
+    <lex disamb="1"><base>kwaszenina</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_loc_gpe_city">7</ann>
+    <ann chan="keyword">6</ann>
+    <prop key="nam_loc_gpe_city:lemma">Kwaszenina</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Łomna</orth>
+    <lex disamb="1"><base>łomny</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">8</ann>
+    <ann chan="keyword">7</ann>
+    <prop key="nam_loc_gpe_city:lemma">Łomna</prop>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Trójca</orth>
+    <lex disamb="1"><base>trójca</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_loc_gpe_city">9</ann>
+    <ann chan="keyword">8</ann>
+    <prop key="nam_loc_gpe_city:lemma">Trójca</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>łącznie</orth>
+    <lex disamb="1"><base>łącznie</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>23</orth>
+    <lex disamb="1"><base>23</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>000</orth>
+    <lex disamb="1"><base>000</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>ha</orth>
+    <lex disamb="1"><base>hektar</base><ctag>brev:npun</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent16">
+   <tok>
+    <orth>Całość</orth>
+    <lex disamb="1"><base>całość</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+   </tok>
+   <tok>
+    <orth>otoczono</orth>
+    <lex disamb="1"><base>otoczyć</base><ctag>imps:perf</ctag></lex>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>wysokim</orth>
+    <lex disamb="1"><base>wysoki</base><ctag>adj:sg:inst:n:pos</ctag></lex>
+    <ann chan="wsd_wysoki">1</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>3</orth>
+    <lex disamb="1"><base>3</base><ctag>ign</ctag></lex>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>m</orth>
+    <lex disamb="1"><base>metr</base><ctag>brev:npun</ctag></lex>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_metr">1</ann>
+    <ann chan="wsd_m">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <prop key="sense:wsd_metr">metr-1</prop>
+    <prop key="sense:wsd_m">m-6</prop>
+   </tok>
+   <tok>
+    <orth>ogrodzeniem</orth>
+    <lex disamb="1"><base>ogrodzenie</base><ctag>subst:sg:inst:n</ctag></lex>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>siatki</orth>
+    <lex disamb="1"><base>siatka</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>o</orth>
+    <lex disamb="1"><base>o</base><ctag>prep:loc</ctag></lex>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>długości</orth>
+    <lex disamb="1"><base>długość</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>ponad</orth>
+    <lex disamb="1"><base>ponad</base><ctag>qub</ctag></lex>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>80</orth>
+    <lex disamb="1"><base>80</base><ctag>ign</ctag></lex>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>km</orth>
+    <lex disamb="1"><base>kilometr</base><ctag>brev:npun</ctag></lex>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_metr">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent17">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="wsd_dać">0</ann>
+   </tok>
+   <tok>
+    <orth>ogrodzenie</orth>
+    <lex disamb="1"><base>ogrodzenie</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="wsd_dać">0</ann>
+   </tok>
+   <tok>
+    <orth>wkomponowane</orth>
+    <lex disamb="1"><base>wkomponować</base><ctag>ppas:pl:nom:n:perf:aff</ctag></lex>
+    <ann chan="wsd_dać">0</ann>
+   </tok>
+   <tok>
+    <orth>były</orth>
+    <lex disamb="1"><base>być</base><ctag>praet:pl:n:imperf</ctag></lex>
+    <ann chan="wsd_dać">0</ann>
+   </tok>
+   <tok>
+    <orth>przejścia</orth>
+    <lex disamb="1"><base>przejście</base><ctag>subst:pl:nom:n</ctag></lex>
+    <ann chan="wsd_dać">0</ann>
+   </tok>
+   <tok>
+    <orth>dla</orth>
+    <lex disamb="1"><base>dla</base><ctag>prep:gen</ctag></lex>
+    <ann chan="wsd_dać">0</ann>
+   </tok>
+   <tok>
+    <orth>zwierząt</orth>
+    <lex disamb="1"><base>zwierzę</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="wsd_dać">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_dać">0</ann>
+   </tok>
+   <tok>
+    <orth>tak</orth>
+    <lex disamb="1"><base>tak</base><ctag>adv:pos</ctag></lex>
+    <ann chan="wsd_dać">0</ann>
+   </tok>
+   <tok>
+    <orth>skonstruowane</orth>
+    <lex disamb="1"><base>skonstruować</base><ctag>ppas:sg:nom:n:perf:aff</ctag></lex>
+    <ann chan="wsd_dać">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_dać">0</ann>
+   </tok>
+   <tok>
+    <orth>by</orth>
+    <lex disamb="1"><base>by</base><ctag>comp</ctag></lex>
+    <ann chan="wsd_dać">0</ann>
+   </tok>
+   <tok>
+    <orth>dało</orth>
+    <lex disamb="1"><base>dać</base><ctag>praet:sg:n:perf</ctag></lex>
+    <ann chan="wsd_dać">1</ann>
+    <prop key="sense:wsd_dać">dać-32</prop>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="wsd_dać">0</ann>
+   </tok>
+   <tok>
+    <orth>przejść</orth>
+    <lex disamb="1"><base>przejść</base><ctag>inf:perf</ctag></lex>
+    <ann chan="wsd_dać">0</ann>
+   </tok>
+   <tok>
+    <orth>tylko</orth>
+    <lex disamb="1"><base>tylko</base><ctag>qub</ctag></lex>
+    <ann chan="wsd_dać">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="wsd_dać">0</ann>
+   </tok>
+   <tok>
+    <orth>kierunku</orth>
+    <lex disamb="1"><base>kierunek</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="wsd_dać">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="wsd_dać">0</ann>
+   </tok>
+   <tok>
+    <orth>środka</orth>
+    <lex disamb="1"><base>środek</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="wsd_dać">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_dać">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent18">
+   <tok>
+    <orth>Wewnątrz</orth>
+    <lex disamb="1"><base>wewnątrz</base><ctag>adv</ctag></lex>
+    <ann chan="nam_loc_land_protected_area">0</ann>
+    <ann chan="wsd_znaleźć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>ogrodzonego</orth>
+    <lex disamb="1"><base>ogrodzić</base><ctag>ppas:sg:gen:m3:perf:aff</ctag></lex>
+    <ann chan="nam_loc_land_protected_area">0</ann>
+    <ann chan="wsd_znaleźć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>terenu</orth>
+    <lex disamb="1"><base>teren</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_loc_land_protected_area">0</ann>
+    <ann chan="wsd_znaleźć">0</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+   </tok>
+   <tok>
+    <orth>znalazł</orth>
+    <lex disamb="1"><base>znaleźć</base><ctag>praet:sg:m3:perf</ctag></lex>
+    <ann chan="nam_loc_land_protected_area">0</ann>
+    <ann chan="wsd_znaleźć">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <prop key="sense:wsd_znaleźć">znaleźć-34</prop>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_loc_land_protected_area">0</ann>
+    <ann chan="wsd_znaleźć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>także</orth>
+    <lex disamb="1"><base>także</base><ctag>qub</ctag></lex>
+    <ann chan="nam_loc_land_protected_area">0</ann>
+    <ann chan="wsd_znaleźć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>rezerwat</orth>
+    <lex disamb="1"><base>rezerwat</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_loc_land_protected_area">0</ann>
+    <ann chan="wsd_znaleźć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>Turnica</orth>
+    <lex disamb="1"><base>turnica</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_loc_land_protected_area">1</ann>
+    <ann chan="wsd_znaleźć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <prop key="nam_loc_land_protected_area:lemma">Turnica</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_land_protected_area">0</ann>
+    <ann chan="wsd_znaleźć">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent19">
+   <tok>
+    <orth>Wszystkie</orth>
+    <lex disamb="1"><base>wszystek</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>drogi</orth>
+    <lex disamb="1"><base>droga</base><ctag>subst:pl:nom:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>dojazdowe</orth>
+    <lex disamb="1"><base>dojazdowy</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>zamknięte</orth>
+    <lex disamb="1"><base>zamknięty</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>były</orth>
+    <lex disamb="1"><base>być</base><ctag>praet:pl:f:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>stalowymi</orth>
+    <lex disamb="1"><base>stalowy</base><ctag>adj:pl:inst:m3:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>szlabanami</orth>
+    <lex disamb="1"><base>szlaban</base><ctag>subst:pl:inst:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+   </tok>
+   <tok>
+    <orth>strzeżone</orth>
+    <lex disamb="1"><base>strzec</base><ctag>ppas:pl:nom:m3:imperf:aff</ctag></lex>
+   </tok>
+   <tok>
+    <orth>przez</orth>
+    <lex disamb="1"><base>przez</base><ctag>prep:acc:nwok</ctag></lex>
+   </tok>
+   <tok>
+    <orth>uzbrojone</orth>
+    <lex disamb="1"><base>uzbroić</base><ctag>ppas:pl:acc:m3:perf:aff</ctag></lex>
+   </tok>
+   <tok>
+    <orth>patrole</orth>
+    <lex disamb="1"><base>patrol</base><ctag>subst:pl:acc:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>wojskowe</orth>
+    <lex disamb="1"><base>wojskowy</base><ctag>adj:pl:acc:m3:pos</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent20">
+   <tok>
+    <orth>Ośrodek</orth>
+    <lex disamb="1"><base>ośrodek</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="anafora_wyznacznik">1</ann>
+   </tok>
+   <tok>
+    <orth>służył</orth>
+    <lex disamb="1"><base>służyć</base><ctag>praet:sg:m3:imperf</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>jako</orth>
+    <lex disamb="1"><base>jako</base><ctag>conj</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>miejsce</orth>
+    <lex disamb="1"><base>miejsce</base><ctag>subst:sg:acc:n</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>polowań</orth>
+    <lex disamb="1"><base>polowanie</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>dla</orth>
+    <lex disamb="1"><base>dla</base><ctag>prep:gen</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>elity</orth>
+    <lex disamb="1"><base>elita</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>partyjno</orth>
+    <lex disamb="1"><base>partyjno</base><ctag>ign</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>rządowej</orth>
+    <lex disamb="1"><base>rządowy</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>oraz</orth>
+    <lex disamb="1"><base>oraz</base><ctag>conj</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>ich</orth>
+    <lex disamb="1"><base>on</base><ctag>ppron3:pl:gen:m1:ter:akc:npraep</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>gości</orth>
+    <lex disamb="1"><base>gość</base><ctag>subst:pl:gen:m1</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>bratnich</orth>
+    <lex disamb="1"><base>bratni</base><ctag>adj:pl:gen:m3:pos</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>krajów</orth>
+    <lex disamb="1"><base>kraj</base><ctag>subst:pl:gen:m3</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent21">
+   <tok>
+    <orth>Dla</orth>
+    <lex disamb="1"><base>dla</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+   </tok>
+   <tok>
+    <orth>nich</orth>
+    <lex disamb="1"><base>on</base><ctag>ppron3:pl:gen:m1:ter:akc:praep</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+   </tok>
+   <tok>
+    <orth>też</orth>
+    <lex disamb="1"><base>też</base><ctag>qub</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+   </tok>
+   <tok>
+    <orth>zostało</orth>
+    <lex disamb="1"><base>zostać</base><ctag>praet:sg:n:perf</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+   </tok>
+   <tok>
+    <orth>zbudowane</orth>
+    <lex disamb="1"><base>zbudować</base><ctag>ppas:sg:nom:n:perf:aff</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+   </tok>
+   <tok>
+    <orth>specjalne</orth>
+    <lex disamb="1"><base>specjalny</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_specjalny">1</ann>
+   </tok>
+   <tok>
+    <orth>lotnisko</orth>
+    <lex disamb="1"><base>lotnisko</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+   </tok>
+   <tok>
+    <orth>Krajnej</orth>
+    <lex disamb="1"><base>krajny</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="wsd_specjalny">0</ann>
+    <prop key="nam_loc_gpe_city:lemma">Krajna</prop>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+   </tok>
+   <tok>
+    <orth>pobliżu</orth>
+    <lex disamb="1"><base>pobliże</base><ctag>subst:sg:loc:n</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+   </tok>
+   <tok>
+    <orth>Birczy</orth>
+    <lex disamb="1"><base>Birczy</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_city">2</ann>
+    <ann chan="wsd_specjalny">0</ann>
+    <prop key="nam_loc_gpe_city:lemma">Bircza</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch9">
+  <sentence id="sent22">
+   <tok>
+    <orth>Po</orth>
+    <lex disamb="1"><base>po</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>wprowadzeniu</orth>
+    <lex disamb="1"><base>wprowadzić</base><ctag>ger:sg:loc:n:perf:aff</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>stanu</orth>
+    <lex disamb="1"><base>stan</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>wojennego</orth>
+    <lex disamb="1"><base>wojenny</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>Arłamowie</orth>
+    <lex disamb="1"><base>Arłamowie</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <prop key="nam_loc_gpe_city:lemma">Arłamów</prop>
+   </tok>
+   <tok>
+    <orth>internowany</orth>
+    <lex disamb="1"><base>internować</base><ctag>ppas:sg:nom:m1:imperf:aff</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>był</orth>
+    <lex disamb="1"><base>być</base><ctag>praet:sg:m1:imperf</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>początku</orth>
+    <lex disamb="1"><base>początek</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <prop key="t3_date:lemma">1982</prop>
+    <prop key="t3_date:lemma2">1982</prop>
+    <prop key="plimex_date:lemma">1982</prop>
+   </tok>
+   <tok>
+    <orth>1982</orth>
+    <lex disamb="1"><base>1982</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+   </tok>
+   <tok>
+    <orth>r</orth>
+    <lex disamb="1"><base>rocznik</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>rodzaj</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>rok</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+   </tok>
+   <tok>
+    <orth>przewodniczący</orth>
+    <lex disamb="1"><base>przewodniczący</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>Solidarności</orth>
+    <lex disamb="1"><base>solidarność</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <prop key="nam_org_organization:lemma">Solidarność</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>Lech</orth>
+    <lex disamb="1"><base>Lech</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person_first">1</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <prop key="nam_liv_person_first:lemma">Lech</prop>
+    <prop key="nam_liv_person:lemma">Lech Wałęsa</prop>
+   </tok>
+   <tok>
+    <orth>Wałęsa</orth>
+    <lex disamb="1"><base>Wałęsa</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <lex disamb="1"><base>wałęsa</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_last">1</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <prop key="nam_liv_person_last:lemma">Wałęsa</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent23">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_dawny">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>1989</orth>
+    <lex disamb="1"><base>1989</base><ctag>ign</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_dawny">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <prop key="t3_date:lemma">1989</prop>
+    <prop key="t3_date:lemma2">1989</prop>
+    <prop key="plimex_date:lemma">1989</prop>
+   </tok>
+   <tok>
+    <orth>r</orth>
+    <lex disamb="1"><base>rocznik</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>rodzaj</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>rok</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_dawny">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_dawny">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+   </tok>
+   <tok>
+    <orth>ośrodek</orth>
+    <lex disamb="1"><base>ośrodek</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_dawny">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>rządowy</orth>
+    <lex disamb="1"><base>rządowy</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_dawny">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>uległ</orth>
+    <lex disamb="1"><base>ulec</base><ctag>praet:sg:m3:perf</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_dawny">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>likwidacji</orth>
+    <lex disamb="1"><base>likwidacja</base><ctag>subst:sg:dat:f</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_dawny">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_dawny">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>a</orth>
+    <lex disamb="1"><base>a</base><ctag>conj</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_dawny">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>dawny</orth>
+    <lex disamb="1"><base>dawny</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_dawny">1</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>hotel</orth>
+    <lex disamb="1"><base>hotel</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_dawny">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>został</orth>
+    <lex disamb="1"><base>zostać</base><ctag>praet:sg:m3:perf</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_dawny">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>przejęty</orth>
+    <lex disamb="1"><base>przejąć</base><ctag>ppas:sg:nom:m3:perf:aff</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_dawny">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>przez</orth>
+    <lex disamb="1"><base>przez</base><ctag>prep:acc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_dawny">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>gminę</orth>
+    <lex disamb="1"><base>gmina</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_dawny">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>Ustrzyki</orth>
+    <lex disamb="1"><base>Ustrzyki</base><ctag>subst:pl:nom:n</ctag></lex>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="wsd_dawny">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <prop key="nam_loc_gpe_city:lemma">Ustrzyki Dolne</prop>
+   </tok>
+   <tok>
+    <orth>Dolne</orth>
+    <lex disamb="1"><base>dolny</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="wsd_dawny">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_dawny">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent24">
+   <tok>
+    <orth>Posterunki</orth>
+    <lex disamb="1"><base>posterunek</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>przy</orth>
+    <lex disamb="1"><base>przy</base><ctag>prep:loc</ctag></lex>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>wjazdach</orth>
+    <lex disamb="1"><base>wjazd</base><ctag>subst:pl:loc:m3</ctag></lex>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>przetrwały</orth>
+    <lex disamb="1"><base>przetrwać</base><ctag>praet:pl:m3:perf</ctag></lex>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>połowy</orth>
+    <lex disamb="1"><base>połowa</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <prop key="t3_date:lemma">1991</prop>
+    <prop key="t3_date:lemma2">1991</prop>
+    <prop key="plimex_date:lemma">1991</prop>
+   </tok>
+   <tok>
+    <orth>1991</orth>
+    <lex disamb="1"><base>1991</base><ctag>ign</ctag></lex>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+   </tok>
+   <tok>
+    <orth>r</orth>
+    <lex disamb="1"><base>rocznik</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>rodzaj</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>rok</base><ctag>brev:pun</ctag></lex>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch10">
+  <sentence id="sent25">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>roku</orth>
+    <lex disamb="1"><base>rok</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <prop key="t3_date:lemma">1996</prop>
+    <prop key="t3_date:lemma2">1996</prop>
+    <prop key="plimex_date:lemma">1996</prop>
+   </tok>
+   <tok>
+    <orth>1996</orth>
+    <lex disamb="1"><base>1996</base><ctag>ign</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+   </tok>
+   <tok>
+    <orth>hotel</orth>
+    <lex disamb="1"><base>hotel</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>wraz</orth>
+    <lex disamb="1"><base>wraz</base><ctag>burk</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>budynkami</orth>
+    <lex disamb="1"><base>budynek</base><ctag>subst:pl:inst:m3</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>gospodarczymi</orth>
+    <lex disamb="1"><base>gospodarczy</base><ctag>adj:pl:inst:m3:pos</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>przyległym</orth>
+    <lex disamb="1"><base>przyległy</base><ctag>adj:sg:inst:m3:pos</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>terenem</orth>
+    <lex disamb="1"><base>teren</base><ctag>subst:sg:inst:m3</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>został</orth>
+    <lex disamb="1"><base>zostać</base><ctag>praet:sg:m3:perf</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>zakupiony</orth>
+    <lex disamb="1"><base>zakupić</base><ctag>ppas:sg:nom:m3:perf:aff</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>przez</orth>
+    <lex disamb="1"><base>przez</base><ctag>prep:acc:nwok</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>Fabrykę</orth>
+    <lex disamb="1"><base>fabryka</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <prop key="nam_org_company:lemma">Fabryka Urządzeń Mechanicznych &quot;KAMAX&quot;</prop>
+   </tok>
+   <tok>
+    <orth>Urządzeń</orth>
+    <lex disamb="1"><base>urządzenie</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>Mechanicznych</orth>
+    <lex disamb="1"><base>mechaniczny</base><ctag>adj:pl:gen:n:pos</ctag></lex>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>KAMAX</orth>
+    <lex disamb="1"><base>KAMAX</base><ctag>ign</ctag></lex>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>Kańczugi</orth>
+    <lex disamb="1"><base>Kańczuga</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <prop key="nam_loc_gpe_city:lemma">Kańczuga</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent26">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>zimie</orth>
+    <lex disamb="1"><base>zima</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <prop key="t3_date:lemma">xxxx-WI</prop>
+    <prop key="t3_date:lemma2">xxxx-WI</prop>
+    <prop key="plimex_date:lemma">xxxx-WI</prop>
+   </tok>
+   <tok>
+    <orth>funkcjonują</orth>
+    <lex disamb="1"><base>funkcjonować</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>tu</orth>
+    <lex disamb="1"><base>tu</base><ctag>adv</ctag></lex>
+    <ann chan="anafora_wyznacznik">1</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>dwa</orth>
+    <lex disamb="1"><base>dwa</base><ctag>num:pl:acc:m3:congr</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>orczykowe</orth>
+    <lex disamb="1"><base>orczykowy</base><ctag>adj:pl:acc:m3:pos</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>wyciągi</orth>
+    <lex disamb="1"><base>wyciąg</base><ctag>subst:pl:acc:m3</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <tok>
+    <orth>narciarskie</orth>
+    <lex disamb="1"><base>narciarski</base><ctag>adj:pl:acc:m3:pos</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

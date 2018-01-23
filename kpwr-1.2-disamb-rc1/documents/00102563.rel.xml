@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent2" chan="chunk_vp">1</from>
+   <to sent="sent2" chan="chunk_np">1</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent2" chan="chunk_vp">1</from>
+   <to sent="sent2" chan="chunk_np">2</to>
+  </rel>
+ <rel name="cop" set="Syntactic relations">
+   <from sent="sent2" chan="chunk_np">3</from>
+   <to sent="sent2" chan="chunk_vp">1</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent4" chan="chunk_np">7</from>
+   <to sent="sent4" chan="chunk_np">8</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent4" chan="chunk_np">8</from>
+   <to sent="sent4" chan="chunk_np">9</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent8" chan="chunk_vp">1</from>
+   <to sent="sent8" chan="chunk_np">1</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent8" chan="chunk_vp">1</from>
+   <to sent="sent8" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent9" chan="chunk_vp">1</from>
+   <to sent="sent9" chan="chunk_np">1</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent9" chan="chunk_vp">1</from>
+   <to sent="sent9" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent18" chan="chunk_vp">1</from>
+   <to sent="sent18" chan="chunk_np">1</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent8" chan="chunk_vp">1</from>
+   <to sent="sent8" chan="chunk_np">3</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_np">2</from>
+   <to sent="sent14" chan="chunk_np">3</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent16" chan="chunk_np">2</from>
+   <to sent="sent16" chan="chunk_np">3</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent16" chan="chunk_np">3</from>
+   <to sent="sent16" chan="chunk_np">4</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent16" chan="chunk_np">4</from>
+   <to sent="sent16" chan="chunk_np">5</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent16" chan="chunk_np">5</from>
+   <to sent="sent16" chan="chunk_np">6</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent16" chan="chunk_np">7</from>
+   <to sent="sent16" chan="chunk_np">8</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent16" chan="chunk_np">8</from>
+   <to sent="sent16" chan="chunk_np">9</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent16" chan="chunk_np">9</from>
+   <to sent="sent16" chan="chunk_adjp">1</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent4" chan="chunk_np">6</from>
+   <to sent="sent4" chan="chunk_np">10</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent18" chan="chunk_vp">1</from>
+   <to sent="sent18" chan="chunk_np">2</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent3" chan="spatial_indicator_3">1</from>
+   <to sent="sent3" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent3" chan="spatial_indicator_3">1</from>
+   <to sent="sent3" chan="spatial_object">2</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent4" chan="spatial_indicator_3">1</from>
+   <to sent="sent4" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent4" chan="spatial_indicator_3">1</from>
+   <to sent="sent4" chan="spatial_object">2</to>
+  </rel>
+ <rel name="other" set="Spatial relations (final)">
+   <from sent="sent4" chan="spatial_indicator_3">1</from>
+   <to sent="sent4" chan="region">1</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent4" chan="spatial_indicator_3">2</from>
+   <to sent="sent4" chan="spatial_object">3</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent4" chan="spatial_indicator_3">2</from>
+   <to sent="sent4" chan="spatial_object">4</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent4" chan="spatial_indicator_3">3</from>
+   <to sent="sent4" chan="spatial_object">5</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent4" chan="spatial_indicator_3">3</from>
+   <to sent="sent4" chan="spatial_object">6</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent4" chan="spatial_indicator_3">4</from>
+   <to sent="sent4" chan="spatial_object">7</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent4" chan="spatial_indicator_3">4</from>
+   <to sent="sent4" chan="spatial_object">8</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent4" chan="spatial_indicator_3">5</from>
+   <to sent="sent4" chan="spatial_object">9</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent4" chan="spatial_indicator_3">5</from>
+   <to sent="sent4" chan="spatial_object">10</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent13" chan="spatial_indicator_3">1</from>
+   <to sent="sent13" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent13" chan="spatial_indicator_3">1</from>
+   <to sent="sent13" chan="spatial_object">2</to>
+  </rel>
+</relations>

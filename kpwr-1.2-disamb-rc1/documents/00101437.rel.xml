@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent19" chan="nam_liv_person">1</from>
+   <to sent="sent7" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent14" chan="nam_liv_person">1</from>
+   <to sent="sent8" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent15" chan="nam_liv_person">1</from>
+   <to sent="sent9" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent22" chan="nam_liv_person">1</from>
+   <to sent="sent10" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent21" chan="nam_liv_person">1</from>
+   <to sent="sent9" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent17" chan="nam_liv_person">1</from>
+   <to sent="sent11" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent23" chan="nam_liv_person">1</from>
+   <to sent="sent11" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent2" chan="nam_pro_title_album">1</from>
+   <to sent="sent1" chan="nam_pro_title_album">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent2" chan="nam_org_group_band">1</from>
+   <to sent="sent1" chan="nam_org_group_band">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent2" chan="nam_org_group_band">2</from>
+   <to sent="sent2" chan="nam_org_group_band">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent3" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_pro_title_album">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent2" chan="nam_loc_land_continent">1</from>
+   <to sent="sent1" chan="nam_loc_land_continent">1</to>
+  </rel>
+</relations>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent10" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent3" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent11" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent3" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent13" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent3" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent2" chan="anafora_wyznacznik">1</from>
+   <to sent="sent11" chan="nam_pro_title">2</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent3" chan="anafora_wyznacznik">1</from>
+   <to sent="sent11" chan="nam_pro_title">2</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent5" chan="anafora_wyznacznik">1</from>
+   <to sent="sent11" chan="nam_pro_title">2</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent14" chan="anafora_wyznacznik">1</from>
+   <to sent="sent11" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent12" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent3" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent12" chan="anafora_wyznacznik">1</from>
+   <to sent="sent11" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent13" chan="anafora_wyznacznik">1</from>
+   <to sent="sent11" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent11" chan="nam_pro_title">1</from>
+   <to sent="sent9" chan="nam_pro_title">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent8" chan="anafora_wyznacznik">1</from>
+   <to sent="sent3" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent9" chan="anafora_wyznacznik">1</from>
+   <to sent="sent3" chan="nam_loc_gpe_city">1</to>
+  </rel>
+</relations>

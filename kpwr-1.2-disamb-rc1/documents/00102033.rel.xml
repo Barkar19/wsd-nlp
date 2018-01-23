@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="creator" set="Semantic relations">
+   <from sent="sent1" chan="nam_org_organization">1</from>
+   <to sent="sent1" chan="nam_eve_human">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent8" chan="nam_liv_person">1</from>
+   <to sent="sent8" chan="nam_pro_media_periodic">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent8" chan="nam_liv_person">1</from>
+   <to sent="sent8" chan="nam_pro_media_periodic">2</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent8" chan="nam_liv_person">1</from>
+   <to sent="sent8" chan="nam_pro_media">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent8" chan="nam_liv_person">2</from>
+   <to sent="sent8" chan="nam_pro_media_periodic">3</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent8" chan="nam_liv_person">2</from>
+   <to sent="sent8" chan="nam_pro_media_periodic">4</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent8" chan="nam_liv_person">3</from>
+   <to sent="sent8" chan="nam_pro_award">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent8" chan="nam_liv_person">3</from>
+   <to sent="sent8" chan="nam_pro_media_periodic">5</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent8" chan="nam_liv_person">3</from>
+   <to sent="sent8" chan="nam_pro_media_periodic">6</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent8" chan="nam_liv_person">4</from>
+   <to sent="sent8" chan="nam_pro_media_periodic">7</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent8" chan="nam_liv_person">4</from>
+   <to sent="sent8" chan="nam_pro_media_periodic">8</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent8" chan="nam_liv_person">4</from>
+   <to sent="sent8" chan="nam_pro_media_periodic">9</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent8" chan="nam_liv_person">4</from>
+   <to sent="sent8" chan="nam_pro_media_periodic">10</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent8" chan="nam_liv_person">5</from>
+   <to sent="sent8" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent8" chan="nam_liv_person">5</from>
+   <to sent="sent8" chan="nam_pro_media">3</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent8" chan="nam_liv_person">5</from>
+   <to sent="sent8" chan="nam_org_institution">2</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent8" chan="nam_liv_person">1</from>
+   <to sent="sent8" chan="nam_pro_title">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent8" chan="nam_liv_person">2</from>
+   <to sent="sent8" chan="nam_pro_media_tv">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent8" chan="nam_liv_person">2</from>
+   <to sent="sent8" chan="nam_pro_media">2</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent8" chan="nam_liv_person">3</from>
+   <to sent="sent8" chan="nam_pro_media_tv">2</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent8" chan="nam_liv_person">5</from>
+   <to sent="sent8" chan="nam_pro_media_radio">2</to>
+  </rel>
+ <rel name="creator" set="Semantic relations">
+   <from sent="sent8" chan="nam_liv_person">3</from>
+   <to sent="sent8" chan="nam_pro_title_book">1</to>
+  </rel>
+ <rel name="creator" set="Semantic relations">
+   <from sent="sent8" chan="nam_liv_person">3</from>
+   <to sent="sent8" chan="nam_pro_title_tv">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent8" chan="nam_org_organization">1</from>
+   <to sent="sent8" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent8" chan="nam_liv_person">4</from>
+   <to sent="sent8" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent2" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_eve_human">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent4" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_eve_human">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent9" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_eve_human">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent10" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent12" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_eve_human">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent13" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_eve_human">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent8" chan="nam_pro_media">3</from>
+   <to sent="sent8" chan="nam_pro_media">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent8" chan="nam_pro_media_periodic">7</from>
+   <to sent="sent8" chan="nam_pro_media_periodic">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent8" chan="nam_pro_media_periodic">9</from>
+   <to sent="sent8" chan="nam_pro_media_periodic">3</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent8" chan="anafora_wyznacznik">1</from>
+   <to sent="sent8" chan="nam_liv_person">2</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent8" chan="anafora_wyznacznik">2</from>
+   <to sent="sent8" chan="nam_liv_person">4</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent8" chan="anafora_wyznacznik">3</from>
+   <to sent="sent8" chan="nam_liv_person">5</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent8" chan="anafora_wyznacznik">4</from>
+   <to sent="sent8" chan="nam_liv_person">5</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent8" chan="anafora_wyznacznik">5</from>
+   <to sent="sent8" chan="nam_liv_person">5</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent8" chan="spatial_indicator_3">1</from>
+   <to sent="sent8" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent8" chan="spatial_indicator_3">1</from>
+   <to sent="sent8" chan="spatial_object">2</to>
+  </rel>
+</relations>

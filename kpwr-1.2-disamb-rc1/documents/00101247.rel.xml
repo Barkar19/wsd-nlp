@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent4" chan="nam_liv_person">2</from>
+   <to sent="sent4" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent4" chan="nam_liv_person">1</from>
+   <to sent="sent4" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent5" chan="nam_liv_person">2</from>
+   <to sent="sent5" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent5" chan="nam_liv_person">1</from>
+   <to sent="sent5" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent6" chan="nam_liv_person">2</from>
+   <to sent="sent6" chan="nam_fac_goe">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent6" chan="nam_liv_person">1</from>
+   <to sent="sent6" chan="nam_fac_goe">1</to>
+  </rel>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent8" chan="nam_liv_person">3</from>
+   <to sent="sent8" chan="nam_liv_person">2</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent9" chan="nam_fac_goe">1</from>
+   <to sent="sent9" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent11" chan="nam_liv_person">1</from>
+   <to sent="sent11" chan="nam_loc_land_island">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent19" chan="nam_liv_person">1</from>
+   <to sent="sent19" chan="nam_org_group_band">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent22" chan="nam_liv_person">1</from>
+   <to sent="sent22" chan="nam_org_group_band">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent37" chan="nam_liv_person">1</from>
+   <to sent="sent37" chan="nam_org_group_band">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent38" chan="nam_liv_person">1</from>
+   <to sent="sent38" chan="nam_org_group_band">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent45" chan="nam_liv_person">1</from>
+   <to sent="sent45" chan="nam_org_group_band">1</to>
+  </rel>
+ <rel name="creator" set="Semantic relations">
+   <from sent="sent7" chan="nam_liv_person">1</from>
+   <to sent="sent7" chan="nam_pro_title_album">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent9" chan="nam_eve_human_cultural">1</from>
+   <to sent="sent9" chan="nam_fac_goe">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent9" chan="nam_loc_gpe_city">2</from>
+   <to sent="sent9" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="neighbourhood" set="Semantic relations">
+   <from sent="sent9" chan="nam_fac_goe">1</from>
+   <to sent="sent9" chan="nam_loc_gpe_city">2</to>
+  </rel>
+ <rel name="creator" set="Semantic relations">
+   <from sent="sent13" chan="nam_liv_person">1</from>
+   <to sent="sent13" chan="nam_pro_title_album">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent15" chan="nam_liv_person">1</from>
+   <to sent="sent15" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent16" chan="nam_liv_person">2</from>
+   <to sent="sent16" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent16" chan="nam_liv_person">1</from>
+   <to sent="sent16" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent17" chan="nam_liv_person">1</from>
+   <to sent="sent17" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent18" chan="nam_liv_person">1</from>
+   <to sent="sent18" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent19" chan="nam_liv_person">1</from>
+   <to sent="sent19" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent20" chan="nam_liv_person">1</from>
+   <to sent="sent20" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent21" chan="nam_liv_person">1</from>
+   <to sent="sent21" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent22" chan="nam_liv_person">1</from>
+   <to sent="sent22" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent23" chan="nam_liv_person">1</from>
+   <to sent="sent23" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent24" chan="nam_liv_person">1</from>
+   <to sent="sent24" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent25" chan="nam_liv_person">1</from>
+   <to sent="sent25" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent26" chan="nam_liv_person">1</from>
+   <to sent="sent26" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent27" chan="nam_liv_person">1</from>
+   <to sent="sent27" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent28" chan="nam_liv_person">1</from>
+   <to sent="sent28" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent29" chan="nam_liv_person">1</from>
+   <to sent="sent29" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent30" chan="nam_liv_person">1</from>
+   <to sent="sent30" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent31" chan="nam_liv_person">1</from>
+   <to sent="sent31" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent32" chan="nam_liv_person">1</from>
+   <to sent="sent32" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent33" chan="nam_liv_person">1</from>
+   <to sent="sent33" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent34" chan="nam_liv_person">1</from>
+   <to sent="sent34" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent36" chan="nam_liv_person">1</from>
+   <to sent="sent36" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent37" chan="nam_liv_person">1</from>
+   <to sent="sent37" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent38" chan="nam_liv_person">1</from>
+   <to sent="sent38" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent39" chan="nam_liv_person">1</from>
+   <to sent="sent39" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent41" chan="nam_liv_person">1</from>
+   <to sent="sent41" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent42" chan="nam_liv_person">1</from>
+   <to sent="sent42" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent43" chan="nam_liv_person">1</from>
+   <to sent="sent43" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent44" chan="nam_liv_person">1</from>
+   <to sent="sent44" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent45" chan="nam_liv_person">1</from>
+   <to sent="sent45" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent46" chan="nam_liv_person">1</from>
+   <to sent="sent46" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent3" chan="chunk_vp">1</from>
+   <to sent="sent3" chan="chunk_np">2</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent3" chan="chunk_vp">1</from>
+   <to sent="sent3" chan="chunk_np">3</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent4" chan="chunk_np">2</from>
+   <to sent="sent4" chan="chunk_np">3</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent4" chan="chunk_vp">1</from>
+   <to sent="sent4" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent4" chan="chunk_vp">1</from>
+   <to sent="sent4" chan="chunk_np">3</to>
+  </rel>
+ <rel name="cop" set="Syntactic relations">
+   <from sent="sent4" chan="chunk_adjp">1</from>
+   <to sent="sent4" chan="chunk_vp">1</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent5" chan="chunk_vp">1</from>
+   <to sent="sent5" chan="chunk_np">2</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent5" chan="chunk_vp">1</from>
+   <to sent="sent5" chan="chunk_np">3</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent5" chan="chunk_vp">1</from>
+   <to sent="sent5" chan="chunk_np">4</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent6" chan="chunk_vp">1</from>
+   <to sent="sent6" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent6" chan="chunk_vp">1</from>
+   <to sent="sent6" chan="chunk_np">3</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent6" chan="chunk_vp">1</from>
+   <to sent="sent6" chan="chunk_np">4</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent6" chan="chunk_np">2</from>
+   <to sent="sent6" chan="chunk_np">3</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent7" chan="chunk_vp">1</from>
+   <to sent="sent7" chan="chunk_np">2</to>
+  </rel>
+ <rel name="cop" set="Syntactic relations">
+   <from sent="sent7" chan="chunk_adjp">1</from>
+   <to sent="sent7" chan="chunk_vp">1</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent8" chan="chunk_vp">1</from>
+   <to sent="sent8" chan="chunk_np">2</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent8" chan="chunk_vp">1</from>
+   <to sent="sent8" chan="chunk_np">3</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent8" chan="chunk_vp">1</from>
+   <to sent="sent8" chan="chunk_np">4</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent8" chan="chunk_vp">1</from>
+   <to sent="sent8" chan="chunk_np">5</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_np">1</from>
+   <to sent="sent10" chan="chunk_np">2</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_np">2</from>
+   <to sent="sent10" chan="chunk_np">3</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_np">3</from>
+   <to sent="sent10" chan="chunk_np">4</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_np">4</from>
+   <to sent="sent10" chan="chunk_np">5</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_np">5</from>
+   <to sent="sent10" chan="chunk_np">6</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_np">6</from>
+   <to sent="sent10" chan="chunk_np">7</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_np">7</from>
+   <to sent="sent10" chan="chunk_np">8</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_np">8</from>
+   <to sent="sent10" chan="chunk_np">9</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_np">9</from>
+   <to sent="sent10" chan="chunk_np">10</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_np">10</from>
+   <to sent="sent10" chan="chunk_np">11</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_np">11</from>
+   <to sent="sent10" chan="chunk_np">12</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_np">12</from>
+   <to sent="sent10" chan="chunk_np">13</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_np">13</from>
+   <to sent="sent10" chan="chunk_np">14</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent11" chan="chunk_vp">1</from>
+   <to sent="sent11" chan="chunk_np">2</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent11" chan="chunk_vp">1</from>
+   <to sent="sent11" chan="chunk_np">3</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent12" chan="chunk_vp">1</from>
+   <to sent="sent12" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent13" chan="chunk_vp">1</from>
+   <to sent="sent13" chan="chunk_np">2</to>
+  </rel>
+ <rel name="cop" set="Syntactic relations">
+   <from sent="sent13" chan="chunk_adjp">1</from>
+   <to sent="sent13" chan="chunk_vp">1</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_vp">1</from>
+   <to sent="sent10" chan="chunk_np">1</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_vp">1</from>
+   <to sent="sent10" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_vp">1</from>
+   <to sent="sent10" chan="chunk_np">3</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_vp">1</from>
+   <to sent="sent10" chan="chunk_np">4</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_vp">1</from>
+   <to sent="sent10" chan="chunk_np">5</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_vp">1</from>
+   <to sent="sent10" chan="chunk_np">6</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_vp">1</from>
+   <to sent="sent10" chan="chunk_np">7</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_vp">1</from>
+   <to sent="sent10" chan="chunk_np">8</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_vp">1</from>
+   <to sent="sent10" chan="chunk_np">9</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_vp">1</from>
+   <to sent="sent10" chan="chunk_np">10</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_vp">1</from>
+   <to sent="sent10" chan="chunk_np">11</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_vp">1</from>
+   <to sent="sent10" chan="chunk_np">12</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_vp">1</from>
+   <to sent="sent10" chan="chunk_np">13</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent10" chan="chunk_vp">1</from>
+   <to sent="sent10" chan="chunk_np">14</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent15" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent16" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent17" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent18" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent19" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent20" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent21" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent22" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent23" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent24" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent25" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent26" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent27" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent28" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent29" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent30" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent31" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent32" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent33" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent34" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent35" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent36" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent37" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent38" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent14" chan="chunk_vp">1</from>
+   <to sent="sent39" chan="chunk_np">2</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent15" chan="chunk_np">3</from>
+   <to sent="sent15" chan="chunk_np">4</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent15" chan="chunk_np">4</from>
+   <to sent="sent15" chan="chunk_np">5</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent17" chan="chunk_np">3</from>
+   <to sent="sent17" chan="chunk_np">4</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent17" chan="chunk_np">4</from>
+   <to sent="sent17" chan="chunk_np">5</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent17" chan="chunk_np">5</from>
+   <to sent="sent17" chan="chunk_np">6</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent17" chan="chunk_np">6</from>
+   <to sent="sent17" chan="chunk_np">7</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent19" chan="chunk_np">3</from>
+   <to sent="sent19" chan="chunk_np">4</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent20" chan="chunk_np">3</from>
+   <to sent="sent20" chan="chunk_np">4</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent20" chan="chunk_np">4</from>
+   <to sent="sent20" chan="chunk_np">5</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent22" chan="chunk_np">3</from>
+   <to sent="sent22" chan="chunk_np">4</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent23" chan="chunk_np">3</from>
+   <to sent="sent23" chan="chunk_np">4</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent25" chan="chunk_np">3</from>
+   <to sent="sent25" chan="chunk_np">4</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent25" chan="chunk_np">4</from>
+   <to sent="sent25" chan="chunk_np">5</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent27" chan="chunk_np">3</from>
+   <to sent="sent27" chan="chunk_np">4</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent30" chan="chunk_np">3</from>
+   <to sent="sent30" chan="chunk_np">4</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent30" chan="chunk_np">4</from>
+   <to sent="sent30" chan="chunk_np">5</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent31" chan="chunk_np">3</from>
+   <to sent="sent31" chan="chunk_np">4</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent32" chan="chunk_np">3</from>
+   <to sent="sent32" chan="chunk_np">4</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent33" chan="chunk_np">3</from>
+   <to sent="sent33" chan="chunk_np">4</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent33" chan="chunk_np">4</from>
+   <to sent="sent33" chan="chunk_np">5</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent34" chan="chunk_np">3</from>
+   <to sent="sent34" chan="chunk_np">4</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent34" chan="chunk_np">4</from>
+   <to sent="sent34" chan="chunk_np">5</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent35" chan="chunk_np">3</from>
+   <to sent="sent35" chan="chunk_np">4</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent36" chan="chunk_np">3</from>
+   <to sent="sent36" chan="chunk_np">4</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent37" chan="chunk_np">3</from>
+   <to sent="sent37" chan="chunk_np">4</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent38" chan="chunk_np">3</from>
+   <to sent="sent38" chan="chunk_np">4</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent38" chan="chunk_np">4</from>
+   <to sent="sent38" chan="chunk_np">5</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent39" chan="chunk_np">3</from>
+   <to sent="sent39" chan="chunk_np">4</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent40" chan="chunk_vp">1</from>
+   <to sent="sent41" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent40" chan="chunk_vp">1</from>
+   <to sent="sent42" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent40" chan="chunk_vp">1</from>
+   <to sent="sent43" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent40" chan="chunk_vp">1</from>
+   <to sent="sent44" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent40" chan="chunk_vp">1</from>
+   <to sent="sent45" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent40" chan="chunk_vp">1</from>
+   <to sent="sent46" chan="chunk_np">2</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent41" chan="chunk_np">3</from>
+   <to sent="sent41" chan="chunk_np">4</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent42" chan="chunk_np">3</from>
+   <to sent="sent42" chan="chunk_np">4</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent44" chan="chunk_np">3</from>
+   <to sent="sent44" chan="chunk_np">4</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent45" chan="chunk_np">3</from>
+   <to sent="sent45" chan="chunk_np">4</to>
+  </rel>
+ <rel name="coor" set="Syntactic relations">
+   <from sent="sent31" chan="chunk_np">4</from>
+   <to sent="sent31" chan="chunk_np">5</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent8" chan="nam_liv_person">1</from>
+   <to sent="sent5" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent6" chan="nam_liv_person">2</from>
+   <to sent="sent5" chan="nam_liv_person">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent6" chan="nam_liv_person">1</from>
+   <to sent="sent5" chan="nam_liv_person">1</to>
+  </rel>
+</relations>

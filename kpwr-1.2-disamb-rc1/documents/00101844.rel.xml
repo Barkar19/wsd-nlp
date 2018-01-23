@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent3" chan="nam_pro_media_web">1</from>
+   <to sent="sent3" chan="nam_pro_media_web">2</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent3" chan="nam_pro_media_web">1</from>
+   <to sent="sent3" chan="nam_oth_www">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent3" chan="nam_pro_media_web">2</from>
+   <to sent="sent3" chan="nam_oth_www">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent3" chan="nam_pro_software">1</from>
+   <to sent="sent1" chan="nam_pro_software">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent6" chan="nam_pro_software">1</from>
+   <to sent="sent1" chan="nam_pro_software">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent1" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_pro_software">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent3" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_pro_software">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent6" chan="anafora_wyznacznik">1</from>
+   <to sent="sent3" chan="nam_pro_media_web">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent7" chan="anafora_wyznacznik">1</from>
+   <to sent="sent3" chan="nam_pro_media_web">1</to>
+  </rel>
+</relations>

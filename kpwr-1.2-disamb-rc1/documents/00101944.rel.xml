@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="composition" set="Semantic relations">
+   <from sent="sent16" chan="nam_org_institution">1</from>
+   <to sent="sent16" chan="nam_org_organization">2</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent16" chan="nam_org_institution">1</from>
+   <to sent="sent16" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="composition" set="Semantic relations">
+   <from sent="sent18" chan="nam_org_institution">1</from>
+   <to sent="sent18" chan="nam_org_organization">2</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent18" chan="nam_org_institution">1</from>
+   <to sent="sent18" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="composition" set="Semantic relations">
+   <from sent="sent20" chan="nam_org_institution">1</from>
+   <to sent="sent20" chan="nam_org_organization">3</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent20" chan="nam_org_institution">1</from>
+   <to sent="sent20" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="composition" set="Semantic relations">
+   <from sent="sent24" chan="nam_org_institution">1</from>
+   <to sent="sent24" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="composition" set="Semantic relations">
+   <from sent="sent25" chan="nam_org_institution">1</from>
+   <to sent="sent25" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="composition" set="Semantic relations">
+   <from sent="sent27" chan="nam_org_institution">1</from>
+   <to sent="sent27" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent27" chan="nam_org_institution">1</from>
+   <to sent="sent27" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent29" chan="nam_org_institution">1</from>
+   <to sent="sent29" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="composition" set="Semantic relations">
+   <from sent="sent29" chan="nam_org_institution">1</from>
+   <to sent="sent29" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="composition" set="Semantic relations">
+   <from sent="sent31" chan="nam_org_institution">1</from>
+   <to sent="sent31" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent31" chan="nam_org_institution">1</from>
+   <to sent="sent31" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="composition" set="Semantic relations">
+   <from sent="sent34" chan="nam_org_institution">1</from>
+   <to sent="sent34" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent34" chan="nam_org_institution">1</from>
+   <to sent="sent34" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_org_organization">1</from>
+   <to sent="sent2" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent7" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent16" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent18" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent20" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent24" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent25" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent27" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent29" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent31" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent18" chan="nam_org_organization">1</from>
+   <to sent="sent16" chan="nam_org_organization">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent18" chan="nam_org_organization">2</from>
+   <to sent="sent16" chan="nam_org_organization">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent20" chan="nam_org_organization">2</from>
+   <to sent="sent16" chan="nam_org_organization">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent20" chan="nam_org_organization">3</from>
+   <to sent="sent16" chan="nam_org_organization">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent24" chan="nam_org_organization">1</from>
+   <to sent="sent16" chan="nam_org_organization">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent25" chan="nam_org_organization">1</from>
+   <to sent="sent16" chan="nam_org_organization">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent27" chan="nam_org_organization">1</from>
+   <to sent="sent16" chan="nam_org_organization">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent29" chan="nam_org_organization">1</from>
+   <to sent="sent16" chan="nam_org_organization">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent18" chan="nam_org_institution">1</from>
+   <to sent="sent16" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent20" chan="nam_org_institution">1</from>
+   <to sent="sent16" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent24" chan="nam_org_institution">1</from>
+   <to sent="sent16" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent25" chan="nam_org_institution">1</from>
+   <to sent="sent16" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent27" chan="nam_org_institution">1</from>
+   <to sent="sent16" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent29" chan="nam_org_institution">1</from>
+   <to sent="sent16" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent31" chan="nam_org_institution">1</from>
+   <to sent="sent16" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent34" chan="nam_org_institution">1</from>
+   <to sent="sent16" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent34" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent7" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent9" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent11" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent13" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent16" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent18" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent20" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent24" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent25" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent27" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent29" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent29" chan="anafora_wyznacznik">2</from>
+   <to sent="sent2" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent31" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent34" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_org_organization">1</to>
+  </rel>
+</relations>

@@ -1,0 +1,4273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Spadły</orth>
+    <lex disamb="1"><base>spaść</base><ctag>praet:pl:f:perf</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="chunk_vp">1</ann>
+    <ann chan="chunk_head_vp">1</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>ceny</orth>
+    <lex disamb="1"><base>cena</base><ctag>subst:pl:nom:f</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>akcji</orth>
+    <lex disamb="1"><base>akcja</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Google</orth>
+    <lex disamb="1"><base>Google</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_org_company:lemma">Google</prop>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Microsoft</orth>
+    <lex disamb="1"><base>Microsoft</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_company">2</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_org_company:lemma">Microsoft</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>Google</orth>
+    <lex disamb="1"><base>Google</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="wsd_powód">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <prop key="nam_org_company:lemma">Google</prop>
+   </tok>
+   <tok>
+    <orth>rozminął</orth>
+    <lex disamb="1"><base>rozminąć</base><ctag>praet:sg:m3:perf</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_powód">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">1</ann>
+    <ann chan="chunk_head_vp">1</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">1</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_powód">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">1</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_powód">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>prognozą</orth>
+    <lex disamb="1"><base>prognoza</base><ctag>subst:sg:inst:f</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_powód">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">2</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_powód">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>rzekomo</orth>
+    <lex disamb="1"><base>rzekomo</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_powód">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_powód">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>powodu</orth>
+    <lex disamb="1"><base>powód</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_powód">1</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <prop key="sense:wsd_powód">powód-2</prop>
+   </tok>
+   <tok>
+    <orth>nadmiernego</orth>
+    <lex disamb="1"><base>nadmierny</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_powód">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>wzrostu</orth>
+    <lex disamb="1"><base>wzrost</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_powód">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">3</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">2</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>zatrudnienia</orth>
+    <lex disamb="1"><base>zatrudnienie</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_powód">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">3</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_powód">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>Microsoft</orth>
+    <lex disamb="1"><base>Microsoft</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_company">2</ann>
+    <ann chan="wsd_powód">0</ann>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">4</ann>
+    <ann chan="chunk_head_agp">5</ann>
+    <ann chan="chunk_head_np">4</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <prop key="nam_org_company:lemma">Microsoft</prop>
+   </tok>
+   <tok>
+    <orth>radził</orth>
+    <lex disamb="1"><base>radzić</base><ctag>praet:sg:m1:imperf</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_powód">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">2</ann>
+    <ann chan="chunk_head_vp">2</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">4</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>sobie</orth>
+    <lex disamb="1"><base>siebie</base><ctag>siebie:dat</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_powód">0</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">6</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">2</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>lepiej</orth>
+    <lex disamb="1"><base>dobrze</base><ctag>adv:com</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_powód">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">2</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>niż</orth>
+    <lex disamb="1"><base>niż</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_powód">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>zapowiedział</orth>
+    <lex disamb="1"><base>zapowiedzieć</base><ctag>praet:sg:m1:perf</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_powód">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">3</ann>
+    <ann chan="chunk_head_vp">3</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">1</ann>
+    <ann chan="anafora_verb_null_in">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_powód">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>ale</orth>
+    <lex disamb="1"><base>ale</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_powód">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>popłynął</orth>
+    <lex disamb="1"><base>popłynąć</base><ctag>praet:sg:m1:perf</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_powód">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">4</ann>
+    <ann chan="chunk_head_vp">4</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="anafora_wyznacznik">2</ann>
+    <ann chan="action">5</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">2</ann>
+   </tok>
+   <tok>
+    <orth>razem</orth>
+    <lex disamb="1"><base>razem</base><ctag>adv</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_powód">0</ann>
+    <ann chan="chunk_agp">7</ann>
+    <ann chan="chunk_np">5</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_powód">0</ann>
+    <ann chan="chunk_agp">7</ann>
+    <ann chan="chunk_np">5</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>Googlem</orth>
+    <lex disamb="1"><base>googlem</base><ctag>subst:sg:inst:m1</ctag></lex>
+    <ann chan="nam_org_company">3</ann>
+    <ann chan="wsd_powód">0</ann>
+    <ann chan="chunk_agp">7</ann>
+    <ann chan="chunk_np">5</ann>
+    <ann chan="chunk_head_agp">7</ann>
+    <ann chan="chunk_head_np">5</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <prop key="nam_org_company:lemma">Google</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_powód">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent3">
+   <tok>
+    <orth>Tymczasem</orth>
+    <lex disamb="1"><base>tymczasem</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Facebook</orth>
+    <lex disamb="1"><base>facebook</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_org_company:lemma">Facebook</prop>
+   </tok>
+   <tok>
+    <orth>kupił</orth>
+    <lex disamb="1"><base>kupić</base><ctag>praet:sg:m1:perf</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">1</ann>
+    <ann chan="chunk_head_vp">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">1</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Parakey</orth>
+    <lex disamb="1"><base>parakey</base><ctag>subst:sg:acc:m1</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">1</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">2</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_pro_software:lemma">Parakey</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>start</orth>
+    <lex disamb="1"><base>start</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">3</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>up</orth>
+    <lex disamb="1"><base>up</base><ctag>interj</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>rozwijający</orth>
+    <lex disamb="1"><base>rozwijać</base><ctag>pact:sg:nom:m3:imperf:aff</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">2</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>internetowy</orth>
+    <lex disamb="1"><base>internetowy</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_adj">1</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_adj:lemma">internetowy</prop>
+   </tok>
+   <tok>
+    <orth>system</orth>
+    <lex disamb="1"><base>system</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>operacyjny</orth>
+    <lex disamb="1"><base>operacyjny</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>a</orth>
+    <lex disamb="1"><base>a</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Microsoft</orth>
+    <lex disamb="1"><base>Microsoft</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_company">2</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">4</ann>
+    <ann chan="chunk_head_agp">5</ann>
+    <ann chan="chunk_head_np">4</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_org_company:lemma">Microsoft</prop>
+   </tok>
+   <tok>
+    <orth>zapowiedział</orth>
+    <lex disamb="1"><base>zapowiedzieć</base><ctag>praet:sg:m3:perf</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">2</ann>
+    <ann chan="chunk_head_vp">2</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">1</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>że</orth>
+    <lex disamb="1"><base>że</base><ctag>comp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>także</orth>
+    <lex disamb="1"><base>także</base><ctag>qub</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>włącza</orth>
+    <lex disamb="1"><base>włączać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">3</ann>
+    <ann chan="chunk_head_vp">3</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+    <ann chan="action">3</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">3</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">5</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>internetowej</orth>
+    <lex disamb="1"><base>internetowy</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_adj">2</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">5</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_adj:lemma">internetowy</prop>
+   </tok>
+   <tok>
+    <orth>konwergencji</orth>
+    <lex disamb="1"><base>konwergencja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">5</ann>
+    <ann chan="chunk_head_agp">6</ann>
+    <ann chan="chunk_head_np">5</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent4">
+   <tok>
+    <orth>Facebook</orth>
+    <lex disamb="1"><base>facebook</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_org_company:lemma">Facebook</prop>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>pred</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">1</ann>
+    <ann chan="chunk_head_vp">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>iPhone</orth>
+    <lex disamb="1"><base>iphone</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_brand">1</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">2</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_pro_brand:lemma">iPhone</prop>
+   </tok>
+   <tok>
+    <orth>lipca</orth>
+    <lex disamb="1"><base>lipiec</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>choć</orth>
+    <lex disamb="1"><base>choć</base><ctag>comp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wciąż</orth>
+    <lex disamb="1"><base>wciąż</base><ctag>adv</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>trochę</orth>
+    <lex disamb="1"><base>trochę</base><ctag>adv</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wyrost</orth>
+    <lex disamb="1"><base>wyrost</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">3</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent5">
+   <tok>
+    <orth>Zresztą</orth>
+    <lex disamb="1"><base>zresztą</base><ctag>qub</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_głowa">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>dopóki</orth>
+    <lex disamb="1"><base>dopóki</base><ctag>comp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_głowa">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_głowa">0</ann>
+    <ann chan="chunk_vp">1</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>pojawi</orth>
+    <lex disamb="1"><base>pojawić</base><ctag>fin:sg:ter:perf</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_głowa">0</ann>
+    <ann chan="chunk_vp">1</ann>
+    <ann chan="chunk_head_vp">1</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">1</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_głowa">0</ann>
+    <ann chan="chunk_vp">1</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>oferta</orth>
+    <lex disamb="1"><base>oferta</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_głowa">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>biznesowa</orth>
+    <lex disamb="1"><base>biznesowy</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_głowa">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_głowa">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>Facebook</orth>
+    <lex disamb="1"><base>facebook</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="wsd_głowa">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">2</ann>
+    <ann chan="action">0</ann>
+    <prop key="nam_org_company:lemma">Facebook</prop>
+   </tok>
+   <tok>
+    <orth>będzie</orth>
+    <lex disamb="1"><base>być</base><ctag>bedzie:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_głowa">0</ann>
+    <ann chan="chunk_vp">2</ann>
+    <ann chan="chunk_head_vp">2</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>raczej</orth>
+    <lex disamb="1"><base>raczej</base><ctag>qub</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_głowa">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>oczkiem</orth>
+    <lex disamb="1"><base>oczko</base><ctag>subst:sg:inst:n</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_głowa">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">3</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_głowa">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>głowie</orth>
+    <lex disamb="1"><base>głowa</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_głowa">1</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+    <prop key="sense:wsd_głowa">głowa-2</prop>
+   </tok>
+   <tok>
+    <orth>socjologów</orth>
+    <lex disamb="1"><base>socjolog</base><ctag>subst:pl:gen:m1</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_głowa">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">5</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_głowa">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent6">
+   <tok>
+    <orth>Otwarta</orth>
+    <lex disamb="1"><base>otwarty</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="wsd_otwarty">1</ann>
+    <ann chan="wsd_tworzyć">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>platforma</orth>
+    <lex disamb="1"><base>platforma</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="wsd_otwarty">0</ann>
+    <ann chan="wsd_tworzyć">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Facebooka</orth>
+    <lex disamb="1"><base>facebooka</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="wsd_otwarty">0</ann>
+    <ann chan="wsd_tworzyć">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_org_company:lemma">Facebook</prop>
+   </tok>
+   <tok>
+    <orth>pozwala</orth>
+    <lex disamb="1"><base>pozwalać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="wsd_otwarty">0</ann>
+    <ann chan="wsd_tworzyć">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">1</ann>
+    <ann chan="chunk_head_vp">1</ann>
+    <ann chan="i_action">1</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>jednak</orth>
+    <lex disamb="1"><base>jednak</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="wsd_otwarty">0</ann>
+    <ann chan="wsd_tworzyć">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="wsd_otwarty">0</ann>
+    <ann chan="wsd_tworzyć">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>tworzenie</orth>
+    <lex disamb="1"><base>tworzyć</base><ctag>ger:sg:acc:n:imperf:aff</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="wsd_otwarty">0</ann>
+    <ann chan="wsd_tworzyć">1</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">2</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>nowych</orth>
+    <lex disamb="1"><base>nowy</base><ctag>adj:pl:gen:f:pos</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="wsd_otwarty">0</ann>
+    <ann chan="wsd_tworzyć">0</ann>
+    <ann chan="wsd_nowy">1</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>aplikacji</orth>
+    <lex disamb="1"><base>aplikacja</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="wsd_otwarty">0</ann>
+    <ann chan="wsd_tworzyć">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="wsd_otwarty">0</ann>
+    <ann chan="wsd_tworzyć">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>a</orth>
+    <lex disamb="1"><base>a</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="wsd_otwarty">0</ann>
+    <ann chan="wsd_tworzyć">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Parakey</orth>
+    <lex disamb="1"><base>parakey</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">1</ann>
+    <ann chan="wsd_otwarty">0</ann>
+    <ann chan="wsd_tworzyć">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">5</ann>
+    <ann chan="chunk_head_np">3</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_pro_software:lemma">Parakey</prop>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>pred</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="wsd_otwarty">0</ann>
+    <ann chan="wsd_tworzyć">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">2</ann>
+    <ann chan="chunk_head_vp">2</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>open</orth>
+    <lex disamb="1"><base>open</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="wsd_otwarty">0</ann>
+    <ann chan="wsd_tworzyć">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">4</ann>
+    <ann chan="chunk_head_agp">6</ann>
+    <ann chan="chunk_head_np">4</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>source</orth>
+    <lex disamb="1"><base>source</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="wsd_otwarty">0</ann>
+    <ann chan="wsd_tworzyć">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">4</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="wsd_otwarty">0</ann>
+    <ann chan="wsd_tworzyć">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">4</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>stworzone</orth>
+    <lex disamb="1"><base>stworzyć</base><ctag>ppas:sg:nom:n:perf:aff</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="wsd_otwarty">0</ann>
+    <ann chan="wsd_tworzyć">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">4</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">2</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>przez</orth>
+    <lex disamb="1"><base>przez</base><ctag>prep:acc:nwok</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="wsd_otwarty">0</ann>
+    <ann chan="wsd_tworzyć">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">7</ann>
+    <ann chan="chunk_np">4</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>jednego</orth>
+    <lex disamb="1"><base>jeden</base><ctag>adj:sg:acc:m1:pos</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="wsd_otwarty">0</ann>
+    <ann chan="wsd_tworzyć">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">7</ann>
+    <ann chan="chunk_np">4</ann>
+    <ann chan="chunk_head_agp">7</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="wsd_otwarty">0</ann>
+    <ann chan="wsd_tworzyć">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">8</ann>
+    <ann chan="chunk_np">4</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>inicjatorów</orth>
+    <lex disamb="1"><base>inicjator</base><ctag>subst:pl:gen:m1</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="wsd_otwarty">0</ann>
+    <ann chan="wsd_tworzyć">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">8</ann>
+    <ann chan="chunk_np">4</ann>
+    <ann chan="chunk_head_agp">8</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Firefoksa</orth>
+    <lex disamb="1"><base>firefoksa</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">2</ann>
+    <ann chan="wsd_otwarty">0</ann>
+    <ann chan="wsd_tworzyć">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">9</ann>
+    <ann chan="chunk_np">4</ann>
+    <ann chan="chunk_head_agp">9</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_pro_software:lemma">Firefoks</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="wsd_otwarty">0</ann>
+    <ann chan="wsd_tworzyć">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent7">
+   <tok>
+    <orth>Parakey</orth>
+    <lex disamb="1"><base>parakey</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_pro_software">1</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <prop key="nam_pro_software:lemma">Parakey</prop>
+   </tok>
+   <tok>
+    <orth>działał</orth>
+    <lex disamb="1"><base>działać</base><ctag>praet:sg:m1:imperf</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">1</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">1</ann>
+    <ann chan="chunk_vp">1</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">1</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <prop key="sense:wsd_działać">działać-2</prop>
+   </tok>
+   <tok>
+    <orth>jednak</orth>
+    <lex disamb="1"><base>jednak</base><ctag>conj</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>podziemiu</orth>
+    <lex disamb="1"><base>podziemie</base><ctag>subst:sg:loc:n</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">2</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>wiadomo</orth>
+    <lex disamb="1"><base>wiadomo</base><ctag>pred</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">2</ann>
+    <ann chan="chunk_vp">2</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">1</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>tylko</orth>
+    <lex disamb="1"><base>tylko</base><ctag>qub</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>że</orth>
+    <lex disamb="1"><base>że</base><ctag>comp</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>miał</orth>
+    <lex disamb="1"><base>mieć</base><ctag>praet:sg:m1:imperf</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">3</ann>
+    <ann chan="chunk_vp">3</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">1</ann>
+    <ann chan="anafora_verb_null_in">1</ann>
+   </tok>
+   <tok>
+    <orth>mieć</orth>
+    <lex disamb="1"><base>mieć</base><ctag>inf:imperf</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">3</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">2</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>licencję</orth>
+    <lex disamb="1"><base>licencja</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">3</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>podobną</orth>
+    <lex disamb="1"><base>podobny</base><ctag>adj:sg:acc:f:pos</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">1</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>Firefoksa</orth>
+    <lex disamb="1"><base>firefoksa</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_pro_software">2</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <prop key="nam_pro_software:lemma">Firefoks</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>ponieważ</orth>
+    <lex disamb="1"><base>ponieważ</base><ctag>comp</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>jednak</orth>
+    <lex disamb="1"><base>jednak</base><ctag>qub</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">1</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>tej</orth>
+    <lex disamb="1"><base>ten</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">1</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>pory</orth>
+    <lex disamb="1"><base>pora</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">5</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">1</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>żadne</orth>
+    <lex disamb="1"><base>żaden</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">4</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>oprogramowanie</orth>
+    <lex disamb="1"><base>oprogramowanie</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">4</ann>
+    <ann chan="chunk_head_agp">6</ann>
+    <ann chan="chunk_head_np">4</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">4</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>zostało</orth>
+    <lex disamb="1"><base>zostać</base><ctag>praet:sg:n:perf</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">4</ann>
+    <ann chan="chunk_vp">4</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>wydane</orth>
+    <lex disamb="1"><base>wydać</base><ctag>ppas:sg:nom:n:perf:aff</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">1</ann>
+    <ann chan="chunk_agp">7</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">7</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">2</ann>
+    <ann chan="chunk_head_adjp">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">2</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <prop key="sense:wsd_wydać">wydać-7</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>conj</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>nawet</orth>
+    <lex disamb="1"><base>nawet</base><ctag>qub</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>gdyby</orth>
+    <lex disamb="1"><base>gdyby</base><ctag>comp</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>miał</orth>
+    <lex disamb="1"><base>mieć</base><ctag>praet:sg:m1:imperf</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">5</ann>
+    <ann chan="chunk_vp">5</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">2</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">3</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">2</ann>
+   </tok>
+   <tok>
+    <orth>Affero</orth>
+    <lex disamb="1"><base>affero</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">1</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">8</ann>
+    <ann chan="chunk_np">5</ann>
+    <ann chan="chunk_head_agp">8</ann>
+    <ann chan="chunk_head_np">5</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <prop key="nam_oth_license:lemma">Affero GPL</prop>
+   </tok>
+   <tok>
+    <orth>GPL</orth>
+    <lex disamb="1"><base>gpl</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">1</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">8</ann>
+    <ann chan="chunk_np">5</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>Facebook</orth>
+    <lex disamb="1"><base>facebook</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">9</ann>
+    <ann chan="chunk_np">6</ann>
+    <ann chan="chunk_head_agp">9</ann>
+    <ann chan="chunk_head_np">6</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <prop key="nam_org_company:lemma">Facebook</prop>
+   </tok>
+   <tok>
+    <orth>może</orth>
+    <lex disamb="1"><base>móc</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">6</ann>
+    <ann chan="chunk_vp">6</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">2</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>subst:sg:acc:n</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">10</ann>
+    <ann chan="chunk_np">7</ann>
+    <ann chan="chunk_head_agp">10</ann>
+    <ann chan="chunk_head_np">7</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>dowolnie</orth>
+    <lex disamb="1"><base>dowolnie</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">7</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>zmienić</orth>
+    <lex disamb="1"><base>zmienić</base><ctag>inf:perf</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">7</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">3</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_software">0</ann>
+    <ann chan="nam_oth_license">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_działać">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <ann chan="wsd_wydać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_adjp">0</ann>
+    <ann chan="chunk_head_adjp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent8">
+   <tok>
+    <orth>Ale</orth>
+    <lex disamb="1"><base>ale</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>pred</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>właśnie</orth>
+    <lex disamb="1"><base>właśnie</base><ctag>qub</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>otwartość</orth>
+    <lex disamb="1"><base>otwartość</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>Facebooka</orth>
+    <lex disamb="1"><base>facebooka</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+    <prop key="nam_org_company:lemma">Facebook</prop>
+   </tok>
+   <tok>
+    <orth>może</orth>
+    <lex disamb="1"><base>móc</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">1</ann>
+    <ann chan="chunk_head_vp">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="i_state">1</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>sprawić</orth>
+    <lex disamb="1"><base>sprawić</base><ctag>inf:perf</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">1</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>że</orth>
+    <lex disamb="1"><base>że</base><ctag>comp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>pojawią</orth>
+    <lex disamb="1"><base>pojawić</base><ctag>fin:pl:ter:perf</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">2</ann>
+    <ann chan="chunk_head_vp">2</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">2</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">2</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>poważne</orth>
+    <lex disamb="1"><base>poważny</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>biznesowe</orth>
+    <lex disamb="1"><base>biznesowy</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>aplikacje</orth>
+    <lex disamb="1"><base>aplikacja</base><ctag>subst:pl:nom:f</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">2</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>wkrótce</orth>
+    <lex disamb="1"><base>wkrótce</base><ctag>adv</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">3</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>stanie</orth>
+    <lex disamb="1"><base>stanąć</base><ctag>fin:sg:ter:perf</ctag></lex>
+    <lex disamb="1"><base>stać</base><ctag>fin:sg:ter:perf</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">3</ann>
+    <ann chan="chunk_head_vp">3</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">3</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>on</orth>
+    <lex disamb="1"><base>on</base><ctag>ppron3:sg:nom:m1:ter:akc:npraep</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">3</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>nowym</orth>
+    <lex disamb="1"><base>nowy</base><ctag>adj:sg:inst:m1:pos</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_nowy">1</ann>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">4</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>Salesforcem</orth>
+    <lex disamb="1"><base>salesforcem</base><ctag>subst:sg:inst:m1</ctag></lex>
+    <ann chan="nam_org_company">2</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">4</ann>
+    <ann chan="chunk_head_agp">5</ann>
+    <ann chan="chunk_head_np">4</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+    <prop key="nam_org_company:lemma">Salesforce</prop>
+   </tok>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent9">
+   <tok>
+    <orth>Tymczasem</orth>
+    <lex disamb="1"><base>tymczasem</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>LG</orth>
+    <lex disamb="1"><base>lg</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_org_company:lemma">LG</prop>
+   </tok>
+   <tok>
+    <orth>wprowadziło</orth>
+    <lex disamb="1"><base>wprowadzić</base><ctag>praet:sg:n:perf</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">1</ann>
+    <ann chan="chunk_head_vp">1</ann>
+    <ann chan="action">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>telefon</orth>
+    <lex disamb="1"><base>telefon</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">2</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>łatwym</orth>
+    <lex disamb="1"><base>łatwy</base><ctag>adj:sg:inst:m3:pos</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dostępem</orth>
+    <lex disamb="1"><base>dostęp</base><ctag>subst:sg:inst:m3</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">2</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>usług</orth>
+    <lex disamb="1"><base>usługa</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Google</orth>
+    <lex disamb="1"><base>Google</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_company">2</ann>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">5</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_org_company:lemma">Google</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent10">
+   <tok>
+    <orth>Nuda</orth>
+    <lex disamb="1"><base>nuda</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_pisać">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_pisać">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>pisze</orth>
+    <lex disamb="1"><base>pisać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_pisać">1</ann>
+    <ann chan="wsd_specjalny">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">1</ann>
+    <ann chan="chunk_head_vp">1</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">1</ann>
+    <prop key="sense:wsd_pisać">pisać-2</prop>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_pisać">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">1</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_pisać">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>przecież</orth>
+    <lex disamb="1"><base>przecież</base><ctag>qub</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_pisać">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>są</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_pisać">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">2</ann>
+    <ann chan="chunk_head_vp">2</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>przeglądarki</orth>
+    <lex disamb="1"><base>przeglądarka</base><ctag>subst:pl:nom:f</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_pisać">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">2</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>specjalne</orth>
+    <lex disamb="1"><base>specjalny</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_pisać">0</ann>
+    <ann chan="wsd_specjalny">1</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>dla</orth>
+    <lex disamb="1"><base>dla</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_pisać">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>telefonów</orth>
+    <lex disamb="1"><base>telefon</base><ctag>subst:pl:gen:m3</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_pisać">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_pisać">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>jest</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_pisać">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">3</ann>
+    <ann chan="chunk_head_vp">3</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>iPhone</orth>
+    <lex disamb="1"><base>iphone</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_pro_brand">1</ann>
+    <ann chan="wsd_pisać">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">3</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+    <prop key="nam_pro_brand:lemma">iPhone</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_pisać">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>po</orth>
+    <lex disamb="1"><base>po</base><ctag>prep:acc</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_pisać">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">1</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>co</orth>
+    <lex disamb="1"><base>CO</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex disamb="1"><base>co</base><ctag>subst:sg:acc:n</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_pisać">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">1</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>komu</orth>
+    <lex disamb="1"><base>kto</base><ctag>subst:sg:dat:m1</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_pisać">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">4</ann>
+    <ann chan="chunk_head_agp">5</ann>
+    <ann chan="chunk_head_np">4</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>takie</orth>
+    <lex disamb="1"><base>taki</base><ctag>adj:pl:acc:f:pos</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_pisać">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">5</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>proste</orth>
+    <lex disamb="1"><base>prosty</base><ctag>adj:pl:acc:f:pos</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_pisać">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+    <ann chan="wsd_prosty">1</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">5</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>aplikacje</orth>
+    <lex disamb="1"><base>aplikacja</base><ctag>subst:pl:acc:f</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_pisać">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">5</ann>
+    <ann chan="chunk_head_agp">6</ann>
+    <ann chan="chunk_head_np">5</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_pisać">0</ann>
+    <ann chan="wsd_specjalny">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent11">
+   <tok>
+    <orth>Tymczasem</orth>
+    <lex disamb="1"><base>tymczasem</base><ctag>conj</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>wielu</orth>
+    <lex disamb="1"><base>wiele</base><ctag>num:pl:loc:m3:congr</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>krajach</orth>
+    <lex disamb="1"><base>kraj</base><ctag>subst:pl:loc:m3</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>brak</orth>
+    <lex disamb="1"><base>brak</base><ctag>pred</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">2</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>infrastruktury</orth>
+    <lex disamb="1"><base>infrastruktura</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>fizycznej</orth>
+    <lex disamb="1"><base>fizyczny</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>powoduje</orth>
+    <lex disamb="1"><base>powodować</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">1</ann>
+    <ann chan="chunk_head_vp">1</ann>
+    <ann chan="action">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>że</orth>
+    <lex disamb="1"><base>że</base><ctag>comp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>jeśli</orth>
+    <lex disamb="1"><base>jeśli</base><ctag>comp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>dostęp</orth>
+    <lex disamb="1"><base>dostęp</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">3</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">2</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>internetu</orth>
+    <lex disamb="1"><base>Internet</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <lex disamb="1"><base>internet</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_oth_tech">1</ann>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">5</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+    <prop key="nam_oth_tech:lemma">internet</prop>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">2</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>pojawi</orth>
+    <lex disamb="1"><base>pojawić</base><ctag>fin:sg:ter:perf</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">2</ann>
+    <ann chan="chunk_head_vp">2</ann>
+    <ann chan="action">3</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>conj</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>najpierw</orth>
+    <lex disamb="1"><base>najpierw</base><ctag>adv</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>przez</orth>
+    <lex disamb="1"><base>przez</base><ctag>prep:acc:nwok</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">4</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>marne</orth>
+    <lex disamb="1"><base>marny</base><ctag>adj:pl:acc:f:pos</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">4</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>komórki</orth>
+    <lex disamb="1"><base>komórka</base><ctag>subst:pl:acc:f</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">4</ann>
+    <ann chan="chunk_head_agp">6</ann>
+    <ann chan="chunk_head_np">4</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent12">
+   <tok>
+    <orth>iPhone</orth>
+    <lex disamb="1"><base>iphone</base><ctag>interj</ctag></lex>
+    <ann chan="nam_pro_brand">1</ann>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <prop key="nam_pro_brand:lemma">iPhone</prop>
+   </tok>
+   <tok>
+    <orth>dla</orth>
+    <lex disamb="1"><base>dla</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+   <tok>
+    <orth>Afryki</orth>
+    <lex disamb="1"><base>Afryka</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_loc_land_continent">1</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">2</ann>
+    <prop key="nam_loc_land_continent:lemma">Afryka</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+   <tok>
+    <orth>Indii</orth>
+    <lex disamb="1"><base>Indie</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">1</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <prop key="nam_loc_gpe_country:lemma">Indie</prop>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+   <tok>
+    <orth>Indonezji</orth>
+    <lex disamb="1"><base>Indonezja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">2</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <prop key="nam_loc_gpe_country:lemma">Indonezja</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent13">
+   <tok>
+    <orth>Raczej</orth>
+    <lex disamb="1"><base>raczej</base><ctag>qub</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+   <tok>
+    <orth>Nokia</orth>
+    <lex disamb="1"><base>Nokia</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_pro_brand">1</ann>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <prop key="nam_pro_brand:lemma">Nokia 1100</prop>
+    <prop key="nam_org_company:lemma">Nokia</prop>
+   </tok>
+   <tok>
+    <orth>1100</orth>
+    <lex disamb="1"><base>1100</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_pro_brand">1</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent14">
+   <tok>
+    <orth>Co</orth>
+    <lex disamb="1"><base>CO</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex disamb="1"><base>co</base><ctag>subst:sg:acc:n</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+   </tok>
+   <tok>
+    <orth>ma</orth>
+    <lex disamb="1"><base>mieć</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">1</ann>
+    <ann chan="chunk_head_vp">1</ann>
+    <ann chan="state">1</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+   </tok>
+   <tok>
+    <orth>takim</orth>
+    <lex disamb="1"><base>taki</base><ctag>adj:sg:loc:n:pos</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+   </tok>
+   <tok>
+    <orth>urządzeniu</orth>
+    <lex disamb="1"><base>urządzenie</base><ctag>subst:sg:loc:n</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">2</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+   </tok>
+   <tok>
+    <orth>większe</orth>
+    <lex disamb="1"><base>duży</base><ctag>adj:pl:acc:f:com</ctag></lex>
+    <lex disamb="1"><base>wielki</base><ctag>adj:pl:acc:f:com</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_duży">1</ann>
+    <ann chan="wsd_wielki">1</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+   </tok>
+   <tok>
+    <orth>szanse</orth>
+    <lex disamb="1"><base>szansa</base><ctag>subst:pl:acc:f</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">3</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+   </tok>
+   <tok>
+    <orth>wodotryski</orth>
+    <lex disamb="1"><base>wodotrysk</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">4</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">4</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+   </tok>
+   <tok>
+    <orth>Facebooka</orth>
+    <lex disamb="1"><base>facebooka</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">4</ann>
+    <ann chan="chunk_head_agp">5</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+    <prop key="nam_org_company:lemma">Facebook</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+   </tok>
+   <tok>
+    <orth>czy</orth>
+    <lex disamb="1"><base>czy</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+   </tok>
+   <tok>
+    <orth>proste</orth>
+    <lex disamb="1"><base>prosty</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_prosty">1</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">5</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+   </tok>
+   <tok>
+    <orth>aplikacje</orth>
+    <lex disamb="1"><base>aplikacja</base><ctag>subst:pl:nom:f</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">5</ann>
+    <ann chan="chunk_head_agp">6</ann>
+    <ann chan="chunk_head_np">5</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+   </tok>
+   <tok>
+    <orth>Google</orth>
+    <lex disamb="1"><base>Google</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_company">2</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">7</ann>
+    <ann chan="chunk_np">5</ann>
+    <ann chan="chunk_head_agp">7</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+    <prop key="nam_org_company:lemma">Google</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_prosty">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

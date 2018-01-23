@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent13" chan="nam_liv_person">1</from>
+   <to sent="sent10" chan="nam_liv_person">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent13" chan="nam_liv_god">2</from>
+   <to sent="sent13" chan="nam_liv_god">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent18" chan="nam_liv_person">1</from>
+   <to sent="sent14" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent21" chan="nam_liv_person">1</from>
+   <to sent="sent14" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent14" chan="nam_liv_god">1</from>
+   <to sent="sent13" chan="nam_liv_god">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent19" chan="nam_liv_god">1</from>
+   <to sent="sent13" chan="nam_liv_god">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent20" chan="nam_liv_god">1</from>
+   <to sent="sent13" chan="nam_liv_god">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent11" chan="anafora_wyznacznik">1</from>
+   <to sent="sent10" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent12" chan="anafora_wyznacznik">1</from>
+   <to sent="sent10" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent12" chan="anafora_wyznacznik">2</from>
+   <to sent="sent10" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent19" chan="anafora_wyznacznik">1</from>
+   <to sent="sent13" chan="nam_liv_god">1</to>
+  </rel>
+</relations>

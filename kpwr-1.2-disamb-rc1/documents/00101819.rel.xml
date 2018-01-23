@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent14" chan="nam_liv_person">1</from>
+   <to sent="sent14" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_pro_brand">1</from>
+   <to sent="sent1" chan="nam_pro_brand">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent11" chan="nam_pro_brand">1</from>
+   <to sent="sent1" chan="nam_pro_brand">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent9" chan="nam_org_company">1</from>
+   <to sent="sent3" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_org_company">1</from>
+   <to sent="sent3" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent14" chan="anafora_wyznacznik">1</from>
+   <to sent="sent14" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent15" chan="nam_liv_person">1</from>
+   <to sent="sent14" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="manner" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent2" chan="predykat">2</from>
+   <to sent="sent2" chan="predykat">1</to>
+  </rel>
+ <rel name="undergoer" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent2" chan="predykat">2</from>
+   <to sent="sent2" chan="argument">1</to>
+  </rel>
+ <rel name="undergoer" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent3" chan="predykat">2</from>
+   <to sent="sent3" chan="argument">2</to>
+  </rel>
+ <rel name="undergoer" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent4" chan="predykat">1</from>
+   <to sent="sent4" chan="argument">1</to>
+  </rel>
+ <rel name="attribute" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent4" chan="argument">2</from>
+   <to sent="sent4" chan="predykat">2</to>
+  </rel>
+ <rel name="attribute" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent5" chan="argument">1</from>
+   <to sent="sent5" chan="predykat">1</to>
+  </rel>
+ <rel name="undergoer" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent9" chan="predykat">1</from>
+   <to sent="sent9" chan="argument">1</to>
+  </rel>
+ <rel name="attribute" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent9" chan="argument">2</from>
+   <to sent="sent9" chan="predykat">2</to>
+  </rel>
+ <rel name="attribute" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent10" chan="argument">1</from>
+   <to sent="sent10" chan="predykat">1</to>
+  </rel>
+ <rel name="undergoer" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent10" chan="predykat">2</from>
+   <to sent="sent10" chan="predykat">3</to>
+  </rel>
+ <rel name="undergoer" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent10" chan="predykat">3</from>
+   <to sent="sent10" chan="argument">2</to>
+  </rel>
+ <rel name="undergoer" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent11" chan="predykat">1</from>
+   <to sent="sent11" chan="argument">1</to>
+  </rel>
+ <rel name="attribute" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent11" chan="argument">2</from>
+   <to sent="sent11" chan="predykat">2</to>
+  </rel>
+ <rel name="undergoer" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent12" chan="predykat">1</from>
+   <to sent="sent12" chan="argument">1</to>
+  </rel>
+ <rel name="attribute" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent13" chan="argument">1</from>
+   <to sent="sent13" chan="predykat">1</to>
+  </rel>
+ <rel name="undergoer" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent14" chan="predykat">1</from>
+   <to sent="sent14" chan="argument">1</to>
+  </rel>
+ <rel name="amount" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent15" chan="argument">2</from>
+   <to sent="sent15" chan="argument">1</to>
+  </rel>
+ <rel name="undergoer" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent15" chan="predykat">1</from>
+   <to sent="sent15" chan="argument">3</to>
+  </rel>
+ <rel name="actor" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent16" chan="predykat">1</from>
+   <to sent="sent16" chan="argument">1</to>
+  </rel>
+ <rel name="undergoer" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent16" chan="predykat">1</from>
+   <to sent="sent16" chan="argument">2</to>
+  </rel>
+ <rel name="cause" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent16" chan="predykat">1</from>
+   <to sent="sent16" chan="argument">1</to>
+  </rel>
+ <rel name="manner" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent17" chan="predykat">2</from>
+   <to sent="sent17" chan="predykat">1</to>
+  </rel>
+ <rel name="actor" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent17" chan="predykat">2</from>
+   <to sent="sent17" chan="argument">1</to>
+  </rel>
+ <rel name="attribute" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent18" chan="argument">1</from>
+   <to sent="sent18" chan="predykat">1</to>
+  </rel>
+ <rel name="attribute" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent18" chan="argument">2</from>
+   <to sent="sent18" chan="predykat">2</to>
+  </rel>
+ <rel name="patient" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent2" chan="predykat">2</from>
+   <to sent="sent2" chan="argument">1</to>
+  </rel>
+ <rel name="patient" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent10" chan="predykat">3</from>
+   <to sent="sent10" chan="argument">2</to>
+  </rel>
+ <rel name="patient" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent12" chan="predykat">1</from>
+   <to sent="sent12" chan="argument">1</to>
+  </rel>
+ <rel name="patient" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent15" chan="predykat">1</from>
+   <to sent="sent15" chan="argument">3</to>
+  </rel>
+ <rel name="attribute" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent6" chan="argument">1</from>
+   <to sent="sent6" chan="predykat">1</to>
+  </rel>
+ <rel name="attribute" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent1" chan="argument">1</from>
+   <to sent="sent1" chan="predykat">1</to>
+  </rel>
+ <rel name="undergoer" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent3" chan="predykat">1</from>
+   <to sent="sent3" chan="argument">1</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent5" chan="spatial_indicator_3">1</from>
+   <to sent="sent5" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent5" chan="spatial_indicator_3">1</from>
+   <to sent="sent5" chan="spatial_object">2</to>
+  </rel>
+</relations>

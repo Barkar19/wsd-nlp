@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent5" chan="nam_org_institution">1</from>
+   <to sent="sent4" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent6" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent6" chan="nam_pro_title_treaty">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent6" chan="nam_loc_gpe_country">2</from>
+   <to sent="sent6" chan="nam_pro_title_treaty">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent15" chan="nam_loc_gpe_country">3</from>
+   <to sent="sent15" chan="nam_loc_land_continent">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent18" chan="nam_org_institution">1</from>
+   <to sent="sent18" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent18" chan="nam_org_institution">2</from>
+   <to sent="sent18" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent18" chan="nam_org_institution">3</from>
+   <to sent="sent18" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent18" chan="nam_org_institution">4</from>
+   <to sent="sent18" chan="nam_loc_gpe_country">2</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent18" chan="nam_org_institution">5</from>
+   <to sent="sent18" chan="nam_loc_gpe_country">2</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent15" chan="spatial_indicator_3">1</from>
+   <to sent="sent15" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent15" chan="spatial_indicator_3">1</from>
+   <to sent="sent15" chan="spatial_object">2</to>
+  </rel>
+ <rel name="other" set="Spatial relations (final)">
+   <from sent="sent15" chan="spatial_indicator_3">1</from>
+   <to sent="sent15" chan="region">1</to>
+  </rel>
+</relations>

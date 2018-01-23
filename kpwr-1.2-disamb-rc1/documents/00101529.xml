@@ -1,0 +1,3369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Poseł</orth>
+    <lex disamb="1"><base>poseł</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>Jan</orth>
+    <lex disamb="1"><base>Jan</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person_first">1</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_liv_person_first:lemma">Jan</prop>
+    <prop key="nam_liv_person:lemma">Jan Filip Libicki</prop>
+   </tok>
+   <tok>
+    <orth>Filip</orth>
+    <lex disamb="1"><base>Filip</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person_first">2</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_liv_person_first:lemma">Filip</prop>
+   </tok>
+   <tok>
+    <orth>Libicki</orth>
+    <lex disamb="1"><base>Libicki</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_last">1</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_liv_person_last:lemma">Libicki</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent2">
+   <tok>
+    <orth>Panie</orth>
+    <lex disamb="1"><base>Pan</base><ctag>subst:sg:voc:m1</ctag></lex>
+    <lex disamb="1"><base>pan</base><ctag>subst:sg:voc:m1</ctag></lex>
+    <ann chan="wsd_pan">1</ann>
+    <prop key="sense:wsd_pan">pan-2</prop>
+   </tok>
+   <tok>
+    <orth>Marszałku</orth>
+    <lex disamb="1"><base>Marszałek</base><ctag>subst:sg:voc:m1</ctag></lex>
+    <lex disamb="1"><base>marszałek</base><ctag>subst:sg:voc:m1</ctag></lex>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>!</orth>
+    <lex disamb="1"><base>!</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent3">
+   <tok>
+    <orth>Wysoka</orth>
+    <lex disamb="1"><base>wysoki</base><ctag>adj:sg:voc:f:pos</ctag></lex>
+    <ann chan="wsd_wysoki">1</ann>
+   </tok>
+   <tok>
+    <orth>Izbo</orth>
+    <lex disamb="1"><base>izba</base><ctag>subst:sg:voc:f</ctag></lex>
+    <ann chan="wsd_wysoki">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>!</orth>
+    <lex disamb="1"><base>!</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_wysoki">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent4">
+   <tok>
+    <orth>Swoim</orth>
+    <lex disamb="1"><base>swój</base><ctag>adj:sg:inst:n:pos</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_dzisiejszy">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dzisiejszym</orth>
+    <lex disamb="1"><base>dzisiejszy</base><ctag>adj:sg:inst:n:pos</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_dzisiejszy">1</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="t3_date:lemma">+0000-00-00</prop>
+    <prop key="t3_date:lemma2">2009-03-31</prop>
+    <prop key="plimex_date:lemma">+0000-00-00</prop>
+   </tok>
+   <tok>
+    <orth>oświadczeniem</orth>
+    <lex disamb="1"><base>oświadczenie</base><ctag>subst:sg:inst:n</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_dzisiejszy">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>chciał</orth>
+    <lex disamb="1"><base>chcieć</base><ctag>praet:sg:m1:imperf</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_dzisiejszy">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>by</orth>
+    <lex disamb="1"><base>by</base><ctag>qub</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_dzisiejszy">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>m</orth>
+    <lex disamb="1"><base>być</base><ctag>aglt:sg:pri:imperf:nwok</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_dzisiejszy">0</ann>
+    <ann chan="wsd_m">1</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_m">m-93</prop>
+   </tok>
+   <tok>
+    <orth>wyrazić</orth>
+    <lex disamb="1"><base>wyrazić</base><ctag>inf:perf</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_dzisiejszy">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>moją</orth>
+    <lex disamb="1"><base>mój</base><ctag>adj:sg:acc:f:pos</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_dzisiejszy">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>solidarność</orth>
+    <lex disamb="1"><base>solidarność</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_dzisiejszy">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_dzisiejszy">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Ojcem</orth>
+    <lex disamb="1"><base>ojciec</base><ctag>subst:sg:inst:m1</ctag></lex>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_add">1</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_dzisiejszy">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_liv_person:lemma">Ojciec Święty</prop>
+    <prop key="nam_liv_person_add:lemma">Ojciec Święty</prop>
+   </tok>
+   <tok>
+    <orth>Świętym</orth>
+    <lex disamb="1"><base>święty</base><ctag>adj:sg:inst:m1:pos</ctag></lex>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_add">1</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_dzisiejszy">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>Benedyktem</orth>
+    <lex disamb="1"><base>Benedykt</base><ctag>subst:sg:inst:m1</ctag></lex>
+    <ann chan="nam_liv_person">2</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">1</ann>
+    <ann chan="wsd_dzisiejszy">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_liv_person_first:lemma">Benedykt</prop>
+    <prop key="nam_liv_person:lemma">Benedykt XVI</prop>
+   </tok>
+   <tok>
+    <orth>XVI</orth>
+    <lex disamb="1"><base>xvi</base><ctag>adj:sg:inst:m1:pos</ctag></lex>
+    <ann chan="nam_liv_person">2</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_dzisiejszy">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_dzisiejszy">0</ann>
+    <ann chan="wsd_m">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent5">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>ostatnim</orth>
+    <lex disamb="1"><base>ostatni</base><ctag>adj:sg:loc:m3:pos</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">1</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>czasie</orth>
+    <lex disamb="1"><base>czas</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <prop key="sense:wsd_czas">czas-3</prop>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>Europie</orth>
+    <lex disamb="1"><base>Europa</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_loc_land_continent">1</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <prop key="nam_loc_land_continent:lemma">Europa</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>a</orth>
+    <lex disamb="1"><base>a</base><ctag>conj</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>niestety</orth>
+    <lex disamb="1"><base>niestety</base><ctag>qub</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>także</orth>
+    <lex disamb="1"><base>także</base><ctag>qub</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>qub</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>Polsce</orth>
+    <lex disamb="1"><base>Polska</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <prop key="nam_loc_gpe_country:lemma">Polska</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>coraz</orth>
+    <lex disamb="1"><base>coraz</base><ctag>adv</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>częściej</orth>
+    <lex disamb="1"><base>często</base><ctag>adv:com</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>pojawiają</orth>
+    <lex disamb="1"><base>pojawiać</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>krytyczne</orth>
+    <lex disamb="1"><base>krytyczny</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>komentarze</orth>
+    <lex disamb="1"><base>komentarz</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>deklaracje</orth>
+    <lex disamb="1"><base>deklaracja</base><ctag>subst:pl:nom:f</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>które</orth>
+    <lex disamb="1"><base>który</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>godzą</orth>
+    <lex disamb="1"><base>godzić</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">1</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>autorytet</orth>
+    <lex disamb="1"><base>autorytet</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>biskupa</orth>
+    <lex disamb="1"><base>biskup</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>Rzymu</orth>
+    <lex disamb="1"><base>Rzym</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <prop key="nam_loc_gpe_city:lemma">Rzym</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_land_continent">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_ostatni">0</ann>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent6">
+   <tok>
+    <orth>Jest</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>tym</orth>
+    <lex disamb="1"><base>tym</base><ctag>adv</ctag></lex>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>bardziej</orth>
+    <lex disamb="1"><base>bardzo</base><ctag>adv:com</ctag></lex>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>przykre</orth>
+    <lex disamb="1"><base>przykry</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>że</orth>
+    <lex disamb="1"><base>że</base><ctag>comp</ctag></lex>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>wypowiadają</orth>
+    <lex disamb="1"><base>wypowiadać</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>je</orth>
+    <lex disamb="1"><base>on</base><ctag>ppron3:pl:acc:m3:ter:akc:npraep</ctag></lex>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>prominentni</orth>
+    <lex disamb="1"><base>prominentny</base><ctag>adj:pl:nom:m1:pos</ctag></lex>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>politycy</orth>
+    <lex disamb="1"><base>polityk</base><ctag>subst:pl:nom:m1</ctag></lex>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>także</orth>
+    <lex disamb="1"><base>także</base><ctag>qub</ctag></lex>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>ci</orth>
+    <lex disamb="1"><base>ten</base><ctag>adj:pl:nom:m1:pos</ctag></lex>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>którzy</orth>
+    <lex disamb="1"><base>który</base><ctag>adj:pl:nom:m1:pos</ctag></lex>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>oficjalnie</orth>
+    <lex disamb="1"><base>oficjalnie</base><ctag>adv:pos</ctag></lex>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>deklarują</orth>
+    <lex disamb="1"><base>deklarować</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <ann chan="anafora_verb_null_in">1</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>jako</orth>
+    <lex disamb="1"><base>jako</base><ctag>conj</ctag></lex>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>katolicy</orth>
+    <lex disamb="1"><base>katolik</base><ctag>subst:pl:nom:m1</ctag></lex>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent7">
+   <tok>
+    <orth>Co</orth>
+    <lex disamb="1"><base>CO</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex disamb="1"><base>co</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="wsd_ciekawy">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>najciekawsze</orth>
+    <lex disamb="1"><base>ciekawy</base><ctag>adj:sg:nom:n:sup</ctag></lex>
+    <ann chan="wsd_ciekawy">1</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_ciekawy">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>te</orth>
+    <lex disamb="1"><base>ten</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+    <ann chan="wsd_ciekawy">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>krytyczne</orth>
+    <lex disamb="1"><base>krytyczny</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+    <ann chan="wsd_ciekawy">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>głosy</orth>
+    <lex disamb="1"><base>głos</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <ann chan="wsd_ciekawy">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dokonują</orth>
+    <lex disamb="1"><base>dokonywać</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <ann chan="wsd_ciekawy">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>subiektywnej</orth>
+    <lex disamb="1"><base>subiektywny</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="wsd_ciekawy">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="wsd_ciekawy">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>uproszczonej</orth>
+    <lex disamb="1"><base>uprościć</base><ctag>ppas:sg:gen:f:perf:aff</ctag></lex>
+    <ann chan="wsd_ciekawy">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>oceny</orth>
+    <lex disamb="1"><base>ocena</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="wsd_ciekawy">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>faktów</orth>
+    <lex disamb="1"><base>fakt</base><ctag>subst:pl:gen:m3</ctag></lex>
+    <ann chan="wsd_ciekawy">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="wsd_ciekawy">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>posunięć</orth>
+    <lex disamb="1"><base>posunięcie</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="wsd_ciekawy">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>papieskich</orth>
+    <lex disamb="1"><base>papieski</base><ctag>adj:pl:gen:n:pos</ctag></lex>
+    <ann chan="wsd_ciekawy">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_ciekawy">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>które</orth>
+    <lex disamb="1"><base>który</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+    <ann chan="wsd_ciekawy">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>należą</orth>
+    <lex disamb="1"><base>należeć</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <ann chan="wsd_ciekawy">0</ann>
+    <ann chan="anafora_verb_null_in">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="wsd_ciekawy">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dziedziny</orth>
+    <lex disamb="1"><base>dziedzina</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="wsd_ciekawy">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wewnętrznego</orth>
+    <lex disamb="1"><base>wewnętrzny</base><ctag>adj:sg:gen:n:pos</ctag></lex>
+    <ann chan="wsd_ciekawy">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>życia</orth>
+    <lex disamb="1"><base>życie</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="wsd_ciekawy">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Kościoła</orth>
+    <lex disamb="1"><base>kościół</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="wsd_ciekawy">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_ciekawy">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent8">
+   <tok>
+    <orth>Czynią</orth>
+    <lex disamb="1"><base>czynić</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>często</orth>
+    <lex disamb="1"><base>często</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>te</orth>
+    <lex disamb="1"><base>ten</base><ctag>adj:pl:acc:f:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>same</orth>
+    <lex disamb="1"><base>sam</base><ctag>adj:pl:acc:f:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>osoby</orth>
+    <lex disamb="1"><base>osoba</base><ctag>subst:pl:acc:f</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">1</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <prop key="sense:wsd_osoba">osoba-1</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>które</orth>
+    <lex disamb="1"><base>który</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>gdy</orth>
+    <lex disamb="1"><base>gdy</base><ctag>adv</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>pasterze</orth>
+    <lex disamb="1"><base>pasterz</base><ctag>subst:pl:nom:m1</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>Kościoła</orth>
+    <lex disamb="1"><base>kościół</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <prop key="nam_org_organization:lemma">Kościół</prop>
+   </tok>
+   <tok>
+    <orth>wypowiadają</orth>
+    <lex disamb="1"><base>wypowiadać</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>swe</orth>
+    <lex disamb="1"><base>swój</base><ctag>adj:sg:acc:n:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>zdanie</orth>
+    <lex disamb="1"><base>zdanie</base><ctag>subst:sg:acc:n</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>sprawach</orth>
+    <lex disamb="1"><base>sprawa</base><ctag>subst:pl:loc:f</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>moralnych</orth>
+    <lex disamb="1"><base>moralny</base><ctag>adj:pl:loc:f:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>uczestniczą</orth>
+    <lex disamb="1"><base>uczestniczyć</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">1</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>działaniach</orth>
+    <lex disamb="1"><base>działanie</base><ctag>subst:pl:loc:n</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">1</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <prop key="sense:wsd_działanie">działanie-3</prop>
+   </tok>
+   <tok>
+    <orth>sugerujących</orth>
+    <lex disamb="1"><base>sugerować</base><ctag>pact:pl:loc:n:imperf:aff</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>jakoby</orth>
+    <lex disamb="1"><base>jakoby</base><ctag>comp</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>śmy</orth>
+    <lex disamb="1"><base>być</base><ctag>aglt:pl:pri:imperf:nwok</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>tym</orth>
+    <lex disamb="1"><base>ten</base><ctag>adj:sg:loc:m3:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>przypadku</orth>
+    <lex disamb="1"><base>przypadek</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>mieli</orth>
+    <lex disamb="1"><base>mieć</base><ctag>praet:pl:m1:imperf</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>czynienia</orth>
+    <lex disamb="1"><base>czynić</base><ctag>ger:sg:gen:n:imperf:aff</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>naruszeniem</orth>
+    <lex disamb="1"><base>naruszyć</base><ctag>ger:sg:inst:n:perf:aff</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>zasady</orth>
+    <lex disamb="1"><base>zasada</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">1</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <prop key="sense:wsd_zasada">zasada-2</prop>
+   </tok>
+   <tok>
+    <orth>rozdziału</orth>
+    <lex disamb="1"><base>rozdział</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>Kościoła</orth>
+    <lex disamb="1"><base>kościół</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_org_organization">2</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <prop key="nam_org_organization:lemma">Kościół</prop>
+   </tok>
+   <tok>
+    <orth>od</orth>
+    <lex disamb="1"><base>od</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>państwa</orth>
+    <lex disamb="1"><base>państwo</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent9">
+   <tok>
+    <orth>Tymczasem</orth>
+    <lex disamb="1"><base>tymczasem</base><ctag>adv</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <tok>
+    <orth>tym</orth>
+    <lex disamb="1"><base>ten</base><ctag>adj:sg:loc:m3:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <tok>
+    <orth>przypadku</orth>
+    <lex disamb="1"><base>przypadek</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <tok>
+    <orth>gdy</orth>
+    <lex disamb="1"><base>gdy</base><ctag>adv</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <tok>
+    <orth>liczne</orth>
+    <lex disamb="1"><base>liczny</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <tok>
+    <orth>osobistości</orth>
+    <lex disamb="1"><base>osobistość</base><ctag>subst:pl:nom:f</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <tok>
+    <orth>świeckie</orth>
+    <lex disamb="1"><base>świecki</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <tok>
+    <orth>wypowiadają</orth>
+    <lex disamb="1"><base>wypowiadać</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <tok>
+    <orth>krytyczne</orth>
+    <lex disamb="1"><base>krytyczny</base><ctag>adj:pl:acc:f:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <tok>
+    <orth>opinie</orth>
+    <lex disamb="1"><base>opinia</base><ctag>subst:pl:acc:f</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <tok>
+    <orth>o</orth>
+    <lex disamb="1"><base>o</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <tok>
+    <orth>sprawach</orth>
+    <lex disamb="1"><base>sprawa</base><ctag>subst:pl:loc:f</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <tok>
+    <orth>wewnętrznych</orth>
+    <lex disamb="1"><base>wewnętrzny</base><ctag>adj:pl:loc:f:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <tok>
+    <orth>Kościoła</orth>
+    <lex disamb="1"><base>kościół</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="wsd_podobny">0</ann>
+    <prop key="nam_org_organization:lemma">Kościół</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <tok>
+    <orth>trudno</orth>
+    <lex disamb="1"><base>trudno</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <tok>
+    <orth>dostrzec</orth>
+    <lex disamb="1"><base>dostrzec</base><ctag>inf:perf</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <tok>
+    <orth>podobną</orth>
+    <lex disamb="1"><base>podobny</base><ctag>adj:sg:acc:f:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">1</ann>
+   </tok>
+   <tok>
+    <orth>wrażliwość</orth>
+    <lex disamb="1"><base>wrażliwość</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <tok>
+    <orth>troskę</orth>
+    <lex disamb="1"><base>troska</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <tok>
+    <orth>zachowaniu</orth>
+    <lex disamb="1"><base>zachowanie</base><ctag>subst:sg:loc:n</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <tok>
+    <orth>tego</orth>
+    <lex disamb="1"><base>ten</base><ctag>adj:sg:gen:n:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <tok>
+    <orth>właśnie</orth>
+    <lex disamb="1"><base>właśnie</base><ctag>qub</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <tok>
+    <orth>rozdziału</orth>
+    <lex disamb="1"><base>rozdział</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_podobny">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent10">
+   <tok>
+    <orth>A</orth>
+    <lex disamb="1"><base>a</base><ctag>conj</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>przecież</orth>
+    <lex disamb="1"><base>przecież</base><ctag>qub</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wszystko</orth>
+    <lex disamb="1"><base>wszystko</base><ctag>subst:sg:acc:n</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>co</orth>
+    <lex disamb="1"><base>CO</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex disamb="1"><base>co</base><ctag>subst:sg:acc:n</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>czyni</orth>
+    <lex disamb="1"><base>czynić</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>obecny</orth>
+    <lex disamb="1"><base>obecny</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
+    <ann chan="wsd_obecny">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>papież</orth>
+    <lex disamb="1"><base>papież</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>np</orth>
+    <lex disamb="1"><base>na przykład</base><ctag>brev:pun</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dziedzinie</orth>
+    <lex disamb="1"><base>dziedzina</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>liturgii</orth>
+    <lex disamb="1"><base>liturgia</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>czy</orth>
+    <lex disamb="1"><base>czy</base><ctag>conj</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>znoszenia</orth>
+    <lex disamb="1"><base>znosić</base><ctag>ger:sg:gen:n:imperf:aff</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>nałożonych</orth>
+    <lex disamb="1"><base>nałożyć</base><ctag>ppas:pl:gen:m3:perf:aff</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>niegdyś</orth>
+    <lex disamb="1"><base>niegdyś</base><ctag>adv</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>kar</orth>
+    <lex disamb="1"><base>kara</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>kościelnych</orth>
+    <lex disamb="1"><base>kościelny</base><ctag>adj:pl:gen:f:pos</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>należy</orth>
+    <lex disamb="1"><base>należeć</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>sposób</orth>
+    <lex disamb="1"><base>sposób</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>bezdyskusyjny</orth>
+    <lex disamb="1"><base>bezdyskusyjny</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>istoty</orth>
+    <lex disamb="1"><base>istota</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>jego</orth>
+    <lex disamb="1"><base>on</base><ctag>ppron3:sg:gen:m1:ter:akc:npraep</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>urzędu</orth>
+    <lex disamb="1"><base>urząd</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_obecny">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch3">
+  <sentence id="sent11">
+   <tok>
+    <orth>Z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>najwyższym</orth>
+    <lex disamb="1"><base>wysoki</base><ctag>adj:sg:inst:n:sup</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">1</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>uznaniem</orth>
+    <lex disamb="1"><base>uznanie</base><ctag>subst:sg:inst:n</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>przyjmuję</orth>
+    <lex disamb="1"><base>przyjmować</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">1</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>fakt</orth>
+    <lex disamb="1"><base>fakt</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>że</orth>
+    <lex disamb="1"><base>że</base><ctag>comp</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>papież</orth>
+    <lex disamb="1"><base>papież</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Benedykt</orth>
+    <lex disamb="1"><base>Benedykt</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person_first">1</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_liv_person_first:lemma">Benedykt</prop>
+    <prop key="nam_liv_person:lemma">Benedykt XVI</prop>
+   </tok>
+   <tok>
+    <orth>XVI</orth>
+    <lex disamb="1"><base>xvi</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>podobnie</orth>
+    <lex disamb="1"><base>podobnie</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>jak</orth>
+    <lex disamb="1"><base>jak</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>czynił</orth>
+    <lex disamb="1"><base>czynić</base><ctag>praet:sg:m1:imperf</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>subst:sg:acc:n</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>przez</orth>
+    <lex disamb="1"><base>przez</base><ctag>prep:acc:nwok</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>ponad</orth>
+    <lex disamb="1"><base>ponad</base><ctag>qub</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">1</ann>
+    <ann chan="plimex_duration">1</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="t3_duration:lemma">P20Y</prop>
+    <prop key="t3_duration:lemma2">P20Y</prop>
+    <prop key="plimex_duration:lemma">P20Y</prop>
+   </tok>
+   <tok>
+    <orth>20</orth>
+    <lex disamb="1"><base>20</base><ctag>num:pl:acc:m3:rec</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">1</ann>
+    <ann chan="plimex_duration">1</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>lat</orth>
+    <lex disamb="1"><base>rok</base><ctag>subst:pl:gen:m3</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">1</ann>
+    <ann chan="plimex_duration">1</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>jako</orth>
+    <lex disamb="1"><base>jako</base><ctag>prep:nom</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>prefekt</orth>
+    <lex disamb="1"><base>prefekt</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Kongregacji</orth>
+    <lex disamb="1"><base>kongregacja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">1</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_org_institution:lemma">Kongregacja Nauki Wiary</prop>
+   </tok>
+   <tok>
+    <orth>Nauki</orth>
+    <lex disamb="1"><base>nauka</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">1</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>Wiary</orth>
+    <lex disamb="1"><base>wiara</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">1</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>sposób</orth>
+    <lex disamb="1"><base>sposób</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>niestrudzony</orth>
+    <lex disamb="1"><base>niestrudzony</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>niezłomny</orth>
+    <lex disamb="1"><base>niezłomny</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>przypomina</orth>
+    <lex disamb="1"><base>przypominać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>odwieczne</orth>
+    <lex disamb="1"><base>odwieczny</base><ctag>adj:pl:acc:f:pos</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>zasady</orth>
+    <lex disamb="1"><base>zasada</base><ctag>subst:pl:acc:f</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_zasada">zasada-3</prop>
+   </tok>
+   <tok>
+    <orth>nauki</orth>
+    <lex disamb="1"><base>nauka</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>katolickiej</orth>
+    <lex disamb="1"><base>katolicki</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>oraz</orth>
+    <lex disamb="1"><base>oraz</base><ctag>conj</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dyscypliny</orth>
+    <lex disamb="1"><base>dyscyplina</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>kościelnej</orth>
+    <lex disamb="1"><base>kościelny</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wprowadzając</orth>
+    <lex disamb="1"><base>wprowadzać</base><ctag>pcon:imperf</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>życie</orth>
+    <lex disamb="1"><base>życie</base><ctag>subst:sg:acc:n</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>program</orth>
+    <lex disamb="1"><base>program</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>który</orth>
+    <lex disamb="1"><base>który</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>nakreślił</orth>
+    <lex disamb="1"><base>nakreślić</base><ctag>praet:sg:m3:perf</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">2</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">2</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>już</orth>
+    <lex disamb="1"><base>już</base><ctag>qub</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>ponad</orth>
+    <lex disamb="1"><base>ponad</base><ctag>qub</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">2</ann>
+    <ann chan="plimex_duration">2</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="t3_duration:lemma">P25Y</prop>
+    <prop key="t3_duration:lemma2">P25Y</prop>
+    <prop key="plimex_duration:lemma">P25Y</prop>
+   </tok>
+   <tok>
+    <orth>ćwierć</orth>
+    <lex disamb="1"><base>ćwierć</base><ctag>num:pl:acc:m3:rec</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">2</ann>
+    <ann chan="plimex_duration">2</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wieku</orth>
+    <lex disamb="1"><base>wiek</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">2</ann>
+    <ann chan="plimex_duration">2</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>temu</orth>
+    <lex disamb="1"><base>temu</base><ctag>prep:acc</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>słynnym</orth>
+    <lex disamb="1"><base>słynny</base><ctag>adj:sg:loc:m3:pos</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wywiadzie</orth>
+    <lex disamb="1"><base>wywiad</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>rzece</orth>
+    <lex disamb="1"><base>rzeka</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Vittorio</orth>
+    <lex disamb="1"><base>vittorio</base><ctag>subst:sg:inst:n</ctag></lex>
+    <ann chan="nam_liv_person_first">2</ann>
+    <ann chan="nam_liv_person">2</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_liv_person_first:lemma">Vittorio</prop>
+    <prop key="nam_liv_person:lemma">Vittorio Messori</prop>
+   </tok>
+   <tok>
+    <orth>Messorim</orth>
+    <lex disamb="1"><base>messorim</base><ctag>subst:sg:inst:n</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">2</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">1</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_liv_person_last:lemma">Messori</prop>
+   </tok>
+   <tok>
+    <orth>zatytułowanym</orth>
+    <lex disamb="1"><base>zatytułować</base><ctag>ppas:sg:inst:n:perf:aff</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>„</orth>
+    <lex disamb="1"><base>„</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>Raport</orth>
+    <lex disamb="1"><base>raport</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">1</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">3</ann>
+    <prop key="nam_pro_title:lemma">Raport o stanie wiary</prop>
+   </tok>
+   <tok>
+    <orth>o</orth>
+    <lex disamb="1"><base>o</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">1</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">3</ann>
+   </tok>
+   <tok>
+    <orth>stanie</orth>
+    <lex disamb="1"><base>stan</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">1</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">3</ann>
+   </tok>
+   <tok>
+    <orth>wiary</orth>
+    <lex disamb="1"><base>wiara</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">1</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">3</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>”</orth>
+    <lex disamb="1"><base>”</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_org_institution">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_pro_title">0</ann>
+    <ann chan="wsd_wysoki">0</ann>
+    <ann chan="wsd_zasada">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="plimex_duration">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent12">
+   <tok>
+    <orth>Jeśli</orth>
+    <lex disamb="1"><base>jeśli</base><ctag>comp</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>bowiem</orth>
+    <lex disamb="1"><base>bowiem</base><ctag>comp</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>Kościół</orth>
+    <lex disamb="1"><base>kościół</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <prop key="nam_org_organization:lemma">Kościół</prop>
+   </tok>
+   <tok>
+    <orth>ma</orth>
+    <lex disamb="1"><base>mieć</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>wciąż</orth>
+    <lex disamb="1"><base>wciąż</base><ctag>adv</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>pozostawać</orth>
+    <lex disamb="1"><base>pozostawać</base><ctag>inf:imperf</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>znakiem</orth>
+    <lex disamb="1"><base>znak</base><ctag>subst:sg:inst:m3</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>sprzeciwu</orth>
+    <lex disamb="1"><base>sprzeciw</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>dla</orth>
+    <lex disamb="1"><base>dla</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>ogarnianego</orth>
+    <lex disamb="1"><base>ogarniać</base><ctag>ppas:sg:gen:m3:imperf:aff</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>coraz</orth>
+    <lex disamb="1"><base>coraz</base><ctag>adv</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>większym</orth>
+    <lex disamb="1"><base>duży</base><ctag>adj:sg:inst:m3:com</ctag></lex>
+    <lex disamb="1"><base>wielki</base><ctag>adj:sg:inst:m3:com</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">1</ann>
+    <ann chan="wsd_wielki">1</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>relatywizmem</orth>
+    <lex disamb="1"><base>relatywizm</base><ctag>subst:sg:inst:m3</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>współczesnego</orth>
+    <lex disamb="1"><base>współczesny</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>świata</orth>
+    <lex disamb="1"><base>świat</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>sam</orth>
+    <lex disamb="1"><base>sam</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>musi</orth>
+    <lex disamb="1"><base>musieć</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <lex disamb="1"><base>musić</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+    <ann chan="anafora_verb_null_in">1</ann>
+   </tok>
+   <tok>
+    <orth>posiadać</orth>
+    <lex disamb="1"><base>posiadać</base><ctag>inf:imperf</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <prop key="sense:wsd_posiadać">posiadać-5</prop>
+   </tok>
+   <tok>
+    <orth>wewnętrzną</orth>
+    <lex disamb="1"><base>wewnętrzny</base><ctag>adj:sg:acc:f:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>siłę</orth>
+    <lex disamb="1"><base>siła</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>pewność</orth>
+    <lex disamb="1"><base>pewność</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>prezentowanych</orth>
+    <lex disamb="1"><base>prezentować</base><ctag>ppas:pl:gen:f:imperf:aff</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>temu</orth>
+    <lex disamb="1"><base>temu</base><ctag>prep:acc</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>światu</orth>
+    <lex disamb="1"><base>świat</base><ctag>subst:sg:dat:m3</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>racji</orth>
+    <lex disamb="1"><base>racja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_duży">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent13">
+   <tok>
+    <orth>Oby</orth>
+    <lex disamb="1"><base>oby</base><ctag>qub</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_długi">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>opatrzność</orth>
+    <lex disamb="1"><base>opatrzność</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_długi">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>zachowała</orth>
+    <lex disamb="1"><base>zachować</base><ctag>praet:sg:f:perf</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_długi">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>Ojca</orth>
+    <lex disamb="1"><base>ojciec</base><ctag>subst:sg:acc:m1</ctag></lex>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_add">1</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_długi">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <prop key="nam_liv_person:lemma">Ojciec Święty</prop>
+    <prop key="nam_liv_person_add:lemma">Ojciec Święty</prop>
+   </tok>
+   <tok>
+    <orth>Świętego</orth>
+    <lex disamb="1"><base>święty</base><ctag>adj:sg:gen:m1:pos</ctag></lex>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_add">1</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_długi">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>Benedykta</orth>
+    <lex disamb="1"><base>Benedykt</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="nam_liv_person">2</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">1</ann>
+    <ann chan="wsd_długi">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <prop key="nam_liv_person_first:lemma">Benedykt</prop>
+    <prop key="nam_liv_person:lemma">Benedykt XVI</prop>
+   </tok>
+   <tok>
+    <orth>XVI</orth>
+    <lex disamb="1"><base>xvi</base><ctag>adj:sg:gen:m1:pos</ctag></lex>
+    <ann chan="nam_liv_person">2</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_długi">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_długi">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>długie</orth>
+    <lex disamb="1"><base>długi</base><ctag>adj:pl:acc:m3:pos</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_długi">1</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">1</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+    <prop key="t3_duration:lemma">VAGUE</prop>
+    <prop key="t3_duration:lemma2">VAGUE</prop>
+   </tok>
+   <tok>
+    <orth>lata</orth>
+    <lex disamb="1"><base>rok</base><ctag>subst:pl:acc:m3</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_długi">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">1</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_długi">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>pozwoliła</orth>
+    <lex disamb="1"><base>pozwolić</base><ctag>praet:sg:f:perf</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_długi">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="anafora_verb_null_in">1</ann>
+   </tok>
+   <tok>
+    <orth>mu</orth>
+    <lex disamb="1"><base>on</base><ctag>ppron3:sg:dat:m1:ter:nakc:npraep</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_długi">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_długi">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>zrealizowanie</orth>
+    <lex disamb="1"><base>zrealizować</base><ctag>ger:sg:acc:n:perf:aff</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_długi">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>tego</orth>
+    <lex disamb="1"><base>ten</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_długi">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>wielkiego</orth>
+    <lex disamb="1"><base>wielki</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_długi">0</ann>
+    <ann chan="wsd_wielki">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>zamiaru</orth>
+    <lex disamb="1"><base>zamiar</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_długi">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_add">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="wsd_długi">0</ann>
+    <ann chan="wsd_wielki">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_duration">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent14">
+   <tok>
+    <orth>Dziękuję</orth>
+    <lex disamb="1"><base>dziękować</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="wsd_dziękować">1</ann>
+    <ann chan="anafora_verb_null">1</ann>
+    <prop key="sense:wsd_dziękować">dziękować-1</prop>
+   </tok>
+   <tok>
+    <orth>bardzo</orth>
+    <lex disamb="1"><base>bardzo</base><ctag>adv:pos</ctag></lex>
+    <ann chan="wsd_dziękować">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_dziękować">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent8" chan="nam_pro_title_document">1</from>
+   <to sent="sent8" chan="nam_pro_media_periodic">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent2" chan="nam_oth">1</from>
+   <to sent="sent1" chan="nam_oth">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent2" chan="nam_oth">2</from>
+   <to sent="sent1" chan="nam_oth">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent2" chan="nam_oth">3</from>
+   <to sent="sent1" chan="nam_oth">3</to>
+  </rel>
+</relations>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent2" chan="spatial_indicator_3">1</from>
+   <to sent="sent2" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent2" chan="spatial_indicator_3">1</from>
+   <to sent="sent2" chan="spatial_object">2</to>
+  </rel>
+ <rel name="other" set="Spatial relations (final)">
+   <from sent="sent2" chan="spatial_indicator_3">1</from>
+   <to sent="sent2" chan="distance">1</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent2" chan="spatial_indicator_3">2</from>
+   <to sent="sent2" chan="spatial_object">3</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent2" chan="spatial_indicator_3">2</from>
+   <to sent="sent2" chan="spatial_object">4</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent2" chan="spatial_indicator_3">3</from>
+   <to sent="sent2" chan="spatial_object">5</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent2" chan="spatial_indicator_3">3</from>
+   <to sent="sent2" chan="spatial_object">6</to>
+  </rel>
+</relations>

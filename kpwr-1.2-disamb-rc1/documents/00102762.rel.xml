@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent4" chan="chunk_vp">2</from>
+   <to sent="sent4" chan="chunk_np">4</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent6" chan="chunk_vp">1</from>
+   <to sent="sent6" chan="chunk_np">1</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent4" chan="chunk_vp">1</from>
+   <to sent="sent4" chan="chunk_np">2</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent25" chan="spatial_indicator_3">1</from>
+   <to sent="sent25" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent25" chan="spatial_indicator_3">1</from>
+   <to sent="sent25" chan="spatial_object">2</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent31" chan="spatial_indicator_3">1</from>
+   <to sent="sent31" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent31" chan="spatial_indicator_3">1</from>
+   <to sent="sent31" chan="spatial_object">2</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent29" chan="spatial_indicator_3">1</from>
+   <to sent="sent29" chan="spatial_object">1</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent29" chan="spatial_indicator_3">1</from>
+   <to sent="sent29" chan="spatial_object">2</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent29" chan="spatial_indicator_3">1</from>
+   <to sent="sent29" chan="spatial_object">3</to>
+  </rel>
+</relations>

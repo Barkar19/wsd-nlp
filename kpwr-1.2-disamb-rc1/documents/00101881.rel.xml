@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent1" chan="nam_eve_human_sport">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="origin" set="Semantic relations">
+   <from sent="sent5" chan="nam_liv_person">1</from>
+   <to sent="sent5" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="creator" set="Semantic relations">
+   <from sent="sent5" chan="nam_org_company">1</from>
+   <to sent="sent5" chan="nam_pro_model_car">1</to>
+  </rel>
+ <rel name="origin" set="Semantic relations">
+   <from sent="sent7" chan="nam_liv_person">1</from>
+   <to sent="sent7" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="origin" set="Semantic relations">
+   <from sent="sent7" chan="nam_liv_person">2</from>
+   <to sent="sent7" chan="nam_loc_gpe_city">2</to>
+  </rel>
+ <rel name="origin" set="Semantic relations">
+   <from sent="sent7" chan="nam_liv_person">3</from>
+   <to sent="sent7" chan="nam_loc_gpe_city">3</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent10" chan="nam_liv_person">1</from>
+   <to sent="sent10" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent2" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_eve_human_sport">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent6" chan="nam_liv_person_first">1</from>
+   <to sent="sent5" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent6" chan="anafora_wyznacznik">2</from>
+   <to sent="sent5" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent6" chan="anafora_wyznacznik">1</from>
+   <to sent="sent5" chan="nam_pro_model_car">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent7" chan="nam_loc_gpe_city">2</from>
+   <to sent="sent1" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent12" chan="nam_liv_person">1</from>
+   <to sent="sent10" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent16" chan="anafora_wyznacznik">1</from>
+   <to sent="sent15" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent9" chan="nam_liv_person">1</from>
+   <to sent="sent7" chan="nam_liv_person">3</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent1" chan="spatial_indicator_3">1</from>
+   <to sent="sent1" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent1" chan="spatial_indicator_3">1</from>
+   <to sent="sent1" chan="spatial_object">2</to>
+  </rel>
+</relations>

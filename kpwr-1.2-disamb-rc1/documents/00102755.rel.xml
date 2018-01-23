@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent4" chan="chunk_vp">1</from>
+   <to sent="sent4" chan="chunk_np">1</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent4" chan="chunk_vp">2</from>
+   <to sent="sent4" chan="chunk_np">2</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent5" chan="chunk_vp">1</from>
+   <to sent="sent5" chan="chunk_np">1</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent29" chan="chunk_vp">1</from>
+   <to sent="sent29" chan="chunk_np">1</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent29" chan="chunk_vp">1</from>
+   <to sent="sent29" chan="chunk_np">2</to>
+  </rel>
+</relations>

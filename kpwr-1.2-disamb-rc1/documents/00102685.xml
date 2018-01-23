@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>xxx</orth>
+    <lex disamb="1"><base>xxx</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+   </tok>
+   <tok>
+    <orth>dzień</orth>
+    <lex disamb="1"><base>dzień</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="wsd_dzień">1</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <prop key="sense:wsd_dzień">dzień-2</prop>
+   </tok>
+   <tok>
+    <orth>dobry</orth>
+    <lex disamb="1"><base>dobry</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">1</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent2">
+   <tok>
+    <orth>dzień</orth>
+    <lex disamb="1"><base>dzień</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="wsd_dzień">1</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_stary">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_dzień">dzień-2</prop>
+   </tok>
+   <tok>
+    <orth>dobry</orth>
+    <lex disamb="1"><base>dobry</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">1</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_stary">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_stary">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>pana</orth>
+    <lex disamb="1"><base>Pan</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <lex disamb="1"><base>pan</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">1</ann>
+    <ann chan="wsd_stary">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_pan">pan-2</prop>
+   </tok>
+   <tok>
+    <orth>tam</orth>
+    <lex disamb="1"><base>tam</base><ctag>adv</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_stary">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>gdzie</orth>
+    <lex disamb="1"><base>gdzie</base><ctag>adv</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_stary">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>jest</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_stary">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>pętla</orth>
+    <lex disamb="1"><base>pętla</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_stary">0</ann>
+    <ann chan="spatial_object">1</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>sto</orth>
+    <lex disamb="1"><base>sto</base><ctag>num:pl:nom:m2:rec</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_stary">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>siedemdziesiąt</orth>
+    <lex disamb="1"><base>siedemdziesiąt</base><ctag>num:pl:nom:m2:rec</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_stary">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>trzy</orth>
+    <lex disamb="1"><base>trzy</base><ctag>num:pl:nom:m2:congr</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_stary">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_stary">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Starej</orth>
+    <lex disamb="1"><base>stary</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">1</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_stary">1</ann>
+    <ann chan="spatial_object">2</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_loc_gpe_subdivision:lemma">Stara Miłosna</prop>
+   </tok>
+   <tok>
+    <orth>Miłosnej</orth>
+    <lex disamb="1"><base>miłosny</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">1</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_stary">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_stary">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>conj</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_stary">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>jeszcze</orth>
+    <lex disamb="1"><base>jeszcze</base><ctag>qub</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_stary">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>jakie</orth>
+    <lex disamb="1"><base>jaki</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_stary">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>są</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_stary">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>autobusy</orth>
+    <lex disamb="1"><base>autobus</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_stary">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">3</ann>
+   </tok>
+   <tok>
+    <orth>tam</orth>
+    <lex disamb="1"><base>tam</base><ctag>adv</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_stary">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_stary">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch3">
+  <sentence id="sent3">
+   <tok>
+    <orth>sto</orth>
+    <lex disamb="1"><base>sto</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+   </tok>
+   <tok>
+    <orth>trzydzieści</orth>
+    <lex disamb="1"><base>trzydzieści</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+   </tok>
+   <tok>
+    <orth>siedem</orth>
+    <lex disamb="1"><base>siedem</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+   </tok>
+   <tok>
+    <orth>pięćset</orth>
+    <lex disamb="1"><base>pięćset</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+   </tok>
+   <tok>
+    <orth>dwa</orth>
+    <lex disamb="1"><base>dwa</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch4">
+  <sentence id="sent4">
+   <tok>
+    <orth>a</orth>
+    <lex disamb="1"><base>a</base><ctag>conj</ctag></lex>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>pięćset</orth>
+    <lex disamb="1"><base>pięćset</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>dwa</orth>
+    <lex disamb="1"><base>dwa</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>conj</ctag></lex>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>gdzie</orth>
+    <lex disamb="1"><base>gdzie</base><ctag>adv</ctag></lex>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>jedzie</orth>
+    <lex disamb="1"><base>jechać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="action">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+    <ann chan="action">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch5">
+  <sentence id="sent5">
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="wsd_centralny">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Dworca</orth>
+    <lex disamb="1"><base>dworzec</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="wsd_centralny">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_fac_goe:lemma">Dworzec Centralny</prop>
+   </tok>
+   <tok>
+    <orth>Centralnego</orth>
+    <lex disamb="1"><base>centralny</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="wsd_centralny">1</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>przez</orth>
+    <lex disamb="1"><base>przez</base><ctag>prep:acc:nwok</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="wsd_centralny">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Ostrobramską</orth>
+    <lex disamb="1"><base>ostrobramski</base><ctag>adj:sg:acc:f:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">1</ann>
+    <ann chan="wsd_centralny">0</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_fac_road:lemma">ostrobramski</prop>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch6">
+  <sentence id="sent6">
+   <tok>
+    <orth>dziękuję</orth>
+    <lex disamb="1"><base>dziękować</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="wsd_dziękować">1</ann>
+    <ann chan="action">1</ann>
+    <prop key="sense:wsd_dziękować">dziękować-1</prop>
+   </tok>
+   <tok>
+    <orth>bardzo</orth>
+    <lex disamb="1"><base>bardzo</base><ctag>adv:pos</ctag></lex>
+    <ann chan="wsd_dziękować">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch7">
+  <sentence id="sent7">
+   <tok>
+    <orth>dziękuję</orth>
+    <lex disamb="1"><base>dziękować</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="wsd_dziękować">1</ann>
+    <ann chan="action">1</ann>
+    <prop key="sense:wsd_dziękować">dziękować-1</prop>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent2" chan="nam_loc_gpe_country">2</from>
+   <to sent="sent2" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent2" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_country">3</to>
+  </rel>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent4" chan="nam_loc_gpe_country">3</from>
+   <to sent="sent4" chan="nam_loc_gpe_country">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent4" chan="chunk_vp">1</from>
+   <to sent="sent4" chan="chunk_np">1</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent4" chan="chunk_vp">1</from>
+   <to sent="sent4" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent5" chan="chunk_vp">1</from>
+   <to sent="sent5" chan="chunk_np">1</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent5" chan="chunk_vp">1</from>
+   <to sent="sent5" chan="chunk_np">2</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent6" chan="chunk_vp">1</from>
+   <to sent="sent6" chan="chunk_np">1</to>
+  </rel>
+ <rel name="cop" set="Syntactic relations">
+   <from sent="sent6" chan="chunk_adjp">1</from>
+   <to sent="sent6" chan="chunk_vp">1</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent6" chan="chunk_vp">2</from>
+   <to sent="sent6" chan="chunk_np">2</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent8" chan="chunk_vp">1</from>
+   <to sent="sent8" chan="chunk_np">1</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent8" chan="chunk_vp">1</from>
+   <to sent="sent8" chan="chunk_np">2</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent8" chan="chunk_vp">1</from>
+   <to sent="sent8" chan="chunk_np">3</to>
+  </rel>
+ <rel name="subj" set="Syntactic relations">
+   <from sent="sent8" chan="chunk_vp">2</from>
+   <to sent="sent8" chan="chunk_np">4</to>
+  </rel>
+ <rel name="cop" set="Syntactic relations">
+   <from sent="sent8" chan="chunk_adjp">1</from>
+   <to sent="sent8" chan="chunk_vp">2</to>
+  </rel>
+ <rel name="obj" set="Syntactic relations">
+   <from sent="sent6" chan="chunk_vp">2</from>
+   <to sent="sent6" chan="chunk_np">3</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent4" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent6" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent8" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent7" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent2" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent6" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_country">1</to>
+  </rel>
+</relations>

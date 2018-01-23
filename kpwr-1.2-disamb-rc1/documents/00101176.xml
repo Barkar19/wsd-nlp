@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Masters</orth>
+    <lex disamb="1"><base>masters</base><ctag>xxx</ctag></lex>
+    <ann chan="nam_eve_human_sport">1</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_eve_human_sport:lemma">Masters Series Monte Carlo 2008</prop>
+   </tok>
+   <tok>
+    <orth>Series</orth>
+    <lex disamb="1"><base>series</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_eve_human_sport">1</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>Monte</orth>
+    <lex disamb="1"><base>Monte</base><ctag>burk</ctag></lex>
+    <ann chan="nam_eve_human_sport">1</ann>
+    <ann chan="nam_loc_gpe_district">1</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_loc_gpe_district:lemma">Monte Carlo</prop>
+   </tok>
+   <tok>
+    <orth>Carlo</orth>
+    <lex disamb="1"><base>Carlo</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_eve_human_sport">1</ann>
+    <ann chan="nam_loc_gpe_district">1</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>2008</orth>
+    <lex disamb="1"><base>2008</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_eve_human_sport">1</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="t3_date:lemma">2008</prop>
+    <prop key="t3_date:lemma2">2008</prop>
+    <prop key="plimex_date:lemma">2008</prop>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent2">
+   <tok>
+    <orth>Tenisowy</orth>
+    <lex disamb="1"><base>tenisowy</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>turniej</orth>
+    <lex disamb="1"><base>turniej</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>ATP</orth>
+    <lex disamb="1"><base>ATP</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_org_organization:lemma">ATP</prop>
+   </tok>
+   <tok>
+    <orth>Masters</orth>
+    <lex disamb="1"><base>masters</base><ctag>xxx</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_eve_human_sport">1</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_eve_human_sport:lemma">Masters Series Monte Carlo 2008</prop>
+   </tok>
+   <tok>
+    <orth>Series</orth>
+    <lex disamb="1"><base>series</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_eve_human_sport">1</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Monte</orth>
+    <lex disamb="1"><base>Monte</base><ctag>burk</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_eve_human_sport">1</ann>
+    <ann chan="nam_loc_gpe_district">1</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_loc_gpe_district:lemma">Monte Carlo</prop>
+   </tok>
+   <tok>
+    <orth>Carlo</orth>
+    <lex disamb="1"><base>Carlo</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_eve_human_sport">1</ann>
+    <ann chan="nam_loc_gpe_district">1</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>2008</orth>
+    <lex disamb="1"><base>2008</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_eve_human_sport">1</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">1</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="t3_date:lemma">2008</prop>
+    <prop key="t3_date:lemma2">2008</prop>
+    <prop key="plimex_date:lemma">2008</prop>
+   </tok>
+   <tok>
+    <orth>odbył</orth>
+    <lex disamb="1"><base>odbyć</base><ctag>praet:sg:m3:perf</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">1</ann>
+    <ann chan="chunk_head_vp">1</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">1</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dniach</orth>
+    <lex disamb="1"><base>dzień</base><ctag>subst:pl:loc:m3</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_dzień">1</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">2</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">1</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">1</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_dzień">dzień-3</prop>
+   </tok>
+   <tok>
+    <orth>19</orth>
+    <lex disamb="1"><base>19</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="t3_date">2</ann>
+    <ann chan="t3_range">1</ann>
+    <ann chan="plimex_date">2</ann>
+    <ann chan="plimex_range">1</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="t3_date:lemma">xxxx-xx-19</prop>
+    <prop key="t3_date:lemma2">2008-04-19</prop>
+    <prop key="plimex_date:lemma">xxxx-xx-19</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">1</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">1</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>27</orth>
+    <lex disamb="1"><base>27</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="t3_date">3</ann>
+    <ann chan="t3_range">1</ann>
+    <ann chan="plimex_date">3</ann>
+    <ann chan="plimex_range">1</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="t3_date:lemma">xxxx-04-27</prop>
+    <prop key="t3_date:lemma2">2008-04-27</prop>
+    <prop key="plimex_date:lemma">xxxx-04-27</prop>
+   </tok>
+   <tok>
+    <orth>kwietnia</orth>
+    <lex disamb="1"><base>kwiecień</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="t3_date">3</ann>
+    <ann chan="t3_range">1</ann>
+    <ann chan="plimex_date">3</ann>
+    <ann chan="plimex_range">1</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="spatial_indicator_3">1</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>monakijskim</orth>
+    <lex disamb="1"><base>monakijski</base><ctag>adj:sg:loc:m3:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Monte</orth>
+    <lex disamb="1"><base>Monte</base><ctag>burk</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="nam_loc_gpe_district">2</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_head_agp">5</ann>
+    <ann chan="chunk_head_np">3</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">1</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_loc_gpe_district:lemma">Monte Carlo</prop>
+   </tok>
+   <tok>
+    <orth>Carlo</orth>
+    <lex disamb="1"><base>Carlo</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="nam_loc_gpe_district">2</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="chunk_np">4</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>kortach</orth>
+    <lex disamb="1"><base>kort</base><ctag>subst:pl:loc:m3</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="chunk_np">4</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_head_agp">6</ann>
+    <ann chan="chunk_head_np">4</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">2</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <tok>
+    <orth>ziemnych</orth>
+    <lex disamb="1"><base>ziemny</base><ctag>adj:pl:loc:m3:pos</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="chunk_np">4</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="t3_range">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="plimex_range">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent3">
+   <tok>
+    <orth>Pula</orth>
+    <lex disamb="1"><base>pula</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+   </tok>
+   <tok>
+    <orth>nagród</orth>
+    <lex disamb="1"><base>nagroda</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+   </tok>
+   <tok>
+    <orth>wyniosła</orth>
+    <lex disamb="1"><base>wynieść</base><ctag>praet:sg:f:perf</ctag></lex>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">1</ann>
+    <ann chan="chunk_head_vp">1</ann>
+   </tok>
+   <tok>
+    <orth>2</orth>
+    <lex disamb="1"><base>2</base><ctag>num:pl:acc:m3:rec</ctag></lex>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">2</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+   </tok>
+   <tok>
+    <orth>270</orth>
+    <lex disamb="1"><base>270</base><ctag>num:pl:acc:m3:rec</ctag></lex>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+   </tok>
+   <tok>
+    <orth>000</orth>
+    <lex disamb="1"><base>000</base><ctag>num:pl:acc:m3:rec</ctag></lex>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+   </tok>
+   <tok>
+    <orth>euro</orth>
+    <lex disamb="1"><base>euro</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="nam_oth_currency">1</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <prop key="nam_oth_currency:lemma">euro</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth_currency">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

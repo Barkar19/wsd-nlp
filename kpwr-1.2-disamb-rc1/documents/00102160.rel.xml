@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="composition" set="Semantic relations">
+   <from sent="sent4" chan="nam_eve_human">1</from>
+   <to sent="sent4" chan="nam_eve_human">2</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent5" chan="nam_loc_gpe_admin3">1</from>
+   <to sent="sent5" chan="nam_eve_human">1</to>
+  </rel>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent5" chan="nam_oth_currency">1</from>
+   <to sent="sent5" chan="nam_oth_currency">2</to>
+  </rel>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent5" chan="nam_oth_currency">3</from>
+   <to sent="sent5" chan="nam_oth_currency">4</to>
+  </rel>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent5" chan="nam_oth_currency">5</from>
+   <to sent="sent5" chan="nam_oth_currency">6</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent1" chan="nam_eve_human">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_admin3">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent3" chan="nam_org_institution">1</from>
+   <to sent="sent1" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent4" chan="nam_eve_human">1</from>
+   <to sent="sent1" chan="nam_eve_human">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_loc_gpe_admin3">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_admin3">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_eve_human">1</from>
+   <to sent="sent1" chan="nam_eve_human">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_oth_currency">2</from>
+   <to sent="sent5" chan="nam_oth_currency">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_oth_currency">3</from>
+   <to sent="sent5" chan="nam_oth_currency">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_oth_currency">4</from>
+   <to sent="sent5" chan="nam_oth_currency">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_oth_currency">5</from>
+   <to sent="sent5" chan="nam_oth_currency">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_oth_currency">6</from>
+   <to sent="sent5" chan="nam_oth_currency">1</to>
+  </rel>
+</relations>

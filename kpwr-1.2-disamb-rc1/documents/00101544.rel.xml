@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent7" chan="nam_pro_media_periodic">1</from>
+   <to sent="sent6" chan="nam_pro_media_periodic">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent10" chan="nam_pro_media_periodic">1</from>
+   <to sent="sent6" chan="nam_pro_media_periodic">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent3" chan="anafora_wyznacznik">1</from>
+   <to sent="sent6" chan="nam_pro_media_periodic">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent9" chan="anafora_wyznacznik">1</from>
+   <to sent="sent6" chan="nam_pro_media_periodic">1</to>
+  </rel>
+</relations>

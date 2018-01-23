@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent9" chan="nam_liv_person">1</from>
+   <to sent="sent9" chan="nam_org_political_party">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent11" chan="nam_liv_person">1</from>
+   <to sent="sent11" chan="nam_org_political_party">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent12" chan="nam_liv_person">1</from>
+   <to sent="sent12" chan="nam_org_political_party">1</to>
+  </rel>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent14" chan="nam_liv_person">1</from>
+   <to sent="sent14" chan="nam_oth_position">1</to>
+  </rel>
+</relations>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent9" chan="nam_org_institution">1</from>
+   <to sent="sent9" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent9" chan="nam_org_company">1</from>
+   <to sent="sent9" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent4" chan="nam_org_company">2</from>
+   <to sent="sent4" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent6" chan="nam_org_company">1</from>
+   <to sent="sent4" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent9" chan="nam_org_company">1</from>
+   <to sent="sent4" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent23" chan="nam_org_company">1</from>
+   <to sent="sent4" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent26" chan="nam_org_company">1</from>
+   <to sent="sent4" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent26" chan="nam_org_organization">1</from>
+   <to sent="sent1" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent4" chan="anafora_wyznacznik">1</from>
+   <to sent="sent4" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent9" chan="anafora_wyznacznik">1</from>
+   <to sent="sent4" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent11" chan="anafora_wyznacznik">1</from>
+   <to sent="sent4" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent13" chan="anafora_wyznacznik">1</from>
+   <to sent="sent4" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent18" chan="anafora_wyznacznik">1</from>
+   <to sent="sent4" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent19" chan="anafora_wyznacznik">1</from>
+   <to sent="sent4" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent26" chan="spatial_indicator_3">1</from>
+   <to sent="sent26" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent26" chan="spatial_indicator_3">1</from>
+   <to sent="sent26" chan="spatial_object">2</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent9" chan="spatial_indicator_3">1</from>
+   <to sent="sent9" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent9" chan="spatial_indicator_3">1</from>
+   <to sent="sent9" chan="spatial_object">2</to>
+  </rel>
+</relations>

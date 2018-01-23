@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Osiedle</orth>
+    <lex disamb="1"><base>osiedle</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>Śródmieście</orth>
+    <lex disamb="1"><base>śródmieście</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <prop key="nam_loc_gpe_subdivision:lemma">Śródmieście Południe</prop>
+   </tok>
+   <tok>
+    <orth>Południe</orth>
+    <lex disamb="1"><base>południe</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>Rzeszów</orth>
+    <lex disamb="1"><base>Rzeszów</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Rzeszów</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent2">
+   <tok>
+    <orth>Osiedle</orth>
+    <lex disamb="1"><base>osiedle</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>Śródmieście</orth>
+    <lex disamb="1"><base>śródmieście</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_loc_gpe_subdivision:lemma">Śródmieście Południe</prop>
+   </tok>
+   <tok>
+    <orth>Południe</orth>
+    <lex disamb="1"><base>południ</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>–</orth>
+    <lex disamb="1"><base>–</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>osiedle</orth>
+    <lex disamb="1"><base>osiedle</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>administracyjne</orth>
+    <lex disamb="1"><base>administracyjny</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Rzeszowa</orth>
+    <lex disamb="1"><base>Rzeszów</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_loc_gpe_city:lemma">Rzeszów</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_subdivision">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent3">
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <ann chan="anafora_verb_null">0</ann>
+    <prop key="t3_date:lemma">2010-01-01</prop>
+    <prop key="t3_date:lemma2">2010-01-01</prop>
+    <prop key="plimex_date:lemma">2010-01-01</prop>
+   </tok>
+   <tok>
+    <orth>stycznia</orth>
+    <lex disamb="1"><base>styczeń</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>2010</orth>
+    <lex disamb="1"><base>2010</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>r</orth>
+    <lex disamb="1"><base>rocznik</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>rodzaj</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>rok</base><ctag>brev:pun</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">1</ann>
+    <ann chan="plimex_date">1</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>posiadało</orth>
+    <lex disamb="1"><base>posiadać</base><ctag>praet:sg:n:imperf</ctag></lex>
+    <ann chan="wsd_posiadać">1</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">1</ann>
+    <prop key="sense:wsd_posiadać">posiadać-1</prop>
+   </tok>
+   <tok>
+    <orth>3511</orth>
+    <lex disamb="1"><base>3511</base><ctag>num:pl:nom:m1:rec</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>mieszkańców</orth>
+    <lex disamb="1"><base>mieszkaniec</base><ctag>subst:pl:gen:m1</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_posiadać">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="t3_date">0</ann>
+    <ann chan="plimex_date">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

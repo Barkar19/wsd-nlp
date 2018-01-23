@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Pierwsi</orth>
+    <lex disamb="1"><base>pierwszy</base><ctag>adj:pl:nom:m1:pos</ctag></lex>
+    <ann chan="nam_eve_human">0</ann>
+   </tok>
+   <tok>
+    <orth>laureaci</orth>
+    <lex disamb="1"><base>laureat</base><ctag>subst:pl:nom:m1</ctag></lex>
+    <ann chan="nam_eve_human">0</ann>
+   </tok>
+   <tok>
+    <orth>konkursu</orth>
+    <lex disamb="1"><base>konkurs</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_eve_human">0</ann>
+   </tok>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_eve_human">0</ann>
+   </tok>
+   <tok>
+    <orth>Qmam</orth>
+    <lex disamb="1"><base>qmam</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_eve_human">1</ann>
+    <prop key="nam_eve_human:lemma">Qmam media</prop>
+   </tok>
+   <tok>
+    <orth>media</orth>
+    <lex disamb="1"><base>media</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex disamb="1"><base>medium</base><ctag>subst:pl:nom:n</ctag></lex>
+    <ann chan="nam_eve_human">1</ann>
+   </tok>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_eve_human">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent2">
+   <tok>
+    <orth>Gratulacje</orth>
+    <lex disamb="1"><base>gratulacje</base><ctag>subst:pl:nom:n</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>!</orth>
+    <lex disamb="1"><base>!</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent3">
+   <tok>
+    <orth>Są</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>pierwsi</orth>
+    <lex disamb="1"><base>pierwszy</base><ctag>adj:pl:nom:m1:pos</ctag></lex>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>zwycięzcy</orth>
+    <lex disamb="1"><base>zwycięzca</base><ctag>subst:pl:nom:m1</ctag></lex>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>konkursie</orth>
+    <lex disamb="1"><base>konkurs</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Qmam</orth>
+    <lex disamb="1"><base>qmam</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_eve_human">1</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_eve_human:lemma">Qmam media</prop>
+   </tok>
+   <tok>
+    <orth>media</orth>
+    <lex disamb="1"><base>media</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex disamb="1"><base>medium</base><ctag>subst:pl:nom:n</ctag></lex>
+    <ann chan="nam_eve_human">1</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_eve_human">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent4">
+   <tok>
+    <orth>Jury</orth>
+    <lex disamb="1"><base>jury</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>Fundacji</orth>
+    <lex disamb="1"><base>fundacja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_org_organization:lemma">Fundacja Nowe Media</prop>
+   </tok>
+   <tok>
+    <orth>Nowe</orth>
+    <lex disamb="1"><base>nowy</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="wsd_nowy">1</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <tok>
+    <orth>Media</orth>
+    <lex disamb="1"><base>media</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex disamb="1"><base>medium</base><ctag>subst:pl:nom:n</ctag></lex>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <tok>
+    <orth>postanowiło</orth>
+    <lex disamb="1"><base>postanowić</base><ctag>praet:sg:n:perf</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wyróżnić</orth>
+    <lex disamb="1"><base>wyróżnić</base><ctag>inf:perf</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>cztery</orth>
+    <lex disamb="1"><base>cztery</base><ctag>num:pl:acc:f:congr</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>redakcje</orth>
+    <lex disamb="1"><base>redakcja</base><ctag>subst:pl:acc:f</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="wsd_nowy">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch3">
+  <sentence id="sent5">
+   <tok>
+    <orth>Laureatami</orth>
+    <lex disamb="1"><base>laureat</base><ctag>subst:pl:inst:m1</ctag></lex>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>kategorii</orth>
+    <lex disamb="1"><base>kategoria</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>qmama</orth>
+    <lex disamb="1"><base>qmama</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>warsztatowego</orth>
+    <lex disamb="1"><base>warsztatowy</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>zostały</orth>
+    <lex disamb="1"><base>zostać</base><ctag>praet:pl:m3:perf</ctag></lex>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>zespoły</orth>
+    <lex disamb="1"><base>zespół</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <ann chan="wsd_zespół">1</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_zespół">zespół-1</prop>
+   </tok>
+   <tok>
+    <orth>qmamów</orth>
+    <lex disamb="1"><base>qmamów</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch4">
+  <sentence id="sent6">
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>Piąte</orth>
+    <lex disamb="1"><base>piąty</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <ann chan="nam_pro_media_periodic">1</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_pro_media_periodic:lemma">Piąte przez dziesiąte</prop>
+   </tok>
+   <tok>
+    <orth>przez</orth>
+    <lex disamb="1"><base>przez</base><ctag>prep:acc:nwok</ctag></lex>
+    <ann chan="nam_pro_media_periodic">1</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dziesiąte</orth>
+    <lex disamb="1"><base>dziesiąty</base><ctag>adj:pl:acc:m3:pos</ctag></lex>
+    <ann chan="nam_pro_media_periodic">1</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>X</orth>
+    <lex disamb="1"><base>ksiądz</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>książę</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_org_organization:lemma">X Liceum Ogólnokształcące</prop>
+   </tok>
+   <tok>
+    <orth>Liceum</orth>
+    <lex disamb="1"><base>liceum</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="spatial_object">1</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Ogólnokształcącego</orth>
+    <lex disamb="1"><base>ogólnokształcący</base><ctag>adj:sg:gen:n:pos</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Toruniu</orth>
+    <lex disamb="1"><base>Toruń</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="spatial_object">2</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Toruń</prop>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch5">
+  <sentence id="sent7">
+   <tok>
+    <orth>2</orth>
+    <lex disamb="1"><base>2</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Wingapo</orth>
+    <lex disamb="1"><base>wingapo</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_pro_media_periodic">1</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_pro_media_periodic:lemma">Wingapo</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Zespołu</orth>
+    <lex disamb="1"><base>zespół</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zespół">1</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="spatial_object">1</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_zespół">zespół-3</prop>
+    <prop key="nam_org_organization:lemma">Zespół Szkół Ponadgimnazjalnych im.   Władysława Broniewskiego</prop>
+   </tok>
+   <tok>
+    <orth>Szkół</orth>
+    <lex disamb="1"><base>szkoła</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="wsd_szkoła">1</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_szkoła">szkoła-1</prop>
+   </tok>
+   <tok>
+    <orth>Ponadgimnazjalnych</orth>
+    <lex disamb="1"><base>ponadgimnazjalnych</base><ctag>adj:pl:gen:f:pos</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>im</orth>
+    <lex disamb="1"><base>imienia</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Władysława</orth>
+    <lex disamb="1"><base>Władysław</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_first">1</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_liv_person:lemma">Władysław Broniewski</prop>
+    <prop key="nam_liv_person_first:lemma">Władysław</prop>
+   </tok>
+   <tok>
+    <orth>Broniewskiego</orth>
+    <lex disamb="1"><base>Broniewski</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_liv_person_last:lemma">Broniewski</prop>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Świdwinie</orth>
+    <lex disamb="1"><base>świdwinie</base><ctag>subst:sg:loc:n</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="spatial_object">2</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Świdwin</prop>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch6">
+  <sentence id="sent8">
+   <tok>
+    <orth>Laureatami</orth>
+    <lex disamb="1"><base>laureat</base><ctag>subst:pl:inst:m1</ctag></lex>
+    <ann chan="wsd_zespół">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="wsd_zespół">0</ann>
+   </tok>
+   <tok>
+    <orth>kategorii</orth>
+    <lex disamb="1"><base>kategoria</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="wsd_zespół">0</ann>
+   </tok>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_zespół">0</ann>
+   </tok>
+   <tok>
+    <orth>qmama</orth>
+    <lex disamb="1"><base>qmama</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="wsd_zespół">0</ann>
+   </tok>
+   <tok>
+    <orth>cyklicznego</orth>
+    <lex disamb="1"><base>cykliczny</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="wsd_zespół">0</ann>
+   </tok>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_zespół">0</ann>
+   </tok>
+   <tok>
+    <orth>zostały</orth>
+    <lex disamb="1"><base>zostać</base><ctag>praet:pl:m3:perf</ctag></lex>
+    <ann chan="wsd_zespół">0</ann>
+   </tok>
+   <tok>
+    <orth>zespoły</orth>
+    <lex disamb="1"><base>zespół</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <ann chan="wsd_zespół">1</ann>
+    <prop key="sense:wsd_zespół">zespół-1</prop>
+   </tok>
+   <tok>
+    <orth>qmamów</orth>
+    <lex disamb="1"><base>qmamów</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="wsd_zespół">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_zespół">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch7">
+  <sentence id="sent9">
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="wsd_podstawowy">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="wsd_podstawowy">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Szkolnik</orth>
+    <lex disamb="1"><base>szkolnik</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_pro_media_periodic">1</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="wsd_podstawowy">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_pro_media_periodic:lemma">Szkolnik</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="wsd_podstawowy">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Szkoły</orth>
+    <lex disamb="1"><base>szkoła</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_szkoła">1</ann>
+    <ann chan="wsd_podstawowy">0</ann>
+    <ann chan="spatial_object">1</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_szkoła">szkoła-1</prop>
+    <prop key="nam_org_organization:lemma">Szkoła Podstawowa nr 7</prop>
+   </tok>
+   <tok>
+    <orth>Podstawowej</orth>
+    <lex disamb="1"><base>podstawowy</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="wsd_podstawowy">1</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>nr</orth>
+    <lex disamb="1"><base>nr</base><ctag>brev:npun</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="wsd_podstawowy">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>7</orth>
+    <lex disamb="1"><base>7</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="wsd_podstawowy">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="wsd_podstawowy">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Goleniowie</orth>
+    <lex disamb="1"><base>Goleniów</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="wsd_podstawowy">0</ann>
+    <ann chan="spatial_object">2</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Goleniów</prop>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch8">
+  <sentence id="sent10">
+   <tok>
+    <orth>2</orth>
+    <lex disamb="1"><base>2</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>Platernówka</orth>
+    <lex disamb="1"><base>platernówka</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_pro_media_periodic">1</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_pro_media_periodic:lemma">Platernówka</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Zespołu</orth>
+    <lex disamb="1"><base>zespół</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zespół">1</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="spatial_object">1</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_zespół">zespół-3</prop>
+    <prop key="nam_org_organization:lemma">Zespół Szkół nr 2 im.   Emilii Plater</prop>
+   </tok>
+   <tok>
+    <orth>Szkół</orth>
+    <lex disamb="1"><base>szkoła</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="wsd_szkoła">1</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_szkoła">szkoła-1</prop>
+   </tok>
+   <tok>
+    <orth>nr</orth>
+    <lex disamb="1"><base>nr</base><ctag>brev:npun</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>2</orth>
+    <lex disamb="1"><base>2</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>im</orth>
+    <lex disamb="1"><base>imienia</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Emilii</orth>
+    <lex disamb="1"><base>Emilia</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_first">1</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_liv_person:lemma">Emilia Plater</prop>
+    <prop key="nam_liv_person_first:lemma">Emilia</prop>
+   </tok>
+   <tok>
+    <orth>Plater</orth>
+    <lex disamb="1"><base>Plater</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_liv_person_last:lemma">Plater</prop>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="spatial_object">0</ann>
+    <ann chan="spatial_indicator_3">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Piasecznie</orth>
+    <lex disamb="1"><base>Piaseczno</base><ctag>subst:sg:loc:n</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="wsd_zespół">0</ann>
+    <ann chan="wsd_szkoła">0</ann>
+    <ann chan="spatial_object">2</ann>
+    <ann chan="spatial_indicator_3">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Piaseczno</prop>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch9">
+  <sentence id="sent11">
+   <tok>
+    <orth>Nagrodzonym</orth>
+    <lex disamb="1"><base>nagrodzić</base><ctag>ppas:pl:dat:f:perf:aff</ctag></lex>
+    <ann chan="wsd_pozostały">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>redakcjom</orth>
+    <lex disamb="1"><base>redakcja</base><ctag>subst:pl:dat:f</ctag></lex>
+    <ann chan="wsd_pozostały">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>gratulujemy</orth>
+    <lex disamb="1"><base>gratulować</base><ctag>fin:pl:pri:imperf</ctag></lex>
+    <ann chan="wsd_pozostały">0</ann>
+    <ann chan="anafora_verb_null">1</ann>
+   </tok>
+   <tok>
+    <orth>a</orth>
+    <lex disamb="1"><base>a</base><ctag>conj</ctag></lex>
+    <ann chan="wsd_pozostały">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>pozostałym</orth>
+    <lex disamb="1"><base>pozostały</base><ctag>adj:pl:dat:m1:pos</ctag></lex>
+    <ann chan="wsd_pozostały">1</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>qmamowcom</orth>
+    <lex disamb="1"><base>qmamowcom</base><ctag>subst:pl:dat:m1</ctag></lex>
+    <ann chan="wsd_pozostały">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>przypominamy</orth>
+    <lex disamb="1"><base>przypominać</base><ctag>fin:pl:pri:imperf</ctag></lex>
+    <ann chan="wsd_pozostały">0</ann>
+    <ann chan="anafora_verb_null">2</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_pozostały">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>każde</orth>
+    <lex disamb="1"><base>każdy</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <ann chan="wsd_pozostały">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="wsd_pozostały">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>Was</orth>
+    <lex disamb="1"><base>wy</base><ctag>ppron12:pl:gen:m1:sec</ctag></lex>
+    <ann chan="wsd_pozostały">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>ma</orth>
+    <lex disamb="1"><base>mieć</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="wsd_pozostały">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>szansę</orth>
+    <lex disamb="1"><base>szansa</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="wsd_pozostały">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <ann chan="wsd_pozostały">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>nagrodę</orth>
+    <lex disamb="1"><base>nagroda</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="wsd_pozostały">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_pozostały">0</ann>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent12">
+   <tok>
+    <orth>Liczy</orth>
+    <lex disamb="1"><base>liczyć</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>pomysł</orth>
+    <lex disamb="1"><base>pomysł</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>co</orth>
+    <lex disamb="1"><base>CO</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex disamb="1"><base>co</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>nim</orth>
+    <lex disamb="1"><base>on</base><ctag>ppron3:sg:inst:m1:ter:akc:praep</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>zrobicie</orth>
+    <lex disamb="1"><base>zrobić</base><ctag>fin:pl:sec:perf</ctag></lex>
+    <ann chan="anafora_verb_null">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent13">
+   <tok>
+    <orth>Z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>ciekawością</orth>
+    <lex disamb="1"><base>ciekawość</base><ctag>subst:sg:inst:f</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>przyglądamy</orth>
+    <lex disamb="1"><base>przyglądać</base><ctag>fin:pl:pri:imperf</ctag></lex>
+    <ann chan="anafora_verb_null">1</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>temu</orth>
+    <lex disamb="1"><base>to</base><ctag>subst:sg:dat:n</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>jakie</orth>
+    <lex disamb="1"><base>jaki</base><ctag>adj:pl:acc:m3:pos</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>tematy</orth>
+    <lex disamb="1"><base>temat</base><ctag>subst:pl:acc:m3</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>wybieracie</orth>
+    <lex disamb="1"><base>wybierać</base><ctag>fin:pl:sec:imperf</ctag></lex>
+    <ann chan="anafora_verb_null">2</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>jaki</orth>
+    <lex disamb="1"><base>jaki</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>sposób</orth>
+    <lex disamb="1"><base>sposób</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>je</orth>
+    <lex disamb="1"><base>on</base><ctag>ppron3:pl:acc:m3:ter:akc:npraep</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>realizujecie</orth>
+    <lex disamb="1"><base>realizować</base><ctag>fin:pl:sec:imperf</ctag></lex>
+    <ann chan="anafora_verb_null">3</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>ile</orth>
+    <lex disamb="1"><base>ile</base><ctag>num:pl:acc:m3:rec</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>wkładacie</orth>
+    <lex disamb="1"><base>wkładać</base><ctag>fin:pl:sec:imperf</ctag></lex>
+    <ann chan="anafora_verb_null">4</ann>
+   </tok>
+   <tok>
+    <orth>wysiłku</orth>
+    <lex disamb="1"><base>wysiłek</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>subst:sg:acc:n</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>by</orth>
+    <lex disamb="1"><base>by</base><ctag>comp</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>przygotować</orth>
+    <lex disamb="1"><base>przygotować</base><ctag>inf:perf</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>estetyczną</orth>
+    <lex disamb="1"><base>estetyczny</base><ctag>adj:sg:acc:f:pos</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <tok>
+    <orth>gazetę</orth>
+    <lex disamb="1"><base>gazeta</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent14">
+   <tok>
+    <orth>Pamiętajcie</orth>
+    <lex disamb="1"><base>pamiętać</base><ctag>impt:pl:sec:imperf</ctag></lex>
+    <ann chan="anafora_verb_null">1</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>że</orth>
+    <lex disamb="1"><base>że</base><ctag>comp</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>każde</orth>
+    <lex disamb="1"><base>każdy</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>Was</orth>
+    <lex disamb="1"><base>wy</base><ctag>ppron12:pl:gen:m1:sec</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>ma</orth>
+    <lex disamb="1"><base>mieć</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>wybór</orth>
+    <lex disamb="1"><base>wybór</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>ma</orth>
+    <lex disamb="1"><base>mieć</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">1</ann>
+   </tok>
+   <tok>
+    <orth>wpływ</orth>
+    <lex disamb="1"><base>wpływ</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_verb_null">0</ann>
+    <ann chan="anafora_verb_null_in">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

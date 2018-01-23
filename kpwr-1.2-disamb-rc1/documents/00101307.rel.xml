@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="neighbourhood" set="Semantic relations">
+   <from sent="sent2" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">2</to>
+  </rel>
+ <rel name="origin" set="Semantic relations">
+   <from sent="sent2" chan="nam_liv_person">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent14" chan="nam_liv_person">1</from>
+   <to sent="sent14" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="nationality" set="Semantic relations">
+   <from sent="sent2" chan="nam_liv_person">1</from>
+   <to sent="sent2" chan="nam_adj_country">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent4" chan="nam_liv_person">1</from>
+   <to sent="sent4" chan="nam_org_group_team">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent8" chan="nam_liv_person">1</from>
+   <to sent="sent8" chan="nam_org_group_team">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent11" chan="nam_liv_person">1</from>
+   <to sent="sent11" chan="nam_org_group_team">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent14" chan="nam_liv_person">1</from>
+   <to sent="sent14" chan="nam_eve_human_sport">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent9" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent6" chan="nam_loc_gpe_city">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent2" chan="nam_liv_person">1</from>
+   <to sent="sent1" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent4" chan="nam_liv_person_last">1</from>
+   <to sent="sent2" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent8" chan="nam_liv_person_last">1</from>
+   <to sent="sent2" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent11" chan="nam_liv_person">1</from>
+   <to sent="sent2" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent14" chan="nam_liv_person">1</from>
+   <to sent="sent2" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent5" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent6" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent7" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent7" chan="anafora_wyznacznik">2</from>
+   <to sent="sent2" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent7" chan="anafora_wyznacznik">4</from>
+   <to sent="sent2" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent9" chan="anafora_wyznacznik">2</from>
+   <to sent="sent2" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent9" chan="anafora_wyznacznik">3</from>
+   <to sent="sent2" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent9" chan="anafora_wyznacznik">4</from>
+   <to sent="sent2" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent10" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent10" chan="anafora_wyznacznik">2</from>
+   <to sent="sent2" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent12" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent12" chan="anafora_wyznacznik">2</from>
+   <to sent="sent2" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent15" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent16" chan="anafora_wyznacznik">2</from>
+   <to sent="sent2" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent16" chan="anafora_wyznacznik">3</from>
+   <to sent="sent2" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent17" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent5" chan="anafora_wyznacznik">2</from>
+   <to sent="sent4" chan="nam_org_group_team">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent7" chan="anafora_wyznacznik">3</from>
+   <to sent="sent4" chan="nam_org_group_team">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent9" chan="anafora_wyznacznik">1</from>
+   <to sent="sent8" chan="nam_org_group_team">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent15" chan="anafora_wyznacznik">2</from>
+   <to sent="sent14" chan="nam_eve_human_sport">1</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent2" chan="spatial_indicator_3">1</from>
+   <to sent="sent2" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent2" chan="spatial_indicator_3">1</from>
+   <to sent="sent2" chan="spatial_object">2</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent2" chan="spatial_indicator_3">2</from>
+   <to sent="sent2" chan="spatial_object">2</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent2" chan="spatial_indicator_3">2</from>
+   <to sent="sent2" chan="spatial_object">3</to>
+  </rel>
+</relations>

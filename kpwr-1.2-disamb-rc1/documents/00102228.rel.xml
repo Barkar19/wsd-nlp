@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent6" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent6" chan="nam_pro_title_treaty">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent13" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent13" chan="nam_loc_land_continent">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent13" chan="nam_loc_gpe_country">2</from>
+   <to sent="sent13" chan="nam_loc_land_continent">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent6" chan="nam_loc_gpe_country">2</from>
+   <to sent="sent6" chan="nam_pro_title_treaty">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent18" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent18" chan="nam_pro_title_treaty">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent18" chan="nam_loc_gpe_country">2</from>
+   <to sent="sent18" chan="nam_pro_title_treaty">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent3" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent4" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent6" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent7" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent8" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent13" chan="nam_loc_gpe_country">2</from>
+   <to sent="sent2" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent18" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent6" chan="nam_loc_gpe_country">2</from>
+   <to sent="sent2" chan="nam_loc_gpe_country">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent7" chan="nam_loc_gpe_country">2</from>
+   <to sent="sent2" chan="nam_loc_gpe_country">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent10" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_country">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent13" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_country">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent18" chan="nam_loc_gpe_country">2</from>
+   <to sent="sent2" chan="nam_loc_gpe_country">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent6" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">1</to>
+  </rel>
+</relations>

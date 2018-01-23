@@ -1,0 +1,3533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>ZADANIA</orth>
+    <lex disamb="1"><base>zadanie</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>PREZYDENT</orth>
+    <lex disamb="1"><base>prezydent</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>MIASTA</orth>
+    <lex disamb="1"><base>miasto</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent2">
+   <tok>
+    <orth>Do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="wsd_związać">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>zadań</orth>
+    <lex disamb="1"><base>zadanie</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="wsd_związać">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>Prezydenta</orth>
+    <lex disamb="1"><base>prezydent</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="wsd_związać">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>należą</orth>
+    <lex disamb="1"><base>należeć</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <ann chan="wsd_związać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">1</ann>
+    <ann chan="chunk_head_vp">1</ann>
+    <ann chan="state">1</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>wszelkie</orth>
+    <lex disamb="1"><base>wszelki</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <ann chan="wsd_związać">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>czynności</orth>
+    <lex disamb="1"><base>czynność</base><ctag>subst:pl:nom:f</ctag></lex>
+    <ann chan="wsd_związać">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">2</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>związane</orth>
+    <lex disamb="1"><base>związać</base><ctag>ppas:pl:nom:f:perf:aff</ctag></lex>
+    <ann chan="wsd_związać">1</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">2</ann>
+    <ann chan="action">0</ann>
+    <prop key="sense:wsd_związać">związać-5</prop>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="wsd_związać">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>kierowaniem</orth>
+    <lex disamb="1"><base>kierować</base><ctag>ger:sg:inst:n:imperf:aff</ctag></lex>
+    <ann chan="wsd_związać">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="action">1</ann>
+   </tok>
+   <tok>
+    <orth>Urzędem</orth>
+    <lex disamb="1"><base>urząd</base><ctag>subst:sg:inst:m3</ctag></lex>
+    <ann chan="wsd_związać">0</ann>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">5</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_związać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>a</orth>
+    <lex disamb="1"><base>a</base><ctag>conj</ctag></lex>
+    <ann chan="wsd_związać">0</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <ann chan="wsd_związać">0</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>zastrzeżone</orth>
+    <lex disamb="1"><base>zastrzec</base><ctag>ppas:pl:nom:f:perf:aff</ctag></lex>
+    <ann chan="wsd_związać">0</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="action">2</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="wsd_związać">0</ann>
+    <ann chan="chunk_agp">7</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>kompetencji</orth>
+    <lex disamb="1"><base>kompetencja</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="wsd_związać">0</ann>
+    <ann chan="chunk_agp">7</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">6</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>innych</orth>
+    <lex disamb="1"><base>inny</base><ctag>adj:pl:gen:m3:pos</ctag></lex>
+    <ann chan="wsd_związać">0</ann>
+    <ann chan="chunk_agp">8</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>organów</orth>
+    <lex disamb="1"><base>organ</base><ctag>subst:pl:gen:m3</ctag></lex>
+    <ann chan="wsd_związać">0</ann>
+    <ann chan="chunk_agp">8</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">7</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_związać">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent3">
+   <tok>
+    <orth>Do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="i_state">0</ann>
+   </tok>
+   <tok>
+    <orth>zakresu</orth>
+    <lex disamb="1"><base>zakres</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="i_state">0</ann>
+   </tok>
+   <tok>
+    <orth>zadań</orth>
+    <lex disamb="1"><base>zadanie</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="i_state">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="i_state">0</ann>
+   </tok>
+   <tok>
+    <orth>kompetencji</orth>
+    <lex disamb="1"><base>kompetencja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="i_state">0</ann>
+   </tok>
+   <tok>
+    <orth>Prezydenta</orth>
+    <lex disamb="1"><base>prezydent</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="i_state">0</ann>
+   </tok>
+   <tok>
+    <orth>należy</orth>
+    <lex disamb="1"><base>należeć</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">1</ann>
+    <ann chan="chunk_vp">1</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="i_state">1</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_qp">1</ann>
+    <ann chan="i_state">0</ann>
+   </tok>
+   <tok>
+    <orth>szczególności</orth>
+    <lex disamb="1"><base>szczególność</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_qp">1</ann>
+    <ann chan="i_state">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="i_state">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch3">
+  <sentence id="sent4">
+   <tok>
+    <orth>kierowanie</orth>
+    <lex disamb="1"><base>kierować</base><ctag>ger:sg:nom:n:imperf:aff</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="action">1</ann>
+   </tok>
+   <tok>
+    <orth>bieżącymi</orth>
+    <lex disamb="1"><base>bieżący</base><ctag>adj:pl:inst:f:pos</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>sprawami</orth>
+    <lex disamb="1"><base>sprawa</base><ctag>subst:pl:inst:f</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>Miasta</orth>
+    <lex disamb="1"><base>miasto</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch4">
+  <sentence id="sent5">
+   <tok>
+    <orth>kierowanie</orth>
+    <lex disamb="1"><base>kierować</base><ctag>ger:sg:nom:n:imperf:aff</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="action">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Urzędem</orth>
+    <lex disamb="1"><base>urząd</base><ctag>subst:sg:inst:m3</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch5">
+  <sentence id="sent6">
+   <tok>
+    <orth>reprezentowanie</orth>
+    <lex disamb="1"><base>reprezentować</base><ctag>ger:sg:nom:n:imperf:aff</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="state">1</ann>
+   </tok>
+   <tok>
+    <orth>Miasta</orth>
+    <lex disamb="1"><base>miasto</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="state">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="state">0</ann>
+   </tok>
+   <tok>
+    <orth>Urzędu</orth>
+    <lex disamb="1"><base>urząd</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="state">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="state">0</ann>
+   </tok>
+   <tok>
+    <orth>zewnątrz</orth>
+    <lex disamb="1"><base>zewnątrz</base><ctag>adv</ctag></lex>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="state">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="state">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch6">
+  <sentence id="sent7">
+   <tok>
+    <orth>wykonywanie</orth>
+    <lex disamb="1"><base>wykonywać</base><ctag>ger:sg:nom:n:imperf:aff</ctag></lex>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">1</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>uprawnień</orth>
+    <lex disamb="1"><base>uprawnienie</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>pracodawcy</orth>
+    <lex disamb="1"><base>pracodawca</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_qp">1</ann>
+    <ann chan="action">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>stosunku</orth>
+    <lex disamb="1"><base>stosunek</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_qp">1</ann>
+    <ann chan="action">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_qp">1</ann>
+    <ann chan="action">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>pracowników</orth>
+    <lex disamb="1"><base>pracownik</base><ctag>subst:pl:gen:m1</ctag></lex>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Urzędu</orth>
+    <lex disamb="1"><base>urząd</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="chunk_head_agp">5</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wydawanie</orth>
+    <lex disamb="1"><base>wydawać</base><ctag>ger:sg:nom:n:imperf:aff</ctag></lex>
+    <ann chan="chunk_head_agp">6</ann>
+    <ann chan="chunk_head_np">2</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="light_predicate">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>decyzji</orth>
+    <lex disamb="1"><base>decyzja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="chunk_head_agp">7</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_agp">7</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">2</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_agp">8</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>indywidualnych</orth>
+    <lex disamb="1"><base>indywidualny</base><ctag>adj:pl:loc:f:pos</ctag></lex>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_agp">8</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>sprawach</orth>
+    <lex disamb="1"><base>sprawa</base><ctag>subst:pl:loc:f</ctag></lex>
+    <ann chan="chunk_head_agp">8</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_agp">8</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">3</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_agp">9</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>zakresu</orth>
+    <lex disamb="1"><base>zakres</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="chunk_head_agp">9</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_agp">9</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>administracji</orth>
+    <lex disamb="1"><base>administracja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="chunk_head_agp">10</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_agp">10</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>publicznej</orth>
+    <lex disamb="1"><base>publiczny</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_agp">10</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch7">
+  <sentence id="sent8">
+   <tok>
+    <orth>informowanie</orth>
+    <lex disamb="1"><base>informować</base><ctag>ger:sg:nom:n:imperf:aff</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="reporting">1</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>mieszkańców</orth>
+    <lex disamb="1"><base>mieszkaniec</base><ctag>subst:pl:gen:m1</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>Miasta</orth>
+    <lex disamb="1"><base>miasto</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>o</orth>
+    <lex disamb="1"><base>o</base><ctag>prep:loc</ctag></lex>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>założeniach</orth>
+    <lex disamb="1"><base>założenie</base><ctag>subst:pl:loc:n</ctag></lex>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="action">1</ann>
+   </tok>
+   <tok>
+    <orth>projektu</orth>
+    <lex disamb="1"><base>projekt</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">5</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>budżetu</orth>
+    <lex disamb="1"><base>budżet</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">6</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>kierunkach</orth>
+    <lex disamb="1"><base>kierunek</base><ctag>subst:pl:loc:m3</ctag></lex>
+    <ann chan="chunk_agp">7</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">7</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>polityki</orth>
+    <lex disamb="1"><base>polityka</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="chunk_agp">8</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">8</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>społecznej</orth>
+    <lex disamb="1"><base>społeczny</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="chunk_agp">8</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="chunk_agp">8</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>gospodarczej</orth>
+    <lex disamb="1"><base>gospodarczy</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="chunk_agp">8</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>oraz</orth>
+    <lex disamb="1"><base>oraz</base><ctag>conj</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>wykorzystywania</orth>
+    <lex disamb="1"><base>wykorzystywać</base><ctag>ger:sg:gen:n:imperf:aff</ctag></lex>
+    <ann chan="chunk_agp">9</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">9</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="action">2</ann>
+   </tok>
+   <tok>
+    <orth>środków</orth>
+    <lex disamb="1"><base>środek</base><ctag>subst:pl:gen:m3</ctag></lex>
+    <ann chan="chunk_agp">10</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">10</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>budżetowych</orth>
+    <lex disamb="1"><base>budżetowy</base><ctag>adj:pl:gen:m3:pos</ctag></lex>
+    <ann chan="chunk_agp">10</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="reporting">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch8">
+  <sentence id="sent9">
+   <tok>
+    <orth>ogłaszanie</orth>
+    <lex disamb="1"><base>ogłaszać</base><ctag>ger:sg:nom:n:imperf:aff</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="action">1</ann>
+   </tok>
+   <tok>
+    <orth>budżetu</orth>
+    <lex disamb="1"><base>budżet</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>Miasta</orth>
+    <lex disamb="1"><base>miasto</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>sprawozdań</orth>
+    <lex disamb="1"><base>sprawozdanie</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>jego</orth>
+    <lex disamb="1"><base>on</base><ctag>ppron3:sg:gen:n:ter:akc:npraep</ctag></lex>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_head_agp">5</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>wykonania</orth>
+    <lex disamb="1"><base>wykonać</base><ctag>ger:sg:gen:n:perf:aff</ctag></lex>
+    <ann chan="chunk_agp">7</ann>
+    <ann chan="chunk_head_agp">6</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="action">2</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch9">
+  <sentence id="sent10">
+   <tok>
+    <orth>przedkładanie</orth>
+    <lex disamb="1"><base>przedkładać</base><ctag>ger:sg:nom:n:imperf:aff</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="action">1</ann>
+   </tok>
+   <tok>
+    <orth>Radzie</orth>
+    <lex disamb="1"><base>rada</base><ctag>subst:sg:dat:f</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>projektów</orth>
+    <lex disamb="1"><base>projekt</base><ctag>subst:pl:gen:m3</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>uchwał</orth>
+    <lex disamb="1"><base>uchwała</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch10">
+  <sentence id="sent11">
+   <tok>
+    <orth>przedkładanie</orth>
+    <lex disamb="1"><base>przedkładać</base><ctag>ger:sg:nom:n:imperf:aff</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="action">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Wojewodzie</orth>
+    <lex disamb="1"><base>wojewoda</base><ctag>subst:sg:dat:m1</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Regionalnej</orth>
+    <lex disamb="1"><base>regionalny</base><ctag>adj:sg:dat:f:pos</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <tok>
+    <orth>Izbie</orth>
+    <lex disamb="1"><base>izba</base><ctag>subst:sg:dat:f</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <tok>
+    <orth>Obrachunkowej</orth>
+    <lex disamb="1"><base>obrachunkowy</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <tok>
+    <orth>uchwał</orth>
+    <lex disamb="1"><base>uchwała</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>podejmowanych</orth>
+    <lex disamb="1"><base>podejmować</base><ctag>ppas:pl:gen:f:imperf:aff</ctag></lex>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">2</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>przez</orth>
+    <lex disamb="1"><base>przez</base><ctag>prep:acc:nwok</ctag></lex>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Radę</orth>
+    <lex disamb="1"><base>rada</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">5</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch11">
+  <sentence id="sent12">
+   <tok>
+    <orth>dokonywanie</orth>
+    <lex disamb="1"><base>dokonywać</base><ctag>ger:sg:nom:n:imperf:aff</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="light_predicate">1</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>podziału</orth>
+    <lex disamb="1"><base>podział</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>zadań</orth>
+    <lex disamb="1"><base>zadanie</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>kompetencji</orth>
+    <lex disamb="1"><base>kompetencja</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>odpowiedzialności</orth>
+    <lex disamb="1"><base>odpowiedzialność</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">5</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>a</orth>
+    <lex disamb="1"><base>a</base><ctag>conj</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>także</orth>
+    <lex disamb="1"><base>także</base><ctag>qub</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>rozstrzyganie</orth>
+    <lex disamb="1"><base>rozstrzygać</base><ctag>ger:sg:nom:n:imperf:aff</ctag></lex>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">6</ann>
+    <ann chan="chunk_head_np">2</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">2</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>sporów</orth>
+    <lex disamb="1"><base>spór</base><ctag>subst:pl:gen:m3</ctag></lex>
+    <ann chan="chunk_agp">7</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">7</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">3</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>kompetencyjnych</orth>
+    <lex disamb="1"><base>kompetencyjny</base><ctag>adj:pl:gen:m3:pos</ctag></lex>
+    <ann chan="chunk_agp">7</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>pomiędzy</orth>
+    <lex disamb="1"><base>pomiędzy</base><ctag>prep:inst</ctag></lex>
+    <ann chan="chunk_agp">8</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Zastępcami</orth>
+    <lex disamb="1"><base>zastępca</base><ctag>subst:pl:inst:m1</ctag></lex>
+    <ann chan="chunk_agp">8</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">8</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Prezydenta</orth>
+    <lex disamb="1"><base>prezydent</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="chunk_agp">9</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">9</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Sekretarzem</orth>
+    <lex disamb="1"><base>sekretarz</base><ctag>subst:sg:inst:m1</ctag></lex>
+    <ann chan="chunk_agp">10</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">10</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Skarbnikiem</orth>
+    <lex disamb="1"><base>skarbnik</base><ctag>subst:sg:inst:m1</ctag></lex>
+    <ann chan="chunk_agp">11</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">11</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch12">
+  <sentence id="sent13">
+   <tok>
+    <orth>sprawowanie</orth>
+    <lex disamb="1"><base>sprawować</base><ctag>ger:sg:nom:n:imperf:aff</ctag></lex>
+    <ann chan="wsd_obrona">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="light_predicate">1</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>funkcji</orth>
+    <lex disamb="1"><base>funkcja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="wsd_obrona">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>terenowego</orth>
+    <lex disamb="1"><base>terenowy</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="wsd_obrona">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>organu</orth>
+    <lex disamb="1"><base>organ</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="wsd_obrona">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>obrony</orth>
+    <lex disamb="1"><base>obrona</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="wsd_obrona">1</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="sense:wsd_obrona">obrona-1</prop>
+   </tok>
+   <tok>
+    <orth>cywilnej</orth>
+    <lex disamb="1"><base>cywilny</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="wsd_obrona">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_obrona">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch13">
+  <sentence id="sent14">
+   <tok>
+    <orth>ustanawianie</orth>
+    <lex disamb="1"><base>ustanawiać</base><ctag>ger:sg:nom:n:imperf:aff</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="action">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Regulaminu</orth>
+    <lex disamb="1"><base>regulamin</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>Organizacyjnego</orth>
+    <lex disamb="1"><base>organizacyjny</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Regulaminu</orth>
+    <lex disamb="1"><base>regulamin</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <tok>
+    <orth>Pracy</orth>
+    <lex disamb="1"><base>praca</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <tok>
+    <orth>Urzędu</orth>
+    <lex disamb="1"><base>urząd</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">5</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch14">
+  <sentence id="sent15">
+   <tok>
+    <orth>wykonywanie</orth>
+    <lex disamb="1"><base>wykonywać</base><ctag>ger:sg:nom:n:imperf:aff</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="action">1</ann>
+   </tok>
+   <tok>
+    <orth>innych</orth>
+    <lex disamb="1"><base>inny</base><ctag>adj:pl:gen:n:pos</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>zadań</orth>
+    <lex disamb="1"><base>zadanie</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>zastrzeżonych</orth>
+    <lex disamb="1"><base>zastrzec</base><ctag>ppas:pl:gen:n:perf:aff</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">2</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>kompetencji</orth>
+    <lex disamb="1"><base>kompetencja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>Prezydenta</orth>
+    <lex disamb="1"><base>prezydent</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>przepisach</orth>
+    <lex disamb="1"><base>przepis</base><ctag>subst:pl:loc:m3</ctag></lex>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">5</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>szczegółowych</orth>
+    <lex disamb="1"><base>szczegółowy</base><ctag>adj:pl:loc:m3:pos</ctag></lex>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch15">
+  <sentence id="sent16">
+   <tok>
+    <orth>nadzór</orth>
+    <lex disamb="1"><base>nadzór</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="action">1</ann>
+   </tok>
+   <tok>
+    <orth>nad</orth>
+    <lex disamb="1"><base>nad</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>ochroną</orth>
+    <lex disamb="1"><base>ochrona</base><ctag>subst:sg:inst:f</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">2</ann>
+   </tok>
+   <tok>
+    <orth>informacji</orth>
+    <lex disamb="1"><base>informacja</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>niejawnych</orth>
+    <lex disamb="1"><base>niejawny</base><ctag>adj:pl:gen:f:pos</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>wytwarzanych</orth>
+    <lex disamb="1"><base>wytwarzać</base><ctag>ppas:pl:gen:f:imperf:aff</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">3</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>przetwarzanych</orth>
+    <lex disamb="1"><base>przetwarzać</base><ctag>ppas:pl:gen:f:imperf:aff</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">4</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>przechowywanych</orth>
+    <lex disamb="1"><base>przechowywać</base><ctag>ppas:pl:gen:f:imperf:aff</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">5</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>przekazywanych</orth>
+    <lex disamb="1"><base>przekazywać</base><ctag>ppas:pl:gen:m3:imperf:aff</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">6</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>Urzędzie</orth>
+    <lex disamb="1"><base>urząd</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch16">
+  <sentence id="sent17">
+   <tok>
+    <orth>planowanie</orth>
+    <lex disamb="1"><base>planować</base><ctag>ger:sg:nom:n:imperf:aff</ctag></lex>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="i_action">1</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>przygotowanie</orth>
+    <lex disamb="1"><base>przygotować</base><ctag>ger:sg:nom:n:perf:aff</ctag></lex>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">2</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">1</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>prowadzenie</orth>
+    <lex disamb="1"><base>prowadzić</base><ctag>ger:sg:nom:n:imperf:aff</ctag></lex>
+    <ann chan="wsd_prowadzić">1</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">3</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">2</ann>
+    <prop key="sense:wsd_prowadzić">prowadzić-8</prop>
+   </tok>
+   <tok>
+    <orth>inwestycji</orth>
+    <lex disamb="1"><base>inwestycja</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">3</ann>
+   </tok>
+   <tok>
+    <orth>miejskich</orth>
+    <lex disamb="1"><base>miejski</base><ctag>adj:pl:gen:f:pos</ctag></lex>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="i_action">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch17">
+  <sentence id="sent18">
+   <tok>
+    <orth>współpraca</orth>
+    <lex disamb="1"><base>współpraca</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="wsd_wspólny">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">1</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="wsd_wspólny">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>komitetami</orth>
+    <lex disamb="1"><base>komitet</base><ctag>subst:pl:inst:m3</ctag></lex>
+    <ann chan="wsd_wspólny">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>społecznymi</orth>
+    <lex disamb="1"><base>społeczny</base><ctag>adj:pl:inst:m3:pos</ctag></lex>
+    <ann chan="wsd_wspólny">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="wsd_wspólny">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">1</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>sprawie</orth>
+    <lex disamb="1"><base>sprawa</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="wsd_wspólny">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">1</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>wspólnych</orth>
+    <lex disamb="1"><base>wspólny</base><ctag>adj:pl:gen:f:pos</ctag></lex>
+    <ann chan="wsd_wspólny">1</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>inwestycji</orth>
+    <lex disamb="1"><base>inwestycja</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="wsd_wspólny">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">2</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_wspólny">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch18">
+  <sentence id="sent19">
+   <tok>
+    <orth>współpraca</orth>
+    <lex disamb="1"><base>współpraca</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">1</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>Radą</orth>
+    <lex disamb="1"><base>rada</base><ctag>subst:sg:inst:f</ctag></lex>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>jej</orth>
+    <lex disamb="1"><base>on</base><ctag>ppron3:sg:gen:f:ter:akc:npraep</ctag></lex>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>komisjami</orth>
+    <lex disamb="1"><base>komisja</base><ctag>subst:pl:inst:f</ctag></lex>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>oraz</orth>
+    <lex disamb="1"><base>oraz</base><ctag>conj</ctag></lex>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>organami</orth>
+    <lex disamb="1"><base>organ</base><ctag>subst:pl:inst:m3</ctag></lex>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">5</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>jednostek</orth>
+    <lex disamb="1"><base>jednostka</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">6</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>pomocniczych</orth>
+    <lex disamb="1"><base>pomocniczy</base><ctag>adj:pl:gen:f:pos</ctag></lex>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="chunk_agp">7</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">1</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>zakresie</orth>
+    <lex disamb="1"><base>zakres</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="chunk_agp">7</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">1</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>swego</orth>
+    <lex disamb="1"><base>swój</base><ctag>adj:sg:gen:n:pos</ctag></lex>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="chunk_agp">7</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>działania</orth>
+    <lex disamb="1"><base>działanie</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="wsd_działanie">1</ann>
+    <ann chan="chunk_agp">7</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">7</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">2</ann>
+    <prop key="sense:wsd_działanie">działanie-3</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch19">
+  <sentence id="sent20">
+   <tok>
+    <orth>wydawanie</orth>
+    <lex disamb="1"><base>wydawać</base><ctag>ger:sg:nom:n:imperf:aff</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="light_predicate">1</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>zarządzeń</orth>
+    <lex disamb="1"><base>zarządzenie</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">1</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>poleceń</orth>
+    <lex disamb="1"><base>polecenie</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">2</ann>
+   </tok>
+   <tok>
+    <orth>służbowych</orth>
+    <lex disamb="1"><base>służbowy</base><ctag>adj:pl:gen:n:pos</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch20">
+  <sentence id="sent21">
+   <tok>
+    <orth>kierowanie</orth>
+    <lex disamb="1"><base>kierować</base><ctag>ger:sg:nom:n:imperf:aff</ctag></lex>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">1</ann>
+    <ann chan="i_action">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">1</ann>
+    <ann chan="action">0</ann>
+    <ann chan="i_action">0</ann>
+   </tok>
+   <tok>
+    <orth>czasie</orth>
+    <lex disamb="1"><base>czas</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="wsd_czas">1</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">1</ann>
+    <ann chan="action">0</ann>
+    <ann chan="i_action">0</ann>
+    <prop key="sense:wsd_czas">czas-3</prop>
+   </tok>
+   <tok>
+    <orth>stanu</orth>
+    <lex disamb="1"><base>stan</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="i_action">0</ann>
+   </tok>
+   <tok>
+    <orth>klęski</orth>
+    <lex disamb="1"><base>klęska</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">2</ann>
+    <ann chan="i_action">0</ann>
+   </tok>
+   <tok>
+    <orth>żywiołowej</orth>
+    <lex disamb="1"><base>żywiołowy</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="i_action">0</ann>
+   </tok>
+   <tok>
+    <orth>działaniami</orth>
+    <lex disamb="1"><base>działanie</base><ctag>subst:pl:inst:n</ctag></lex>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="wsd_działanie">1</ann>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">3</ann>
+    <ann chan="i_action">0</ann>
+    <prop key="sense:wsd_działanie">działanie-3</prop>
+   </tok>
+   <tok>
+    <orth>prowadzonymi</orth>
+    <lex disamb="1"><base>prowadzić</base><ctag>ppas:pl:inst:n:imperf:aff</ctag></lex>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_prowadzić">1</ann>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">4</ann>
+    <ann chan="i_action">0</ann>
+    <prop key="sense:wsd_prowadzić">prowadzić-10</prop>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:loc</ctag></lex>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="i_action">0</ann>
+   </tok>
+   <tok>
+    <orth>obszarze</orth>
+    <lex disamb="1"><base>obszar</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">5</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="i_action">0</ann>
+   </tok>
+   <tok>
+    <orth>miasta</orth>
+    <lex disamb="1"><base>miasto</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">6</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="i_action">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">2</ann>
+    <ann chan="action">0</ann>
+    <ann chan="i_action">0</ann>
+   </tok>
+   <tok>
+    <orth>celu</orth>
+    <lex disamb="1"><base>cel</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">2</ann>
+    <ann chan="action">0</ann>
+    <ann chan="i_action">0</ann>
+   </tok>
+   <tok>
+    <orth>zapobieżenia</orth>
+    <lex disamb="1"><base>zapobieżeć</base><ctag>ger:sg:gen:n:perf:aff</ctag></lex>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">7</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">7</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="i_action">1</ann>
+   </tok>
+   <tok>
+    <orth>skutkom</orth>
+    <lex disamb="1"><base>skutek</base><ctag>subst:pl:dat:m3</ctag></lex>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">8</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">8</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="i_action">0</ann>
+   </tok>
+   <tok>
+    <orth>klęski</orth>
+    <lex disamb="1"><base>klęska</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">9</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">9</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">5</ann>
+    <ann chan="i_action">0</ann>
+   </tok>
+   <tok>
+    <orth>żywiołowej</orth>
+    <lex disamb="1"><base>żywiołowy</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">9</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="i_action">0</ann>
+   </tok>
+   <tok>
+    <orth>lub</orth>
+    <lex disamb="1"><base>lub</base><ctag>conj</ctag></lex>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="i_action">0</ann>
+   </tok>
+   <tok>
+    <orth>ich</orth>
+    <lex disamb="1"><base>on</base><ctag>ppron3:pl:gen:f:ter:akc:npraep</ctag></lex>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">10</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">10</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="i_action">0</ann>
+   </tok>
+   <tok>
+    <orth>usunięcia</orth>
+    <lex disamb="1"><base>usunąć</base><ctag>ger:sg:gen:n:perf:aff</ctag></lex>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">11</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">11</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">6</ann>
+    <ann chan="i_action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_czas">0</ann>
+    <ann chan="wsd_działanie">0</ann>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_qp">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="i_action">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch21">
+  <sentence id="sent22">
+   <tok>
+    <orth>Prezydent</orth>
+    <lex disamb="1"><base>prezydent</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>prowadzi</orth>
+    <lex disamb="1"><base>prowadzić</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="wsd_prowadzić">1</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">1</ann>
+    <ann chan="chunk_head_vp">1</ann>
+    <ann chan="light_predicate">1</ann>
+    <ann chan="action">0</ann>
+    <prop key="sense:wsd_prowadzić">prowadzić-10</prop>
+   </tok>
+   <tok>
+    <orth>bezpośredni</orth>
+    <lex disamb="1"><base>bezpośredni</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>nadzór</orth>
+    <lex disamb="1"><base>nadzór</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">2</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">1</ann>
+   </tok>
+   <tok>
+    <orth>nad</orth>
+    <lex disamb="1"><base>nad</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_prowadzić">0</ann>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="light_predicate">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch22">
+  <sentence id="sent23">
+   <tok>
+    <orth>Pełnomocnikiem</orth>
+    <lex disamb="1"><base>pełnomocnik</base><ctag>subst:sg:inst:m1</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+   </tok>
+   <tok>
+    <orth>Prezydenta</orth>
+    <lex disamb="1"><base>prezydent</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+   <tok>
+    <orth>ds</orth>
+    <lex disamb="1"><base>do spraw</base><ctag>brev:pun</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+   <tok>
+    <orth>Informacji</orth>
+    <lex disamb="1"><base>informacja</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+   <tok>
+    <orth>Niejawnych</orth>
+    <lex disamb="1"><base>niejawny</base><ctag>adj:pl:gen:f:pos</ctag></lex>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>;</orth>
+    <lex disamb="1"><base>;</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch23">
+  <sentence id="sent24">
+   <tok>
+    <orth>Pełnomocnikiem</orth>
+    <lex disamb="1"><base>pełnomocnik</base><ctag>subst:sg:inst:m1</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>Prezydenta</orth>
+    <lex disamb="1"><base>prezydent</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>ds</orth>
+    <lex disamb="1"><base>do spraw</base><ctag>brev:pun</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>Uzależnień</orth>
+    <lex disamb="1"><base>uzależnienie</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>;</orth>
+    <lex disamb="1"><base>;</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch24">
+  <sentence id="sent25">
+   <tok>
+    <orth>Pełnomocnikiem</orth>
+    <lex disamb="1"><base>pełnomocnik</base><ctag>subst:sg:inst:m1</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>Prezydenta</orth>
+    <lex disamb="1"><base>prezydent</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>ds</orth>
+    <lex disamb="1"><base>do spraw</base><ctag>brev:pun</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>Systemu</orth>
+    <lex disamb="1"><base>system</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>Zarządzania</orth>
+    <lex disamb="1"><base>zarządzanie</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">5</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">1</ann>
+   </tok>
+   <tok>
+    <orth>Jakością</orth>
+    <lex disamb="1"><base>jakość</base><ctag>subst:sg:inst:f</ctag></lex>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">6</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>Uzdrowiska</orth>
+    <lex disamb="1"><base>uzdrowisko</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="chunk_agp">7</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">7</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>Kołobrzeg</orth>
+    <lex disamb="1"><base>Kołobrzeg</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="chunk_agp">8</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">8</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>;</orth>
+    <lex disamb="1"><base>;</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch25">
+  <sentence id="sent26">
+   <tok>
+    <orth>Audytorem</orth>
+    <lex disamb="1"><base>audytor</base><ctag>subst:sg:inst:m1</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+   </tok>
+   <tok>
+    <orth>Wewnętrznym</orth>
+    <lex disamb="1"><base>wewnętrzny</base><ctag>subst:sg:inst:m3</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>;</orth>
+    <lex disamb="1"><base>;</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch26">
+  <sentence id="sent27">
+   <tok>
+    <orth>Samodzielnym</orth>
+    <lex disamb="1"><base>samodzielny</base><ctag>adj:sg:inst:n:pos</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+   <tok>
+    <orth>Stanowiskiem</orth>
+    <lex disamb="1"><base>stanowisko</base><ctag>subst:sg:inst:n</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+   </tok>
+   <tok>
+    <orth>ds</orth>
+    <lex disamb="1"><base>do spraw</base><ctag>brev:pun</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+   <tok>
+    <orth>Kontroli</orth>
+    <lex disamb="1"><base>kontrola</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>;</orth>
+    <lex disamb="1"><base>;</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch27">
+  <sentence id="sent28">
+   <tok>
+    <orth>Rzecznikiem</orth>
+    <lex disamb="1"><base>rzecznik</base><ctag>subst:sg:inst:m1</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+   </tok>
+   <tok>
+    <orth>Prasowym</orth>
+    <lex disamb="1"><base>prasowy</base><ctag>adj:sg:inst:m1:pos</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+   <tok>
+    <orth>Prezydenta</orth>
+    <lex disamb="1"><base>prezydent</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>;</orth>
+    <lex disamb="1"><base>;</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch28">
+  <sentence id="sent29">
+   <tok>
+    <orth>Biurem</orth>
+    <lex disamb="1"><base>biuro</base><ctag>subst:sg:inst:n</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+   </tok>
+   <tok>
+    <orth>Prawnym</orth>
+    <lex disamb="1"><base>prawny</base><ctag>adj:sg:inst:n:pos</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>;</orth>
+    <lex disamb="1"><base>;</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch29">
+  <sentence id="sent30">
+   <tok>
+    <orth>Wydziałem</orth>
+    <lex disamb="1"><base>wydział</base><ctag>subst:sg:inst:m3</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+   </tok>
+   <tok>
+    <orth>Urbanistyki</orth>
+    <lex disamb="1"><base>urbanistyka</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+   <tok>
+    <orth>Architektury</orth>
+    <lex disamb="1"><base>architektura</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>;</orth>
+    <lex disamb="1"><base>;</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch30">
+  <sentence id="sent31">
+   <tok>
+    <orth>Urzędem</orth>
+    <lex disamb="1"><base>urząd</base><ctag>subst:sg:inst:m3</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+   </tok>
+   <tok>
+    <orth>Stanu</orth>
+    <lex disamb="1"><base>stan</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+   <tok>
+    <orth>Cywilnego</orth>
+    <lex disamb="1"><base>cywilny</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>;</orth>
+    <lex disamb="1"><base>;</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch31">
+  <sentence id="sent32">
+   <tok>
+    <orth>Wydziałem</orth>
+    <lex disamb="1"><base>wydział</base><ctag>subst:sg:inst:m3</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>Zarządzania</orth>
+    <lex disamb="1"><base>zarządzanie</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">1</ann>
+   </tok>
+   <tok>
+    <orth>Kryzysowego</orth>
+    <lex disamb="1"><base>kryzysowy</base><ctag>adj:sg:gen:n:pos</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>;</orth>
+    <lex disamb="1"><base>;</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch32">
+  <sentence id="sent33">
+   <tok>
+    <orth>Strażą</orth>
+    <lex disamb="1"><base>straż</base><ctag>subst:sg:inst:f</ctag></lex>
+    <lex disamb="1"><base>straża</base><ctag>subst:sg:inst:f</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+   </tok>
+   <tok>
+    <orth>Miejską</orth>
+    <lex disamb="1"><base>miejski</base><ctag>adj:sg:inst:f:pos</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch33">
+  <sentence id="sent34">
+   <tok>
+    <orth>Prezydent</orth>
+    <lex disamb="1"><base>prezydent</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="chunk_agp">1</ann>
+    <ann chan="chunk_np">1</ann>
+    <ann chan="chunk_head_agp">1</ann>
+    <ann chan="chunk_head_np">1</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>może</orth>
+    <lex disamb="1"><base>móc</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">1</ann>
+    <ann chan="chunk_head_vp">1</ann>
+    <ann chan="i_state">1</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>upoważnić</orth>
+    <lex disamb="1"><base>upoważnić</base><ctag>inf:perf</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">1</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">1</ann>
+   </tok>
+   <tok>
+    <orth>swoich</orth>
+    <lex disamb="1"><base>swój</base><ctag>adj:pl:acc:m1:pos</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>zastępców</orth>
+    <lex disamb="1"><base>zastępca</base><ctag>subst:pl:acc:m1</ctag></lex>
+    <ann chan="chunk_agp">2</ann>
+    <ann chan="chunk_np">2</ann>
+    <ann chan="chunk_head_agp">2</ann>
+    <ann chan="chunk_head_np">2</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>Sekretarza</orth>
+    <lex disamb="1"><base>sekretarz</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="chunk_agp">3</ann>
+    <ann chan="chunk_np">3</ann>
+    <ann chan="chunk_head_agp">3</ann>
+    <ann chan="chunk_head_np">3</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>Skarbnika</orth>
+    <lex disamb="1"><base>skarbnik</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="chunk_agp">4</ann>
+    <ann chan="chunk_np">4</ann>
+    <ann chan="chunk_head_agp">4</ann>
+    <ann chan="chunk_head_np">4</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>Naczelników</orth>
+    <lex disamb="1"><base>naczelnik</base><ctag>subst:pl:gen:m1</ctag></lex>
+    <ann chan="chunk_agp">5</ann>
+    <ann chan="chunk_np">5</ann>
+    <ann chan="chunk_head_agp">5</ann>
+    <ann chan="chunk_head_np">5</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>Wydziałów</orth>
+    <lex disamb="1"><base>wydział</base><ctag>subst:pl:gen:m3</ctag></lex>
+    <ann chan="chunk_agp">6</ann>
+    <ann chan="chunk_np">5</ann>
+    <ann chan="chunk_head_agp">6</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>oraz</orth>
+    <lex disamb="1"><base>oraz</base><ctag>conj</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>innych</orth>
+    <lex disamb="1"><base>inny</base><ctag>adj:pl:gen:m1:pos</ctag></lex>
+    <ann chan="chunk_agp">7</ann>
+    <ann chan="chunk_np">6</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>pracowników</orth>
+    <lex disamb="1"><base>pracownik</base><ctag>subst:pl:gen:m1</ctag></lex>
+    <ann chan="chunk_agp">7</ann>
+    <ann chan="chunk_np">6</ann>
+    <ann chan="chunk_head_agp">7</ann>
+    <ann chan="chunk_head_np">6</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>Urzędu</orth>
+    <lex disamb="1"><base>urząd</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="chunk_agp">8</ann>
+    <ann chan="chunk_np">6</ann>
+    <ann chan="chunk_head_agp">8</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="chunk_agp">9</ann>
+    <ann chan="chunk_np">7</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>realizacji</orth>
+    <lex disamb="1"><base>realizacja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="chunk_agp">9</ann>
+    <ann chan="chunk_np">7</ann>
+    <ann chan="chunk_head_agp">9</ann>
+    <ann chan="chunk_head_np">7</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">2</ann>
+   </tok>
+   <tok>
+    <orth>niektórych</orth>
+    <lex disamb="1"><base>niektóry</base><ctag>adj:pl:gen:n:pos</ctag></lex>
+    <ann chan="chunk_agp">10</ann>
+    <ann chan="chunk_np">7</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>swoich</orth>
+    <lex disamb="1"><base>swój</base><ctag>adj:pl:gen:n:pos</ctag></lex>
+    <ann chan="chunk_agp">10</ann>
+    <ann chan="chunk_np">7</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>zadań</orth>
+    <lex disamb="1"><base>zadanie</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="chunk_agp">10</ann>
+    <ann chan="chunk_np">7</ann>
+    <ann chan="chunk_head_agp">10</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">7</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <tok>
+    <orth>kompetencji</orth>
+    <lex disamb="1"><base>kompetencja</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="chunk_agp">11</ann>
+    <ann chan="chunk_np">7</ann>
+    <ann chan="chunk_head_agp">11</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="chunk_agp">0</ann>
+    <ann chan="chunk_np">0</ann>
+    <ann chan="chunk_head_agp">0</ann>
+    <ann chan="chunk_head_np">0</ann>
+    <ann chan="chunk_vp">0</ann>
+    <ann chan="chunk_head_vp">0</ann>
+    <ann chan="i_state">0</ann>
+    <ann chan="action">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

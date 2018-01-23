@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Wyniki</orth>
+    <lex disamb="1"><base>wynik</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+   </tok>
+   <tok>
+    <orth>etapu</orth>
+    <lex disamb="1"><base>etap</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+   </tok>
+   <tok>
+    <orth>określania</orth>
+    <lex disamb="1"><base>określać</base><ctag>ger:sg:gen:n:imperf:aff</ctag></lex>
+    <ann chan="action">1</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">1</ann>
+   </tok>
+   <tok>
+    <orth>wymagań</orth>
+    <lex disamb="1"><base>wymaganie</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="action">2</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">2</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+   </tok>
+   <tok>
+    <orth>system</orth>
+    <lex disamb="1"><base>system</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">1</ann>
+    <ann chan="predykat">0</ann>
+   </tok>
+   <tok>
+    <orth>informatyczny</orth>
+    <lex disamb="1"><base>informatyczny</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">1</ann>
+    <ann chan="predykat">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent2">
+   <tok>
+    <orth>Wynikiem</orth>
+    <lex disamb="1"><base>wynik</base><ctag>subst:sg:inst:m3</ctag></lex>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>fazy</orth>
+    <lex disamb="1"><base>faza</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>określania</orth>
+    <lex disamb="1"><base>określać</base><ctag>ger:sg:gen:n:imperf:aff</ctag></lex>
+    <ann chan="action">1</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">1</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>wymagań</orth>
+    <lex disamb="1"><base>wymaganie</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="action">2</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">2</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>system</orth>
+    <lex disamb="1"><base>system</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>informatyczny</orth>
+    <lex disamb="1"><base>informatyczny</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>jest</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>dokument</orth>
+    <lex disamb="1"><base>dokument</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">1</ann>
+   </tok>
+   <tok>
+    <orth>zawierający</orth>
+    <lex disamb="1"><base>zawierać</base><ctag>pact:sg:nom:m3:imperf:aff</ctag></lex>
+    <ann chan="action">0</ann>
+    <ann chan="state">1</ann>
+    <ann chan="predykat">3</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>następujące</orth>
+    <lex disamb="1"><base>następujący</base><ctag>adj:pl:acc:m3:pos</ctag></lex>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">4</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>elementy</orth>
+    <lex disamb="1"><base>element</base><ctag>subst:pl:acc:m3</ctag></lex>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">2</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch3">
+  <sentence id="sent3">
+   <tok>
+    <orth>Wprowadzenie</orth>
+    <lex disamb="1"><base>wprowadzenie</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>–</orth>
+    <lex disamb="1"><base>–</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>cele</orth>
+    <lex disamb="1"><base>cel</base><ctag>subst:pl:acc:m3</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>zakres</orth>
+    <lex disamb="1"><base>zakres</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>kontekst</orth>
+    <lex disamb="1"><base>kontekst</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>systemu</orth>
+    <lex disamb="1"><base>system</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>;</orth>
+    <lex disamb="1"><base>;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>Opis</orth>
+    <lex disamb="1"><base>opis</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">1</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">1</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>wymagań</orth>
+    <lex disamb="1"><base>wymaganie</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">2</ann>
+    <ann chan="keyword">1</ann>
+    <ann chan="predykat">2</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>funkcjonalnych</orth>
+    <lex disamb="1"><base>funkcjonalny</base><ctag>adj:pl:gen:n:pos</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">1</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>;</orth>
+    <lex disamb="1"><base>;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>Opis</orth>
+    <lex disamb="1"><base>opis</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">3</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">3</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>wymagań</orth>
+    <lex disamb="1"><base>wymaganie</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">4</ann>
+    <ann chan="keyword">2</ann>
+    <ann chan="predykat">4</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>niefunkcjonalnych</orth>
+    <lex disamb="1"><base>niefunkcjonalny</base><ctag>adj:pl:gen:n:pos</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">2</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>;</orth>
+    <lex disamb="1"><base>;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>Opis</orth>
+    <lex disamb="1"><base>opis</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">5</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">5</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>ewolucji</orth>
+    <lex disamb="1"><base>ewolucja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">6</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">6</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>systemu</orth>
+    <lex disamb="1"><base>system</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>;</orth>
+    <lex disamb="1"><base>;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>Model</orth>
+    <lex disamb="1"><base>model</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">3</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>logiczny</orth>
+    <lex disamb="1"><base>logiczny</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">3</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>systemu</orth>
+    <lex disamb="1"><base>system</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">3</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>opracowany</orth>
+    <lex disamb="1"><base>opracować</base><ctag>ppas:sg:nom:m3:perf:aff</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">7</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>przy</orth>
+    <lex disamb="1"><base>przy</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>użyciu</orth>
+    <lex disamb="1"><base>użycie</base><ctag>subst:sg:loc:n</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">8</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>np</orth>
+    <lex disamb="1"><base>na przykład</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>UML</orth>
+    <lex disamb="1"><base>uml</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_oth_tech">1</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">4</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+    <prop key="nam_oth_tech:lemma">UML</prop>
+   </tok>
+   <tok>
+    <orth>Słownik</orth>
+    <lex disamb="1"><base>słownik</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>terminów</orth>
+    <lex disamb="1"><base>termin</base><ctag>subst:pl:gen:m3</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">1</ann>
+   </tok>
+   <tok>
+    <orth>niejednoznacznych</orth>
+    <lex disamb="1"><base>niejednoznaczny</base><ctag>adj:pl:gen:m3:pos</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">7</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>dla</orth>
+    <lex disamb="1"><base>dla</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>udziałowców</orth>
+    <lex disamb="1"><base>udziałowiec</base><ctag>subst:pl:gen:m1</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>przedsięwzięcia</orth>
+    <lex disamb="1"><base>przedsięwzięcie</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">9</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <tok>
+    <orth>projektowego</orth>
+    <lex disamb="1"><base>projektowy</base><ctag>adj:sg:gen:n:pos</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="keyword">0</ann>
+    <ann chan="predykat">0</ann>
+    <ann chan="argument">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch4">
+  <sentence id="sent4">
+   <tok>
+    <orth>Dokument</orth>
+    <lex disamb="1"><base>dokument</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_pro_title_document">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+   </tok>
+   <tok>
+    <orth>„</orth>
+    <lex disamb="1"><base>„</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_title_document">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>Wymagania</orth>
+    <lex disamb="1"><base>wymaganie</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_pro_title_document">1</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="action">1</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+    <prop key="nam_pro_title_document:lemma">Wymagania na system informatyczny</prop>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <ann chan="nam_pro_title_document">1</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+   </tok>
+   <tok>
+    <orth>system</orth>
+    <lex disamb="1"><base>system</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_pro_title_document">1</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+   </tok>
+   <tok>
+    <orth>informatyczny</orth>
+    <lex disamb="1"><base>informatyczny</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <ann chan="nam_pro_title_document">1</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>”</orth>
+    <lex disamb="1"><base>”</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_title_document">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+   </tok>
+   <tok>
+    <orth>stanowi</orth>
+    <lex disamb="1"><base>stanowić</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_pro_title_document">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">1</ann>
+    <ann chan="predykat">0</ann>
+   </tok>
+   <tok>
+    <orth>podstawę</orth>
+    <lex disamb="1"><base>podstawa</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="nam_pro_title_document">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_pro_title_document">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+   </tok>
+   <tok>
+    <orth>realizacji</orth>
+    <lex disamb="1"><base>realizacja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_pro_title_document">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="action">2</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">1</ann>
+   </tok>
+   <tok>
+    <orth>dalszych</orth>
+    <lex disamb="1"><base>daleki</base><ctag>adj:pl:gen:f:com</ctag></lex>
+    <ann chan="nam_pro_title_document">0</ann>
+    <ann chan="wsd_daleki">1</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+   </tok>
+   <tok>
+    <orth>prac</orth>
+    <lex disamb="1"><base>praca</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="nam_pro_title_document">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="action">3</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">2</ann>
+   </tok>
+   <tok>
+    <orth>projektowych</orth>
+    <lex disamb="1"><base>projektowy</base><ctag>adj:pl:gen:f:pos</ctag></lex>
+    <ann chan="nam_pro_title_document">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+   </tok>
+   <tok>
+    <orth>nad</orth>
+    <lex disamb="1"><base>nad</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="nam_pro_title_document">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+   </tok>
+   <tok>
+    <orth>systemem</orth>
+    <lex disamb="1"><base>system</base><ctag>subst:sg:inst:m3</ctag></lex>
+    <ann chan="nam_pro_title_document">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_title_document">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_pro_title_document">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+   </tok>
+   <tok>
+    <orth>tym</orth>
+    <lex disamb="1"><base>to</base><ctag>subst:sg:loc:n</ctag></lex>
+    <ann chan="nam_pro_title_document">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_pro_title_document">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+   </tok>
+   <tok>
+    <orth>opracowania</orth>
+    <lex disamb="1"><base>opracować</base><ctag>ger:sg:gen:n:perf:aff</ctag></lex>
+    <ann chan="nam_pro_title_document">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="action">4</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">3</ann>
+   </tok>
+   <tok>
+    <orth>testów</orth>
+    <lex disamb="1"><base>test</base><ctag>subst:pl:gen:m3</ctag></lex>
+    <ann chan="nam_pro_title_document">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">4</ann>
+   </tok>
+   <tok>
+    <orth>akceptacyjnych</orth>
+    <lex disamb="1"><base>akceptacyjnych</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_pro_title_document">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+   </tok>
+   <tok>
+    <orth>systemu</orth>
+    <lex disamb="1"><base>system</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_pro_title_document">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_title_document">0</ann>
+    <ann chan="wsd_daleki">0</ann>
+    <ann chan="action">0</ann>
+    <ann chan="state">0</ann>
+    <ann chan="predykat">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

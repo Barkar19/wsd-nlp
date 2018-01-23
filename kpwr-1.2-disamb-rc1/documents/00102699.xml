@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>dzień</orth>
+    <lex disamb="1"><base>dzień</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="wsd_dzień">1</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <prop key="sense:wsd_dzień">dzień-2</prop>
+   </tok>
+   <tok>
+    <orth>dobry</orth>
+    <lex disamb="1"><base>dobry</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+   </tok>
+   <tok>
+    <orth>xxx</orth>
+    <lex disamb="1"><base>xxx</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+   </tok>
+   <tok>
+    <orth>czym</orth>
+    <lex disamb="1"><base>co</base><ctag>subst:sg:loc:n</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+   </tok>
+   <tok>
+    <orth>mogę</orth>
+    <lex disamb="1"><base>móc</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+   </tok>
+   <tok>
+    <orth>pomóc</orth>
+    <lex disamb="1"><base>pomóc</base><ctag>inf:perf</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent2">
+   <tok>
+    <orth>dzień</orth>
+    <lex disamb="1"><base>dzień</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="wsd_dzień">1</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_powiedzieć">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <prop key="sense:wsd_dzień">dzień-2</prop>
+   </tok>
+   <tok>
+    <orth>dobry</orth>
+    <lex disamb="1"><base>dobry</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">1</ann>
+    <ann chan="wsd_powiedzieć">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_powiedzieć">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+   <tok>
+    <orth>powiedział</orth>
+    <lex disamb="1"><base>powiedzieć</base><ctag>praet:sg:m1:perf</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_powiedzieć">1</ann>
+    <ann chan="wsd_pan">0</ann>
+    <prop key="sense:wsd_powiedzieć">powiedzieć-2</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>by</orth>
+    <lex disamb="1"><base>by</base><ctag>qub</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_powiedzieć">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+   <tok>
+    <orth>mi</orth>
+    <lex disamb="1"><base>ja</base><ctag>ppron12:sg:dat:m1:pri:nakc</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_powiedzieć">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+   <tok>
+    <orth>pan</orth>
+    <lex disamb="1"><base>Pan</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <lex disamb="1"><base>pan</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_powiedzieć">0</ann>
+    <ann chan="wsd_pan">1</ann>
+    <prop key="sense:wsd_pan">pan-2</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_powiedzieć">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+   <tok>
+    <orth>o</orth>
+    <lex disamb="1"><base>o</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_powiedzieć">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+   <tok>
+    <orth>której</orth>
+    <lex disamb="1"><base>który</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_powiedzieć">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+   <tok>
+    <orth>jest</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_powiedzieć">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+   <tok>
+    <orth>teraz</orth>
+    <lex disamb="1"><base>teraz</base><ctag>adv</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_powiedzieć">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+   <tok>
+    <orth>FILLER</orth>
+    <lex disamb="1"><base>filler</base><ctag>subst:sg:nom:m2</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_powiedzieć">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+   <tok>
+    <orth>autobus</orth>
+    <lex disamb="1"><base>autobus</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_powiedzieć">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+   <tok>
+    <orth>sto</orth>
+    <lex disamb="1"><base>sto</base><ctag>num:pl:nom:m2:rec</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_powiedzieć">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+   <tok>
+    <orth>dwa</orth>
+    <lex disamb="1"><base>dwa</base><ctag>num:pl:nom:m2:congr</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_powiedzieć">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+   <tok>
+    <orth>FILLER</orth>
+    <lex disamb="1"><base>filler</base><ctag>subst:sg:nom:m2</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_powiedzieć">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_powiedzieć">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+   <tok>
+    <orth>przystanku</orth>
+    <lex disamb="1"><base>przystanek</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_powiedzieć">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+   <tok>
+    <orth>Orzeł</orth>
+    <lex disamb="1"><base>Orzeł</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <lex disamb="1"><base>orzeł</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_fac_goe_stop">1</ann>
+    <ann chan="nam_fac_goe">1</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_powiedzieć">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <prop key="nam_fac_goe_stop:lemma">Orzeł</prop>
+    <prop key="nam_fac_goe:lemma">Orzeł</prop>
+   </tok>
+   <tok>
+    <orth>chyba</orth>
+    <lex disamb="1"><base>chyba</base><ctag>qub</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_powiedzieć">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch3">
+  <sentence id="sent3">
+   <tok>
+    <orth>tam</orth>
+    <lex disamb="1"><base>tam</base><ctag>adv</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>R</orth>
+    <lex disamb="1"><base>rocznik</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>rodzaj</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>rok</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+    <prop key="nam_fac_goe:lemma">RKS</prop>
+   </tok>
+   <tok>
+    <orth>K</orth>
+    <lex disamb="1"><base>kompania</base><ctag>brev:npun</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+   </tok>
+   <tok>
+    <orth>S</orth>
+    <lex disamb="1"><base>sekunda</base><ctag>brev:npun</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch4">
+  <sentence id="sent4">
+   <tok>
+    <orth>R</orth>
+    <lex disamb="1"><base>rocznik</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>rodzaj</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>rok</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_c">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_fac_goe:lemma">RSC Orzeł</prop>
+   </tok>
+   <tok>
+    <orth>C</orth>
+    <lex disamb="1"><base>cent</base><ctag>brev:npun</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_c">1</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_c">c-10</prop>
+   </tok>
+   <tok>
+    <orth>S</orth>
+    <lex disamb="1"><base>sekunda</base><ctag>brev:npun</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_c">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Orzeł</orth>
+    <lex disamb="1"><base>Orzeł</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <lex disamb="1"><base>orzeł</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_c">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>coś</orth>
+    <lex disamb="1"><base>coś</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_c">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>tam</orth>
+    <lex disamb="1"><base>tam</base><ctag>qub</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_c">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_c">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>stronę</orth>
+    <lex disamb="1"><base>strona</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_c">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Śródmieścia</orth>
+    <lex disamb="1"><base>śródmieście</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_district">1</ann>
+    <ann chan="wsd_c">0</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_loc_gpe_district:lemma">Śródmieście</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_c">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_c">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_district">0</ann>
+    <ann chan="wsd_c">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch5">
+  <sentence id="sent5">
+   <tok>
+    <orth>najbliższy</orth>
+    <lex disamb="1"><base>bliski</base><ctag>adj:sg:nom:m3:sup</ctag></lex>
+    <ann chan="wsd_bliski">1</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+   </tok>
+   <tok>
+    <orth>odjazd</orth>
+    <lex disamb="1"><base>odjazd</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="wsd_bliski">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+   </tok>
+   <tok>
+    <orth>będzie</orth>
+    <lex disamb="1"><base>być</base><ctag>bedzie:sg:ter:imperf</ctag></lex>
+    <ann chan="wsd_bliski">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+   </tok>
+   <tok>
+    <orth>o</orth>
+    <lex disamb="1"><base>o</base><ctag>prep:loc</ctag></lex>
+    <ann chan="wsd_bliski">0</ann>
+    <ann chan="t3_time">0</ann>
+    <ann chan="plimex_time">0</ann>
+   </tok>
+   <tok>
+    <orth>godzinie</orth>
+    <lex disamb="1"><base>godzina</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="wsd_bliski">0</ann>
+    <ann chan="t3_time">1</ann>
+    <ann chan="plimex_time">1</ann>
+    <prop key="t3_time:lemma">xxxx-xx-xxT13:28</prop>
+    <prop key="t3_time:lemma2">2007-03-23T13:28</prop>
+    <prop key="plimex_time:lemma">xxxx-xx-xxT13:28</prop>
+   </tok>
+   <tok>
+    <orth>trzynastej</orth>
+    <lex disamb="1"><base>trzynasty</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+    <ann chan="wsd_bliski">0</ann>
+    <ann chan="t3_time">1</ann>
+    <ann chan="plimex_time">1</ann>
+   </tok>
+   <tok>
+    <orth>dwadzieścia</orth>
+    <lex disamb="1"><base>dwadzieścia</base><ctag>num:pl:acc:m3:rec</ctag></lex>
+    <ann chan="wsd_bliski">0</ann>
+    <ann chan="t3_time">1</ann>
+    <ann chan="plimex_time">1</ann>
+   </tok>
+   <tok>
+    <orth>osiem</orth>
+    <lex disamb="1"><base>osiem</base><ctag>num:pl:acc:m3:rec</ctag></lex>
+    <ann chan="wsd_bliski">0</ann>
+    <ann chan="t3_time">1</ann>
+    <ann chan="plimex_time">1</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch6">
+  <sentence id="sent6">
+   <tok>
+    <orth>następny</orth>
+    <lex disamb="1"><base>następny</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch7">
+  <sentence id="sent7">
+   <tok>
+    <orth>czterdzieści</orth>
+    <lex disamb="1"><base>czterdzieści</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="t3_time">1</ann>
+    <ann chan="plimex_time">1</ann>
+    <prop key="t3_time:lemma">xxxx-xx-xxtxx:44</prop>
+    <prop key="t3_time:lemma2">2007-03-23T13:44</prop>
+    <prop key="plimex_time:lemma">xxxx-xx-xxtxx:44</prop>
+   </tok>
+   <tok>
+    <orth>cztery</orth>
+    <lex disamb="1"><base>cztery</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="t3_time">1</ann>
+    <ann chan="plimex_time">1</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch8">
+  <sentence id="sent8">
+   <tok>
+    <orth>dziękuję</orth>
+    <lex disamb="1"><base>dziękować</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="wsd_dziękować">1</ann>
+    <prop key="sense:wsd_dziękować">dziękować-1</prop>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch9">
+  <sentence id="sent9">
+   <tok>
+    <orth>bardzo</orth>
+    <lex disamb="1"><base>bardzo</base><ctag>adv:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+   </tok>
+   <tok>
+    <orth>widzenia</orth>
+    <lex disamb="1"><base>widzenie</base><ctag>subst:sg:gen:n</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch10">
+  <sentence id="sent10">
+   <tok>
+    <orth>proszę</orth>
+    <lex disamb="1"><base>prosić</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="wsd_prosić">1</ann>
+    <prop key="sense:wsd_prosić">prosić-11</prop>
+   </tok>
+   <tok>
+    <orth>bardzo</orth>
+    <lex disamb="1"><base>bardzo</base><ctag>adv:pos</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch11">
+  <sentence id="sent11">
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+   </tok>
+   <tok>
+    <orth>usłyszenia</orth>
+    <lex disamb="1"><base>usłyszenie</base><ctag>subst:sg:gen:n</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

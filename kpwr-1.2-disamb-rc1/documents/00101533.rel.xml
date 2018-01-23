@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent7" chan="nam_org_institution">1</from>
+   <to sent="sent7" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent11" chan="nam_org_institution">1</from>
+   <to sent="sent11" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent11" chan="nam_org_institution">3</from>
+   <to sent="sent11" chan="nam_loc_gpe_city">3</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent18" chan="nam_liv_person">1</from>
+   <to sent="sent18" chan="nam_org_political_party">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent11" chan="nam_org_institution">3</from>
+   <to sent="sent7" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent11" chan="nam_loc_gpe_city">3</from>
+   <to sent="sent7" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent20" chan="nam_liv_person">1</from>
+   <to sent="sent18" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent21" chan="anafora_wyznacznik">1</from>
+   <to sent="sent22" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent2" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_org_nation">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent3" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_org_nation">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent3" chan="anafora_wyznacznik">2</from>
+   <to sent="sent2" chan="nam_org_nation">1</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent6" chan="spatial_indicator_3">1</from>
+   <to sent="sent6" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent6" chan="spatial_indicator_3">1</from>
+   <to sent="sent6" chan="spatial_object">2</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent7" chan="spatial_indicator_3">1</from>
+   <to sent="sent7" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent7" chan="spatial_indicator_3">1</from>
+   <to sent="sent7" chan="spatial_object">2</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent11" chan="spatial_indicator_3">1</from>
+   <to sent="sent11" chan="spatial_object">1</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent11" chan="spatial_indicator_3">1</from>
+   <to sent="sent11" chan="spatial_object">2</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent11" chan="spatial_indicator_3">2</from>
+   <to sent="sent11" chan="spatial_object">3</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent11" chan="spatial_indicator_3">2</from>
+   <to sent="sent11" chan="spatial_object">4</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent13" chan="spatial_indicator_3">1</from>
+   <to sent="sent13" chan="spatial_object">2</to>
+  </rel>
+ <rel name="landmark" set="Spatial relations (final)">
+   <from sent="sent13" chan="spatial_indicator_3">2</from>
+   <to sent="sent13" chan="spatial_object">3</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent13" chan="spatial_indicator_3">1</from>
+   <to sent="sent13" chan="spatial_object">1</to>
+  </rel>
+ <rel name="trajector" set="Spatial relations (final)">
+   <from sent="sent13" chan="spatial_indicator_3">2</from>
+   <to sent="sent13" chan="spatial_object">2</to>
+  </rel>
+</relations>

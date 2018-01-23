@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent11" chan="nam_org_institution">1</from>
+   <to sent="sent1" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent21" chan="nam_org_institution">1</from>
+   <to sent="sent1" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent31" chan="nam_org_institution">1</from>
+   <to sent="sent1" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent41" chan="nam_org_institution">1</from>
+   <to sent="sent1" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent2" chan="nam_org_institution">1</from>
+   <to sent="sent1" chan="nam_org_institution">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_org_institution">1</from>
+   <to sent="sent1" chan="nam_org_institution">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent11" chan="nam_org_institution">2</from>
+   <to sent="sent1" chan="nam_org_institution">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent12" chan="nam_org_institution">1</from>
+   <to sent="sent1" chan="nam_org_institution">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent15" chan="nam_org_institution">1</from>
+   <to sent="sent1" chan="nam_org_institution">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent21" chan="nam_org_institution">2</from>
+   <to sent="sent1" chan="nam_org_institution">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent22" chan="nam_org_institution">1</from>
+   <to sent="sent1" chan="nam_org_institution">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent25" chan="nam_org_institution">1</from>
+   <to sent="sent1" chan="nam_org_institution">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent31" chan="nam_org_institution">2</from>
+   <to sent="sent1" chan="nam_org_institution">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent32" chan="nam_org_institution">1</from>
+   <to sent="sent1" chan="nam_org_institution">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent35" chan="nam_org_institution">1</from>
+   <to sent="sent1" chan="nam_org_institution">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent41" chan="nam_org_institution">2</from>
+   <to sent="sent1" chan="nam_org_institution">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent42" chan="nam_org_institution">1</from>
+   <to sent="sent1" chan="nam_org_institution">2</to>
+  </rel>
+</relations>

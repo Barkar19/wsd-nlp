@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent1" chan="nam_org_company">2</from>
+   <to sent="sent1" chan="nam_org_company">3</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent2" chan="nam_liv_person">1</from>
+   <to sent="sent2" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent3" chan="nam_liv_person">1</from>
+   <to sent="sent3" chan="nam_pro_media_web">1</to>
+  </rel>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent12" chan="nam_org_group">1</from>
+   <to sent="sent12" chan="nam_org_group">2</to>
+  </rel>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent3" chan="nam_org_company">1</from>
+   <to sent="sent3" chan="nam_org_company">2</to>
+  </rel>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent4" chan="nam_org_company">1</from>
+   <to sent="sent4" chan="nam_org_company">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent1" chan="nam_org_company">5</from>
+   <to sent="sent1" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent2" chan="nam_org_company">1</from>
+   <to sent="sent1" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent3" chan="nam_org_company">3</from>
+   <to sent="sent1" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_org_company">1</from>
+   <to sent="sent1" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent1" chan="nam_org_company">4</from>
+   <to sent="sent1" chan="nam_org_company">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent2" chan="nam_org_company">2</from>
+   <to sent="sent1" chan="nam_org_company">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent3" chan="nam_org_company">1</from>
+   <to sent="sent1" chan="nam_org_company">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent3" chan="nam_org_company">2</from>
+   <to sent="sent1" chan="nam_org_company">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent4" chan="nam_org_company">1</from>
+   <to sent="sent1" chan="nam_org_company">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent4" chan="nam_org_company">2</from>
+   <to sent="sent1" chan="nam_org_company">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent3" chan="nam_liv_person">1</from>
+   <to sent="sent2" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent4" chan="nam_liv_person_last">1</from>
+   <to sent="sent2" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent3" chan="nam_pro_media_web">1</from>
+   <to sent="sent1" chan="nam_pro_media_web">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent2" chan="nam_pro_media_web">1</from>
+   <to sent="sent1" chan="nam_pro_media_web">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent6" chan="nam_pro_media_tv">1</from>
+   <to sent="sent1" chan="nam_pro_media_tv">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent7" chan="nam_pro_media_tv">1</from>
+   <to sent="sent1" chan="nam_pro_media_tv">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent8" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_pro_media_tv">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent9" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_pro_media_tv">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent10" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_pro_media_tv">1</to>
+  </rel>
+</relations>

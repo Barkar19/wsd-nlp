@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent2" chan="nam_org_company">2</from>
+   <to sent="sent2" chan="nam_org_company">3</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent2" chan="nam_org_company">1</from>
+   <to sent="sent2" chan="nam_org_company">2</to>
+  </rel>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent28" chan="nam_oth">1</from>
+   <to sent="sent28" chan="nam_pro_brand">1</to>
+  </rel>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent28" chan="nam_oth">2</from>
+   <to sent="sent28" chan="nam_pro_brand">2</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent28" chan="nam_pro_brand">1</from>
+   <to sent="sent28" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent28" chan="nam_pro_brand">2</from>
+   <to sent="sent28" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent2" chan="nam_org_company">3</from>
+   <to sent="sent2" chan="nam_org_company">2</to>
+  </rel>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent28" chan="nam_pro_brand">1</from>
+   <to sent="sent28" chan="nam_oth">1</to>
+  </rel>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent28" chan="nam_pro_brand">2</from>
+   <to sent="sent28" chan="nam_oth">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent4" chan="nam_org_company">2</from>
+   <to sent="sent2" chan="nam_org_company">4</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent19" chan="nam_org_company">1</from>
+   <to sent="sent2" chan="nam_org_company">4</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent23" chan="nam_org_company">1</from>
+   <to sent="sent2" chan="nam_org_company">4</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent16" chan="nam_pro_brand">1</from>
+   <to sent="sent4" chan="nam_pro_brand">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent18" chan="nam_pro_brand">1</from>
+   <to sent="sent4" chan="nam_pro_brand">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent24" chan="nam_pro_brand">1</from>
+   <to sent="sent4" chan="nam_pro_brand">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent19" chan="nam_pro_brand">1</from>
+   <to sent="sent4" chan="nam_pro_brand">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent23" chan="nam_org_company">2</from>
+   <to sent="sent2" chan="nam_org_company">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent25" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent25" chan="nam_eve_human">2</from>
+   <to sent="sent3" chan="nam_eve_human">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent14" chan="nam_pro_brand">1</from>
+   <to sent="sent8" chan="nam_pro_brand">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent10" chan="nam_pro_brand">1</from>
+   <to sent="sent8" chan="nam_pro_brand">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent11" chan="nam_pro_brand">1</from>
+   <to sent="sent8" chan="nam_pro_brand">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent12" chan="nam_pro_brand">1</from>
+   <to sent="sent8" chan="nam_pro_brand">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent28" chan="nam_pro_brand">1</from>
+   <to sent="sent17" chan="nam_pro_brand">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent28" chan="nam_org_company">1</from>
+   <to sent="sent17" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent28" chan="nam_org_company">2</from>
+   <to sent="sent17" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent11" chan="nam_org_company">2</from>
+   <to sent="sent10" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent10" chan="nam_org_company">3</from>
+   <to sent="sent9" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent5" chan="anafora_wyznacznik">1</from>
+   <to sent="sent4" chan="nam_pro_brand">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent6" chan="anafora_wyznacznik">1</from>
+   <to sent="sent4" chan="nam_pro_brand">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent19" chan="anafora_wyznacznik">1</from>
+   <to sent="sent4" chan="nam_pro_brand">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent21" chan="anafora_wyznacznik">1</from>
+   <to sent="sent4" chan="nam_pro_brand">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent23" chan="anafora_wyznacznik">1</from>
+   <to sent="sent22" chan="nam_pro_brand">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent24" chan="anafora_wyznacznik">1</from>
+   <to sent="sent22" chan="nam_pro_brand">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent24" chan="anafora_wyznacznik">2</from>
+   <to sent="sent22" chan="nam_pro_brand">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent2" chan="nam_org_company">1</from>
+   <to sent="sent1" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent3" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent4" chan="nam_org_company">1</from>
+   <to sent="sent2" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent7" chan="nam_org_company">1</from>
+   <to sent="sent2" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent7" chan="nam_org_company">2</from>
+   <to sent="sent2" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent24" chan="nam_org_company">1</from>
+   <to sent="sent2" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent22" chan="nam_org_company">1</from>
+   <to sent="sent2" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent19" chan="anafora_wyznacznik">2</from>
+   <to sent="sent2" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent9" chan="anafora_wyznacznik">1</from>
+   <to sent="sent9" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent10" chan="anafora_wyznacznik">1</from>
+   <to sent="sent10" chan="nam_org_company">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent11" chan="anafora_wyznacznik">1</from>
+   <to sent="sent11" chan="nam_org_company">1</to>
+  </rel>
+</relations>

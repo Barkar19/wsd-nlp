@@ -1,0 +1,1317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>xxx</orth>
+    <lex disamb="1"><base>xxx</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+   </tok>
+   <tok>
+    <orth>dzień</orth>
+    <lex disamb="1"><base>dzień</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="wsd_dzień">1</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <prop key="sense:wsd_dzień">dzień-2</prop>
+   </tok>
+   <tok>
+    <orth>dobry</orth>
+    <lex disamb="1"><base>dobry</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">1</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent2">
+   <tok>
+    <orth>FILLER</orth>
+    <lex disamb="1"><base>filler</base><ctag>subst:sg:nom:m2</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dobry</orth>
+    <lex disamb="1"><base>dobry</base><ctag>adj:sg:nom:m2:pos</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">1</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wieczór</orth>
+    <lex disamb="1"><base>wieczór</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">1</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_wieczór">wieczór-1</prop>
+   </tok>
+   <tok>
+    <orth>FILLER</orth>
+    <lex disamb="1"><base>filler</base><ctag>subst:sg:nom:m2</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>proszę</orth>
+    <lex disamb="1"><base>prosić</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">1</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_prosić">prosić-11</prop>
+   </tok>
+   <tok>
+    <orth>pana</orth>
+    <lex disamb="1"><base>Pan</base><ctag>subst:sg:acc:m1</ctag></lex>
+    <lex disamb="1"><base>pan</base><ctag>subst:sg:acc:m1</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">1</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_pan">pan-2</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>ja</orth>
+    <lex disamb="1"><base>ja</base><ctag>ppron12:sg:nom:m1:pri</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dzwonię</orth>
+    <lex disamb="1"><base>dzwonić</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>pana</orth>
+    <lex disamb="1"><base>Pan</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <lex disamb="1"><base>pan</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">2</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_pan">pan-2</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>żeby</orth>
+    <lex disamb="1"><base>żeby</base><ctag>comp</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>pan</orth>
+    <lex disamb="1"><base>Pan</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <lex disamb="1"><base>pan</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">3</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_pan">pan-2</prop>
+   </tok>
+   <tok>
+    <orth>mi</orth>
+    <lex disamb="1"><base>ja</base><ctag>ppron12:sg:dat:m1:pri:nakc</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>pomógł</orth>
+    <lex disamb="1"><base>pomóc</base><ctag>praet:sg:m1:perf:nagl</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dobrać</orth>
+    <lex disamb="1"><base>dobrać</base><ctag>inf:perf</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>najlepsze</orth>
+    <lex disamb="1"><base>dobry</base><ctag>adj:sg:acc:n:sup</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">2</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>połączenie</orth>
+    <lex disamb="1"><base>połączenie</base><ctag>subst:sg:acc:n</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>ulicy</orth>
+    <lex disamb="1"><base>ulica</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>Stępińska</orth>
+    <lex disamb="1"><base>stępiński</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="nam_fac_road">1</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_fac_road:lemma">stępiński</prop>
+   </tok>
+   <tok>
+    <orth>róg</orth>
+    <lex disamb="1"><base>Róg</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <tok>
+    <orth>Gagarina</orth>
+    <lex disamb="1"><base>Gagarin</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="nam_fac_road">2</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_last">1</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_fac_road:lemma">Gagarin</prop>
+    <prop key="nam_liv_person:lemma">Gagarin</prop>
+    <prop key="nam_liv_person_last:lemma">Gagarin</prop>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>FILLER</orth>
+    <lex disamb="1"><base>filler</base><ctag>subst:sg:nom:m2</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Dworzec</orth>
+    <lex disamb="1"><base>dworzec</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">1</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="keyword">3</ann>
+    <prop key="nam_fac_goe_stop:lemma">dworzec Stadion</prop>
+   </tok>
+   <tok>
+    <orth>Stadion</orth>
+    <lex disamb="1"><base>stadion</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_fac_goe_stop">1</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_wieczór">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="keyword">3</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch3">
+  <sentence id="sent3">
+   <tok>
+    <orth>Stępińska</orth>
+    <lex disamb="1"><base>stępiński</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="nam_fac_road">1</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <prop key="nam_fac_road:lemma">stępiński</prop>
+   </tok>
+   <tok>
+    <orth>róg</orth>
+    <lex disamb="1"><base>Róg</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+   </tok>
+   <tok>
+    <orth>Gagarina</orth>
+    <lex disamb="1"><base>Gagarin</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="nam_fac_road">2</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_last">1</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <prop key="nam_fac_road:lemma">Gagarin</prop>
+    <prop key="nam_liv_person:lemma">Gagarin</prop>
+    <prop key="nam_liv_person_last:lemma">Gagarin</prop>
+   </tok>
+   <tok>
+    <orth>FILLER</orth>
+    <lex disamb="1"><base>filler</base><ctag>subst:sg:nom:m2</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+   </tok>
+   <tok>
+    <orth>proszę</orth>
+    <lex disamb="1"><base>prosić</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="wsd_prosić">1</ann>
+    <prop key="sense:wsd_prosić">prosić-5</prop>
+   </tok>
+   <tok>
+    <orth>wsiąść</orth>
+    <lex disamb="1"><base>wsiąść</base><ctag>inf:perf</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+   </tok>
+   <tok>
+    <orth>FILLER</orth>
+    <lex disamb="1"><base>filler</base><ctag>subst:sg:nom:m2</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch4">
+  <sentence id="sent4">
+   <tok>
+    <orth>od</orth>
+    <lex disamb="1"><base>od</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+   </tok>
+   <tok>
+    <orth>Gagarina</orth>
+    <lex disamb="1"><base>Gagarin</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="nam_fac_road">1</ann>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_last">1</ann>
+    <prop key="nam_fac_road:lemma">Gagarin</prop>
+    <prop key="nam_liv_person:lemma">Gagarin</prop>
+    <prop key="nam_liv_person_last:lemma">Gagarin</prop>
+   </tok>
+   <tok>
+    <orth>róg</orth>
+    <lex disamb="1"><base>Róg</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+   </tok>
+   <tok>
+    <orth>Spacerowej</orth>
+    <lex disamb="1"><base>spacerowy</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="nam_fac_road">2</ann>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <prop key="nam_fac_road:lemma">spacerowy</prop>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch5">
+  <sentence id="sent5">
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+   </tok>
+   <tok>
+    <orth>autobus</orth>
+    <lex disamb="1"><base>autobus</base><ctag>subst:sg:acc:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>sto</orth>
+    <lex disamb="1"><base>sto</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+   </tok>
+   <tok>
+    <orth>sześćdziesiąt</orth>
+    <lex disamb="1"><base>sześćdziesiąt</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+   </tok>
+   <tok>
+    <orth>sześć</orth>
+    <lex disamb="1"><base>sześć</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch6">
+  <sentence id="sent6">
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>tym</orth>
+    <lex disamb="1"><base>ten</base><ctag>adj:sg:inst:m3:pos</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>autobusem</orth>
+    <lex disamb="1"><base>autobus</base><ctag>subst:sg:inst:m3</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dojedzie</orth>
+    <lex disamb="1"><base>dojechać</base><ctag>fin:sg:ter:perf</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>pani</orth>
+    <lex disamb="1"><base>pani</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>przystanku</orth>
+    <lex disamb="1"><base>przystanek</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>albo</orth>
+    <lex disamb="1"><base>albo</base><ctag>conj</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>jest</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>PKP</orth>
+    <lex disamb="1"><base>PKP</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_fac_goe_stop">1</ann>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_fac_goe_stop:lemma">PKP Stadion</prop>
+    <prop key="nam_org_company:lemma">PKP</prop>
+   </tok>
+   <tok>
+    <orth>Stadion</orth>
+    <lex disamb="1"><base>stadion</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_fac_goe_stop">1</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>tam</orth>
+    <lex disamb="1"><base>tam</base><ctag>adv</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>trzeba</orth>
+    <lex disamb="1"><base>trzeba</base><ctag>pred</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>było</orth>
+    <lex disamb="1"><base>być</base><ctag>praet:sg:n:imperf</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>by</orth>
+    <lex disamb="1"><base>by</base><ctag>qub</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>przejść</orth>
+    <lex disamb="1"><base>przejść</base><ctag>inf:perf</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>pod</orth>
+    <lex disamb="1"><base>pod</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>torami</orth>
+    <lex disamb="1"><base>tor</base><ctag>subst:pl:inst:m3</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dojść</orth>
+    <lex disamb="1"><base>dojść</base><ctag>inf:perf</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dworca</orth>
+    <lex disamb="1"><base>dworzec</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>albo</orth>
+    <lex disamb="1"><base>albo</base><ctag>conj</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>przy</orth>
+    <lex disamb="1"><base>przy</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Teatrze</orth>
+    <lex disamb="1"><base>teatr</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">1</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_fac_goe:lemma">Teatr Powszechny</prop>
+   </tok>
+   <tok>
+    <orth>Powszechnym</orth>
+    <lex disamb="1"><base>powszechny</base><ctag>adj:sg:loc:m3:pos</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">1</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>pred</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>jest</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>przystanek</orth>
+    <lex disamb="1"><base>przystanek</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Aleja</orth>
+    <lex disamb="1"><base>aleja</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_fac_goe_stop">2</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">1</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_fac_goe_stop:lemma">aleja Zieleniecka</prop>
+    <prop key="nam_fac_road:lemma">aleja Zieleniecka</prop>
+   </tok>
+   <tok>
+    <orth>Zieleniecka</orth>
+    <lex disamb="1"><base>zieleniecki</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="nam_fac_goe_stop">2</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">1</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>tam</orth>
+    <lex disamb="1"><base>tam</base><ctag>adv</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dworca</orth>
+    <lex disamb="1"><base>dworzec</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dojść</orth>
+    <lex disamb="1"><base>dojść</base><ctag>inf:perf</ctag></lex>
+    <ann chan="nam_fac_goe_stop">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch7">
+  <sentence id="sent7">
+   <tok>
+    <orth>a</orth>
+    <lex disamb="1"><base>a</base><ctag>conj</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>jest</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>ze</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:wok</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>Spacerowej</orth>
+    <lex disamb="1"><base>spacerowy</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="nam_fac_road">1</ann>
+    <prop key="nam_fac_road:lemma">spacerowy</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>a</orth>
+    <lex disamb="1"><base>a</base><ctag>conj</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>bliżej</orth>
+    <lex disamb="1"><base>blisko</base><ctag>adv:com</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>Stępińskiej</orth>
+    <lex disamb="1"><base>stępiński</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="nam_fac_road">2</ann>
+    <prop key="nam_fac_road:lemma">stępiński</prop>
+   </tok>
+   <tok>
+    <orth>żeby</orth>
+    <lex disamb="1"><base>żeby</base><ctag>comp</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>coś</orth>
+    <lex disamb="1"><base>coś</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>było</orth>
+    <lex disamb="1"><base>być</base><ctag>praet:sg:n:imperf</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch8">
+  <sentence id="sent8">
+   <tok>
+    <orth>bliżej</orth>
+    <lex disamb="1"><base>blisko</base><ctag>adv:com</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>Stępińskiej</orth>
+    <lex disamb="1"><base>stępiński</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="nam_fac_road">1</ann>
+    <prop key="nam_fac_road:lemma">stępiński</prop>
+   </tok>
+   <tok>
+    <orth>FILLER</orth>
+    <lex disamb="1"><base>filler</base><ctag>subst:sg:nom:m2</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>tylko</orth>
+    <lex disamb="1"><base>tylko</base><ctag>qub</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>przesiadkami</orth>
+    <lex disamb="1"><base>przesiadka</base><ctag>subst:pl:inst:f</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch9">
+  <sentence id="sent9">
+   <tok>
+    <orth>tylko</orth>
+    <lex disamb="1"><base>tylko</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>ale</orth>
+    <lex disamb="1"><base>ale</base><ctag>conj</ctag></lex>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>pred</ctag></lex>
+   </tok>
+   <tok>
+    <orth>może</orth>
+    <lex disamb="1"><base>móc</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>być</orth>
+    <lex disamb="1"><base>być</base><ctag>inf:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+   </tok>
+   <tok>
+    <orth>przesiadką</orth>
+    <lex disamb="1"><base>przesiadka</base><ctag>subst:sg:inst:f</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch10">
+  <sentence id="sent10">
+   <tok>
+    <orth>FILLER</orth>
+    <lex disamb="1"><base>filler</base><ctag>subst:sg:nom:m2</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>qub</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>mogę</orth>
+    <lex disamb="1"><base>móc</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>pani</orth>
+    <lex disamb="1"><base>pani</base><ctag>subst:sg:dat:f</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>zaproponować</orth>
+    <lex disamb="1"><base>zaproponować</base><ctag>inf:perf</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>taki</orth>
+    <lex disamb="1"><base>taki</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>dojazd</orth>
+    <lex disamb="1"><base>dojazd</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>FILLER</orth>
+    <lex disamb="1"><base>filler</base><ctag>subst:sg:nom:m2</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>sto</orth>
+    <lex disamb="1"><base>sto</base><ctag>num:pl:nom:m2:rec</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>osiemdziesiąt</orth>
+    <lex disamb="1"><base>osiemdziesiąt</base><ctag>num:pl:nom:m2:rec</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>FILLER</orth>
+    <lex disamb="1"><base>filler</base><ctag>subst:sg:nom:m2</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>Foksal</orth>
+    <lex disamb="1"><base>Foksal</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <lex disamb="1"><base>foksal</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_fac_road">1</ann>
+    <prop key="nam_fac_road:lemma">Foksal</prop>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch11">
+  <sentence id="sent11">
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>tutaj</orth>
+    <lex disamb="1"><base>tutaj</base><ctag>adv</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>tramwaje</orth>
+    <lex disamb="1"><base>tramwaj</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>siódemka</orth>
+    <lex disamb="1"><base>siódemka</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>ósemka</orth>
+    <lex disamb="1"><base>ósemka</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>dwadzieścia</orth>
+    <lex disamb="1"><base>dwadzieścia</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>pięć</orth>
+    <lex disamb="1"><base>pięć</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+   </tok>
+   <tok>
+    <orth>Alei</orth>
+    <lex disamb="1"><base>aleja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_fac_road">1</ann>
+    <prop key="nam_fac_road:lemma">aleja Zieleniecka</prop>
+   </tok>
+   <tok>
+    <orth>Zielenieckiej</orth>
+    <lex disamb="1"><base>zieleniecki</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="nam_fac_road">1</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch12">
+  <sentence id="sent12">
+   <tok>
+    <orth>dobrze</orth>
+    <lex disamb="1"><base>dobrze</base><ctag>adv:pos</ctag></lex>
+    <ann chan="wsd_dziękować">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_dziękować">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>conj</ctag></lex>
+    <ann chan="wsd_dziękować">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+   <tok>
+    <orth>dziękuję</orth>
+    <lex disamb="1"><base>dziękować</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="wsd_dziękować">1</ann>
+    <ann chan="wsd_pan">0</ann>
+    <prop key="sense:wsd_dziękować">dziękować-1</prop>
+   </tok>
+   <tok>
+    <orth>panu</orth>
+    <lex disamb="1"><base>pan</base><ctag>subst:sg:dat:m1</ctag></lex>
+    <ann chan="wsd_dziękować">0</ann>
+    <ann chan="wsd_pan">1</ann>
+    <prop key="sense:wsd_pan">pan-2</prop>
+   </tok>
+   <tok>
+    <orth>bardzo</orth>
+    <lex disamb="1"><base>bardzo</base><ctag>adv:pos</ctag></lex>
+    <ann chan="wsd_dziękować">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_dziękować">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+   <tok>
+    <orth>dobranoc</orth>
+    <lex disamb="1"><base>dobranoc</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="wsd_dziękować">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch13">
+  <sentence id="sent13">
+   <tok>
+    <orth>dziękuję</orth>
+    <lex disamb="1"><base>dziękować</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="wsd_dziękować">1</ann>
+    <prop key="sense:wsd_dziękować">dziękować-1</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_dziękować">0</ann>
+   </tok>
+   <tok>
+    <orth>dobranoc</orth>
+    <lex disamb="1"><base>dobranoc</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="wsd_dziękować">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch14">
+  <sentence id="sent14">
+   <tok>
+    <orth>dobranoc</orth>
+    <lex disamb="1"><base>dobranoc</base><ctag>subst:sg:nom:f</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

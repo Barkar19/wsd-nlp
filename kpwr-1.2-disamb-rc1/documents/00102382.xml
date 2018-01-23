@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Bzura</orth>
+    <lex disamb="1"><base>Bzura</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_org_group_team:lemma">Bzura Ozorków</prop>
+   </tok>
+   <tok>
+    <orth>Ozorków</orth>
+    <lex disamb="1"><base>Ozorków</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">1</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_loc_gpe_city:lemma">Ozorków</prop>
+   </tok>
+   <tok>
+    <orth>zremisowała</orth>
+    <lex disamb="1"><base>zremisować</base><ctag>praet:sg:f:perf</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>mecz</orth>
+    <lex disamb="1"><base>mecz</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Pucharze</orth>
+    <lex disamb="1"><base>puchar</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">1</ann>
+    <ann chan="keyword">2</ann>
+    <prop key="nam_eve_human_sport:lemma">Puchar Polski</prop>
+   </tok>
+   <tok>
+    <orth>Polski</orth>
+    <lex disamb="1"><base>Polska</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">1</ann>
+    <ann chan="keyword">2</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Ekologiem</orth>
+    <lex disamb="1"><base>ekolog</base><ctag>subst:sg:inst:m1</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">3</ann>
+    <prop key="nam_org_group_team:lemma">Ekolog Zduńska Wola</prop>
+   </tok>
+   <tok>
+    <orth>Zduńska</orth>
+    <lex disamb="1"><base>zduński</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">2</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">3</ann>
+    <prop key="nam_loc_gpe_city:lemma">Zduńska Wola</prop>
+   </tok>
+   <tok>
+    <orth>Wola</orth>
+    <lex disamb="1"><base>wola</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_group_team">2</ann>
+    <ann chan="nam_loc_gpe_city">2</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">3</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>pierwszym</orth>
+    <lex disamb="1"><base>pierwszy</base><ctag>adj:sg:loc:m3:pos</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>meczu</orth>
+    <lex disamb="1"><base>mecz</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>było</orth>
+    <lex disamb="1"><base>być</base><ctag>praet:sg:n:imperf</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>4</orth>
+    <lex disamb="1"><base>4</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex disamb="1"><base>0</base><ctag>num:pl:gen:m3:rec</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dla</orth>
+    <lex disamb="1"><base>dla</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>Ekologa</orth>
+    <lex disamb="1"><base>ekolog</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="nam_org_group_team">3</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="nam_org_group_team:lemma">Ekolog</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_group_team">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_eve_human_sport">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>Fortecki</orth>
+    <lex disamb="1"><base>fortecki</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person">1</ann>
+    <ann chan="nam_liv_person_last">1</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <prop key="nam_liv_person:lemma">Fortecki</prop>
+    <prop key="nam_liv_person_last:lemma">Fortecki</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+   </tok>
+   <tok>
+    <orth>Ciszewski</orth>
+    <lex disamb="1"><base>Ciszewski</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person">2</ann>
+    <ann chan="nam_liv_person_last">2</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <prop key="nam_liv_person:lemma">Ciszewski</prop>
+    <prop key="nam_liv_person_last:lemma">Ciszewski</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+   </tok>
+   <tok>
+    <orth>Suliński</orth>
+    <lex disamb="1"><base>Suliński</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person">3</ann>
+    <ann chan="nam_liv_person_last">3</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <prop key="nam_liv_person:lemma">Suliński</prop>
+    <prop key="nam_liv_person_last:lemma">Suliński</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+   </tok>
+   <tok>
+    <orth>Olejniczak</orth>
+    <lex disamb="1"><base>Olejniczak</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person">4</ann>
+    <ann chan="nam_liv_person_last">4</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <prop key="nam_liv_person:lemma">Olejniczak</prop>
+    <prop key="nam_liv_person_last:lemma">Olejniczak</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+   </tok>
+   <tok>
+    <orth>Borkowski</orth>
+    <lex disamb="1"><base>Borkowski</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person">5</ann>
+    <ann chan="nam_liv_person_last">5</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <prop key="nam_liv_person:lemma">Borkowski</prop>
+    <prop key="nam_liv_person_last:lemma">Borkowski</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+   </tok>
+   <tok>
+    <orth>Karolak</orth>
+    <lex disamb="1"><base>Karolak</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person">6</ann>
+    <ann chan="nam_liv_person_last">6</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <prop key="nam_liv_person:lemma">Karolak</prop>
+    <prop key="nam_liv_person_last:lemma">Karolak</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+   </tok>
+   <tok>
+    <orth>Szpiegowski</orth>
+    <lex disamb="1"><base>szpiegowski</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
+    <ann chan="nam_liv_person">7</ann>
+    <ann chan="nam_liv_person_last">7</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <prop key="nam_liv_person:lemma">Szpiegowski</prop>
+    <prop key="nam_liv_person_last:lemma">Szpiegowski</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+   </tok>
+   <tok>
+    <orth>Chmielecki</orth>
+    <lex disamb="1"><base>chmielecki</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_liv_person">8</ann>
+    <ann chan="nam_liv_person_last">8</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <prop key="nam_liv_person:lemma">Chmielecki</prop>
+    <prop key="nam_liv_person_last:lemma">Chmielecki</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+   </tok>
+   <tok>
+    <orth>Ziemniak</orth>
+    <lex disamb="1"><base>ziemniak</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_liv_person">9</ann>
+    <ann chan="nam_liv_person_last">9</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <prop key="nam_liv_person:lemma">Ziemniak</prop>
+    <prop key="nam_liv_person_last:lemma">Ziemniak</prop>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+   </tok>
+   <tok>
+    <orth>Banasiak</orth>
+    <lex disamb="1"><base>Banasiak</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person">10</ann>
+    <ann chan="nam_liv_person_last">10</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <prop key="nam_liv_person:lemma">Banasiak</prop>
+    <prop key="nam_liv_person_last:lemma">Banasiak</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+   </tok>
+   <tok>
+    <orth>Koziak</orth>
+    <lex disamb="1"><base>koziak</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person">11</ann>
+    <ann chan="nam_liv_person_last">11</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+    <prop key="nam_liv_person:lemma">Koziak Michał</prop>
+    <prop key="nam_liv_person_last:lemma">Koziak</prop>
+   </tok>
+   <tok>
+    <orth>Michał</orth>
+    <lex disamb="1"><base>Michał</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv_person">11</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_liv_person_first">1</ann>
+    <prop key="nam_liv_person_first:lemma">Michał</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv_person">0</ann>
+    <ann chan="nam_liv_person_last">0</ann>
+    <ann chan="nam_liv_person_first">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

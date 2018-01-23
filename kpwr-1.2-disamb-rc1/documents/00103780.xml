@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Budowa</orth>
+    <lex disamb="1"><base>budowa</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="nam_org_company">0</ann>
+   </tok>
+   <tok>
+    <orth>modelu</orth>
+    <lex disamb="1"><base>model</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="nam_org_company">0</ann>
+   </tok>
+   <tok>
+    <orth>Axial</orth>
+    <lex disamb="1"><base>axial</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_pro_model_car">1</ann>
+    <ann chan="nam_org_company">1</ann>
+    <prop key="nam_pro_model_car:lemma">Axial AX10 Scorpion</prop>
+    <prop key="nam_org_company:lemma">Axial</prop>
+   </tok>
+   <tok>
+    <orth>AX10</orth>
+    <lex disamb="1"><base>ax10</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_pro_model_car">1</ann>
+    <ann chan="nam_org_company">0</ann>
+   </tok>
+   <tok>
+    <orth>Scorpion</orth>
+    <lex disamb="1"><base>scorpion</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_pro_model_car">1</ann>
+    <ann chan="nam_org_company">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent2">
+   <tok>
+    <orth>Prezentujemy</orth>
+    <lex disamb="1"><base>prezentować</base><ctag>fin:pl:pri:imperf</ctag></lex>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>opis</orth>
+    <lex disamb="1"><base>opis</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>budowy</orth>
+    <lex disamb="1"><base>budowa</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>modelu</orth>
+    <lex disamb="1"><base>model</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>Axial</orth>
+    <lex disamb="1"><base>axial</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_pro_model_car">1</ann>
+    <ann chan="nam_org_company">1</ann>
+    <ann chan="keyword">1</ann>
+    <prop key="nam_pro_model_car:lemma">Axial AX10 Scorpion</prop>
+    <prop key="nam_org_company:lemma">Axial</prop>
+   </tok>
+   <tok>
+    <orth>AX10</orth>
+    <lex disamb="1"><base>ax10</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_pro_model_car">1</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>Scorpion</orth>
+    <lex disamb="1"><base>scorpion</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_pro_model_car">1</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>wersji</orth>
+    <lex disamb="1"><base>wersja</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>kit</orth>
+    <lex disamb="1"><base>kit</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_model_car">0</ann>
+    <ann chan="nam_org_company">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent3">
+   <tok>
+    <orth>Mamy</orth>
+    <lex disamb="1"><base>mieć</base><ctag>fin:pl:pri:imperf</ctag></lex>
+    <ann chan="wsd_biały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>nadzieję</orth>
+    <lex disamb="1"><base>Nadzieja</base><ctag>subst:sg:acc:f</ctag></lex>
+    <lex disamb="1"><base>nadzieja</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="wsd_biały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_biały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>ze</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:wok</ctag></lex>
+    <ann chan="wsd_biały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dzięki</orth>
+    <lex disamb="1"><base>dzięki</base><ctag>prep:dat</ctag></lex>
+    <ann chan="wsd_biały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dokładnym</orth>
+    <lex disamb="1"><base>dokładny</base><ctag>adj:pl:dat:f:pos</ctag></lex>
+    <ann chan="wsd_biały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>fotografiom</orth>
+    <lex disamb="1"><base>fotografia</base><ctag>subst:pl:dat:f</ctag></lex>
+    <ann chan="wsd_biały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>montowanych</orth>
+    <lex disamb="1"><base>montować</base><ctag>ppas:pl:gen:m3:imperf:aff</ctag></lex>
+    <ann chan="wsd_biały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>elementów</orth>
+    <lex disamb="1"><base>element</base><ctag>subst:pl:gen:m3</ctag></lex>
+    <ann chan="wsd_biały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_biały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>będzie</orth>
+    <lex disamb="1"><base>być</base><ctag>bedzie:sg:ter:imperf</ctag></lex>
+    <ann chan="wsd_biały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>on</orth>
+    <lex disamb="1"><base>on</base><ctag>ppron3:sg:nom:m1:ter:akc:npraep</ctag></lex>
+    <ann chan="wsd_biały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>przydatnym</orth>
+    <lex disamb="1"><base>przydatny</base><ctag>adj:sg:inst:n:pos</ctag></lex>
+    <ann chan="wsd_biały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>uzupełnieniem</orth>
+    <lex disamb="1"><base>uzupełnienie</base><ctag>subst:sg:inst:n</ctag></lex>
+    <ann chan="wsd_biały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>czarno</orth>
+    <lex disamb="1"><base>czarno</base><ctag>adv:pos</ctag></lex>
+    <ann chan="wsd_biały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_biały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>białej</orth>
+    <lex disamb="1"><base>biały</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="wsd_biały">1</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>instrukcji</orth>
+    <lex disamb="1"><base>instrukcja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="wsd_biały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>dołączanej</orth>
+    <lex disamb="1"><base>dołączać</base><ctag>ppas:sg:gen:f:imperf:aff</ctag></lex>
+    <ann chan="wsd_biały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="wsd_biały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>modelu</orth>
+    <lex disamb="1"><base>model</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="wsd_biały">0</ann>
+    <ann chan="anafora_wyznacznik">1</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_biały">0</ann>
+    <ann chan="anafora_wyznacznik">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch3">
+  <sentence id="sent4">
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="wsd_przyjąć">0</ann>
+   </tok>
+   <tok>
+    <orth>opisie</orth>
+    <lex disamb="1"><base>opis</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="wsd_przyjąć">0</ann>
+   </tok>
+   <tok>
+    <orth>przyjęli</orth>
+    <lex disamb="1"><base>przyjąć</base><ctag>praet:pl:m1:perf</ctag></lex>
+    <ann chan="wsd_przyjąć">1</ann>
+    <prop key="sense:wsd_przyjąć">przyjąć-5</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>śmy</orth>
+    <lex disamb="1"><base>być</base><ctag>aglt:pl:pri:imperf:nwok</ctag></lex>
+    <ann chan="wsd_przyjąć">0</ann>
+   </tok>
+   <tok>
+    <orth>następujące</orth>
+    <lex disamb="1"><base>następujący</base><ctag>adj:pl:acc:f:pos</ctag></lex>
+    <ann chan="wsd_przyjąć">0</ann>
+   </tok>
+   <tok>
+    <orth>konwencje</orth>
+    <lex disamb="1"><base>konwencja</base><ctag>subst:pl:acc:f</ctag></lex>
+    <ann chan="wsd_przyjąć">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_przyjąć">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch4">
+  <sentence id="sent5">
+   <tok>
+    <orth>[</orth>
+    <lex disamb="1"><base>[</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_oznaczać">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>10</orth>
+    <lex disamb="1"><base>10</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="wsd_oznaczać">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>]</orth>
+    <lex disamb="1"><base>]</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_oznaczać">0</ann>
+   </tok>
+   <tok>
+    <orth>oznacza</orth>
+    <lex disamb="1"><base>oznaczać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="wsd_oznaczać">1</ann>
+    <prop key="sense:wsd_oznaczać">oznaczać-2</prop>
+   </tok>
+   <tok>
+    <orth>dziesiąty</orth>
+    <lex disamb="1"><base>dziesiąty</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <ann chan="wsd_oznaczać">0</ann>
+   </tok>
+   <tok>
+    <orth>krok</orth>
+    <lex disamb="1"><base>krok</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="wsd_oznaczać">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="wsd_oznaczać">0</ann>
+   </tok>
+   <tok>
+    <orth>instrukcji</orth>
+    <lex disamb="1"><base>instrukcja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="wsd_oznaczać">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch5">
+  <sentence id="sent6">
+   <tok>
+    <orth>AXA000</orth>
+    <lex disamb="1"><base>axa000</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_pro_brand">1</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <prop key="nam_pro_brand:lemma">AXA000</prop>
+   </tok>
+   <tok>
+    <orth>oznacza</orth>
+    <lex disamb="1"><base>oznaczać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_oznaczać">1</ann>
+    <prop key="sense:wsd_oznaczać">oznaczać-2</prop>
+   </tok>
+   <tok>
+    <orth>część</orth>
+    <lex disamb="1"><base>część</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+   </tok>
+   <tok>
+    <orth>zestawu</orth>
+    <lex disamb="1"><base>zestaw</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+   </tok>
+   <tok>
+    <orth>oznaczoną</orth>
+    <lex disamb="1"><base>oznaczony</base><ctag>adj:sg:acc:f:pos</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+   </tok>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>AXA000</orth>
+    <lex disamb="1"><base>axa000</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_pro_brand">2</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <prop key="nam_pro_brand:lemma">AXA000</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch6">
+  <sentence id="sent7">
+   <tok>
+    <orth>AX00001</orth>
+    <lex disamb="1"><base>ax00001</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_pro_brand">1</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <prop key="nam_pro_brand:lemma">AX00001</prop>
+   </tok>
+   <tok>
+    <orth>oznacza</orth>
+    <lex disamb="1"><base>oznaczać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_oznaczać">1</ann>
+    <prop key="sense:wsd_oznaczać">oznaczać-2</prop>
+   </tok>
+   <tok>
+    <orth>element</orth>
+    <lex disamb="1"><base>element</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+   </tok>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+   </tok>
+   <tok>
+    <orth>drzewka</orth>
+    <lex disamb="1"><base>drzewko</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+   </tok>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>AX0000</orth>
+    <lex disamb="1"><base>ax0000</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_pro_brand">2</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+    <prop key="nam_pro_brand:lemma">AX0000</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_brand">0</ann>
+    <ann chan="wsd_oznaczać">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch7">
+  <sentence id="sent8">
+   <tok>
+    <orth>Składanie</orth>
+    <lex disamb="1"><base>składać</base><ctag>ger:sg:nom:n:imperf:aff</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>modelu</orth>
+    <lex disamb="1"><base>model</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="anafora_wyznacznik">1</ann>
+   </tok>
+   <tok>
+    <orth>podzielili</orth>
+    <lex disamb="1"><base>podzielić</base><ctag>praet:pl:m1:perf</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>śmy</orth>
+    <lex disamb="1"><base>być</base><ctag>aglt:pl:pri:imperf:nwok</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <tok>
+    <orth>etapy</orth>
+    <lex disamb="1"><base>etap</base><ctag>subst:pl:acc:m3</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="anafora_wyznacznik">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch8">
+  <sentence id="sent9">
+   <tok>
+    <orth>1</orth>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent10">
+   <tok>
+    <orth>Most</orth>
+    <lex disamb="1"><base>most</base><ctag>subst:sg:nom:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>tylny</orth>
+    <lex disamb="1"><base>tylny</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+   </tok>
+   <tok>
+    <orth>przedni</orth>
+    <lex disamb="1"><base>przedni</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch9">
+  <sentence id="sent11">
+   <tok>
+    <orth>2</orth>
+    <lex disamb="1"><base>2</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent12">
+   <tok>
+    <orth>Zwrotnice</orth>
+    <lex disamb="1"><base>zwrotnica</base><ctag>subst:pl:nom:f</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch10">
+  <sentence id="sent13">
+   <tok>
+    <orth>3</orth>
+    <lex disamb="1"><base>3</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent14">
+   <tok>
+    <orth>Zawieszenie</orth>
+    <lex disamb="1"><base>zawieszenie</base><ctag>subst:sg:nom:n</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch11">
+  <sentence id="sent15">
+   <tok>
+    <orth>4</orth>
+    <lex disamb="1"><base>4</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent16">
+   <tok>
+    <orth>Przekładnia</orth>
+    <lex disamb="1"><base>przekładnia</base><ctag>subst:sg:nom:f</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch12">
+  <sentence id="sent17">
+   <tok>
+    <orth>5</orth>
+    <lex disamb="1"><base>5</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent18">
+   <tok>
+    <orth>Rama</orth>
+    <lex disamb="1"><base>Rama</base><ctag>subst:sg:nom:m1</ctag></lex>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+   </tok>
+   <tok>
+    <orth>układ</orth>
+    <lex disamb="1"><base>układ</base><ctag>subst:sg:nom:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>kierowniczy</orth>
+    <lex disamb="1"><base>kierowniczy</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch13">
+  <sentence id="sent19">
+   <tok>
+    <orth>5</orth>
+    <lex disamb="1"><base>5</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent20">
+   <tok>
+    <orth>Osprzęt</orth>
+    <lex disamb="1"><base>osprzęt</base><ctag>subst:sg:nom:m3</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

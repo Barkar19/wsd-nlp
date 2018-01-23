@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent2" chan="nam_oth">1</from>
+   <to sent="sent2" chan="nam_oth">2</to>
+  </rel>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent6" chan="nam_oth">1</from>
+   <to sent="sent6" chan="nam_oth">2</to>
+  </rel>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent7" chan="nam_oth">1</from>
+   <to sent="sent7" chan="nam_oth">2</to>
+  </rel>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent8" chan="nam_oth">1</from>
+   <to sent="sent8" chan="nam_oth">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent2" chan="nam_oth">1</from>
+   <to sent="sent1" chan="nam_oth">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent4" chan="nam_fac_system">1</from>
+   <to sent="sent2" chan="nam_fac_system">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent4" chan="nam_fac_system">2</from>
+   <to sent="sent2" chan="nam_fac_system">2</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent4" chan="nam_oth">1</from>
+   <to sent="sent2" chan="nam_oth">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_oth">1</from>
+   <to sent="sent2" chan="nam_oth">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent6" chan="nam_oth">3</from>
+   <to sent="sent6" chan="nam_oth">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent7" chan="nam_oth">3</from>
+   <to sent="sent7" chan="nam_oth">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent9" chan="nam_oth">1</from>
+   <to sent="sent2" chan="nam_oth">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent10" chan="nam_oth">1</from>
+   <to sent="sent2" chan="nam_oth">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent2" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_oth">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent3" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_oth">1</to>
+  </rel>
+</relations>

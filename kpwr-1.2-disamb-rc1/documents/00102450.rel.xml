@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent5" chan="nam_eve_human">1</from>
+   <to sent="sent5" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent2" chan="nam_pro_software">2</from>
+   <to sent="sent2" chan="nam_pro_software">1</to>
+  </rel>
+</relations>

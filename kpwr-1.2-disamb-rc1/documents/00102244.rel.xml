@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent8" chan="nam_pro_title_document">2</from>
+   <to sent="sent8" chan="nam_pro_media_periodic">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent20" chan="nam_pro_title_document">1</from>
+   <to sent="sent20" chan="nam_pro_media_periodic">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent21" chan="nam_pro_title_treaty">1</from>
+   <to sent="sent21" chan="nam_pro_media_periodic">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent16" chan="nam_pro_media_periodic">1</from>
+   <to sent="sent8" chan="nam_pro_media_periodic">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent21" chan="nam_pro_media_periodic">1</from>
+   <to sent="sent8" chan="nam_pro_media_periodic">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent24" chan="nam_pro_media_periodic">1</from>
+   <to sent="sent8" chan="nam_pro_media_periodic">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent5" chan="nam_pro_title_document">1</from>
+   <to sent="sent2" chan="nam_pro_title_document">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent8" chan="nam_pro_title_document">1</from>
+   <to sent="sent2" chan="nam_pro_title_document">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent11" chan="nam_pro_title_document">1</from>
+   <to sent="sent2" chan="nam_pro_title_document">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent15" chan="nam_pro_title_document">1</from>
+   <to sent="sent2" chan="nam_pro_title_document">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent6" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent3" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent9" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent3" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent12" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent3" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent13" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent3" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent16" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent3" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent17" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent3" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent18" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent3" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent21" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent3" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent24" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent3" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent25" chan="nam_loc_gpe_country">1</from>
+   <to sent="sent3" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent6" chan="nam_pro_title_document">1</from>
+   <to sent="sent3" chan="nam_pro_title_document">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent9" chan="nam_pro_title_document">1</from>
+   <to sent="sent3" chan="nam_pro_title_document">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent12" chan="nam_pro_title_document">1</from>
+   <to sent="sent3" chan="nam_pro_title_document">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent13" chan="nam_pro_title_document">1</from>
+   <to sent="sent3" chan="nam_pro_title_document">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent16" chan="nam_pro_title_document">1</from>
+   <to sent="sent3" chan="nam_pro_title_document">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent17" chan="nam_pro_title_document">1</from>
+   <to sent="sent3" chan="nam_pro_title_document">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent18" chan="nam_pro_title_document">1</from>
+   <to sent="sent3" chan="nam_pro_title_document">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent21" chan="nam_pro_title_document">1</from>
+   <to sent="sent3" chan="nam_pro_title_document">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent24" chan="nam_pro_title_document">1</from>
+   <to sent="sent3" chan="nam_pro_title_document">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent25" chan="nam_pro_title_document">1</from>
+   <to sent="sent3" chan="nam_pro_title_document">1</to>
+  </rel>
+</relations>

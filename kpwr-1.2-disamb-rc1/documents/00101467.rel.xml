@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent3" chan="nam_liv_person">1</from>
+   <to sent="sent3" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="origin" set="Semantic relations">
+   <from sent="sent3" chan="nam_liv_person">1</from>
+   <to sent="sent3" chan="nam_liv_habitant">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent2" chan="nam_eve_human_sport">1</from>
+   <to sent="sent1" chan="nam_eve_human_sport">1</to>
+  </rel>
+ <rel name="actor" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent2" chan="predykat">2</from>
+   <to sent="sent2" chan="argument">4</to>
+  </rel>
+ <rel name="agent" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent2" chan="predykat">2</from>
+   <to sent="sent2" chan="argument">4</to>
+  </rel>
+ <rel name="attribute" set="Chunk semantic relations (NP, AdjP) 2">
+   <from sent="sent2" chan="argument">3</from>
+   <to sent="sent2" chan="predykat">1</to>
+  </rel>
+</relations>

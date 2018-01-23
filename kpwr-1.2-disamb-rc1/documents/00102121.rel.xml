@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="composition" set="Semantic relations">
+   <from sent="sent10" chan="nam_pro_brand">1</from>
+   <to sent="sent10" chan="nam_pro_model_car">1</to>
+  </rel>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent11" chan="nam_oth_tech">2</from>
+   <to sent="sent11" chan="nam_oth_tech">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent7" chan="nam_liv_person">1</from>
+   <to sent="sent3" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent12" chan="nam_oth_tech">1</from>
+   <to sent="sent11" chan="nam_oth_tech">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent7" chan="anafora_wyznacznik">1</from>
+   <to sent="sent7" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent11" chan="anafora_wyznacznik">1</from>
+   <to sent="sent10" chan="nam_pro_brand">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent11" chan="anafora_wyznacznik">2</from>
+   <to sent="sent11" chan="nam_oth_tech">1</to>
+  </rel>
+</relations>

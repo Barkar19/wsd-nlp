@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>xxx</orth>
+    <lex disamb="1"><base>xxx</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+   </tok>
+   <tok>
+    <orth>dzień</orth>
+    <lex disamb="1"><base>dzień</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="wsd_dzień">1</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <prop key="sense:wsd_dzień">dzień-2</prop>
+   </tok>
+   <tok>
+    <orth>dobry</orth>
+    <lex disamb="1"><base>dobry</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">1</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent2">
+   <tok>
+    <orth>FILLER</orth>
+    <lex disamb="1"><base>filler</base><ctag>subst:sg:nom:m2</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dzień</orth>
+    <lex disamb="1"><base>dzień</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="wsd_dzień">1</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_dzień">dzień-2</prop>
+   </tok>
+   <tok>
+    <orth>dobry</orth>
+    <lex disamb="1"><base>dobry</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">1</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>panu</orth>
+    <lex disamb="1"><base>pan</base><ctag>subst:sg:dat:m1</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">1</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_pan">pan-2</prop>
+   </tok>
+   <tok>
+    <orth>FILLER</orth>
+    <lex disamb="1"><base>filler</base><ctag>subst:sg:nom:m2</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>proszę</orth>
+    <lex disamb="1"><base>prosić</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_prosić">1</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_prosić">prosić-11</prop>
+   </tok>
+   <tok>
+    <orth>pana</orth>
+    <lex disamb="1"><base>Pan</base><ctag>subst:sg:acc:m1</ctag></lex>
+    <lex disamb="1"><base>pan</base><ctag>subst:sg:acc:m1</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">2</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_pan">pan-2</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>chodzi</orth>
+    <lex disamb="1"><base>chodzić</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">1</ann>
+    <ann chan="keyword">0</ann>
+    <prop key="sense:wsd_chodzić">chodzić-13</prop>
+   </tok>
+   <tok>
+    <orth>mi</orth>
+    <lex disamb="1"><base>ja</base><ctag>ppron12:sg:dat:m1:pri:nakc</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>o</orth>
+    <lex disamb="1"><base>o</base><ctag>prep:acc</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>informację</orth>
+    <lex disamb="1"><base>informacja</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>o</orth>
+    <lex disamb="1"><base>o</base><ctag>prep:loc</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>korzystaniu</orth>
+    <lex disamb="1"><base>korzystać</base><ctag>ger:sg:loc:n:imperf:aff</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>bezpłatnych</orth>
+    <lex disamb="1"><base>bezpłatny</base><ctag>adj:pl:gen:m3:pos</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>przejazdów</orth>
+    <lex disamb="1"><base>przejazd</base><ctag>subst:pl:gen:m3</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>kto</orth>
+    <lex disamb="1"><base>kto</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>może</orth>
+    <lex disamb="1"><base>móc</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>korzystać</orth>
+    <lex disamb="1"><base>korzystać</base><ctag>inf:imperf</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>czy</orth>
+    <lex disamb="1"><base>czy</base><ctag>qub</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>trzeba</orth>
+    <lex disamb="1"><base>trzeba</base><ctag>pred</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>mieć</orth>
+    <lex disamb="1"><base>mieć</base><ctag>inf:imperf</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>jakiś</orth>
+    <lex disamb="1"><base>jakiś</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dokument</orth>
+    <lex disamb="1"><base>dokument</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="wsd_dzień">0</ann>
+    <ann chan="wsd_dobry">0</ann>
+    <ann chan="wsd_pan">0</ann>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <ann chan="keyword">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch3">
+  <sentence id="sent3">
+   <tok>
+    <orth>proszę</orth>
+    <lex disamb="1"><base>prosić</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="wsd_prosić">1</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_konkretny">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <prop key="sense:wsd_prosić">prosić-11</prop>
+   </tok>
+   <tok>
+    <orth>pani</orth>
+    <lex disamb="1"><base>pani</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_konkretny">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_konkretny">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+   </tok>
+   <tok>
+    <orth>sporo</orth>
+    <lex disamb="1"><base>sporo</base><ctag>num:pl:nom:f:rec</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_konkretny">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+   </tok>
+   <tok>
+    <orth>osób</orth>
+    <lex disamb="1"><base>osoba</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_osoba">1</ann>
+    <ann chan="wsd_konkretny">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+    <prop key="sense:wsd_osoba">osoba-1</prop>
+   </tok>
+   <tok>
+    <orth>jest</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_konkretny">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_konkretny">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+   </tok>
+   <tok>
+    <orth>które</orth>
+    <lex disamb="1"><base>który</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_konkretny">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+   </tok>
+   <tok>
+    <orth>mogą</orth>
+    <lex disamb="1"><base>móc</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_konkretny">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+   </tok>
+   <tok>
+    <orth>korzystać</orth>
+    <lex disamb="1"><base>korzystać</base><ctag>inf:imperf</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_konkretny">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_konkretny">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+   </tok>
+   <tok>
+    <orth>o</orth>
+    <lex disamb="1"><base>o</base><ctag>prep:acc</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_konkretny">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+   </tok>
+   <tok>
+    <orth>jakąś</orth>
+    <lex disamb="1"><base>jakiś</base><ctag>adj:sg:acc:f:pos</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_konkretny">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+   </tok>
+   <tok>
+    <orth>konkretną</orth>
+    <lex disamb="1"><base>konkretny</base><ctag>adj:sg:acc:f:pos</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_konkretny">1</ann>
+    <ann chan="wsd_chodzić">0</ann>
+   </tok>
+   <tok>
+    <orth>pani</orth>
+    <lex disamb="1"><base>pani</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_konkretny">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+   </tok>
+   <tok>
+    <orth>chodzi</orth>
+    <lex disamb="1"><base>chodzić</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_konkretny">0</ann>
+    <ann chan="wsd_chodzić">1</ann>
+    <prop key="sense:wsd_chodzić">chodzić-13</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+    <ann chan="wsd_konkretny">0</ann>
+    <ann chan="wsd_chodzić">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch4">
+  <sentence id="sent4">
+   <tok>
+    <orth>tak</orth>
+    <lex disamb="1"><base>tak</base><ctag>adv:pos</ctag></lex>
+    <ann chan="wsd_stary">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+   </tok>
+   <tok>
+    <orth>o</orth>
+    <lex disamb="1"><base>o</base><ctag>prep:acc</ctag></lex>
+    <ann chan="wsd_stary">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+   </tok>
+   <tok>
+    <orth>o</orth>
+    <lex disamb="1"><base>o</base><ctag>prep:acc</ctag></lex>
+    <ann chan="wsd_stary">0</ann>
+    <ann chan="wsd_osoba">0</ann>
+   </tok>
+   <tok>
+    <orth>starszą</orth>
+    <lex disamb="1"><base>stary</base><ctag>adj:sg:acc:f:com</ctag></lex>
+    <ann chan="wsd_stary">1</ann>
+    <ann chan="wsd_osoba">0</ann>
+   </tok>
+   <tok>
+    <orth>osobę</orth>
+    <lex disamb="1"><base>osoba</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="wsd_stary">0</ann>
+    <ann chan="wsd_osoba">1</ann>
+    <prop key="sense:wsd_osoba">osoba-1</prop>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch5">
+  <sentence id="sent5">
+   <tok>
+    <orth>proszę</orth>
+    <lex disamb="1"><base>prosić</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="wsd_prosić">1</ann>
+    <prop key="sense:wsd_prosić">prosić-11</prop>
+   </tok>
+   <tok>
+    <orth>panią</orth>
+    <lex disamb="1"><base>pani</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+   </tok>
+   <tok>
+    <orth>jak</orth>
+    <lex disamb="1"><base>jak</base><ctag>adv:pos</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+   </tok>
+   <tok>
+    <orth>skończy</orth>
+    <lex disamb="1"><base>skończyć</base><ctag>fin:sg:ter:perf</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+   </tok>
+   <tok>
+    <orth>siedemdziesiąt</orth>
+    <lex disamb="1"><base>siedemdziesiąt</base><ctag>num:pl:acc:m3:rec</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+   </tok>
+   <tok>
+    <orth>lat</orth>
+    <lex disamb="1"><base>rok</base><ctag>subst:pl:gen:m3</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>conj</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+   </tok>
+   <tok>
+    <orth>można</orth>
+    <lex disamb="1"><base>można</base><ctag>pred</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+   </tok>
+   <tok>
+    <orth>dowód</orth>
+    <lex disamb="1"><base>dowód</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+   </tok>
+   <tok>
+    <orth>osobisty</orth>
+    <lex disamb="1"><base>osobisty</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+   </tok>
+   <tok>
+    <orth>jeździć</orth>
+    <lex disamb="1"><base>jeździć</base><ctag>inf:imperf</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+   </tok>
+   <tok>
+    <orth>bezpłatnie</orth>
+    <lex disamb="1"><base>bezpłatnie</base><ctag>adv:pos</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch6">
+  <sentence id="sent6">
+   <tok>
+    <orth>tylko</orth>
+    <lex disamb="1"><base>tylko</base><ctag>qub</ctag></lex>
+    <ann chan="keyword">0</ann>
+   </tok>
+   <tok>
+    <orth>dowód</orth>
+    <lex disamb="1"><base>dowód</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="keyword">1</ann>
+   </tok>
+   <tok>
+    <orth>osobisty</orth>
+    <lex disamb="1"><base>osobisty</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="keyword">1</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch7">
+  <sentence id="sent7">
+   <tok>
+    <orth>tak</orth>
+    <lex disamb="1"><base>tak</base><ctag>qub</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch8">
+  <sentence id="sent8">
+   <tok>
+    <orth>tak</orth>
+    <lex disamb="1"><base>tak</base><ctag>adv:pos</ctag></lex>
+    <ann chan="wsd_dziękować">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="wsd_dziękować">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+   <tok>
+    <orth>dziękuję</orth>
+    <lex disamb="1"><base>dziękować</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="wsd_dziękować">1</ann>
+    <ann chan="wsd_pan">0</ann>
+    <prop key="sense:wsd_dziękować">dziękować-1</prop>
+   </tok>
+   <tok>
+    <orth>panu</orth>
+    <lex disamb="1"><base>pan</base><ctag>subst:sg:dat:m1</ctag></lex>
+    <ann chan="wsd_dziękować">0</ann>
+    <ann chan="wsd_pan">1</ann>
+    <prop key="sense:wsd_pan">pan-2</prop>
+   </tok>
+   <tok>
+    <orth>ba</orth>
+    <lex disamb="1"><base>ba</base><ctag>qub</ctag></lex>
+    <ann chan="wsd_dziękować">0</ann>
+    <ann chan="wsd_pan">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch9">
+  <sentence id="sent9">
+   <tok>
+    <orth>proszę</orth>
+    <lex disamb="1"><base>prosić</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="wsd_prosić">1</ann>
+    <prop key="sense:wsd_prosić">prosić-11</prop>
+   </tok>
+   <tok>
+    <orth>bardzo</orth>
+    <lex disamb="1"><base>bardzo</base><ctag>adv:pos</ctag></lex>
+    <ann chan="wsd_prosić">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

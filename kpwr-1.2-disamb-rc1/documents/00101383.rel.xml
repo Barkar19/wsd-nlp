@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="creator" set="Semantic relations">
+   <from sent="sent3" chan="nam_org_organization">1</from>
+   <to sent="sent3" chan="nam_pro_title_document">1</to>
+  </rel>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent4" chan="nam_pro_title_document">1</from>
+   <to sent="sent4" chan="nam_pro_title_document">2</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent9" chan="nam_liv_person">1</from>
+   <to sent="sent9" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent3" chan="nam_pro_title_document">1</from>
+   <to sent="sent1" chan="nam_pro_title_document">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent6" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_pro_title_document">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent7" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_pro_title_document">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent11" chan="nam_pro_title_document">1</from>
+   <to sent="sent1" chan="nam_pro_title_document">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent12" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_pro_title_document">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent13" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_pro_title_document">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent14" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_pro_title_document">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent9" chan="nam_org_organization">1</from>
+   <to sent="sent3" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent12" chan="nam_org_organization">1</from>
+   <to sent="sent3" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent8" chan="nam_loc_gpe_country">2</from>
+   <to sent="sent8" chan="nam_loc_gpe_country">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent11" chan="nam_pro_title_document">1</from>
+   <to sent="sent3" chan="nam_pro_title_document">1</to>
+  </rel>
+</relations>

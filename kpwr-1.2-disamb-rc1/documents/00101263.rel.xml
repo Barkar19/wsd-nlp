@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent2" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_admin1">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent2" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_admin2">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent2" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent2" chan="nam_loc_country_region">1</to>
+  </rel>
+ <rel name="composition" set="Semantic relations">
+   <from sent="sent2" chan="nam_loc_gpe_admin2">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_admin1">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent5" chan="nam_liv_person">1</from>
+   <to sent="sent5" chan="nam_loc_gpe_admin1">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent13" chan="nam_fac_goe">1</from>
+   <to sent="sent13" chan="nam_org_institution">1</to>
+  </rel>
+ <rel name="alias" set="Semantic relations">
+   <from sent="sent13" chan="nam_fac_goe">1</from>
+   <to sent="sent14" chan="nam_fac_goe">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent14" chan="nam_fac_goe">2</from>
+   <to sent="sent14" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="neighbourhood" set="Semantic relations">
+   <from sent="sent14" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent14" chan="nam_loc_gpe_city">2</to>
+  </rel>
+ <rel name="neighbourhood" set="Semantic relations">
+   <from sent="sent15" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent15" chan="nam_loc_gpe_city">2</to>
+  </rel>
+ <rel name="neighbourhood" set="Semantic relations">
+   <from sent="sent15" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent15" chan="nam_loc_gpe_city">3</to>
+  </rel>
+ <rel name="neighbourhood" set="Semantic relations">
+   <from sent="sent15" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent15" chan="nam_loc_gpe_city">4</to>
+  </rel>
+ <rel name="neighbourhood" set="Semantic relations">
+   <from sent="sent15" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent15" chan="nam_loc_gpe_city">5</to>
+  </rel>
+ <rel name="neighbourhood" set="Semantic relations">
+   <from sent="sent15" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent15" chan="nam_loc_gpe_city">6</to>
+  </rel>
+ <rel name="neighbourhood" set="Semantic relations">
+   <from sent="sent15" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent15" chan="nam_loc_gpe_city">7</to>
+  </rel>
+ <rel name="neighbourhood" set="Semantic relations">
+   <from sent="sent15" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent15" chan="nam_loc_gpe_city">8</to>
+  </rel>
+ <rel name="neighbourhood" set="Semantic relations">
+   <from sent="sent15" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent15" chan="nam_loc_gpe_city">9</to>
+  </rel>
+ <rel name="neighbourhood" set="Semantic relations">
+   <from sent="sent21" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent21" chan="nam_loc_gpe_city">2</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent22" chan="nam_liv_person">1</from>
+   <to sent="sent22" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent22" chan="nam_liv_person">1</from>
+   <to sent="sent22" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent25" chan="nam_org_company">1</from>
+   <to sent="sent25" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent2" chan="nam_loc_country_region">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_admin1">1</to>
+  </rel>
+ <rel name="composition" set="Semantic relations">
+   <from sent="sent2" chan="nam_loc_gpe_admin3">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_admin2">1</to>
+  </rel>
+ <rel name="composition" set="Semantic relations">
+   <from sent="sent2" chan="nam_loc_gpe_admin3">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_admin1">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent21" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent15" chan="nam_loc_gpe_city">6</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent6" chan="anafora_wyznacznik">1</from>
+   <to sent="sent5" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent3" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent4" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent8" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent10" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent13" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent26" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent7" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent11" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent15" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent22" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent2" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent2" chan="nam_loc_gpe_city">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent16" chan="anafora_wyznacznik">1</from>
+   <to sent="sent13" chan="nam_fac_goe">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent18" chan="anafora_wyznacznik">1</from>
+   <to sent="sent13" chan="nam_fac_goe">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent20" chan="anafora_wyznacznik">1</from>
+   <to sent="sent13" chan="nam_fac_goe">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent14" chan="anafora_wyznacznik">1</from>
+   <to sent="sent13" chan="nam_fac_goe">1</to>
+  </rel>
+</relations>

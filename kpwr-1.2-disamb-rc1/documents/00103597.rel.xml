@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent4" chan="nam_liv_person">2</from>
+   <to sent="sent4" chan="nam_pro_media_periodic">3</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent1" chan="nam_eve_human_cultural">1</from>
+   <to sent="sent1" chan="nam_org_institution_full">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent4" chan="nam_pro_media_periodic">1</from>
+   <to sent="sent3" chan="nam_pro_media_periodic">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent4" chan="nam_pro_media_periodic">4</from>
+   <to sent="sent3" chan="nam_pro_media_periodic">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent6" chan="nam_liv_person">1</from>
+   <to sent="sent4" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent10" chan="nam_org_organization">1</from>
+   <to sent="sent5" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent11" chan="nam_org_organization">1</from>
+   <to sent="sent5" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent12" chan="nam_org_organization">1</from>
+   <to sent="sent5" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent3" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_eve_human_cultural">1</to>
+  </rel>
+</relations>

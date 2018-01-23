@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent1" chan="nam_liv_person">1</from>
+   <to sent="sent1" chan="nam_org_organization">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent1" chan="nam_eve_human">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent1" chan="nam_liv_person">1</from>
+   <to sent="sent1" chan="nam_eve_human">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent1" chan="nam_liv_person">1</from>
+   <to sent="sent1" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="affiliation" set="Semantic relations">
+   <from sent="sent7" chan="nam_pro_media_periodic">1</from>
+   <to sent="sent7" chan="nam_eve_human">1</to>
+  </rel>
+ <rel name="creator" set="Semantic relations">
+   <from sent="sent1" chan="nam_org_organization">1</from>
+   <to sent="sent1" chan="nam_eve_human">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent4" chan="nam_eve_human">1</from>
+   <to sent="sent1" chan="nam_eve_human">1</to>
+  </rel>
+ <rel name="coreference_pn" set="Coreference">
+   <from sent="sent7" chan="nam_eve_human">1</from>
+   <to sent="sent1" chan="nam_eve_human">1</to>
+  </rel>
+</relations>

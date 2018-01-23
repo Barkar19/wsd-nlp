@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="creator" set="Semantic relations">
+   <from sent="sent4" chan="nam_org_organization">1</from>
+   <to sent="sent4" chan="nam_eve_human">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent6" chan="nam_eve_human">1</from>
+   <to sent="sent6" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent6" chan="nam_eve_human">1</from>
+   <to sent="sent6" chan="nam_fac_goe">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent6" chan="nam_fac_goe">1</from>
+   <to sent="sent6" chan="nam_loc_gpe_city">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent6" chan="nam_fac_goe">2</from>
+   <to sent="sent6" chan="nam_fac_goe">1</to>
+  </rel>
+ <rel name="location" set="Semantic relations">
+   <from sent="sent6" chan="nam_eve_human">1</from>
+   <to sent="sent6" chan="nam_fac_goe">2</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent1" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_eve_human">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent3" chan="anafora_wyznacznik">1</from>
+   <to sent="sent1" chan="nam_eve_human">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent3" chan="anafora_wyznacznik">2</from>
+   <to sent="sent1" chan="nam_eve_human">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent5" chan="anafora_wyznacznik">1</from>
+   <to sent="sent4" chan="nam_eve_human">1</to>
+  </rel>
+ <rel name="coreference_agp" set="Coreference">
+   <from sent="sent6" chan="anafora_wyznacznik">1</from>
+   <to sent="sent4" chan="nam_eve_human">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent6" chan="anafora_wyznacznik">3</from>
+   <to sent="sent4" chan="nam_eve_human">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent6" chan="anafora_wyznacznik">2</from>
+   <to sent="sent4" chan="nam_eve_human">1</to>
+  </rel>
+</relations>

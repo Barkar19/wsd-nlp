@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<relations>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent35" chan="anafora_wyznacznik">1</from>
+   <to sent="sent34" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent35" chan="anafora_wyznacznik">2</from>
+   <to sent="sent34" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_pron" set="Coreference">
+   <from sent="sent35" chan="anafora_wyznacznik">3</from>
+   <to sent="sent34" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent2" chan="anafora_wyznacznik">2</from>
+   <to sent="sent2" chan="nam_liv_person">1</to>
+  </rel>
+ <rel name="coreference_zero" set="Coreference">
+   <from sent="sent3" chan="anafora_wyznacznik">1</from>
+   <to sent="sent2" chan="nam_liv_person">1</to>
+  </rel>
+</relations>
