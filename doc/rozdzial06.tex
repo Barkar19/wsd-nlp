@@ -1,0 +1,13 @@
+\chapter{Podsumowanie}
+\section{Wnioski}
+Zaproponowana metoda daje relatywnie dobre wyniki. Jakość obrazu wynikowego istotnie zależy od wstępnego dopasowania poszczególnych obrazów. Najlepsze efekty uzyskano dla serii obrazów o stałej ekspozycji albo bardzo dużych serii. Warto również zwrócić uwagę na problemy związane z dystorsją, które również mają wpływ na efekt końcowy. Dużym atutem zaproponowanego algorytmu jest prostota i szybkość implementacji.
+
+\section{Krytyka}
+Głównym mankamentem wykonanego projektu jest jego czas działania. Przetworzenie kilkuset zdjęć o średniej rozdzielczości zajmuje czas mierzony w minutach na średniej jakości sprzęcie. Głównym powodem powolnego przetwarzania jest wykonywanie obliczeń związanych z grafiką na procesorze, a nie na karcie graficznej.
+
+Inną wadą jest ubogi zestaw zaproponowanych funkcji. Ich działanie opiera się na prostej analizie statystycznej. Dodatkowo warto zauważyć, że zaproponowany algorytm zależy od wielu czynników (przestrzeń barw, kolejność funkcji, poszczególne parametry) co powoduje z jednej strony problemy w dostosowaniu do odpowiedniego obrazu, z drugiej jednak strony daje swego rodzaju swobodę w dostosowaniu algorytmu do danych wejściowych.
+
+\section{Dalszy rozwój}
+W dalszym rozwoju projektu warto zaimplementować więcej funkcji redukujących ilość pikseli z serii. Jest to bowiem kluczowy element zaproponowanego podejścia. Przykładowo mogą to być metody oparte o analizę histogramu albo analizę różnicową. Dopracowanie tego elementu znacznie może wpłynąć na jakość uzyskiwanych obrazów.
+
+Innym elementem wartym wspomnienia jest problem czasu wykonywania. Ze względu na dużą ilość danych, dla którego należy wykonać podobną sekwencję instrukcji idealnym rozwiązaniem wydaje się tu być wykorzystanie procesora graficznego, który został stworzony do tego typu zadań. Zrównoleglenie algorytmu na GPU znacząco przełoży się na czas wykonywania, możliwość wykorzystania bardziej skomplikowanych funkcji oraz może przyczynić się do efektywniejszego znajdowania optymalnych konfiguracji parametrów dla danej sekwencji obrazów. 

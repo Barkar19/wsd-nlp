@@ -1,0 +1,18 @@
+\chapter{Wstęp}
+\section{Opis problemu}
+Tytułowy problem składa się z kilku elementów. Jednym z głównych aspektów jest eliminacja obiektów występujących na części ujęć, nie należących do szeroko rozumianego tła. Drugim ważnym elementem jest dopasowanie zdjęć względem siebie. Zaproponowane rozwiązanie powinno bowiem być odporne na drobne ruchy kamery (zmiana pozycji, kąta widzenia itp.). 
+\section{Użyte komponenty}
+Do rozwiązania wyżej opisanego problemu użyto następujących bibliotek oraz komponentów.
+\subsubsection{OpenCV}
+Biblioteka implementująca szeroki zakres algorytmów z dziedzin grafiki komputerowej oraz przetwarzania obrazów. Została wykorzystana w projekcie ze względu na jej powszechność (co wiąże się z szybkim rozwiązywaniem problemów), dobrą dokumentację oraz implementację elementów składowych projektu - znajdowanie i deskrypcja punktów kluczowych, typy danych, zapis odczyt danych itp.
+\subsubsection{OpenCV-contrib}
+Rozszerzenie biblioteki OpenCV o dodatkowe elementy. Jednym z nich jest implementacja algorytmów SIFT oraz SURF, których użycie obok pozostałych deskryptorów( ORB, AKAZE i innych) było testowane podczas wykonywania projektu. 
+\subsubsection{Język C++}
+Jeden z najpopularniejszych języków programowania. Jego użycie motywowane było dobrą integracją z biblioteką OpenCV, wydajnością oraz aktualnym doświadczeniem autora projektu.
+\newpage
+\subsubsection{FFmpeg}
+Projekt otwarto źródłowy, który dostarcza szereg bibliotek i programów potrzebnych do obróbki plików multimedialnych. Jego użycie w projekcie było związane z pozyskiwaniem danych testowych oraz ich obróbką (konwersja plików, wycinanie fragmentów filmu, dzielnie filmu na poszczególne klatki itp.).
+\subsubsection{imagemagick}
+Zestaw programów służących do obróbki obrazów. Jego wykorzystanie było podyktowane potrzebą dokonywania szybkich operacji na serii obrazów wejściowych (np. zmiana rozdzielczości, wyinanie części obrazu itp.)
+\subsubsection{youtube-dl}
+Program konsolowy, który w prosty sposób pozwala na pobranie plików wideo z popularnych serwisów takich jak YouTube, Vimeo czy Dailymotion. Służył do pozyskiwania materiałów wideo - sekwencji obrazów - które były wejściem do algorytmu.
