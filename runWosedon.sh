@@ -4,6 +4,21 @@ cd wosedon/wosedon
 #wosedon -f ../../t1.ccl > ../../wosedon_result.xml
 #wosedon -f ../../kpwr-1.2-disamb-rc1/documents/00099883.xml > ../../wosedon_result.xml
 
+echo GTBetweenness
+wosedon -f ../../kpwr-1.2-disamb-rc1/documents/00101653.xml > ../../btw_00101653.xml
+wosedon -f ../../kpwr-1.2-disamb-rc1/documents/00101640.xml > ../../btw_00101640.xml
+wosedon -f ../../kpwr-1.2-disamb-rc1/documents/00101522.xml > ../../btw_00101522.xml
+wosedon -f ../../kpwr-1.2-disamb-rc1/documents/00101599.xml > ../../btw_00101599.xml
+wosedon -f ../../kpwr-1.2-disamb-rc1/documents/00101386.xml > ../../btw_00101386.xml
+
+echo GTPersonalizedPR
+sed -e "s/GTBetweenness/GTPersonalizedPR/" -i cfg/wosedon.ini
+wosedon -f ../../kpwr-1.2-disamb-rc1/documents/00101653.xml > ../../pr_00101653.xml
+wosedon -f ../../kpwr-1.2-disamb-rc1/documents/00101640.xml > ../../pr_00101640.xml
+wosedon -f ../../kpwr-1.2-disamb-rc1/documents/00101522.xml > ../../pr_00101522.xml
+wosedon -f ../../kpwr-1.2-disamb-rc1/documents/00101599.xml > ../../pr_00101599.xml
+wosedon -f ../../kpwr-1.2-disamb-rc1/documents/00101386.xml > ../../pr_00101386.xml
+
 #echo GTBetweenness
 #wosedon -f ../../t1.ccl >../../btw.xml
 
