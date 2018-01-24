@@ -1,36 +1,28 @@
-\chapter{Komponenty projektu}
-\section{Skrypty pomocnicze}
-Na potrzeby projektowe zrealizowano kilka  skryptów pomocniczych, które realizują akwizycję danych testowych. Poniżej przedstawiono krótki opis każdego z nich.
-\begin{itemize}
-\item youtube.sh - pobieranie zadanego filmu z Internetu
-\item split-into-frames.sh - dzielenie pliku multimedialnego na osobne klatki
-\item movie-cut.sh - wycinanie fragmentu filmu z całości
-\item tile.sh - układanie obrazów w mozaikę (na potrzeby niniejszego dokumentu)
-\end{itemize}
-\section{Program}
-Program wykonujący algorytm opisany w \ref{algo} jest programem konsolowym, który przyjmuje następujące argumenty:
-\begin{itemize}
-\item help,h - wyświetlenie pomocy
-\item input,i - lokalizacja pliku wejściowego lub folderu z sekwencją zdjęć
-\item config,c - lokalizacja pliku konfiguracji algorytmu
-\item output,o - nazwa pliku wyjściowego
-\item verbose,v - wyświetlanie informacji związanych z przetwarzaniem
-\end{itemize}
-\newpage
-\section{Plik konfiguracyjny XML}
-Program działa na podstawie pliku konfiguracyjnego w postaci xml, który zawiera informacje o procesie przetwarzania. Poniżej przedstawiono opis znaczników w  tymże pliku.
-\begin{itemize}
-\item <config> - znacznik główny
-\item <preprocessing> - znacznik operacji wykonywanych przed rozpoczęciem głównego algorytmu. W jego ramach znajdują się:
-\begin{itemize}
-\item <resize> - dokonanie zmianu rozmiaru obrazu (atrybut 'value' o wartości rzeczywistej - skali).
-\item <match> - wykonanie dopasowania zdjęć względem siebie (atrybut 'value' o wartościach true/false)
-\item <colorspace> - wybór przestrzeni kolorów (atrybut 'value' o wartościach bgr/hls)
-\end{itemize}
-\item <processing> - znacznik zawierający opis przetwarzania serii pikseli. W jego ramach znajdują się wyłącznie znaczniki <function>
-\item <function> zawierające kolejno funkcje w potoku. Zawiera następujące atrybuty:
-\begin{itemize}
-\item atrybut 'size' - wielkość rozpatrywanego podzbioru pikseli na którym wykonywana będzie funkcja
-\item atrybut 'parameter' - opcjonalny parametr dla danej funkcji
-\end{itemize}
-\end{itemize}
+\chapter{Eksperymenty}
+\section{Metodologia}
+Testy przeprowadzono przy użyciu skryptu zawartego w repozytorium wosedona. Skrypt \verb|evaluation-kpwr.py| wymaga do swojego działania połączenia z bazą danych Słowosieci. Na wejście skryptu podawany jest wcześniej przetworzony przez wosedon, anotowany tekst. Wymóg anotowanego tekstu jest spowodowany tym, że musi istnieć podstawa, na której zostanie określona poprawność ujednoznaczniania. Testy wykonano na wybranych wcześniej pięciu plikach, które zawierają najwięcej wieloznacznych wyrazów, tak aby pliki wynikowe miały jak najwięcej przetworzonych wyrazów. Każdy z siedmiu zaimplementowanych algorytmów został uruchomiony na tych pięciu plikach i już zbiorczo oznaczono ilość poprawnie ujednoznacznionych wyrazów. Do usprawnienia testowania implementacji posłużono się trzema skryptami: \verb|runDocker| - uruchamiający kontener Dockera, \verb|runWosedon| uruchamiający wosedon na kolejnych algorytmach na wszystkich wybranych plikach oraz \verb|runTests|, który przetwarzał wyniki poprzedniego skryptu i oznaczał poprawnie ujednoznacznione wyrazy.
+\section{Wyniki}
+Poniżej przedstawiono wyniki przeprowadzonych eksperymentów. 
+
+\begin{table}[H]
+\centering
+\caption{My caption}
+\label{my-label}
+\begin{tabular}{llll}
+Nazwa           & Ilość poprawnych & Ilość niejednoznacznych & Dokładność \\
+PageRank        & 39               & 145                     & 0.269      \\
+Betweenness     & 61               & 145                     & 0.421      \\
+Closeness       & 47               & 145                     & 0.324      \\
+Eigenvector     & 44               & 145                     & 0.303      \\
+Katz            & 43               & 145                     & 0.297      \\
+Hits(Authority) & 45               & 145                     & 0.310      \\
+Hits(Hubs)      & 43               & 145                     & 0.297     
+\end{tabular}
+\end{table}
+
+\begin{figure}[H]
+	\centering
+		\includegraphics[width=0.75\linewidth]{img/results.png}
+	\caption[Wyniki poszczególnych metod.]{Wyniki poszczególnych metod.}
+	\label{fig:binary}
+\end{figure}
