@@ -47,7 +47,7 @@ ADD ./runTests.sh /home/user/runTests.sh
 RUN chmod +x /home/user/runTests.sh
 ADD ./output /home/user/output
 ADD ./kpwr-1.2-disamb-rc1 /home/user/kpwr-1.2-disamb-rc1
-
+RUN apt-get update
 RUN apt-get -y install python-mysqldb vim
 ADD ./npsemrel /home/user/npsemrel
 RUN chmod +x /home/user/npsemrel/setup.py
