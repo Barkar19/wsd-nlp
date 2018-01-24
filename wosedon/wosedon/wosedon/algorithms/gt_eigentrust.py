@@ -91,9 +91,6 @@ class GTEigentrust(WSDAlgorithmInterface):
     @param norm=True   Whether or not the betweenness values should be normalized.
 
     """
-    print("************************************************************************************")
-    
-
     gtGraph = graph.use_graph_tool()
     print("Graph size: " + str(gtGraph.num_vertices))
     pers_v = self.prepare_v(wsd_context, graph)
@@ -108,7 +105,6 @@ class GTEigentrust(WSDAlgorithmInterface):
     max_array = np.percentile(array, 90)
     bool_array = array >= max_array
 
-    #array.astype(bool)
     ranking.a = bool_array
     print "Number vertices: " + str(gtGraph.num_vertices()) + "\n"
     propMap = gtGraph.new_vertex_property("bool", bool_array)
@@ -125,7 +121,6 @@ class GTEigentrust(WSDAlgorithmInterface):
     print "vertex_trust size: " + str(vertex_trust.get_array().size)
 
     vertex_trust = graph.ungraph_tool(vertex_trust)
-    #edge_betweenness = graph.ungraph_tool(edge_betweenness)
     print "vertex_trust after ungraph: " + str(type(vertex_trust)) + " " + str(len(vertex_trust)) 
 
 

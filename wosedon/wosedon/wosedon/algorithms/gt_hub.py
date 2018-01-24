@@ -91,11 +91,8 @@ class GTHub(WSDAlgorithmInterface):
     @param norm=True   Whether or not the betweenness values should be normalized.
 
     """
-#    print("************************************************************************************")
-    
 
     gtGraph = graph.use_graph_tool()
-#    print("Graph size: " + str(gtGraph.num_vertices))
     pers_v = self.prepare_v(wsd_context, graph)
     (ranking, ret_iter) = pagerank(gtGraph, 
                                    pers = pers_v, 
@@ -108,26 +105,17 @@ class GTHub(WSDAlgorithmInterface):
     max_array = np.percentile(array, 90)
     bool_array = array >= max_array
 
-    #array.astype(bool)
     ranking.a = bool_array
-#    print "Number vertices: " + str(gtGraph.num_vertices()) + "\n"
     propMap = gtGraph.new_vertex_property("bool", bool_array)
     gtGraph.set_vertex_filter(propMap)
-#    print "type of gtGraph: " + str(type(gtGraph))
-#    print "Number vertices: " + str(gtGraph.num_vertices()) + "\n"
     (_,__, vertex_hub) = hits(gtGraph, 
                                    #pers = pers_v,                       
                                    #max_iter = 2 * options.max_iter(),
                                    #damping = options.damping_factor(),
                                    #ret_iter = True,
                                    weight = gtGraph.ep["weight"])
-#    print "vertex_hub size: " + str(vertex_hub.get_array().size)
 
     vertex_hub = graph.ungraph_tool(vertex_hub)
-    #edge_betweenness = graph.ungraph_tool(edge_betweenness)
-#    print "vertex_hub after ungraph: " + str(type(vertex_hub)) + " " + str(len(vertex_hub)) 
-
-
 
     for (lemma, pos_str) in lemma_on_only_synset_node_dict.iterkeys():
       wsd_rank.set_ranking_for_lemma(lemma, pos_str, vertex_hub)
