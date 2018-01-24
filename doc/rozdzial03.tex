@@ -1,37 +1,19 @@
-\chapter{Dane}
-\section{Charakterystyka}
-Dane pozyskane do eksperymentów pochodziły z ogólnodostępnych portali takich jak YouTube. Wybór sekwencji wideo dokonano tak, aby realizowany algorytm jak najlepiej spełniał swoje funkcje. W tym celu starano się spełnić następujące ograniczenia:
-\begin{itemize}
-\item Ujęcia pochodzące kamery, której pozycja nie zmienia się w dużym stopniu w czasie. Aczkolwiek możliwe są jej obroty o dowolny kąt.
-\item Ujęcia z dużą ilością elementów poruszających się tj. samochody, piesi, statki itp.
-\item Ujęcia ruchome o możliwie niskiej dystorsji soczewki (zaproponowane rozwiązanie całkowicie pomija to zagadnienie)
-\end{itemize}
-\section{Przykłady} \label{samples}
+\chapter{Opis metody}
+\section{Oryginalna metoda - Personalized PageRank}
 
-\begin{figure}[H]
-	\centering
-		\includegraphics[width=0.75\linewidth]{img/ski_cuted_frames_tile.png}
-	\caption[Sekwencja zdjęć 'ski'.]{Przykładowa sekwencja zdjęć 'ski'.}
-	\label{fig:binary}
-\end{figure}
+Słowosieć stosowana jako model języka w programie Wosedon oryginalnie miała postać grafu synsetów. Metoda, która służyła do ujednoznaczniania wyrazów w zdaniu opierała się na zmodyfikowanej wersji PageRank (Personalized PageRank). Można ją w skrócie przedstawić następująco:
+\begin{enumerate}
+	\item Każdemu węzłowi w sieci przypisz początkową wagę PageRank równą 0.
+	\item Dla każdego słowa w tekście wejściowym wylicz początkową wagę i przypisz ją do synsetów zawierających to słowo.
+	\item Uruchom algorytm PageRank, kryterium stopu - określona liczba iteracji lub brak znaczącej poprawy wartości.
+	\item Do każdego słowa z tekstu wejściowego przypisz synset z najwyższą wagą.
+\end{enumerate}
 
-\begin{figure}[H]
-	\centering
-		\includegraphics[width=0.75\linewidth]{img/roundabout_frames_tile.png}
-	\caption[Sekwencja zdjęć 'roundabout'.]{Przykładowa sekwencja zdjęć 'roundabout'.}
-	\label{fig:binary}
-\end{figure}
+\section{Modyfikacja - dodanie alternatywnych miar centralności}
+Podejście zastosowane przez autorów polegało na zastąpieniu algorytmu PageRank w powyższej metodzie którąś z pozostałych miar centralności. Na pierwszy ogień poszedł betweenness. W tym momencie pojawiły problemy. PageRank dzięki możliwości zdefiniowania kryterium stopu nie posiadał znaczącej złożoności obliczeniowej i wykonywał się dość szybko. Betweenness natomiast takiego kryterium nie posiada. Jak to było opisane wcześniej, wymaga on wyznaczenia najkrótszej ścieżki pomiędzy każdą parą węzłów. W przypadku grafu Słowosieci, która posiada ich około 150 tysięcy, czas wykonywania się algorytmu przekraczał znacząco uzasadnioną praktycznie wartość.
 
-\begin{figure}[H]
-	\centering
-		\includegraphics[width=0.75\linewidth]{img/warsaw_cuted_frames_tile.png}
-	\caption[Sekwencja zdjęć 'warsaw'.]{Przykładowa sekwencja zdjęć 'warsaw'.}
-	\label{fig:binary}
-\end{figure}
+W związku z powyższym konieczne okazało się ograniczenie wielkości grafu. Autorzy po przemyśleniach zdecydowali się na wykorzystanie wyniku algorytmu PageRank. Graf z przypisanymi wartościami PageRank odfiltrowano - pozostawiono tylko te węzły, których wartość była większa od 90 percentyla wszystkich wartości. W praktyce oznaczało to pozostawienie 10\% oryginalnych węzłów. Taka ilość okazała się odpowiednia i możliwa do przetworzenia przez betweenness w stosunkowo krótkim czasie.
 
-\begin{figure}[H]
-	\centering
-		\includegraphics[width=0.75\linewidth]{img/istanbul_cuted_frames_tile.png}
-	\caption[Sekwencja zdjęć 'istanbul'.]{Przykładowa sekwencja zdjęć 'istanbul'.}
-	\label{fig:binary}
-\end{figure}
+Pojawił się następny problem. Słowosieć zawiera przede wszystkim związki hiperonimiczne, co oznacza, że graf ten jest właściwie drzewem. Po odfiltrowaniu części węzłów złamana została spójność grafu, czego większość miar centralności nie akceptuje. Autorzy mieli więc dwa wyjścia - albo sztucznie zapewnić spójność grafu (np. budując minimalne drzewo rozpinające) albo spróbować zwiększyć liczbę połączeń poziomych, których w oryginalnym grafie było jak na lekarstwo. Pierwsze podejście nie zdobyło uznania autorów, ponieważ połączenia utworzone w ten sposób nie niosły by żadnych wartości. Pojawiła się natomiast alternatywa w postaci WordNet Domains. Domeny grupują synsety w zbiory o określonych cechach wspólnych, mogą to być przykładowo instancje obszarów wiedzy (Sport, Sztuka, Ekonomia), w skrócie pewne kategorie semantyczne. Na tej podstawie w grafie powstaje wiele dodatkowych połączeń poziomych, które uzupełniają istniejące pionowe związki hipernonimiczne. Dane o domenach pochodzące z angielskiej wersji WordNet i zmapowane na wersję polską dodano do grafu na którym dokonywano pomiarów. Badania wykazały, że zapewniło to wystarczającą liczbę połączeń i algorytmy miary centralności liczyły się poprawnie.
+
+Na tak odfiltrowanym i wzbogaconym grafie przeprowadzono pomiary skuteczności algorytmów.
